@@ -1,0 +1,366 @@
+{
+  "titulo": "Nightcall",
+  "artista": "Kavinsky",
+  "arquivo_audio": "audio.mp3",
+  "linhas": [
+    {
+      "tempo": 31.08,
+      "fr": "I'm giving you a night call to tell you how I feel (We'll go all, all, all night long)",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 43.54,
+      "fr": "I want to drive you through the night, down the hills (We'll go all, all, all night long)",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 53.51,
+      "fr": "I'm gonna tell you something you don't want to hear (We'll go all, all, all night long)",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 63.57,
+      "fr": "I'm gonna show you where it's dark, but have no fear (We'll go all, all, all night long)",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 75.52,
+      "fr": "There's something inside you",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 81.02,
+      "fr": "It's hard to explain",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 86.04,
+      "fr": "They're talking about you, boy",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 91.06,
+      "fr": "But you're still the same",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 96.57,
+      "fr": "There's something inside you",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 102.09,
+      "fr": "It's hard to explain",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 107.08,
+      "fr": "They're talking about you, boy",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 112.02,
+      "fr": "But you're still the same",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 116.02,
+      "fr": "I'm giving you a night call to tell you how I feel (We'll go all, all, all night long)",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 127.58,
+      "fr": "I want to drive you through the night, down the hills (We'll go all, all, all night long)",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 137.58,
+      "fr": "I'm gonna tell you something you don't want to hear (We'll go all, all, all night long)",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 148.0,
+      "fr": "I'm gonna show you where it's dark, but have no fear (We'll go all, all, all night long)",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 160.0,
+      "fr": "There's something inside you",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 165.06,
+      "fr": "It's hard to explain",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 170.03,
+      "fr": "They're talking about you, boy",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 175.56,
+      "fr": "But you're still the same",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 181.02,
+      "fr": "There's something inside you",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 186.05,
+      "fr": "It's hard to explain",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 191.05,
+      "fr": "They're talking about you boy",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 197.08,
+      "fr": "But you're still the same",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 201.57,
+      "fr": "There's something inside you (there's something inside you)",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 208.06,
+      "fr": "It's hard to explain",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 211.57,
+      "fr": "(It's hard to explain)",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 213.06,
+      "fr": "They're talking about you boy",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 216.52,
+      "fr": "(They're talking about you boy)",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 218.51,
+      "fr": "But you're still the same",
+      "pt": "",
+      "en": ""
+    }
+  ],
+  "vocabulario": {
+    "i'm": {
+      "pt": "",
+      "en": ""
+    },
+    "giving": {
+      "pt": "",
+      "en": ""
+    },
+    "you": {
+      "pt": "",
+      "en": ""
+    },
+    "a": {
+      "pt": "",
+      "en": ""
+    },
+    "night": {
+      "pt": "",
+      "en": ""
+    },
+    "call": {
+      "pt": "",
+      "en": ""
+    },
+    "to": {
+      "pt": "",
+      "en": ""
+    },
+    "tell": {
+      "pt": "",
+      "en": ""
+    },
+    "how": {
+      "pt": "",
+      "en": ""
+    },
+    "i": {
+      "pt": "",
+      "en": ""
+    },
+    "feel": {
+      "pt": "",
+      "en": ""
+    },
+    "we'll": {
+      "pt": "",
+      "en": ""
+    },
+    "go": {
+      "pt": "",
+      "en": ""
+    },
+    "all": {
+      "pt": "",
+      "en": ""
+    },
+    "long": {
+      "pt": "",
+      "en": ""
+    },
+    "want": {
+      "pt": "",
+      "en": ""
+    },
+    "drive": {
+      "pt": "",
+      "en": ""
+    },
+    "through": {
+      "pt": "",
+      "en": ""
+    },
+    "the": {
+      "pt": "",
+      "en": ""
+    },
+    "down": {
+      "pt": "",
+      "en": ""
+    },
+    "hills": {
+      "pt": "",
+      "en": ""
+    },
+    "gonna": {
+      "pt": "",
+      "en": ""
+    },
+    "something": {
+      "pt": "",
+      "en": ""
+    },
+    "don't": {
+      "pt": "",
+      "en": ""
+    },
+    "hear": {
+      "pt": "",
+      "en": ""
+    },
+    "show": {
+      "pt": "",
+      "en": ""
+    },
+    "where": {
+      "pt": "",
+      "en": ""
+    },
+    "it's": {
+      "pt": "",
+      "en": ""
+    },
+    "dark": {
+      "pt": "",
+      "en": ""
+    },
+    "but": {
+      "pt": "",
+      "en": ""
+    },
+    "have": {
+      "pt": "",
+      "en": ""
+    },
+    "no": {
+      "pt": "",
+      "en": ""
+    },
+    "fear": {
+      "pt": "",
+      "en": ""
+    },
+    "there's": {
+      "pt": "",
+      "en": ""
+    },
+    "inside": {
+      "pt": "",
+      "en": ""
+    },
+    "hard": {
+      "pt": "",
+      "en": ""
+    },
+    "explain": {
+      "pt": "",
+      "en": ""
+    },
+    "they're": {
+      "pt": "",
+      "en": ""
+    },
+    "talking": {
+      "pt": "",
+      "en": ""
+    },
+    "about": {
+      "pt": "",
+      "en": ""
+    },
+    "boy": {
+      "pt": "",
+      "en": ""
+    },
+    "you're": {
+      "pt": "",
+      "en": ""
+    },
+    "still": {
+      "pt": "",
+      "en": ""
+    },
+    "same": {
+      "pt": "",
+      "en": ""
+    }
+  },
+  "ordem": 31
+}

@@ -1,0 +1,907 @@
+{
+  "titulo": "Bruxelles je t’aime",
+  "artista": "Angèle",
+  "arquivo_audio": "audio.mp3",
+  "linhas": [
+    {
+      "tempo": 0.14,
+      "fr": "On n'a pas les tours de New York",
+      "pt": "Não temos as torres de Nova York",
+      "en": "We don't have the towers of New York"
+    },
+    {
+      "tempo": 3.68,
+      "fr": "On n'a pas de lumière du jour, 6 mois dans l'année",
+      "pt": "Não temos luz do dia durante 6 meses do ano",
+      "en": "We don't have daylight for 6 months of the year"
+    },
+    {
+      "tempo": 9.14,
+      "fr": "On n'a pas Beaubourg ni la Seine",
+      "pt": "Não temos Beaubourg ou Sena",
+      "en": "We don't have Beaubourg or the Seine"
+    },
+    {
+      "tempo": 12.51,
+      "fr": "On n'est pas la ville de l'amour, mais bon vous voyez",
+      "pt": "Nós não somos a cidade do amor, mas ei, você vê",
+      "en": "We are not the city of love, but hey you see"
+    },
+    {
+      "tempo": 18.87,
+      "fr": "Et sûrement que dès ce soir le ciel couvrira une tempête",
+      "pt": "E certamente a partir desta noite o céu cobrirá uma tempestade",
+      "en": "And surely from this evening the sky will cover a storm"
+    },
+    {
+      "tempo": 27.52,
+      "fr": "Mais après l'orage avec des bières, les gens feront la fête",
+      "pt": "Mas depois da tempestade com cervejas o povo vai festejar",
+      "en": "But after the storm with beers, people will party"
+    },
+    {
+      "tempo": 36.42,
+      "fr": "Bruxelles je t'aime, Bruxelles je t'aime",
+      "pt": "Bruxelas eu te amo, Bruxelas eu te amo",
+      "en": "Brussels I love you, Brussels I love you"
+    },
+    {
+      "tempo": 39.64,
+      "fr": "Tu m'avais manqué",
+      "pt": "Senti a sua falta",
+      "en": "I missed you"
+    },
+    {
+      "tempo": 40.96,
+      "fr": "Bruxelles je t'aime, Bruxelles je t'aime",
+      "pt": "Bruxelas eu te amo, Bruxelas eu te amo",
+      "en": "Brussels I love you, Brussels I love you"
+    },
+    {
+      "tempo": 44.17,
+      "fr": "T'es ma préférée",
+      "pt": "Você é meu favorito",
+      "en": "You are my favorite"
+    },
+    {
+      "tempo": 45.49,
+      "fr": "Bruxelles je t'aime, Bruxelles je t'aime",
+      "pt": "Bruxelas eu te amo, Bruxelas eu te amo",
+      "en": "Brussels I love you, Brussels I love you"
+    },
+    {
+      "tempo": 48.48,
+      "fr": "Tu m'avais manqué",
+      "pt": "Senti a sua falta",
+      "en": "I missed you"
+    },
+    {
+      "tempo": 49.82,
+      "fr": "T'es la plus belle, oui t'es la plus belle",
+      "pt": "Você é a mais linda, sim, você é a mais linda",
+      "en": "You are the most beautiful, yes you are the most beautiful"
+    },
+    {
+      "tempo": 55.42,
+      "fr": "Paris m'appelle quand je veux rentrer chez moi",
+      "pt": "Paris me liga quando quero ir para casa",
+      "en": "Paris calls me when I want to go home"
+    },
+    {
+      "tempo": 59.68,
+      "fr": "Quand le ciel gris et la pluie me manquent, je vais mieux quand je te vois",
+      "pt": "Quando sinto falta do céu cinzento e da chuva, me sinto melhor quando vejo você",
+      "en": "When I miss the gray skies and the rain, I feel better when I see you"
+    },
+    {
+      "tempo": 64.38,
+      "fr": "Les villes sont belles mais moi je ne pense qu'à toi",
+      "pt": "As cidades são lindas, mas eu só penso em você",
+      "en": "Cities are beautiful but I only think of you"
+    },
+    {
+      "tempo": 68.51,
+      "fr": "Quand mon pays et ma ville me manquent, moi je ne t'oublie pas",
+      "pt": "Quando sinto falta do meu país e da minha cidade, não esqueço de você",
+      "en": "When I miss my country and my city, I don't forget you"
+    },
+    {
+      "tempo": 73.4,
+      "fr": "On n'a pas la plus longue de toutes les histoires",
+      "pt": "Não temos a mais longa de todas as histórias",
+      "en": "We don't have the longest of all stories"
+    },
+    {
+      "tempo": 78.06,
+      "fr": "On le sait on n'a pas toujours gagné",
+      "pt": "Sabemos que nem sempre ganhamos",
+      "en": "We know we haven't always won"
+    },
+    {
+      "tempo": 81.43,
+      "fr": "Et d'habitude, j'ai l'attitude, même si c'est dur, de garder espoir",
+      "pt": "E normalmente, tenho a atitude, mesmo que seja difícil, de manter a esperança",
+      "en": "And usually, I have the attitude, even if it's hard, to keep hope"
+    },
+    {
+      "tempo": 87.16,
+      "fr": "Quand on n'est pas les premiers",
+      "pt": "Quando não somos os primeiros",
+      "en": "When we are not the first"
+    },
+    {
+      "tempo": 89.92,
+      "fr": "Les Marolles, Flagey, Saint-Gilles, Laeken à qui je dois mon nom",
+      "pt": "Les Marolles, Flagey, Saint-Gilles, Laeken a quem devo meu nome",
+      "en": "Les Marolles, Flagey, Saint-Gilles, Laeken to whom I owe my name"
+    },
+    {
+      "tempo": 98.75,
+      "fr": "Bruxelles je t'aime, Bruxelles je t'aime",
+      "pt": "Bruxelas eu te amo, Bruxelas eu te amo",
+      "en": "Brussels I love you, Brussels I love you"
+    },
+    {
+      "tempo": 101.75,
+      "fr": "Tu m'avais manqué",
+      "pt": "Senti a sua falta",
+      "en": "I missed you"
+    },
+    {
+      "tempo": 103.38,
+      "fr": "Bruxelles je t'aime, Bruxelles je t'aime",
+      "pt": "Bruxelas eu te amo, Bruxelas eu te amo",
+      "en": "Brussels I love you, Brussels I love you"
+    },
+    {
+      "tempo": 106.27,
+      "fr": "T'es ma préférée",
+      "pt": "Você é meu favorito",
+      "en": "You are my favorite"
+    },
+    {
+      "tempo": 107.76,
+      "fr": "Bruxelles je t'aime, Bruxelles je t'aime",
+      "pt": "Bruxelas eu te amo, Bruxelas eu te amo",
+      "en": "Brussels I love you, Brussels I love you"
+    },
+    {
+      "tempo": 110.67,
+      "fr": "Tu m'avais manqué",
+      "pt": "Senti a sua falta",
+      "en": "I missed you"
+    },
+    {
+      "tempo": 112.26,
+      "fr": "T'es la plus belle, oui, t'es la plus belle",
+      "pt": "Você é a mais linda, sim, você é a mais linda",
+      "en": "You are the most beautiful, yes, you are the most beautiful"
+    },
+    {
+      "tempo": 117.52,
+      "fr": "Paris m'appelle quand je veux rentrer chez moi",
+      "pt": "Paris me liga quando quero ir para casa",
+      "en": "Paris calls me when I want to go home"
+    },
+    {
+      "tempo": 121.91,
+      "fr": "Quand le ciel gris et la pluie me manquent, je vais mieux quand j'te vois",
+      "pt": "Quando sinto falta do céu cinzento e da chuva, me sinto melhor quando vejo você",
+      "en": "When I miss the gray sky and the rain, I feel better when I see you"
+    },
+    {
+      "tempo": 126.55,
+      "fr": "Les villes sont belles mais moi je ne pense qu'à toi",
+      "pt": "As cidades são lindas, mas eu só penso em você",
+      "en": "Cities are beautiful but I only think of you"
+    },
+    {
+      "tempo": 130.84,
+      "fr": "Quand mon pays et ma ville me manquent, moi, je ne t'oublie pas",
+      "pt": "Quando sinto falta do meu país e da minha cidade, não esqueço de você",
+      "en": "When I miss my country and my city, I don't forget you"
+    },
+    {
+      "tempo": 134.98,
+      "fr": "Et si un jour elle se sépare et qu'on ait à choisir un camp",
+      "pt": "E se um dia ela terminar e tivermos que escolher um lado",
+      "en": "What if one day she breaks up and we have to choose a side"
+    },
+    {
+      "tempo": 139.35,
+      "fr": "Ce serait le pire des cauchemars, tout ça pour une histoire de langue",
+      "pt": "Seria o pior pesadelo, tudo por uma questão de linguagem",
+      "en": "It would be the worst nightmare, all for a language thing"
+    },
+    {
+      "tempo": 143.69,
+      "fr": "J'ai vécu mes plus belles histoires en français et en flamand",
+      "pt": "Vivi minhas mais belas histórias em francês e flamengo",
+      "en": "I lived my most beautiful stories in French and Flemish"
+    },
+    {
+      "tempo": 148.12,
+      "fr": "Laat mij het zeggen in het Vlaams, dank u Brussel voor mijn naam",
+      "pt": "Agora que está na região flamenga, é em Bruxelas que você está aqui",
+      "en": "Now that it is in the Flemish region, it is in Brussels that you are here"
+    },
+    {
+      "tempo": 152.68,
+      "fr": "Et si un jour, elle se sépare et qu'on ait à choisir un camp",
+      "pt": "E se um dia ela terminar e tivermos que escolher um lado",
+      "en": "What if one day she breaks up and we have to choose a side"
+    },
+    {
+      "tempo": 157.03,
+      "fr": "Ce serait le pire des cauchemars, tout ça pour une histoire de langue",
+      "pt": "Seria o pior pesadelo, tudo por uma questão de linguagem",
+      "en": "It would be the worst nightmare, all for a language thing"
+    },
+    {
+      "tempo": 161.58,
+      "fr": "J'ai vécu mes plus belles histoires en français et en flamand",
+      "pt": "Vivi minhas mais belas histórias em francês e flamengo",
+      "en": "I lived my most beautiful stories in French and Flemish"
+    },
+    {
+      "tempo": 166.05,
+      "fr": "Laat mij het zeggen in het Vlaams, dank u Brussel",
+      "pt": "Laat mij het zeggen in het Vlaams, dank u Bruxelas",
+      "en": "Laat mij het zeggen in het Vlaams, dank u Brussel"
+    },
+    {
+      "tempo": 169.83,
+      "fr": "Bruxelles je t'aime, Bruxelles je t'aime",
+      "pt": "Bruxelas eu te amo, Bruxelas eu te amo",
+      "en": "Brussels I love you, Brussels I love you"
+    },
+    {
+      "tempo": 172.87,
+      "fr": "Tu m'avais manqué",
+      "pt": "Senti a sua falta",
+      "en": "I missed you"
+    },
+    {
+      "tempo": 174.37,
+      "fr": "Bruxelles je t'aime, Bruxelles je t'aime",
+      "pt": "Bruxelas eu te amo, Bruxelas eu te amo",
+      "en": "Brussels I love you, Brussels I love you"
+    },
+    {
+      "tempo": 177.55,
+      "fr": "T'es ma préférée",
+      "pt": "Você é meu favorito",
+      "en": "You are my favorite"
+    },
+    {
+      "tempo": 178.76,
+      "fr": "Bruxelles je t'aime, Bruxelles je t'aime",
+      "pt": "Bruxelas eu te amo, Bruxelas eu te amo",
+      "en": "Brussels I love you, Brussels I love you"
+    },
+    {
+      "tempo": 181.86,
+      "fr": "Tu m'avais manqué",
+      "pt": "Senti a sua falta",
+      "en": "I missed you"
+    },
+    {
+      "tempo": 183.35,
+      "fr": "T'es la plus belle, oui, t'es la plus belle",
+      "pt": "Você é a mais linda, sim, você é a mais linda",
+      "en": "You are the most beautiful, yes, you are the most beautiful"
+    },
+    {
+      "tempo": 188.86,
+      "fr": "Paris m'appelle quand je veux rentrer chez moi",
+      "pt": "Paris me liga quando quero ir para casa",
+      "en": "Paris calls me when I want to go home"
+    },
+    {
+      "tempo": 192.92,
+      "fr": "Quand le ciel gris et la pluie me manquent, je vais mieux quand j'te vois",
+      "pt": "Quando sinto falta do céu cinzento e da chuva, me sinto melhor quando vejo você",
+      "en": "When I miss the gray sky and the rain, I feel better when I see you"
+    },
+    {
+      "tempo": 197.69,
+      "fr": "Les villes sont belles mais moi je ne pense qu'à toi",
+      "pt": "As cidades são lindas, mas eu só penso em você",
+      "en": "Cities are beautiful but I only think of you"
+    },
+    {
+      "tempo": 201.73,
+      "fr": "Quand mon pays et ma ville me manquent, moi, je ne t'oublie pas",
+      "pt": "Quando sinto falta do meu país e da minha cidade, não esqueço de você",
+      "en": "When I miss my country and my city, I don't forget you"
+    },
+    {
+      "tempo": 206.55,
+      "fr": "Paris m'appelle quand je veux rentrer chez moi",
+      "pt": "Paris me liga quando quero ir para casa",
+      "en": "Paris calls me when I want to go home"
+    },
+    {
+      "tempo": 210.64,
+      "fr": "Quand le ciel gris et la pluie me manquent, je vais mieux quand j'te vois",
+      "pt": "Quando sinto falta do céu cinzento e da chuva, me sinto melhor quando vejo você",
+      "en": "When I miss the gray sky and the rain, I feel better when I see you"
+    },
+    {
+      "tempo": 215.38,
+      "fr": "Les villes sont belles mais moi je ne pense qu'à toi",
+      "pt": "As cidades são lindas, mas eu só penso em você",
+      "en": "Cities are beautiful but I only think of you"
+    },
+    {
+      "tempo": 219.43,
+      "fr": "Quand mon pays et ma ville me manquent, moi, je ne t'oublie pas",
+      "pt": "Quando sinto falta do meu país e da minha cidade, não esqueço de você",
+      "en": "When I miss my country and my city, I don't forget you"
+    }
+  ],
+  "vocabulario": {
+    "on": {
+      "pt": "nós",
+      "en": "we"
+    },
+    "n'a": {
+      "pt": "n / D",
+      "en": "n / A"
+    },
+    "pas": {
+      "pt": "não",
+      "en": "not"
+    },
+    "les": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "tours": {
+      "pt": "torres",
+      "en": "towers"
+    },
+    "de": {
+      "pt": "de",
+      "en": "of"
+    },
+    "new": {
+      "pt": "novo",
+      "en": "new"
+    },
+    "york": {
+      "pt": "Iorque",
+      "en": "york"
+    },
+    "lumière": {
+      "pt": "luz",
+      "en": "light"
+    },
+    "du": {
+      "pt": "de",
+      "en": "of"
+    },
+    "jour": {
+      "pt": "dia",
+      "en": "day"
+    },
+    "6": {
+      "pt": "",
+      "en": ""
+    },
+    "mois": {
+      "pt": "mês",
+      "en": "month"
+    },
+    "dans": {
+      "pt": "Em",
+      "en": "In"
+    },
+    "l'année": {
+      "pt": "o ano",
+      "en": "the year"
+    },
+    "beaubourg": {
+      "pt": "Beaubourg",
+      "en": "beaubourg"
+    },
+    "ni": {
+      "pt": "nenhum",
+      "en": "neither"
+    },
+    "la": {
+      "pt": "lá",
+      "en": "there"
+    },
+    "seine": {
+      "pt": "Sena",
+      "en": "Seine"
+    },
+    "n'est": {
+      "pt": "não é",
+      "en": "is not"
+    },
+    "ville": {
+      "pt": "cidade",
+      "en": "city"
+    },
+    "l'amour": {
+      "pt": "amor",
+      "en": "love"
+    },
+    "mais": {
+      "pt": "mas",
+      "en": "but"
+    },
+    "bon": {
+      "pt": "Bom",
+      "en": "Good"
+    },
+    "vous": {
+      "pt": "VOCÊ",
+      "en": "YOU"
+    },
+    "voyez": {
+      "pt": "ver",
+      "en": "see"
+    },
+    "et": {
+      "pt": "E",
+      "en": "And"
+    },
+    "sûrement": {
+      "pt": "certamente",
+      "en": "certainly"
+    },
+    "que": {
+      "pt": "que",
+      "en": "that"
+    },
+    "dès": {
+      "pt": "do",
+      "en": "of the"
+    },
+    "ce": {
+      "pt": "Esse",
+      "en": "This"
+    },
+    "soir": {
+      "pt": "noite",
+      "en": "evening"
+    },
+    "le": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "ciel": {
+      "pt": "céu",
+      "en": "sky"
+    },
+    "couvrira": {
+      "pt": "cobrirá",
+      "en": "will cover"
+    },
+    "une": {
+      "pt": "um",
+      "en": "a"
+    },
+    "tempête": {
+      "pt": "tempestade",
+      "en": "storm"
+    },
+    "après": {
+      "pt": "Depois",
+      "en": "After"
+    },
+    "l'orage": {
+      "pt": "a tempestade",
+      "en": "the storm"
+    },
+    "avec": {
+      "pt": "com",
+      "en": "with"
+    },
+    "des": {
+      "pt": "do",
+      "en": "of the"
+    },
+    "bières": {
+      "pt": "cervejas",
+      "en": "beers"
+    },
+    "gens": {
+      "pt": "pessoas",
+      "en": "people"
+    },
+    "feront": {
+      "pt": "vai fazer",
+      "en": "will do"
+    },
+    "fête": {
+      "pt": "festa",
+      "en": "party"
+    },
+    "bruxelles": {
+      "pt": "Bruxelas",
+      "en": "Brussels"
+    },
+    "je": {
+      "pt": "EU",
+      "en": "I"
+    },
+    "t'aime": {
+      "pt": "amo você",
+      "en": "love you"
+    },
+    "tu": {
+      "pt": "você",
+      "en": "you"
+    },
+    "m'avais": {
+      "pt": "me teve",
+      "en": "had me"
+    },
+    "manqué": {
+      "pt": "falta",
+      "en": "lack"
+    },
+    "t'es": {
+      "pt": "seu",
+      "en": "your"
+    },
+    "ma": {
+      "pt": "meu",
+      "en": "my"
+    },
+    "préférée": {
+      "pt": "favorito",
+      "en": "favorite"
+    },
+    "plus": {
+      "pt": "mais",
+      "en": "more"
+    },
+    "belle": {
+      "pt": "lindo",
+      "en": "beautiful"
+    },
+    "oui": {
+      "pt": "Sim",
+      "en": "Yes"
+    },
+    "paris": {
+      "pt": "Paris",
+      "en": "Paris"
+    },
+    "m'appelle": {
+      "pt": "liga para mim",
+      "en": "call me"
+    },
+    "quand": {
+      "pt": "Quando",
+      "en": "When"
+    },
+    "veux": {
+      "pt": "querer",
+      "en": "want"
+    },
+    "rentrer": {
+      "pt": "voltar",
+      "en": "to return"
+    },
+    "chez": {
+      "pt": "na casa de",
+      "en": "at the house of"
+    },
+    "moi": {
+      "pt": "Meu",
+      "en": "Me"
+    },
+    "gris": {
+      "pt": "cinza",
+      "en": "gray"
+    },
+    "pluie": {
+      "pt": "chuva",
+      "en": "rain"
+    },
+    "me": {
+      "pt": "meu",
+      "en": "me"
+    },
+    "manquent": {
+      "pt": "ausente",
+      "en": "missing"
+    },
+    "vais": {
+      "pt": "ir",
+      "en": "go"
+    },
+    "mieux": {
+      "pt": "melhorar",
+      "en": "better"
+    },
+    "te": {
+      "pt": "você",
+      "en": "you"
+    },
+    "vois": {
+      "pt": "ver",
+      "en": "see"
+    },
+    "villes": {
+      "pt": "cidades",
+      "en": "cities"
+    },
+    "sont": {
+      "pt": "são",
+      "en": "are"
+    },
+    "belles": {
+      "pt": "lindo",
+      "en": "beautiful"
+    },
+    "ne": {
+      "pt": "nascer",
+      "en": "born"
+    },
+    "pense": {
+      "pt": "pensar",
+      "en": "think"
+    },
+    "qu'à": {
+      "pt": "do que",
+      "en": "than to"
+    },
+    "toi": {
+      "pt": "Você",
+      "en": "You"
+    },
+    "mon": {
+      "pt": "Meu",
+      "en": "My"
+    },
+    "pays": {
+      "pt": "país",
+      "en": "country"
+    },
+    "t'oublie": {
+      "pt": "esquecer você",
+      "en": "forget you"
+    },
+    "longue": {
+      "pt": "longo",
+      "en": "long"
+    },
+    "toutes": {
+      "pt": "todos",
+      "en": "all"
+    },
+    "histoires": {
+      "pt": "histórias",
+      "en": "stories"
+    },
+    "sait": {
+      "pt": "sabe",
+      "en": "knows"
+    },
+    "toujours": {
+      "pt": "sempre",
+      "en": "always"
+    },
+    "gagné": {
+      "pt": "ganho",
+      "en": "won"
+    },
+    "d'habitude": {
+      "pt": "geralmente",
+      "en": "usually"
+    },
+    "j'ai": {
+      "pt": "Eu tenho",
+      "en": "I have"
+    },
+    "l'attitude": {
+      "pt": "a atitude",
+      "en": "the attitude"
+    },
+    "même": {
+      "pt": "até",
+      "en": "even"
+    },
+    "si": {
+      "pt": "se",
+      "en": "if"
+    },
+    "c'est": {
+      "pt": "Isso é",
+      "en": "It is"
+    },
+    "dur": {
+      "pt": "duro",
+      "en": "hard"
+    },
+    "garder": {
+      "pt": "manter",
+      "en": "keep"
+    },
+    "espoir": {
+      "pt": "ter esperança",
+      "en": "hope"
+    },
+    "premiers": {
+      "pt": "primeiro",
+      "en": "first"
+    },
+    "marolles": {
+      "pt": "marollas",
+      "en": "marolles"
+    },
+    "flagey": {
+      "pt": "bandeira",
+      "en": "flagey"
+    },
+    "saint-gilles": {
+      "pt": "Saint Gilles",
+      "en": "Saint-Gilles"
+    },
+    "laeken": {
+      "pt": "laeken",
+      "en": "laeken"
+    },
+    "à": {
+      "pt": "tem",
+      "en": "has"
+    },
+    "qui": {
+      "pt": "Quem",
+      "en": "Who"
+    },
+    "dois": {
+      "pt": "precisa",
+      "en": "have to"
+    },
+    "nom": {
+      "pt": "nome",
+      "en": "name"
+    },
+    "j'te": {
+      "pt": "EU",
+      "en": "I"
+    },
+    "un": {
+      "pt": "UM",
+      "en": "A"
+    },
+    "elle": {
+      "pt": "Ela",
+      "en": "She"
+    },
+    "se": {
+      "pt": "se",
+      "en": "se"
+    },
+    "sépare": {
+      "pt": "separado",
+      "en": "separated"
+    },
+    "qu'on": {
+      "pt": "que nós",
+      "en": "that we"
+    },
+    "ait": {
+      "pt": "ter",
+      "en": "have"
+    },
+    "choisir": {
+      "pt": "escolher",
+      "en": "choose"
+    },
+    "camp": {
+      "pt": "acampar",
+      "en": "camp"
+    },
+    "serait": {
+      "pt": "seria",
+      "en": "would be"
+    },
+    "pire": {
+      "pt": "pior",
+      "en": "worse"
+    },
+    "cauchemars": {
+      "pt": "pesadelos",
+      "en": "nightmares"
+    },
+    "tout": {
+      "pt": "Todos",
+      "en": "All"
+    },
+    "ça": {
+      "pt": "Que",
+      "en": "That"
+    },
+    "pour": {
+      "pt": "Para",
+      "en": "For"
+    },
+    "histoire": {
+      "pt": "história",
+      "en": "history"
+    },
+    "langue": {
+      "pt": "linguagem",
+      "en": "language"
+    },
+    "vécu": {
+      "pt": "vivido",
+      "en": "lived"
+    },
+    "mes": {
+      "pt": "meu",
+      "en": "my"
+    },
+    "en": {
+      "pt": "em",
+      "en": "in"
+    },
+    "français": {
+      "pt": "Francês",
+      "en": "French"
+    },
+    "flamand": {
+      "pt": "flamengo",
+      "en": "Flemish"
+    },
+    "laat": {
+      "pt": "laat",
+      "en": "laat"
+    },
+    "mij": {
+      "pt": "mij",
+      "en": "mij"
+    },
+    "het": {
+      "pt": "het",
+      "en": "het"
+    },
+    "zeggen": {
+      "pt": "zeggen",
+      "en": "zeggen"
+    },
+    "in": {
+      "pt": "em",
+      "en": "in"
+    },
+    "vlaams": {
+      "pt": "flamengo",
+      "en": "Flemish"
+    },
+    "dank": {
+      "pt": "úmido",
+      "en": "dank"
+    },
+    "u": {
+      "pt": "você",
+      "en": "u"
+    },
+    "brussel": {
+      "pt": "Bruxelas",
+      "en": "Brussels"
+    },
+    "voor": {
+      "pt": "você",
+      "en": "you"
+    },
+    "mijn": {
+      "pt": "meu",
+      "en": "mijn"
+    },
+    "naam": {
+      "pt": "nome",
+      "en": "naam"
+    }
+  },
+  "ordem": 4,
+  "favorito": true
+}

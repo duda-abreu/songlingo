@@ -1,0 +1,926 @@
+{
+  "titulo": "La solassitude",
+  "artista": "Stromae",
+  "arquivo_audio": "audio.mp3",
+  "linhas": [
+    {
+      "tempo": 9.07,
+      "fr": "Enchanté, moi, c'est Nicolas",
+      "pt": "Prazer em conhecê-lo, meu nome é Nicolas",
+      "en": "Nice to meet you, I'm Nicolas"
+    },
+    {
+      "tempo": 11.76,
+      "fr": "Vas-y viens, on boit un verre",
+      "pt": "Vamos, vamos tomar uma bebida",
+      "en": "Come on, let's have a drink"
+    },
+    {
+      "tempo": 13.82,
+      "fr": "Ou si tu veux, on l'fait tout d'suite",
+      "pt": "Ou se você quiser, faremos isso imediatamente",
+      "en": "Or if you want, we'll do it right away"
+    },
+    {
+      "tempo": 16.11,
+      "fr": "Vite, puis j'te ramène après",
+      "pt": "Rápido, então te levo de volta mais tarde",
+      "en": "Quickly, then I'll take you back later"
+    },
+    {
+      "tempo": 17.95,
+      "fr": "Bouge pas, laisse-toi aller",
+      "pt": "Não se mova, deixe-se levar",
+      "en": "Don't move, let yourself go"
+    },
+    {
+      "tempo": 20.34,
+      "fr": "Pour un soir je serai ton hôte",
+      "pt": "Por uma noite serei seu anfitrião",
+      "en": "For one evening I will be your host"
+    },
+    {
+      "tempo": 22.78,
+      "fr": "Qu'est-ce qu'y a, t'hésites ou quoi?",
+      "pt": "Qual é o problema, você está hesitando ou algo assim?",
+      "en": "What's the matter, are you hesitating or something?"
+    },
+    {
+      "tempo": 24.75,
+      "fr": "Si c'est pas toi ce sera une autre",
+      "pt": "Se não for você, será outra pessoa",
+      "en": "If it's not you it will be someone else"
+    },
+    {
+      "tempo": 27.19,
+      "fr": "Les plans cul, c'est mon quotidien",
+      "pt": "Planos sexuais são minha vida diária",
+      "en": "Sex plans are my daily life"
+    },
+    {
+      "tempo": 29.72,
+      "fr": "Mais difficile de m'confier",
+      "pt": "Mas é difícil confiar em mim",
+      "en": "But it's hard to trust me"
+    },
+    {
+      "tempo": 31.68,
+      "fr": "C'était pas mal mais on s'quitte demain",
+      "pt": "Não foi ruim, mas partiremos amanhã",
+      "en": "It wasn't bad but we're leaving tomorrow"
+    },
+    {
+      "tempo": 33.73,
+      "fr": "Faudrait quelqu'un pour me conseiller",
+      "pt": "Preciso de alguém para me aconselhar",
+      "en": "Need someone to advise me"
+    },
+    {
+      "tempo": 36.18,
+      "fr": "Le problème, c'est la routine",
+      "pt": "O problema é rotina",
+      "en": "The problem is routine"
+    },
+    {
+      "tempo": 38.45,
+      "fr": "Quand les jours se ressеmblent",
+      "pt": "Quando os dias são iguais",
+      "en": "When the days are the same"
+    },
+    {
+      "tempo": 40.63,
+      "fr": "C'qui me tue, c'est l'еnnui",
+      "pt": "O que me mata é o tédio",
+      "en": "What kills me is boredom"
+    },
+    {
+      "tempo": 42.37,
+      "fr": "Est-ce qu'on finira ensemble?",
+      "pt": "Acabaremos juntos?",
+      "en": "Will we end up together?"
+    },
+    {
+      "tempo": 43.77,
+      "fr": "Le célibat me fait souffrir de solitude",
+      "pt": "Ser solteiro me faz sofrer de solidão",
+      "en": "Being single makes me suffer from loneliness"
+    },
+    {
+      "tempo": 48.25,
+      "fr": "La vie de couple me fait souffrir de lassitude",
+      "pt": "A vida de casado me faz sofrer de cansaço",
+      "en": "Married life makes me suffer from weariness"
+    },
+    {
+      "tempo": 52.46,
+      "fr": "Le célibat me fait souffrir de solitude",
+      "pt": "Ser solteiro me faz sofrer de solidão",
+      "en": "Being single makes me suffer from loneliness"
+    },
+    {
+      "tempo": 57.06,
+      "fr": "La vie de couple me fait souffrir de lassitude",
+      "pt": "A vida de casado me faz sofrer de cansaço",
+      "en": "Married life makes me suffer from weariness"
+    },
+    {
+      "tempo": 62.55,
+      "fr": "Mon amour, ça fait 8 ans",
+      "pt": "Meu amor, já se passaram 8 anos",
+      "en": "My love, it's been 8 years"
+    },
+    {
+      "tempo": 65.06,
+      "fr": "C'est pas tous les jours évident",
+      "pt": "Não é fácil todos os dias",
+      "en": "It's not easy every day"
+    },
+    {
+      "tempo": 67.12,
+      "fr": "C'est pas par manque de sentiment",
+      "pt": "Não é por falta de sentimento",
+      "en": "It's not for lack of feeling"
+    },
+    {
+      "tempo": 69.39,
+      "fr": "On s'aime toujours mais autrement",
+      "pt": "Nós ainda nos amamos, mas de forma diferente",
+      "en": "We still love each other but differently"
+    },
+    {
+      "tempo": 71.93,
+      "fr": "On dort dans le même lit",
+      "pt": "Dormimos na mesma cama",
+      "en": "We sleep in the same bed"
+    },
+    {
+      "tempo": 73.95,
+      "fr": "Mais on s'éloigne petit à petit",
+      "pt": "Mas estamos nos afastando pouco a pouco",
+      "en": "But we're moving away little by little"
+    },
+    {
+      "tempo": 75.84,
+      "fr": "L'impression d'être devenu transparent",
+      "pt": "A impressão de ter se tornado transparente",
+      "en": "The impression of having become transparent"
+    },
+    {
+      "tempo": 78.38,
+      "fr": "Et si tu t'trouverais un amant?",
+      "pt": "E se você encontrasse um amante?",
+      "en": "What if you found yourself a lover?"
+    },
+    {
+      "tempo": 80.83,
+      "fr": "Un resto, un week-end",
+      "pt": "Um restaurante, um fim de semana",
+      "en": "A restaurant, a weekend"
+    },
+    {
+      "tempo": 82.92,
+      "fr": "Pffffff, c'est trop fatiguant",
+      "pt": "Pffffff, é muito cansativo",
+      "en": "Pffffff, it's too tiring"
+    },
+    {
+      "tempo": 85.34,
+      "fr": "Si on reste ici tout l'week-end",
+      "pt": "Se ficarmos aqui o fim de semana inteiro",
+      "en": "If we stay here all weekend"
+    },
+    {
+      "tempo": 86.91,
+      "fr": "Est-ce que tu m'trouveras encore attirant?",
+      "pt": "Você ainda vai me achar atraente?",
+      "en": "Will you still find me attractive?"
+    },
+    {
+      "tempo": 89.68,
+      "fr": "Le problème c'est la routine",
+      "pt": "O problema é rotina",
+      "en": "The problem is routine"
+    },
+    {
+      "tempo": 91.97,
+      "fr": "Quand les jours se ressemblent",
+      "pt": "Quando os dias são iguais",
+      "en": "When the days are the same"
+    },
+    {
+      "tempo": 93.92,
+      "fr": "C'qui m'tue, c'est l'ennui",
+      "pt": "O que me mata é o tédio",
+      "en": "What kills me is boredom"
+    },
+    {
+      "tempo": 95.73,
+      "fr": "Est-ce qu'on finira ensemble?",
+      "pt": "Acabaremos juntos?",
+      "en": "Will we end up together?"
+    },
+    {
+      "tempo": 97.12,
+      "fr": "Le célibat me fait souffrir de solitude",
+      "pt": "Ser solteiro me faz sofrer de solidão",
+      "en": "Being single makes me suffer from loneliness"
+    },
+    {
+      "tempo": 101.41,
+      "fr": "La vie de couple me fait souffrir de lassitude",
+      "pt": "A vida de casado me faz sofrer de cansaço",
+      "en": "Married life makes me suffer from weariness"
+    },
+    {
+      "tempo": 105.79,
+      "fr": "Le célibat me fait souffrir de solitude",
+      "pt": "Ser solteiro me faz sofrer de solidão",
+      "en": "Being single makes me suffer from loneliness"
+    },
+    {
+      "tempo": 110.31,
+      "fr": "La vie de couple me fait souffrir de lassitude",
+      "pt": "A vida de casado me faz sofrer de cansaço",
+      "en": "Married life makes me suffer from weariness"
+    },
+    {
+      "tempo": 114.73,
+      "fr": "Le célibat me fait souffrir de solitude",
+      "pt": "Ser solteiro me faz sofrer de solidão",
+      "en": "Being single makes me suffer from loneliness"
+    },
+    {
+      "tempo": 119.37,
+      "fr": "La vie de couple me fait souffrir de lassitude (de lassitude)",
+      "pt": "A vida a dois me faz sofrer de cansaço (cansaço)",
+      "en": "Life as a couple makes me suffer from weariness (weariness)"
+    },
+    {
+      "tempo": 123.85,
+      "fr": "Le célibat me fait souffrir de solitude (de solitude)",
+      "pt": "Ser solteiro me faz sofrer de solidão (solidão)",
+      "en": "Being single makes me suffer from loneliness (loneliness)"
+    },
+    {
+      "tempo": 128.43,
+      "fr": "La vie de couple me fait souffrir de lassitude",
+      "pt": "A vida de casado me faz sofrer de cansaço",
+      "en": "Married life makes me suffer from weariness"
+    },
+    {
+      "tempo": 134.72,
+      "fr": "Depuis qu'elle est plus là",
+      "pt": "Já que ela não está mais aqui",
+      "en": "Since she is no longer here"
+    },
+    {
+      "tempo": 136.09,
+      "fr": "J'ai l'impression d'être bête",
+      "pt": "Eu sinto que sou estúpido",
+      "en": "I feel like I'm stupid"
+    },
+    {
+      "tempo": 138.09,
+      "fr": "J'ai la tête ailleurs, j'sais même plus si ça va",
+      "pt": "Minha mente está em outro lugar, nem sei se estou bem",
+      "en": "My mind is elsewhere, I don't even know if I'm okay"
+    },
+    {
+      "tempo": 140.31,
+      "fr": "Je regrette même nos prises de tête",
+      "pt": "Eu até me arrependo das nossas dores de cabeça",
+      "en": "I even regret our headaches"
+    },
+    {
+      "tempo": 142.84,
+      "fr": "J'avoue que j'fais que m'plaindre",
+      "pt": "Eu admito que só estou reclamando",
+      "en": "I admit that I'm just complaining"
+    },
+    {
+      "tempo": 145.16,
+      "fr": "Et ça, depuis qu'elle est plus là",
+      "pt": "E isso, já que ela não está mais aqui",
+      "en": "And that, since she is no longer here"
+    },
+    {
+      "tempo": 147.17,
+      "fr": "Faudrait p't'être que j'arrête",
+      "pt": "Talvez eu devesse parar",
+      "en": "Maybe I should stop"
+    },
+    {
+      "tempo": 149.29,
+      "fr": "Au fait, moi c'est Nicolas",
+      "pt": "A propósito, meu nome é Nicolas",
+      "en": "By the way, I'm Nicolas"
+    },
+    {
+      "tempo": 150.62,
+      "fr": "Le célibat me fait souffrir de solitude",
+      "pt": "Ser solteiro me faz sofrer de solidão",
+      "en": "Being single makes me suffer from loneliness"
+    },
+    {
+      "tempo": 154.88,
+      "fr": "La vie de couple me fait souffrir de lassitude",
+      "pt": "A vida de casado me faz sofrer de cansaço",
+      "en": "Married life makes me suffer from weariness"
+    },
+    {
+      "tempo": 159.18,
+      "fr": "Le célibat me fait souffrir de solitude",
+      "pt": "Ser solteiro me faz sofrer de solidão",
+      "en": "Being single makes me suffer from loneliness"
+    },
+    {
+      "tempo": 163.76,
+      "fr": "La vie de couple me fait souffrir de lassitude",
+      "pt": "A vida de casado me faz sofrer de cansaço",
+      "en": "Married life makes me suffer from weariness"
+    },
+    {
+      "tempo": 168.23,
+      "fr": "Le célibat me fait souffrir de solitude",
+      "pt": "Ser solteiro me faz sofrer de solidão",
+      "en": "Being single makes me suffer from loneliness"
+    },
+    {
+      "tempo": 172.53,
+      "fr": "La vie de couple me fait souffrir de lassitude",
+      "pt": "A vida de casado me faz sofrer de cansaço",
+      "en": "Married life makes me suffer from weariness"
+    }
+  ],
+  "vocabulario": {
+    "enchanté": {
+      "pt": "encantado",
+      "en": "delighted"
+    },
+    "moi": {
+      "pt": "Meu",
+      "en": "Me"
+    },
+    "c'est": {
+      "pt": "Isso é",
+      "en": "It is"
+    },
+    "nicolas": {
+      "pt": "Nicholas",
+      "en": "nicholas"
+    },
+    "vas-y": {
+      "pt": "vá em frente",
+      "en": "go ahead"
+    },
+    "viens": {
+      "pt": "vir",
+      "en": "come"
+    },
+    "on": {
+      "pt": "nós",
+      "en": "we"
+    },
+    "boit": {
+      "pt": "bebidas",
+      "en": "drinks"
+    },
+    "un": {
+      "pt": "UM",
+      "en": "A"
+    },
+    "verre": {
+      "pt": "vidro",
+      "en": "glass"
+    },
+    "ou": {
+      "pt": "Ou",
+      "en": "Or"
+    },
+    "si": {
+      "pt": "se",
+      "en": "if"
+    },
+    "tu": {
+      "pt": "você",
+      "en": "you"
+    },
+    "veux": {
+      "pt": "querer",
+      "en": "want"
+    },
+    "l'fait": {
+      "pt": "o fato",
+      "en": "the fact"
+    },
+    "tout": {
+      "pt": "Todos",
+      "en": "All"
+    },
+    "d'suite": {
+      "pt": "imediatamente",
+      "en": "immediately"
+    },
+    "vite": {
+      "pt": "rapidamente",
+      "en": "quickly"
+    },
+    "puis": {
+      "pt": "Então",
+      "en": "Then"
+    },
+    "j'te": {
+      "pt": "EU",
+      "en": "I"
+    },
+    "ramène": {
+      "pt": "traz de volta",
+      "en": "brings back"
+    },
+    "après": {
+      "pt": "Depois",
+      "en": "After"
+    },
+    "bouge": {
+      "pt": "mover",
+      "en": "move"
+    },
+    "pas": {
+      "pt": "não",
+      "en": "not"
+    },
+    "laisse-toi": {
+      "pt": "deixar você",
+      "en": "leave you"
+    },
+    "aller": {
+      "pt": "ir",
+      "en": "go"
+    },
+    "pour": {
+      "pt": "Para",
+      "en": "For"
+    },
+    "soir": {
+      "pt": "noite",
+      "en": "evening"
+    },
+    "je": {
+      "pt": "EU",
+      "en": "I"
+    },
+    "serai": {
+      "pt": "vai ser",
+      "en": "will be"
+    },
+    "ton": {
+      "pt": "seu",
+      "en": "your"
+    },
+    "hôte": {
+      "pt": "hospedar",
+      "en": "host"
+    },
+    "qu'est-ce": {
+      "pt": "quem é",
+      "en": "who is it"
+    },
+    "qu'y": {
+      "pt": "isso aí",
+      "en": "that there"
+    },
+    "a": {
+      "pt": "tem",
+      "en": "has"
+    },
+    "t'hésites": {
+      "pt": "você hesita",
+      "en": "you hesitate"
+    },
+    "quoi": {
+      "pt": "O que",
+      "en": "What"
+    },
+    "toi": {
+      "pt": "Você",
+      "en": "You"
+    },
+    "ce": {
+      "pt": "Esse",
+      "en": "This"
+    },
+    "sera": {
+      "pt": "vai ser",
+      "en": "will be"
+    },
+    "une": {
+      "pt": "um",
+      "en": "a"
+    },
+    "autre": {
+      "pt": "outro",
+      "en": "other"
+    },
+    "les": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "plans": {
+      "pt": "planos",
+      "en": "plans"
+    },
+    "cul": {
+      "pt": "bunda",
+      "en": "ass"
+    },
+    "mon": {
+      "pt": "Meu",
+      "en": "My"
+    },
+    "quotidien": {
+      "pt": "diário",
+      "en": "daily"
+    },
+    "mais": {
+      "pt": "mas",
+      "en": "but"
+    },
+    "difficile": {
+      "pt": "difícil",
+      "en": "difficult"
+    },
+    "de": {
+      "pt": "de",
+      "en": "of"
+    },
+    "m'confier": {
+      "pt": "confie em mim",
+      "en": "confide in me"
+    },
+    "c'était": {
+      "pt": "era",
+      "en": "it was"
+    },
+    "mal": {
+      "pt": "errado",
+      "en": "wrong"
+    },
+    "s'quitte": {
+      "pt": "folhas",
+      "en": "leaves"
+    },
+    "demain": {
+      "pt": "amanhã",
+      "en": "tomorrow"
+    },
+    "faudrait": {
+      "pt": "deve",
+      "en": "should"
+    },
+    "quelqu'un": {
+      "pt": "alguém",
+      "en": "someone"
+    },
+    "me": {
+      "pt": "meu",
+      "en": "me"
+    },
+    "conseiller": {
+      "pt": "conselho",
+      "en": "advise"
+    },
+    "le": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "problème": {
+      "pt": "emitir",
+      "en": "issue"
+    },
+    "la": {
+      "pt": "lá",
+      "en": "there"
+    },
+    "routine": {
+      "pt": "rotina",
+      "en": "routine"
+    },
+    "quand": {
+      "pt": "Quando",
+      "en": "When"
+    },
+    "jours": {
+      "pt": "dias",
+      "en": "days"
+    },
+    "se": {
+      "pt": "se",
+      "en": "se"
+    },
+    "ressеmblent": {
+      "pt": "parece",
+      "en": "look like"
+    },
+    "c'qui": {
+      "pt": "Quem",
+      "en": "who"
+    },
+    "tue": {
+      "pt": "matar",
+      "en": "kill"
+    },
+    "l'еnnui": {
+      "pt": "tédio",
+      "en": "boredom"
+    },
+    "est-ce": {
+      "pt": "é isto",
+      "en": "is this"
+    },
+    "qu'on": {
+      "pt": "que nós",
+      "en": "that we"
+    },
+    "finira": {
+      "pt": "vai acabar",
+      "en": "will end"
+    },
+    "ensemble": {
+      "pt": "junto",
+      "en": "together"
+    },
+    "célibat": {
+      "pt": "celibato",
+      "en": "celibacy"
+    },
+    "fait": {
+      "pt": "fazer",
+      "en": "do"
+    },
+    "souffrir": {
+      "pt": "sofrer",
+      "en": "suffer"
+    },
+    "solitude": {
+      "pt": "solidão",
+      "en": "solitude"
+    },
+    "vie": {
+      "pt": "vida",
+      "en": "life"
+    },
+    "couple": {
+      "pt": "casal",
+      "en": "couple"
+    },
+    "lassitude": {
+      "pt": "cansaço",
+      "en": "weariness"
+    },
+    "amour": {
+      "pt": "amor",
+      "en": "love"
+    },
+    "ça": {
+      "pt": "Que",
+      "en": "That"
+    },
+    "8": {
+      "pt": "8",
+      "en": "8"
+    },
+    "ans": {
+      "pt": "anos",
+      "en": "years"
+    },
+    "tous": {
+      "pt": "todos",
+      "en": "all"
+    },
+    "évident": {
+      "pt": "óbvio",
+      "en": "obvious"
+    },
+    "par": {
+      "pt": "por",
+      "en": "by"
+    },
+    "manque": {
+      "pt": "falta",
+      "en": "lack"
+    },
+    "sentiment": {
+      "pt": "sentimento",
+      "en": "feeling"
+    },
+    "s'aime": {
+      "pt": "amem um ao outro",
+      "en": "love each other"
+    },
+    "toujours": {
+      "pt": "sempre",
+      "en": "always"
+    },
+    "autrement": {
+      "pt": "de outra forma",
+      "en": "otherwise"
+    },
+    "dort": {
+      "pt": "dorme",
+      "en": "sleeps"
+    },
+    "dans": {
+      "pt": "Em",
+      "en": "In"
+    },
+    "même": {
+      "pt": "até",
+      "en": "even"
+    },
+    "lit": {
+      "pt": "cama",
+      "en": "bed"
+    },
+    "s'éloigne": {
+      "pt": "vai embora",
+      "en": "walks away"
+    },
+    "petit": {
+      "pt": "pequeno",
+      "en": "little"
+    },
+    "à": {
+      "pt": "tem",
+      "en": "has"
+    },
+    "l'impression": {
+      "pt": "impressão",
+      "en": "printing"
+    },
+    "d'être": {
+      "pt": "ser",
+      "en": "to be"
+    },
+    "devenu": {
+      "pt": "tornou-se",
+      "en": "became"
+    },
+    "transparent": {
+      "pt": "transparente",
+      "en": "transparent"
+    },
+    "et": {
+      "pt": "E",
+      "en": "And"
+    },
+    "t'trouverais": {
+      "pt": "você encontraria",
+      "en": "you would find"
+    },
+    "amant": {
+      "pt": "amante",
+      "en": "lover"
+    },
+    "resto": {
+      "pt": "restaurante",
+      "en": "restaurant"
+    },
+    "week-end": {
+      "pt": "fim de semana",
+      "en": "weekend"
+    },
+    "pffffff": {
+      "pt": "pfffff",
+      "en": "pffffff"
+    },
+    "trop": {
+      "pt": "demais",
+      "en": "too much"
+    },
+    "fatiguant": {
+      "pt": "cansativo",
+      "en": "tiring"
+    },
+    "reste": {
+      "pt": "ficar",
+      "en": "stay"
+    },
+    "ici": {
+      "pt": "aqui",
+      "en": "here"
+    },
+    "l'week-end": {
+      "pt": "",
+      "en": "the weekend"
+    },
+    "que": {
+      "pt": "que",
+      "en": "that"
+    },
+    "m'trouveras": {
+      "pt": "vai me encontrar",
+      "en": "will find me"
+    },
+    "encore": {
+      "pt": "",
+      "en": "Again"
+    },
+    "attirant": {
+      "pt": "atraente",
+      "en": ""
+    },
+    "ressemblent": {
+      "pt": "assemelhar-se",
+      "en": ""
+    },
+    "m'tue": {
+      "pt": "me mata",
+      "en": "kill me"
+    },
+    "l'ennui": {
+      "pt": "tédio",
+      "en": "boredom"
+    },
+    "depuis": {
+      "pt": "Desde",
+      "en": ""
+    },
+    "qu'elle": {
+      "pt": "o que",
+      "en": "what"
+    },
+    "est": {
+      "pt": "",
+      "en": ""
+    },
+    "plus": {
+      "pt": "mais",
+      "en": "more"
+    },
+    "là": {
+      "pt": "",
+      "en": "there"
+    },
+    "j'ai": {
+      "pt": "Eu tenho",
+      "en": "I have"
+    },
+    "bête": {
+      "pt": "besta",
+      "en": "beast"
+    },
+    "tête": {
+      "pt": "cabeça",
+      "en": "head"
+    },
+    "ailleurs": {
+      "pt": "em outro lugar",
+      "en": "elsewhere"
+    },
+    "j'sais": {
+      "pt": "Eu sei",
+      "en": "I know"
+    },
+    "va": {
+      "pt": "ir",
+      "en": "go"
+    },
+    "regrette": {
+      "pt": "arrependimento",
+      "en": "regret"
+    },
+    "nos": {
+      "pt": "nosso",
+      "en": "our"
+    },
+    "prises": {
+      "pt": "levado",
+      "en": "taken"
+    },
+    "j'avoue": {
+      "pt": "eu admito",
+      "en": "I admit"
+    },
+    "j'fais": {
+      "pt": "Eu faço",
+      "en": "I do"
+    },
+    "m'plaindre": {
+      "pt": "reclame comigo",
+      "en": "complain to me"
+    },
+    "p't'être": {
+      "pt": "talvez",
+      "en": "maybe"
+    },
+    "j'arrête": {
+      "pt": "eu paro",
+      "en": "I stop"
+    },
+    "au": {
+      "pt": "No",
+      "en": "At"
+    }
+  },
+  "ordem": 47
+}

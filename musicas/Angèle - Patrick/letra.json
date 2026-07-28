@@ -1,0 +1,972 @@
+{
+  "titulo": "Patrick",
+  "artista": "Angèle",
+  "arquivo_audio": "audio.mp3",
+  "linhas": [
+    {
+      "tempo": 10.63,
+      "fr": "Patrick a 50 ans",
+      "pt": "Patrick tem 50 anos",
+      "en": "Patrick is 50 years old"
+    },
+    {
+      "tempo": 12.34,
+      "fr": "Il a deux enfants",
+      "pt": "Ele tem dois filhos",
+      "en": "He has two children"
+    },
+    {
+      "tempo": 13.58,
+      "fr": "Il couche moins avec sa femme qu'elle avec son amant",
+      "pt": "Ele dorme menos com a esposa do que ela com o amante",
+      "en": "He sleeps less with his wife than she with her lover"
+    },
+    {
+      "tempo": 16.05,
+      "fr": "Sympa parfois",
+      "pt": "Legal às vezes",
+      "en": "Nice sometimes"
+    },
+    {
+      "tempo": 17.48,
+      "fr": "Frustré tout le temps",
+      "pt": "Frustrado o tempo todo",
+      "en": "Frustrated all the time"
+    },
+    {
+      "tempo": 18.34,
+      "fr": "C'est pas un mec gentil sans pour autant être un méchant",
+      "pt": "Ele não é um cara legal sem ser um cara mau.",
+      "en": "He's not a nice guy without being a bad guy."
+    },
+    {
+      "tempo": 21.24,
+      "fr": "Mais Patrick a son petit kif",
+      "pt": "Mas Patrick tem seu pequeno filho",
+      "en": "But Patrick has his little kif"
+    },
+    {
+      "tempo": 23.39,
+      "fr": "Le soir il tweete sa haine et ses tripes",
+      "pt": "À noite ele twitta seu ódio e sua coragem",
+      "en": "In the evening he tweets his hatred and his guts"
+    },
+    {
+      "tempo": 25.89,
+      "fr": "Sur ce qu'il veut détester à tout prix",
+      "pt": "Sobre o que ele quer odiar a todo custo",
+      "en": "On what he wants to hate at all costs"
+    },
+    {
+      "tempo": 28.55,
+      "fr": "Et dans sa folie il a écrit",
+      "pt": "E em sua loucura ele escreveu",
+      "en": "And in his madness he wrote"
+    },
+    {
+      "tempo": 30.74,
+      "fr": "Tout de façon le changement climatique c'est faux (enter)",
+      "pt": "Em qualquer caso, as alterações climáticas são falsas (enter)",
+      "en": "In any case, climate change is false (enter)"
+    },
+    {
+      "tempo": 33.31,
+      "fr": "On peut plus rien dire, on peut plus rien penser (enter)",
+      "pt": "Não podemos mais dizer nada, não podemos mais pensar em nada (entra)",
+      "en": "We can't say anything anymore, we can't think anything anymore (enter)"
+    },
+    {
+      "tempo": 35.63,
+      "fr": "Un jour vous comprendrez, tout est un complot (enter)",
+      "pt": "Um dia você vai entender, tudo é uma conspiração (entre)",
+      "en": "One day you will understand, everything is a conspiracy (enter)"
+    },
+    {
+      "tempo": 38.16,
+      "fr": "C'était mieux avant (enter)",
+      "pt": "Antes era melhor (entrar)",
+      "en": "It was better before (enter)"
+    },
+    {
+      "tempo": 39.75,
+      "fr": "Il veut avoir raison, il ne s'en fait pas",
+      "pt": "Ele quer estar certo, ele não se importa",
+      "en": "He wants to be right, he doesn't care"
+    },
+    {
+      "tempo": 42.45,
+      "fr": "Il y va à fond",
+      "pt": "Ele vai com tudo",
+      "en": "He goes all out"
+    },
+    {
+      "tempo": 44.9,
+      "fr": "Quand il quitte la maison, sa vie reprend le pas",
+      "pt": "Quando ele sai de casa, sua vida volta aos trilhos",
+      "en": "When he leaves home, his life gets back on track"
+    },
+    {
+      "tempo": 47.86,
+      "fr": "Et il se sent con",
+      "pt": "E ele se sente estúpido",
+      "en": "And he feels stupid"
+    },
+    {
+      "tempo": 49.7,
+      "fr": "Tout seul dans son salon, il ne s'en fait pas",
+      "pt": "Sozinho em sua sala, ele não se preocupa",
+      "en": "All alone in his living room, he doesn't worry"
+    },
+    {
+      "tempo": 52.39,
+      "fr": "Il y va à fond",
+      "pt": "Ele vai com tudo",
+      "en": "He goes all out"
+    },
+    {
+      "tempo": 54.86,
+      "fr": "Patrick perd la raison, Patrick réfléchit pas",
+      "pt": "Patrick enlouquece, Patrick não pensa",
+      "en": "Patrick loses his mind, Patrick doesn't think"
+    },
+    {
+      "tempo": 57.88,
+      "fr": "Patrick touche le fond",
+      "pt": "Patrick chega ao fundo do poço",
+      "en": "Patrick hits rock bottom"
+    },
+    {
+      "tempo": 60.77,
+      "fr": "Jamais il baisse les armes",
+      "pt": "Ele nunca abaixa suas armas",
+      "en": "He never lowers his weapons"
+    },
+    {
+      "tempo": 63.22,
+      "fr": "Jamais il ne laissera tomber",
+      "pt": "Ele nunca vai deixar ir",
+      "en": ""
+    },
+    {
+      "tempo": 65.52,
+      "fr": "Il est jaloux, il s'acharne",
+      "pt": "Ele está com ciúmes, ele persiste",
+      "en": "He is jealous, he persists"
+    },
+    {
+      "tempo": 67.97,
+      "fr": "Mais il s'est perdu, et c'est compliqué",
+      "pt": "Mas ele se perdeu e é complicado",
+      "en": "But he got lost, and it's complicated"
+    },
+    {
+      "tempo": 71.16,
+      "fr": "Mais Patrick a son petit kif",
+      "pt": "Mas Patrick tem seu pequeno filho",
+      "en": "But Patrick has his little kif"
+    },
+    {
+      "tempo": 73.34,
+      "fr": "Le soir il tweete sa haine et ses tripes",
+      "pt": "À noite ele twitta seu ódio e sua coragem",
+      "en": "In the evening he tweets his hatred and his guts"
+    },
+    {
+      "tempo": 76.06,
+      "fr": "Pour une fois qu'y a de l'attention sur lui",
+      "pt": "Pela primeira vez há atenção nele",
+      "en": "For once there is attention on him"
+    },
+    {
+      "tempo": 78.41,
+      "fr": "Et dans sa folie il a écrit",
+      "pt": "E em sua loucura ele escreveu",
+      "en": "And in his madness he wrote"
+    },
+    {
+      "tempo": 80.76,
+      "fr": "Vous êtes tous des moutons de la société (enter)",
+      "pt": "Vocês são todos ovelhas da sociedade (entre)",
+      "en": "You are all sheep of society (enter)"
+    },
+    {
+      "tempo": 83.28,
+      "fr": "Les femmes sont des menteuses et tout le monde le sait (enter)",
+      "pt": "Mulheres são mentirosas e todo mundo sabe disso (entre)",
+      "en": "Women are liars and everyone knows it (enter)"
+    },
+    {
+      "tempo": 85.76,
+      "fr": "Mon pays, mes valeurs, c'est plus ce que c'était (enter)",
+      "pt": "Meu país, meus valores, não é mais o que era (enter)",
+      "en": "My country, my values, that's not what it used to be (enter)"
+    },
+    {
+      "tempo": 88.25,
+      "fr": "C'est mieux avant (enter)",
+      "pt": "É melhor antes (entrar)",
+      "en": "It's better before (enter)"
+    },
+    {
+      "tempo": 89.83,
+      "fr": "Il veut avoir raison, il ne s'en fait pas",
+      "pt": "Ele quer estar certo, ele não se importa",
+      "en": "He wants to be right, he doesn't care"
+    },
+    {
+      "tempo": 92.14,
+      "fr": "Il y va à fond",
+      "pt": "Ele vai com tudo",
+      "en": "He goes all out"
+    },
+    {
+      "tempo": 94.7,
+      "fr": "Quand il quitte la maison, sa vie reprend le pas",
+      "pt": "Quando ele sai de casa, sua vida volta aos trilhos",
+      "en": "When he leaves home, his life gets back on track"
+    },
+    {
+      "tempo": 98.08,
+      "fr": "Et il se sent con",
+      "pt": "E ele se sente estúpido",
+      "en": "And he feels stupid"
+    },
+    {
+      "tempo": 99.94,
+      "fr": "Tout seul dans son salon, il ne s'en fait pas",
+      "pt": "Sozinho em sua sala, ele não se preocupa",
+      "en": "All alone in his living room, he doesn't worry"
+    },
+    {
+      "tempo": 102.19,
+      "fr": "Il y va à fond",
+      "pt": "Ele vai com tudo",
+      "en": "He goes all out"
+    },
+    {
+      "tempo": 104.93,
+      "fr": "Patrick perd la raison, Patrick réfléchit pas",
+      "pt": "Patrick enlouquece, Patrick não pensa",
+      "en": "Patrick loses his mind, Patrick doesn't think"
+    },
+    {
+      "tempo": 108.08,
+      "fr": "Patrick touche le fond",
+      "pt": "Patrick chega ao fundo do poço",
+      "en": "Patrick hits rock bottom"
+    },
+    {
+      "tempo": 110.21,
+      "fr": "Même s'il a du mal à se taire",
+      "pt": "Mesmo que ele ache difícil ficar quieto",
+      "en": "Even if he finds it hard to keep quiet"
+    },
+    {
+      "tempo": 112.76,
+      "fr": "Il est même pas si mauvais dans sa vraie vie",
+      "pt": "Ele nem é tão ruim na vida real",
+      "en": "He's not even that bad in his real life"
+    },
+    {
+      "tempo": 115.45,
+      "fr": "Quand il a tort y a rien a faire",
+      "pt": "Quando ele está errado não há nada a fazer",
+      "en": "When he is wrong there is nothing to do"
+    },
+    {
+      "tempo": 117.16,
+      "fr": "Ça se trouve il croit pas lui même à ses propres conneries",
+      "pt": "Acontece que ele nem acredita nas próprias besteiras",
+      "en": "It turns out he doesn't even believe his own bullshit"
+    },
+    {
+      "tempo": 121.12,
+      "fr": "Mais Patrick a son petit kif",
+      "pt": "Mas Patrick tem seu pequeno filho",
+      "en": "But Patrick has his little kif"
+    },
+    {
+      "tempo": 124.05,
+      "fr": "Autant qu'il soit haï",
+      "pt": "Por mais que ele seja odiado",
+      "en": "As much as he is hated"
+    },
+    {
+      "tempo": 126.33,
+      "fr": "Tant qu'on parle encore de lui",
+      "pt": "Enquanto ainda falarmos sobre ele",
+      "en": "As long as we still talk about him"
+    },
+    {
+      "tempo": 128.12,
+      "fr": "(Enter, enter, enter)",
+      "pt": "(Entra, entra, entra)",
+      "en": "(Enter, enter, enter)"
+    },
+    {
+      "tempo": 129.95,
+      "fr": "Il veut avoir raison, il ne s'en fait pas",
+      "pt": "Ele quer estar certo, ele não se importa",
+      "en": "He wants to be right, he doesn't care"
+    },
+    {
+      "tempo": 132.6,
+      "fr": "Il y va à fond",
+      "pt": "Ele vai com tudo",
+      "en": "He goes all out"
+    },
+    {
+      "tempo": 134.7,
+      "fr": "Quand il quitte la maison, sa vie reprend le pas",
+      "pt": "Quando ele sai de casa, sua vida volta aos trilhos",
+      "en": "When he leaves home, his life gets back on track"
+    },
+    {
+      "tempo": 138.01,
+      "fr": "Et il se sent con",
+      "pt": "E ele se sente estúpido",
+      "en": "And he feels stupid"
+    },
+    {
+      "tempo": 139.93,
+      "fr": "Tout seul dans son salon, il ne s'en fait pas",
+      "pt": "Sozinho em sua sala, ele não se preocupa",
+      "en": "All alone in his living room, he doesn't worry"
+    },
+    {
+      "tempo": 142.53,
+      "fr": "Il y va à fond",
+      "pt": "Ele vai com tudo",
+      "en": "He goes all out"
+    },
+    {
+      "tempo": 145.0,
+      "fr": "Patrick perd la raison, Patrick réfléchit pas",
+      "pt": "Patrick enlouquece, Patrick não pensa",
+      "en": "Patrick loses his mind, Patrick doesn't think"
+    },
+    {
+      "tempo": 147.98,
+      "fr": "Patrick touche le fond",
+      "pt": "Patrick chega ao fundo do poço",
+      "en": "Patrick hits rock bottom"
+    },
+    {
+      "tempo": 154.37,
+      "fr": "(Enter)",
+      "pt": "(Digitar)",
+      "en": "(Enter)"
+    },
+    {
+      "tempo": 159.45,
+      "fr": "(Enter)",
+      "pt": "(Digitar)",
+      "en": "(Enter)"
+    },
+    {
+      "tempo": 159.91,
+      "fr": "Tout seul dans son salon, il ne s'en fait pas",
+      "pt": "Sozinho em sua sala, ele não se preocupa",
+      "en": "All alone in his living room, he doesn't worry"
+    },
+    {
+      "tempo": 162.43,
+      "fr": "Il y va à fond",
+      "pt": "Ele vai com tudo",
+      "en": "He goes all out"
+    },
+    {
+      "tempo": 164.84,
+      "fr": "Patrick perd la raison, Patrick réfléchit pas",
+      "pt": "Patrick enlouquece, Patrick não pensa",
+      "en": "Patrick loses his mind, Patrick doesn't think"
+    },
+    {
+      "tempo": 168.16,
+      "fr": "Patrick touche le fond",
+      "pt": "",
+      "en": "Patrick hits rock bottom"
+    },
+    {
+      "tempo": 169.5,
+      "fr": "(Enter)",
+      "pt": "(Digitar)",
+      "en": "(Enter)"
+    }
+  ],
+  "vocabulario": {
+    "patrick": {
+      "pt": "Patrício",
+      "en": "Patrick"
+    },
+    "a": {
+      "pt": "tem",
+      "en": ""
+    },
+    "ans": {
+      "pt": "anos",
+      "en": "years"
+    },
+    "il": {
+      "pt": "ele",
+      "en": "he"
+    },
+    "deux": {
+      "pt": "dois",
+      "en": "two"
+    },
+    "enfants": {
+      "pt": "crianças",
+      "en": "children"
+    },
+    "couche": {
+      "pt": "camada",
+      "en": "layer"
+    },
+    "moins": {
+      "pt": "menos",
+      "en": "less"
+    },
+    "avec": {
+      "pt": "",
+      "en": "with"
+    },
+    "sa": {
+      "pt": "isso é",
+      "en": "its"
+    },
+    "femme": {
+      "pt": "mulheres",
+      "en": "women"
+    },
+    "qu'elle": {
+      "pt": "o que",
+      "en": "what"
+    },
+    "son": {
+      "pt": "dela",
+      "en": "her"
+    },
+    "amant": {
+      "pt": "amante",
+      "en": "lover"
+    },
+    "sympa": {
+      "pt": "legal",
+      "en": "nice"
+    },
+    "parfois": {
+      "pt": "Às vezes",
+      "en": "Sometimes"
+    },
+    "frustré": {
+      "pt": "frustrado",
+      "en": "frustrated"
+    },
+    "tout": {
+      "pt": "Todos",
+      "en": "All"
+    },
+    "le": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "temps": {
+      "pt": "tempo",
+      "en": "time"
+    },
+    "c'est": {
+      "pt": "Isso é",
+      "en": "It is"
+    },
+    "pas": {
+      "pt": "não",
+      "en": "not"
+    },
+    "un": {
+      "pt": "UM",
+      "en": "A"
+    },
+    "mec": {
+      "pt": "cara",
+      "en": "dude"
+    },
+    "gentil": {
+      "pt": "tipo",
+      "en": "kind"
+    },
+    "sans": {
+      "pt": "sem",
+      "en": "without"
+    },
+    "pour": {
+      "pt": "Para",
+      "en": "For"
+    },
+    "autant": {
+      "pt": "tanto",
+      "en": "as much"
+    },
+    "être": {
+      "pt": "ser",
+      "en": "be"
+    },
+    "méchant": {
+      "pt": "malvado",
+      "en": "wicked"
+    },
+    "mais": {
+      "pt": "mas",
+      "en": "but"
+    },
+    "petit": {
+      "pt": "pequeno",
+      "en": "little"
+    },
+    "kif": {
+      "pt": "kif",
+      "en": "kif"
+    },
+    "soir": {
+      "pt": "noite",
+      "en": "evening"
+    },
+    "tweete": {
+      "pt": "twittar",
+      "en": "tweet"
+    },
+    "haine": {
+      "pt": "odiar",
+      "en": "hate"
+    },
+    "et": {
+      "pt": "E",
+      "en": "And"
+    },
+    "ses": {
+      "pt": "dele",
+      "en": "his"
+    },
+    "tripes": {
+      "pt": "estômago",
+      "en": "guts"
+    },
+    "sur": {
+      "pt": "sobre",
+      "en": "on"
+    },
+    "ce": {
+      "pt": "Esse",
+      "en": "This"
+    },
+    "qu'il": {
+      "pt": "que ele",
+      "en": "that he"
+    },
+    "veut": {
+      "pt": "quero",
+      "en": "wanna"
+    },
+    "détester": {
+      "pt": "odiar",
+      "en": "hate"
+    },
+    "à": {
+      "pt": "tem",
+      "en": "has"
+    },
+    "prix": {
+      "pt": "preço",
+      "en": "price"
+    },
+    "dans": {
+      "pt": "Em",
+      "en": "In"
+    },
+    "folie": {
+      "pt": "loucura",
+      "en": "madness"
+    },
+    "écrit": {
+      "pt": "escrita",
+      "en": "writing"
+    },
+    "de": {
+      "pt": "de",
+      "en": "of"
+    },
+    "façon": {
+      "pt": "caminho",
+      "en": "way"
+    },
+    "changement": {
+      "pt": "mudar",
+      "en": "change"
+    },
+    "climatique": {
+      "pt": "climático",
+      "en": "climatic"
+    },
+    "faux": {
+      "pt": "falso",
+      "en": "fake"
+    },
+    "enter": {
+      "pt": "digitar",
+      "en": "enter"
+    },
+    "on": {
+      "pt": "nós",
+      "en": "we"
+    },
+    "peut": {
+      "pt": "pode",
+      "en": "can"
+    },
+    "plus": {
+      "pt": "mais",
+      "en": "more"
+    },
+    "rien": {
+      "pt": "Nada",
+      "en": "Nothing"
+    },
+    "dire": {
+      "pt": "dizer",
+      "en": "say"
+    },
+    "penser": {
+      "pt": "pensar",
+      "en": "think"
+    },
+    "jour": {
+      "pt": "dia",
+      "en": "day"
+    },
+    "vous": {
+      "pt": "VOCÊ",
+      "en": "YOU"
+    },
+    "comprendrez": {
+      "pt": "vai entender",
+      "en": "will understand"
+    },
+    "est": {
+      "pt": "Leste",
+      "en": "East"
+    },
+    "complot": {
+      "pt": "conspiração",
+      "en": "conspiracy"
+    },
+    "c'était": {
+      "pt": "era",
+      "en": "it was"
+    },
+    "mieux": {
+      "pt": "melhorar",
+      "en": "better"
+    },
+    "avant": {
+      "pt": "Antes",
+      "en": "Before"
+    },
+    "avoir": {
+      "pt": "ter",
+      "en": "to have"
+    },
+    "raison": {
+      "pt": "razão",
+      "en": "reason"
+    },
+    "ne": {
+      "pt": "nascer",
+      "en": "born"
+    },
+    "s'en": {
+      "pt": "vá embora",
+      "en": "go away"
+    },
+    "fait": {
+      "pt": "fazer",
+      "en": "do"
+    },
+    "y": {
+      "pt": "sim",
+      "en": "y"
+    },
+    "va": {
+      "pt": "ir",
+      "en": "go"
+    },
+    "fond": {
+      "pt": "fundo",
+      "en": "bottom"
+    },
+    "quand": {
+      "pt": "Quando",
+      "en": "When"
+    },
+    "quitte": {
+      "pt": "folhas",
+      "en": "leaves"
+    },
+    "la": {
+      "pt": "lá",
+      "en": "there"
+    },
+    "maison": {
+      "pt": "Casa",
+      "en": "House"
+    },
+    "vie": {
+      "pt": "vida",
+      "en": "life"
+    },
+    "reprend": {
+      "pt": "currículos",
+      "en": "resumes"
+    },
+    "se": {
+      "pt": "se",
+      "en": "se"
+    },
+    "sent": {
+      "pt": "sentimentos",
+      "en": "feels"
+    },
+    "con": {
+      "pt": "idiota",
+      "en": "idiot"
+    },
+    "seul": {
+      "pt": "sozinho",
+      "en": "alone"
+    },
+    "salon": {
+      "pt": "sala de estar",
+      "en": "living room"
+    },
+    "perd": {
+      "pt": "perder",
+      "en": "lose"
+    },
+    "réfléchit": {
+      "pt": "pensa",
+      "en": "thinks"
+    },
+    "touche": {
+      "pt": "tocar",
+      "en": "touch"
+    },
+    "jamais": {
+      "pt": "Nunca",
+      "en": "Never"
+    },
+    "baisse": {
+      "pt": "derrubar",
+      "en": "drop"
+    },
+    "les": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "armes": {
+      "pt": "armas",
+      "en": "weapons"
+    },
+    "laissera": {
+      "pt": "vai embora",
+      "en": "will leave"
+    },
+    "tomber": {
+      "pt": "cair",
+      "en": "to fall"
+    },
+    "jaloux": {
+      "pt": "ciúmes",
+      "en": "jealous"
+    },
+    "s'acharne": {
+      "pt": "persiste",
+      "en": "persists"
+    },
+    "s'est": {
+      "pt": "é",
+      "en": "is"
+    },
+    "perdu": {
+      "pt": "perdido",
+      "en": "lost"
+    },
+    "compliqué": {
+      "pt": "complicado",
+      "en": "complicated"
+    },
+    "une": {
+      "pt": "um",
+      "en": "a"
+    },
+    "fois": {
+      "pt": "vezes",
+      "en": "times"
+    },
+    "qu'y": {
+      "pt": "isso aí",
+      "en": "that there"
+    },
+    "l'attention": {
+      "pt": "atenção",
+      "en": "attention"
+    },
+    "lui": {
+      "pt": "ele",
+      "en": "him"
+    },
+    "êtes": {
+      "pt": "são",
+      "en": "are"
+    },
+    "tous": {
+      "pt": "todos",
+      "en": "all"
+    },
+    "des": {
+      "pt": "do",
+      "en": "of the"
+    },
+    "moutons": {
+      "pt": "ovelha",
+      "en": "sheep"
+    },
+    "société": {
+      "pt": "Empresa",
+      "en": ""
+    },
+    "femmes": {
+      "pt": "mulheres",
+      "en": "women"
+    },
+    "sont": {
+      "pt": "são",
+      "en": "are"
+    },
+    "menteuses": {
+      "pt": "mentirosos",
+      "en": "liars"
+    },
+    "monde": {
+      "pt": "mundo",
+      "en": "world"
+    },
+    "sait": {
+      "pt": "sabe",
+      "en": "knows"
+    },
+    "mon": {
+      "pt": "Meu",
+      "en": "My"
+    },
+    "pays": {
+      "pt": "país",
+      "en": "country"
+    },
+    "mes": {
+      "pt": "meu",
+      "en": "my"
+    },
+    "valeurs": {
+      "pt": "valores",
+      "en": "values"
+    },
+    "que": {
+      "pt": "que",
+      "en": "that"
+    },
+    "même": {
+      "pt": "até",
+      "en": "even"
+    },
+    "s'il": {
+      "pt": "se ele",
+      "en": "if he"
+    },
+    "du": {
+      "pt": "de",
+      "en": "of"
+    },
+    "mal": {
+      "pt": "errado",
+      "en": "wrong"
+    },
+    "taire": {
+      "pt": "silêncio",
+      "en": "silence"
+    },
+    "si": {
+      "pt": "se",
+      "en": "if"
+    },
+    "mauvais": {
+      "pt": "ruim",
+      "en": "bad"
+    },
+    "vraie": {
+      "pt": "verdadeiro",
+      "en": "true"
+    },
+    "tort": {
+      "pt": "errado",
+      "en": "wrong"
+    },
+    "faire": {
+      "pt": "PENDÊNCIA",
+      "en": "TO DO"
+    },
+    "ça": {
+      "pt": "Que",
+      "en": "That"
+    },
+    "trouve": {
+      "pt": "encontrar",
+      "en": "find"
+    },
+    "croit": {
+      "pt": "acredita",
+      "en": "believes"
+    },
+    "propres": {
+      "pt": "limpar",
+      "en": "clean"
+    },
+    "conneries": {
+      "pt": "besteira",
+      "en": "bullshit"
+    },
+    "soit": {
+      "pt": "qualquer",
+      "en": "either"
+    },
+    "haï": {
+      "pt": "odiado",
+      "en": "hated"
+    },
+    "tant": {
+      "pt": "muito",
+      "en": "so much"
+    },
+    "qu'on": {
+      "pt": "que nós",
+      "en": "that we"
+    },
+    "parle": {
+      "pt": "falar",
+      "en": "speak"
+    },
+    "encore": {
+      "pt": "De novo",
+      "en": "Again"
+    }
+  },
+  "ordem": 15
+}

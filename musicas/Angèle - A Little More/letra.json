@@ -1,0 +1,361 @@
+{
+  "titulo": "A Little More",
+  "artista": "Angèle",
+  "arquivo_audio": "audio.mp3",
+  "linhas": [
+    {
+      "tempo": 7.53,
+      "fr": "As long as I try, I know",
+      "pt": "Contanto que eu tente, eu sei",
+      "en": "As long as I try, I know"
+    },
+    {
+      "tempo": 9.96,
+      "fr": "Time always flies, I know",
+      "pt": "O tempo sempre voa, eu sei",
+      "en": "Time always flies, I know"
+    },
+    {
+      "tempo": 11.64,
+      "fr": "But I'll take a chance",
+      "pt": "Mas vou arriscar",
+      "en": "But I'll take a chance"
+    },
+    {
+      "tempo": 14.12,
+      "fr": "J'y crois encore",
+      "pt": "Eu ainda acredito nisso",
+      "en": "I still believe in it"
+    },
+    {
+      "tempo": 15.35,
+      "fr": "I wanna play among the stars",
+      "pt": "Eu quero brincar entre as estrelas",
+      "en": "I wanna play among the stars"
+    },
+    {
+      "tempo": 17.5,
+      "fr": "A little more",
+      "pt": "Um pouco mais",
+      "en": "A little more"
+    },
+    {
+      "tempo": 19.2,
+      "fr": "'Till they get into my eyes",
+      "pt": "'Até que eles entrem nos meus olhos",
+      "en": "'Till they get into my eyes"
+    },
+    {
+      "tempo": 21.22,
+      "fr": "A little more",
+      "pt": "Um pouco mais",
+      "en": "A little more"
+    },
+    {
+      "tempo": 23.53,
+      "fr": "As long as I wanted to",
+      "pt": "Enquanto eu quisesse",
+      "en": "As long as I wanted to"
+    },
+    {
+      "tempo": 25.94,
+      "fr": "I've been more comfortable",
+      "pt": "Eu estive mais confortável",
+      "en": "I've been more comfortable"
+    },
+    {
+      "tempo": 27.39,
+      "fr": "'Cause I'll take a chance",
+      "pt": "Porque eu vou arriscar",
+      "en": "'Cause I'll take a chance"
+    },
+    {
+      "tempo": 29.59,
+      "fr": "J'y crois encore",
+      "pt": "Eu ainda acredito nisso",
+      "en": "I still believe in it"
+    },
+    {
+      "tempo": 30.87,
+      "fr": "I wanna play among the stars",
+      "pt": "Eu quero brincar entre as estrelas",
+      "en": "I wanna play among the stars"
+    },
+    {
+      "tempo": 33.36,
+      "fr": "A little more",
+      "pt": "Um pouco mais",
+      "en": "A little more"
+    },
+    {
+      "tempo": 35.11,
+      "fr": "'Till they get into my eyes",
+      "pt": "'Até que eles entrem nos meus olhos",
+      "en": "'Till they get into my eyes"
+    },
+    {
+      "tempo": 36.83,
+      "fr": "A little more",
+      "pt": "Um pouco mais",
+      "en": "A little more"
+    },
+    {
+      "tempo": 38.94,
+      "fr": "As long as I try, I know",
+      "pt": "Contanto que eu tente, eu sei",
+      "en": "As long as I try, I know"
+    },
+    {
+      "tempo": 41.27,
+      "fr": "Time always flies, I know",
+      "pt": "O tempo sempre voa, eu sei",
+      "en": "Time always flies, I know"
+    },
+    {
+      "tempo": 42.99,
+      "fr": "But I'll take a chance",
+      "pt": "Mas vou arriscar",
+      "en": "But I'll take a chance"
+    },
+    {
+      "tempo": 45.58,
+      "fr": "J'y crois encore",
+      "pt": "Eu ainda acredito nisso",
+      "en": "I still believe in it"
+    },
+    {
+      "tempo": 47.0,
+      "fr": "I wanna play among the stars",
+      "pt": "Eu quero brincar entre as estrelas",
+      "en": "I wanna play among the stars"
+    },
+    {
+      "tempo": 49.09,
+      "fr": "A little more",
+      "pt": "Um pouco mais",
+      "en": "A little more"
+    },
+    {
+      "tempo": 50.86,
+      "fr": "'Till they get into my eyes",
+      "pt": "'Até que eles entrem nos meus olhos",
+      "en": "'Till they get into my eyes"
+    },
+    {
+      "tempo": 52.54,
+      "fr": "J'y crois encore",
+      "pt": "Eu ainda acredito nisso",
+      "en": "I still believe in it"
+    },
+    {
+      "tempo": 54.69,
+      "fr": "I wanna play among the stars",
+      "pt": "Eu quero brincar entre as estrelas",
+      "en": "I wanna play among the stars"
+    },
+    {
+      "tempo": 56.3,
+      "fr": "A little more",
+      "pt": "Um pouco mais",
+      "en": "A little more"
+    },
+    {
+      "tempo": 58.14,
+      "fr": "'Till they get into my eyes",
+      "pt": "'Até que eles entrem nos meus olhos",
+      "en": "'Till they get into my eyes"
+    },
+    {
+      "tempo": 60.0,
+      "fr": "A little more",
+      "pt": "Um pouco mais",
+      "en": "A little more"
+    },
+    {
+      "tempo": 61.56,
+      "fr": "As long as I try, I know",
+      "pt": "Contanto que eu tente, eu sei",
+      "en": "As long as I try, I know"
+    },
+    {
+      "tempo": 63.6,
+      "fr": "Time always flies, I know",
+      "pt": "O tempo sempre voa, eu sei",
+      "en": "Time always flies, I know"
+    },
+    {
+      "tempo": 65.27,
+      "fr": "I've been more comfortable",
+      "pt": "Eu estive mais confortável",
+      "en": "I've been more comfortable"
+    },
+    {
+      "tempo": 66.9,
+      "fr": "'Cause I'll take a chance",
+      "pt": "Porque eu vou arriscar",
+      "en": "'Cause I'll take a chance"
+    },
+    {
+      "tempo": 69.14,
+      "fr": "A little more",
+      "pt": "Um pouco mais",
+      "en": "A little more"
+    },
+    {
+      "tempo": 71.2,
+      "fr": "A little more",
+      "pt": "Um pouco mais",
+      "en": "A little more"
+    },
+    {
+      "tempo": 73.02,
+      "fr": "A little more",
+      "pt": "Um pouco mais",
+      "en": "A little more"
+    }
+  ],
+  "vocabulario": {
+    "as": {
+      "pt": "ás",
+      "en": "ace"
+    },
+    "long": {
+      "pt": "longo",
+      "en": "long"
+    },
+    "i": {
+      "pt": "eu",
+      "en": "i"
+    },
+    "try": {
+      "pt": "tentar",
+      "en": "try"
+    },
+    "know": {
+      "pt": "saber",
+      "en": "know"
+    },
+    "time": {
+      "pt": "tempo",
+      "en": "time"
+    },
+    "always": {
+      "pt": "sempre",
+      "en": "always"
+    },
+    "flies": {
+      "pt": "voa",
+      "en": "flies"
+    },
+    "but": {
+      "pt": "mirar",
+      "en": "aim"
+    },
+    "i'll": {
+      "pt": "doente",
+      "en": "i'll"
+    },
+    "take": {
+      "pt": "pegar",
+      "en": "take"
+    },
+    "a": {
+      "pt": "tem",
+      "en": "has"
+    },
+    "chance": {
+      "pt": "chance",
+      "en": "chance"
+    },
+    "j'y": {
+      "pt": "eu estou lá",
+      "en": "I'm there"
+    },
+    "crois": {
+      "pt": "acreditar",
+      "en": "believe"
+    },
+    "encore": {
+      "pt": "De novo",
+      "en": "Again"
+    },
+    "wanna": {
+      "pt": "quero",
+      "en": "wanna"
+    },
+    "play": {
+      "pt": "jogar",
+      "en": "play"
+    },
+    "among": {
+      "pt": "entre",
+      "en": "among"
+    },
+    "the": {
+      "pt": "chá",
+      "en": "tea"
+    },
+    "stars": {
+      "pt": "estrelas",
+      "en": "stars"
+    },
+    "little": {
+      "pt": "pequeno",
+      "en": "little"
+    },
+    "more": {
+      "pt": "mais",
+      "en": "more"
+    },
+    "till": {
+      "pt": "até",
+      "en": "till"
+    },
+    "they": {
+      "pt": "eles",
+      "en": "they"
+    },
+    "get": {
+      "pt": "pegar",
+      "en": "get"
+    },
+    "into": {
+      "pt": "em",
+      "en": "into"
+    },
+    "my": {
+      "pt": "meu",
+      "en": "my"
+    },
+    "eyes": {
+      "pt": "olhos",
+      "en": "eyes"
+    },
+    "wanted": {
+      "pt": "desejado",
+      "en": "wanted"
+    },
+    "to": {
+      "pt": "para",
+      "en": "to"
+    },
+    "i've": {
+      "pt": "eu tenho",
+      "en": "i've"
+    },
+    "been": {
+      "pt": "estive",
+      "en": "been"
+    },
+    "comfortable": {
+      "pt": "confortável",
+      "en": "comfortable"
+    },
+    "cause": {
+      "pt": "causa",
+      "en": "cause"
+    }
+  },
+  "ordem": 1,
+  "favorito": false
+}

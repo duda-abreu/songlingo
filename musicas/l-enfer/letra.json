@@ -1,0 +1,582 @@
+{
+  "titulo": "L'enfer",
+  "artista": "Stromae",
+  "arquivo_audio": "audio.mp3",
+  "linhas": [
+    {
+      "tempo": 23.48,
+      "fr": "J'suis pas tout seul à être tout seul",
+      "pt": "Eu não estou sozinho em estar sozinho",
+      "en": "I'm not alone in being alone"
+    },
+    {
+      "tempo": 26.2,
+      "fr": "Ça fait déjà ça d'moins dans la tête",
+      "pt": "Isso já está menos na minha cabeça",
+      "en": "That's already less in my head"
+    },
+    {
+      "tempo": 28.65,
+      "fr": "Et si j'comptais combien on est?",
+      "pt": "E se eu contasse quantos de nós somos?",
+      "en": "What if I counted how many of us there are?"
+    },
+    {
+      "tempo": 33.05,
+      "fr": "Beaucoup",
+      "pt": "Bastante",
+      "en": "A lot"
+    },
+    {
+      "tempo": 34.56,
+      "fr": "Tout ce à quoi j'ai déjà pensé",
+      "pt": "Tudo que eu já pensei",
+      "en": "Everything I ever thought about"
+    },
+    {
+      "tempo": 36.85,
+      "fr": "Dire que plein d'autres y ont déjà pensé",
+      "pt": "E pensar que muitos outros já pensaram nisso",
+      "en": "To think that many others have already thought about it"
+    },
+    {
+      "tempo": 39.58,
+      "fr": "Mais malgré tout je m'sens tout seul",
+      "pt": "Mas apesar de tudo me sinto sozinho",
+      "en": "But despite everything I feel all alone"
+    },
+    {
+      "tempo": 43.82,
+      "fr": "Du coup",
+      "pt": "Como resultado",
+      "en": "As a result"
+    },
+    {
+      "tempo": 46.42,
+      "fr": "J'ai parfois eu des pensées suicidaires et j'en suis peu fier",
+      "pt": "Às vezes tive pensamentos suicidas e não me orgulho disso",
+      "en": "I have sometimes had suicidal thoughts and I'm not proud of it"
+    },
+    {
+      "tempo": 51.93,
+      "fr": "On croit parfois que c'est la seule manière de les faire taire",
+      "pt": "Às vezes acreditamos que esta é a única maneira de silenciá-los",
+      "en": "We sometimes believe that this is the only way to silence them"
+    },
+    {
+      "tempo": 57.38,
+      "fr": "Ces pensées qui me font vivre un enfer",
+      "pt": "Esses pensamentos que me fazem viver um inferno",
+      "en": "These thoughts that make me live hell"
+    },
+    {
+      "tempo": 62.73,
+      "fr": "Ces pensées qui me font vivre un enfer",
+      "pt": "Esses pensamentos que me fazem viver um inferno",
+      "en": "These thoughts that make me live hell"
+    },
+    {
+      "tempo": 77.51,
+      "fr": "Est-ce qu'y a que moi qui ai la télé?",
+      "pt": "Sou o único com TV?",
+      "en": "Am I the only one with the TV?"
+    },
+    {
+      "tempo": 80.02,
+      "fr": "Et la chaîne culpabilité?",
+      "pt": "E a cadeia de culpa?",
+      "en": "And the guilt chain?"
+    },
+    {
+      "tempo": 82.43,
+      "fr": "Mais faut bien s'changer les idées",
+      "pt": "Mas você tem que mudar de ideia",
+      "en": "But you have to change your mind"
+    },
+    {
+      "tempo": 86.58,
+      "fr": "Pas trop quand même",
+      "pt": "Mas não muito",
+      "en": "Not too much though"
+    },
+    {
+      "tempo": 88.27,
+      "fr": "Sinon ça repart vite dans la tête",
+      "pt": "Caso contrário, isso rapidamente ficará preso na sua cabeça",
+      "en": "Otherwise it quickly gets stuck in your head"
+    },
+    {
+      "tempo": 91.05,
+      "fr": "Et c'est trop tard pour qu'ça s'arrête",
+      "pt": "E é tarde demais para isso parar",
+      "en": "And it's too late for it to stop"
+    },
+    {
+      "tempo": 93.39,
+      "fr": "C'est là qu'j'aimerais tout oublier",
+      "pt": "É aqui que eu gostaria de esquecer tudo",
+      "en": "This is where I would like to forget everything"
+    },
+    {
+      "tempo": 97.93,
+      "fr": "Du coup",
+      "pt": "Como resultado",
+      "en": "As a result"
+    },
+    {
+      "tempo": 100.67,
+      "fr": "J'ai parfois eu des pensées suicidaires et j'en suis peu fier",
+      "pt": "Às vezes tive pensamentos suicidas e não me orgulho disso",
+      "en": "I have sometimes had suicidal thoughts and I'm not proud of it"
+    },
+    {
+      "tempo": 105.86,
+      "fr": "On croit parfois que c'est la seule manière de les faire taire",
+      "pt": "Às vezes acreditamos que esta é a única maneira de silenciá-los",
+      "en": "We sometimes believe that this is the only way to silence them"
+    },
+    {
+      "tempo": 111.25,
+      "fr": "Ces pensées qui me font vivre un enfer",
+      "pt": "Esses pensamentos que me fazem viver um inferno",
+      "en": "These thoughts that make me live hell"
+    },
+    {
+      "tempo": 116.63,
+      "fr": "Ces pensées qui me font vivre un enfer",
+      "pt": "Esses pensamentos que me fazem viver um inferno",
+      "en": "These thoughts that make me live hell"
+    },
+    {
+      "tempo": 142.26,
+      "fr": "Tu sais j'ai mûrement réfléchi",
+      "pt": "Você sabe que pensei nisso com cuidado",
+      "en": "You know I thought about it carefully"
+    },
+    {
+      "tempo": 144.85,
+      "fr": "Et je sais vraiment pas quoi faire de toi",
+      "pt": "E eu realmente não sei o que fazer com você",
+      "en": "And I really don't know what to do with you"
+    },
+    {
+      "tempo": 147.6,
+      "fr": "Justement, réfléchir",
+      "pt": "Exatamente, pense",
+      "en": "Exactly, think"
+    },
+    {
+      "tempo": 150.36,
+      "fr": "C'est bien l'problème avec toi",
+      "pt": "Esse é o problema com você",
+      "en": "That's the problem with you"
+    },
+    {
+      "tempo": 153.18,
+      "fr": "Tu sais j'ai mûrement réfléchi",
+      "pt": "Você sabe que pensei nisso com cuidado",
+      "en": "You know I thought about it carefully"
+    },
+    {
+      "tempo": 155.71,
+      "fr": "Et je sais vraiment pas quoi faire de toi",
+      "pt": "E eu realmente não sei o que fazer com você",
+      "en": "And I really don't know what to do with you"
+    },
+    {
+      "tempo": 158.58,
+      "fr": "Justement, réfléchir",
+      "pt": "Exatamente, pense",
+      "en": "Exactly, think"
+    },
+    {
+      "tempo": 161.26,
+      "fr": "C'est bien l'problème avec toi",
+      "pt": "Esse é o problema com você",
+      "en": "That's the problem with you"
+    }
+  ],
+  "vocabulario": {
+    "j'suis": {
+      "pt": "Eu sou",
+      "en": "I am"
+    },
+    "pas": {
+      "pt": "não",
+      "en": "not"
+    },
+    "tout": {
+      "pt": "Todos",
+      "en": "All"
+    },
+    "seul": {
+      "pt": "sozinho",
+      "en": "alone"
+    },
+    "à": {
+      "pt": "tem",
+      "en": "has"
+    },
+    "être": {
+      "pt": "ser",
+      "en": "be"
+    },
+    "ça": {
+      "pt": "Que",
+      "en": "That"
+    },
+    "fait": {
+      "pt": "fazer",
+      "en": "do"
+    },
+    "déjà": {
+      "pt": "Já",
+      "en": "Already"
+    },
+    "d'moins": {
+      "pt": "menos",
+      "en": "less"
+    },
+    "dans": {
+      "pt": "Em",
+      "en": "In"
+    },
+    "la": {
+      "pt": "lá",
+      "en": "there"
+    },
+    "tête": {
+      "pt": "cabeça",
+      "en": "head"
+    },
+    "et": {
+      "pt": "E",
+      "en": "And"
+    },
+    "si": {
+      "pt": "se",
+      "en": "if"
+    },
+    "j'comptais": {
+      "pt": "eu estava contando",
+      "en": "I was counting"
+    },
+    "combien": {
+      "pt": "Quanto",
+      "en": "How much"
+    },
+    "on": {
+      "pt": "nós",
+      "en": "we"
+    },
+    "est": {
+      "pt": "Leste",
+      "en": "East"
+    },
+    "beaucoup": {
+      "pt": "bastante",
+      "en": "a lot"
+    },
+    "ce": {
+      "pt": "Esse",
+      "en": "This"
+    },
+    "quoi": {
+      "pt": "O que",
+      "en": "What"
+    },
+    "j'ai": {
+      "pt": "Eu tenho",
+      "en": "I have"
+    },
+    "pensé": {
+      "pt": "pensar",
+      "en": "think"
+    },
+    "dire": {
+      "pt": "dizer",
+      "en": "say"
+    },
+    "que": {
+      "pt": "que",
+      "en": "that"
+    },
+    "plein": {
+      "pt": "completo",
+      "en": "full"
+    },
+    "d'autres": {
+      "pt": "outros",
+      "en": "others"
+    },
+    "y": {
+      "pt": "sim",
+      "en": "y"
+    },
+    "ont": {
+      "pt": "ter",
+      "en": "have"
+    },
+    "mais": {
+      "pt": "mas",
+      "en": "but"
+    },
+    "malgré": {
+      "pt": "apesar de",
+      "en": "despite"
+    },
+    "je": {
+      "pt": "EU",
+      "en": "I"
+    },
+    "m'sens": {
+      "pt": "eu sinto",
+      "en": "I feel"
+    },
+    "du": {
+      "pt": "de",
+      "en": "of"
+    },
+    "coup": {
+      "pt": "corte",
+      "en": "cut"
+    },
+    "parfois": {
+      "pt": "Às vezes",
+      "en": "Sometimes"
+    },
+    "eu": {
+      "pt": "tive",
+      "en": "had"
+    },
+    "des": {
+      "pt": "do",
+      "en": "of the"
+    },
+    "pensées": {
+      "pt": "pensamentos",
+      "en": "thoughts"
+    },
+    "suicidaires": {
+      "pt": "suicida",
+      "en": "suicidal"
+    },
+    "j'en": {
+      "pt": "Eu tenho",
+      "en": "I have"
+    },
+    "suis": {
+      "pt": "sou",
+      "en": "am"
+    },
+    "peu": {
+      "pt": "pequeno",
+      "en": "little"
+    },
+    "fier": {
+      "pt": "orgulhoso",
+      "en": "proud"
+    },
+    "croit": {
+      "pt": "acredita",
+      "en": "believes"
+    },
+    "c'est": {
+      "pt": "Isso é",
+      "en": "It is"
+    },
+    "seule": {
+      "pt": "sozinho",
+      "en": "alone"
+    },
+    "manière": {
+      "pt": "maneiras",
+      "en": "manner"
+    },
+    "de": {
+      "pt": "de",
+      "en": "of"
+    },
+    "les": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "faire": {
+      "pt": "PENDÊNCIA",
+      "en": "TO DO"
+    },
+    "taire": {
+      "pt": "silêncio",
+      "en": "silence"
+    },
+    "ces": {
+      "pt": "esses",
+      "en": "these"
+    },
+    "qui": {
+      "pt": "Quem",
+      "en": "Who"
+    },
+    "me": {
+      "pt": "meu",
+      "en": "me"
+    },
+    "font": {
+      "pt": "fazer",
+      "en": "make"
+    },
+    "vivre": {
+      "pt": "ao vivo",
+      "en": "live"
+    },
+    "un": {
+      "pt": "UM",
+      "en": "A"
+    },
+    "enfer": {
+      "pt": "inferno",
+      "en": "hell"
+    },
+    "est-ce": {
+      "pt": "é isto",
+      "en": "is this"
+    },
+    "qu'y": {
+      "pt": "isso aí",
+      "en": "that there"
+    },
+    "a": {
+      "pt": "tem",
+      "en": "has"
+    },
+    "moi": {
+      "pt": "Meu",
+      "en": "Me"
+    },
+    "ai": {
+      "pt": "ai",
+      "en": "ai"
+    },
+    "télé": {
+      "pt": "TV",
+      "en": "TV"
+    },
+    "chaîne": {
+      "pt": "corrente",
+      "en": "chain"
+    },
+    "culpabilité": {
+      "pt": "culpa",
+      "en": "guilt"
+    },
+    "faut": {
+      "pt": "deve",
+      "en": "must"
+    },
+    "bien": {
+      "pt": "BOM",
+      "en": "GOOD"
+    },
+    "s'changer": {
+      "pt": "mudar",
+      "en": "change"
+    },
+    "idées": {
+      "pt": "ideias",
+      "en": "ideas"
+    },
+    "trop": {
+      "pt": "demais",
+      "en": "too much"
+    },
+    "quand": {
+      "pt": "Quando",
+      "en": "When"
+    },
+    "même": {
+      "pt": "até",
+      "en": "even"
+    },
+    "sinon": {
+      "pt": "De outra forma",
+      "en": "Otherwise"
+    },
+    "repart": {
+      "pt": "sai novamente",
+      "en": "leaves again"
+    },
+    "vite": {
+      "pt": "rapidamente",
+      "en": "quickly"
+    },
+    "tard": {
+      "pt": "tarde",
+      "en": "late"
+    },
+    "pour": {
+      "pt": "Para",
+      "en": "For"
+    },
+    "qu'ça": {
+      "pt": "isso isso",
+      "en": "that that"
+    },
+    "s'arrête": {
+      "pt": "para",
+      "en": "stops"
+    },
+    "là": {
+      "pt": "lá",
+      "en": "there"
+    },
+    "qu'j'aimerais": {
+      "pt": "que eu gostaria",
+      "en": "that I would like"
+    },
+    "oublier": {
+      "pt": "esquecer",
+      "en": "forget"
+    },
+    "tu": {
+      "pt": "você",
+      "en": "you"
+    },
+    "sais": {
+      "pt": "saber",
+      "en": "know"
+    },
+    "mûrement": {
+      "pt": "maduramente",
+      "en": "maturely"
+    },
+    "réfléchi": {
+      "pt": "considerado",
+      "en": "thoughtful"
+    },
+    "vraiment": {
+      "pt": "Realmente",
+      "en": "Really"
+    },
+    "toi": {
+      "pt": "Você",
+      "en": "You"
+    },
+    "justement": {
+      "pt": "exatamente",
+      "en": "exactly"
+    },
+    "réfléchir": {
+      "pt": "refletir sobre",
+      "en": "to reflect on"
+    },
+    "l'problème": {
+      "pt": "o problema",
+      "en": "the problem"
+    },
+    "avec": {
+      "pt": "com",
+      "en": "with"
+    }
+  },
+  "ordem": 32
+}

@@ -1,0 +1,618 @@
+{
+  "titulo": "Promets-moi",
+  "artista": "Angèle",
+  "arquivo_audio": "audio.mp3",
+  "linhas": [
+    {
+      "tempo": 10.41,
+      "fr": "Déjà tombée la nuit",
+      "pt": "A noite já caiu",
+      "en": "Night has already fallen"
+    },
+    {
+      "tempo": 12.65,
+      "fr": "Elle sera ma seule amie ce soir",
+      "pt": "Ela será minha única amiga esta noite",
+      "en": "She will be my only friend tonight"
+    },
+    {
+      "tempo": 15.11,
+      "fr": "Déshabillée aussi",
+      "pt": "Despido também",
+      "en": "Undressed too"
+    },
+    {
+      "tempo": 17.08,
+      "fr": "Il n'y a personne dans le reflet du miroir",
+      "pt": "Não há ninguém no reflexo do espelho",
+      "en": "There is no one in the mirror reflection"
+    },
+    {
+      "tempo": 20.26,
+      "fr": "Je ne te fais pas peur",
+      "pt": "Eu não te assusto",
+      "en": "I don't scare you"
+    },
+    {
+      "tempo": 22.37,
+      "fr": "Tu as déjà pris mon coeur",
+      "pt": "Você já pegou meu coração",
+      "en": "You already took my heart"
+    },
+    {
+      "tempo": 24.57,
+      "fr": "Pourtant quand j'évoque mes sentiments",
+      "pt": "No entanto, quando falo sobre meus sentimentos",
+      "en": "Yet when I talk about my feelings"
+    },
+    {
+      "tempo": 27.24,
+      "fr": "Tu me fuis pendant des heures",
+      "pt": "Você foge de mim por horas",
+      "en": "You run away from me for hours"
+    },
+    {
+      "tempo": 29.1,
+      "fr": "Promets-moi que tu reviendras",
+      "pt": "Prometa-me que você voltará",
+      "en": "Promise me you'll come back"
+    },
+    {
+      "tempo": 31.24,
+      "fr": "Promets-moi que je ne t'attende pas",
+      "pt": "Prometa-me que não vou esperar por você",
+      "en": "Promise me I won't wait for you"
+    },
+    {
+      "tempo": 33.61,
+      "fr": "Promets-moi qu'on se reverra",
+      "pt": "Prometa-me que nos veremos novamente",
+      "en": "Promise me we'll see each other again"
+    },
+    {
+      "tempo": 36.03,
+      "fr": "Promets-moi que tu reviendras",
+      "pt": "Prometa-me que você voltará",
+      "en": "Promise me you'll come back"
+    },
+    {
+      "tempo": 49.33,
+      "fr": "Les arbres auront fleuri",
+      "pt": "As árvores terão florescido",
+      "en": "The trees will have blossomed"
+    },
+    {
+      "tempo": 50.95,
+      "fr": "Le sablier sera vidé",
+      "pt": "A ampulheta será esvaziada",
+      "en": "The hourglass will be emptied"
+    },
+    {
+      "tempo": 53.34,
+      "fr": "Dis moi si c'est fini",
+      "pt": "Diga-me se acabou",
+      "en": "Tell me if it's over"
+    },
+    {
+      "tempo": 55.42,
+      "fr": "Que je me fasse à l'idée",
+      "pt": "Deixe-me decidir",
+      "en": "Let me make up my mind"
+    },
+    {
+      "tempo": 58.37,
+      "fr": "Non, Je ne te fais pas peur",
+      "pt": "Não, eu não estou assustando você",
+      "en": "No, I'm not scaring you"
+    },
+    {
+      "tempo": 60.88,
+      "fr": "Tu as déjà pris mon coeur",
+      "pt": "Você já pegou meu coração",
+      "en": "You already took my heart"
+    },
+    {
+      "tempo": 63.16,
+      "fr": "Pourtant quand j'évoque mes sentiments",
+      "pt": "No entanto, quando falo sobre meus sentimentos",
+      "en": "Yet when I talk about my feelings"
+    },
+    {
+      "tempo": 65.69,
+      "fr": "Tu me fuis pendant des heures",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 68.08,
+      "fr": "Promets-moi que tu reviendras",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 69.66,
+      "fr": "Promets-moi que je ne t'attende pas",
+      "pt": "Prometa-me que não vou esperar por você",
+      "en": "Promise me I won't wait for you"
+    },
+    {
+      "tempo": 72.39,
+      "fr": "Promets-moi qu'on se reverra",
+      "pt": "",
+      "en": "Promise me we'll see each other again"
+    },
+    {
+      "tempo": 74.44,
+      "fr": "Promets-moi que tu reviendras",
+      "pt": "Prometa-me que você voltará",
+      "en": "Promise me you'll come back"
+    },
+    {
+      "tempo": 96.83,
+      "fr": "Je te veux, tu le sais",
+      "pt": "Eu quero você, você sabe disso",
+      "en": "I want you, you know it"
+    },
+    {
+      "tempo": 97.92,
+      "fr": "Tu me fuis, c'est risqué",
+      "pt": "Você está fugindo de mim, é arriscado",
+      "en": "You're running away from me, it's risky"
+    },
+    {
+      "tempo": 98.98,
+      "fr": "Je ne veux plus t'attendre oh non",
+      "pt": "Eu não quero mais esperar por você, oh não",
+      "en": "I don't want to wait for you anymore oh no"
+    },
+    {
+      "tempo": 101.37,
+      "fr": "J'suis partie, t'as trouvé",
+      "pt": "Eu saí, você encontrou",
+      "en": "I left, you found"
+    },
+    {
+      "tempo": 102.65,
+      "fr": "J'ai menti, je t'en voulais",
+      "pt": "Eu menti, estava bravo com você",
+      "en": "I lied, I was mad at you"
+    },
+    {
+      "tempo": 103.76,
+      "fr": "Je ne veux plus t'attendre oh non",
+      "pt": "Eu não quero mais esperar por você, oh não",
+      "en": "I don't want to wait for you anymore oh no"
+    },
+    {
+      "tempo": 106.46,
+      "fr": "Je ne te fais pas peur",
+      "pt": "Eu não te assusto",
+      "en": "I don't scare you"
+    },
+    {
+      "tempo": 108.54,
+      "fr": "Tu as déjà pris mon coeur",
+      "pt": "Você já pegou meu coração",
+      "en": "You already took my heart"
+    },
+    {
+      "tempo": 110.61,
+      "fr": "Pourtant quand j'évoque mes sentiments",
+      "pt": "No entanto, quando falo sobre meus sentimentos",
+      "en": "Yet when I talk about my feelings"
+    },
+    {
+      "tempo": 113.36,
+      "fr": "Tu me fuis pendant des heures",
+      "pt": "Você foge de mim por horas",
+      "en": "You run away from me for hours"
+    },
+    {
+      "tempo": 115.71,
+      "fr": "Promets-moi que tu reviendras",
+      "pt": "Prometa-me que você voltará",
+      "en": "Promise me you'll come back"
+    },
+    {
+      "tempo": 117.67,
+      "fr": "Promets-moi que je ne t'attende pas",
+      "pt": "Prometa-me que não vou esperar por você",
+      "en": "Promise me I won't wait for you"
+    },
+    {
+      "tempo": 120.03,
+      "fr": "Promets-moi qu'on se reverra",
+      "pt": "Prometa-me que nos veremos novamente",
+      "en": "Promise me we'll see each other again"
+    },
+    {
+      "tempo": 122.48,
+      "fr": "Promets-moi que tu m'aimeras",
+      "pt": "Prometa-me que você vai me amar",
+      "en": "Promise me you'll love me"
+    },
+    {
+      "tempo": 144.91,
+      "fr": "Je te veux, tu le sais",
+      "pt": "Eu quero você, você sabe disso",
+      "en": "I want you, you know it"
+    },
+    {
+      "tempo": 145.95,
+      "fr": "Tu me fuis, c'est risqué",
+      "pt": "Você está fugindo de mim, é arriscado",
+      "en": "You're running away from me, it's risky"
+    },
+    {
+      "tempo": 147.02,
+      "fr": "Je ne veux plus t'attendre oh non",
+      "pt": "Eu não quero mais esperar por você, oh não",
+      "en": "I don't want to wait for you anymore oh no"
+    },
+    {
+      "tempo": 149.11,
+      "fr": "J'suis partie, t'as trouvé",
+      "pt": "Eu saí, você encontrou",
+      "en": "I left, you found"
+    },
+    {
+      "tempo": 150.77,
+      "fr": "J'ai menti, je t'en voulais",
+      "pt": "Eu menti, estava bravo com você",
+      "en": "I lied, I was mad at you"
+    },
+    {
+      "tempo": 151.86,
+      "fr": "Je ne veux plus t'attendre oh non",
+      "pt": "Eu não quero mais esperar por você, oh não",
+      "en": "I don't want to wait for you anymore oh no"
+    },
+    {
+      "tempo": 164.05,
+      "fr": "Promets-moi que tu reviendras",
+      "pt": "Prometa-me que você voltará",
+      "en": "Promise me you'll come back"
+    },
+    {
+      "tempo": 165.62,
+      "fr": "Promets-moi que je ne t'attende pas",
+      "pt": "Prometa-me que não vou esperar por você",
+      "en": "Promise me I won't wait for you"
+    },
+    {
+      "tempo": 168.08,
+      "fr": "Promets-moi qu'on se reverra",
+      "pt": "Prometa-me que nos veremos novamente",
+      "en": "Promise me we'll see each other again"
+    },
+    {
+      "tempo": 170.32,
+      "fr": "Promets-moi que tu m'aimeras",
+      "pt": "Prometa-me que você vai me amar",
+      "en": "Promise me you'll love me"
+    }
+  ],
+  "vocabulario": {
+    "déjà": {
+      "pt": "Já",
+      "en": "Already"
+    },
+    "tombée": {
+      "pt": "caído",
+      "en": "fallen"
+    },
+    "la": {
+      "pt": "lá",
+      "en": "there"
+    },
+    "nuit": {
+      "pt": "noite",
+      "en": "night"
+    },
+    "elle": {
+      "pt": "Ela",
+      "en": "She"
+    },
+    "sera": {
+      "pt": "vai ser",
+      "en": "will be"
+    },
+    "ma": {
+      "pt": "meu",
+      "en": "my"
+    },
+    "seule": {
+      "pt": "sozinho",
+      "en": "alone"
+    },
+    "amie": {
+      "pt": "amigo",
+      "en": "friend"
+    },
+    "ce": {
+      "pt": "Esse",
+      "en": "This"
+    },
+    "soir": {
+      "pt": "noite",
+      "en": "evening"
+    },
+    "déshabillée": {
+      "pt": "despido",
+      "en": "undressed"
+    },
+    "aussi": {
+      "pt": "Também",
+      "en": "Also"
+    },
+    "il": {
+      "pt": "ele",
+      "en": "he"
+    },
+    "n'y": {
+      "pt": "não",
+      "en": "no"
+    },
+    "a": {
+      "pt": "tem",
+      "en": "has"
+    },
+    "personne": {
+      "pt": "pessoa",
+      "en": "person"
+    },
+    "dans": {
+      "pt": "",
+      "en": "In"
+    },
+    "le": {
+      "pt": "O",
+      "en": ""
+    },
+    "reflet": {
+      "pt": "reflexão",
+      "en": "reflection"
+    },
+    "du": {
+      "pt": "de",
+      "en": "of"
+    },
+    "miroir": {
+      "pt": "espelho",
+      "en": "mirror"
+    },
+    "je": {
+      "pt": "EU",
+      "en": "I"
+    },
+    "ne": {
+      "pt": "nascer",
+      "en": "born"
+    },
+    "te": {
+      "pt": "você",
+      "en": "you"
+    },
+    "fais": {
+      "pt": "fazer",
+      "en": "do"
+    },
+    "pas": {
+      "pt": "não",
+      "en": "not"
+    },
+    "peur": {
+      "pt": "temer",
+      "en": "fear"
+    },
+    "tu": {
+      "pt": "você",
+      "en": "you"
+    },
+    "as": {
+      "pt": "ás",
+      "en": "ace"
+    },
+    "pris": {
+      "pt": "levado",
+      "en": "taken"
+    },
+    "mon": {
+      "pt": "Meu",
+      "en": "My"
+    },
+    "coeur": {
+      "pt": "coração",
+      "en": "heart"
+    },
+    "pourtant": {
+      "pt": "Ainda",
+      "en": "Yet"
+    },
+    "quand": {
+      "pt": "Quando",
+      "en": "When"
+    },
+    "j'évoque": {
+      "pt": "eu menciono",
+      "en": "I mention"
+    },
+    "mes": {
+      "pt": "meu",
+      "en": "my"
+    },
+    "sentiments": {
+      "pt": "sentimentos",
+      "en": "feelings"
+    },
+    "me": {
+      "pt": "meu",
+      "en": "me"
+    },
+    "fuis": {
+      "pt": "fugir",
+      "en": "run away"
+    },
+    "pendant": {
+      "pt": "durante",
+      "en": "during"
+    },
+    "des": {
+      "pt": "do",
+      "en": "of the"
+    },
+    "heures": {
+      "pt": "horas",
+      "en": "hours"
+    },
+    "promets-moi": {
+      "pt": "prometa-me",
+      "en": "promise me"
+    },
+    "que": {
+      "pt": "que",
+      "en": "that"
+    },
+    "reviendras": {
+      "pt": "voltará",
+      "en": "will come back"
+    },
+    "t'attende": {
+      "pt": "espere por você",
+      "en": "wait for you"
+    },
+    "qu'on": {
+      "pt": "que nós",
+      "en": "that we"
+    },
+    "se": {
+      "pt": "se",
+      "en": "se"
+    },
+    "reverra": {
+      "pt": "veremos novamente",
+      "en": "will see again"
+    },
+    "les": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "arbres": {
+      "pt": "árvores",
+      "en": "trees"
+    },
+    "auront": {
+      "pt": "terá",
+      "en": "will have"
+    },
+    "fleuri": {
+      "pt": "florido",
+      "en": "flowery"
+    },
+    "sablier": {
+      "pt": "ampulheta",
+      "en": "hourglass"
+    },
+    "vidé": {
+      "pt": "vazio",
+      "en": "empty"
+    },
+    "dis": {
+      "pt": "dizer",
+      "en": "say"
+    },
+    "moi": {
+      "pt": "Meu",
+      "en": "Me"
+    },
+    "si": {
+      "pt": "se",
+      "en": "if"
+    },
+    "c'est": {
+      "pt": "Isso é",
+      "en": "It is"
+    },
+    "fini": {
+      "pt": "finalizado",
+      "en": "finished"
+    },
+    "fasse": {
+      "pt": "fazer",
+      "en": "do"
+    },
+    "à": {
+      "pt": "tem",
+      "en": "has"
+    },
+    "l'idée": {
+      "pt": "a ideia",
+      "en": "the idea"
+    },
+    "non": {
+      "pt": "Não",
+      "en": "No"
+    },
+    "veux": {
+      "pt": "querer",
+      "en": "want"
+    },
+    "sais": {
+      "pt": "saber",
+      "en": "know"
+    },
+    "risqué": {
+      "pt": "risco",
+      "en": "risk"
+    },
+    "plus": {
+      "pt": "mais",
+      "en": "more"
+    },
+    "t'attendre": {
+      "pt": "espere por você",
+      "en": "wait for you"
+    },
+    "oh": {
+      "pt": "Oh",
+      "en": "Oh"
+    },
+    "j'suis": {
+      "pt": "Eu sou",
+      "en": "I am"
+    },
+    "partie": {
+      "pt": "papel",
+      "en": "part"
+    },
+    "t'as": {
+      "pt": "você tem",
+      "en": "you have"
+    },
+    "trouvé": {
+      "pt": "encontrar",
+      "en": "find"
+    },
+    "j'ai": {
+      "pt": "Eu tenho",
+      "en": "I have"
+    },
+    "menti": {
+      "pt": "mentiu",
+      "en": "lied"
+    },
+    "t'en": {
+      "pt": "não se preocupe",
+      "en": "don't worry"
+    },
+    "voulais": {
+      "pt": "desejado",
+      "en": "wanted"
+    },
+    "m'aimeras": {
+      "pt": "vai me amar",
+      "en": "will love me"
+    }
+  },
+  "ordem": 18
+}

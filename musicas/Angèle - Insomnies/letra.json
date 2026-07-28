@@ -1,0 +1,760 @@
+{
+  "titulo": "Insomnies",
+  "artista": "Angèle",
+  "arquivo_audio": "audio.mp3",
+  "linhas": [
+    {
+      "tempo": 3.76,
+      "fr": "J'ai pas vu venir la nuit ni les ombres qui passent",
+      "pt": "Eu não vi a noite chegando ou as sombras que passavam",
+      "en": "I didn't see the night coming or the passing shadows"
+    },
+    {
+      "tempo": 8.22,
+      "fr": "On m'a dit que celle-ci porte conseil",
+      "pt": "Me disseram que este dá conselhos",
+      "en": "I was told that this one gives advice"
+    },
+    {
+      "tempo": 11.35,
+      "fr": "Si seulement je dormais",
+      "pt": "Se ao menos eu dormisse",
+      "en": "If only I slept"
+    },
+    {
+      "tempo": 15.75,
+      "fr": "4 heures du matin, cette musique me dit rien",
+      "pt": "4 da manhã, essa música não significa nada para mim",
+      "en": "4 a.m., this music means nothing to me"
+    },
+    {
+      "tempo": 19.38,
+      "fr": "Et je ferme les yeux, on est déjà demain",
+      "pt": "E fecho os olhos, já é amanhã",
+      "en": "And I close my eyes, it's already tomorrow"
+    },
+    {
+      "tempo": 23.28,
+      "fr": "J'ai essayé en vain",
+      "pt": "Eu tentei em vão",
+      "en": "I tried in vain"
+    },
+    {
+      "tempo": 31.86,
+      "fr": "À trop attendre le sommeil",
+      "pt": "Esperando muito para dormir",
+      "en": "Waiting too long for sleep"
+    },
+    {
+      "tempo": 34.57,
+      "fr": "Je fatigue",
+      "pt": "Estou cansado",
+      "en": "I'm tired"
+    },
+    {
+      "tempo": 35.66,
+      "fr": "La nuit blanche m'offre ses pensées noires",
+      "pt": "A noite branca me oferece seus pensamentos negros",
+      "en": "The white night offers me its black thoughts"
+    },
+    {
+      "tempo": 38.73,
+      "fr": "Et le vide occulté",
+      "pt": "E o vazio oculto",
+      "en": "And the hidden void"
+    },
+    {
+      "tempo": 40.41,
+      "fr": "En plein jour éclairé, en pleine nuit",
+      "pt": "Em plena luz do dia, no meio da noite",
+      "en": "In broad daylight, in the middle of the night"
+    },
+    {
+      "tempo": 43.75,
+      "fr": "Insomnie, insomnie",
+      "pt": "Insônia, insônia",
+      "en": "Insomnia, insomnia"
+    },
+    {
+      "tempo": 51.55,
+      "fr": "Insomnie, la ville dort",
+      "pt": "Insônia, a cidade dorme",
+      "en": "Insomnia, the city sleeps"
+    },
+    {
+      "tempo": 53.59,
+      "fr": "J'vois les ombres comme des corps",
+      "pt": "Eu vejo sombras como corpos",
+      "en": "I see shadows like bodies"
+    },
+    {
+      "tempo": 59.56,
+      "fr": "Insomnie, comme des corps",
+      "pt": "Insônia, como corpos",
+      "en": "Insomnia, like bodies"
+    },
+    {
+      "tempo": 61.69,
+      "fr": "Et d'ici tout semble mort",
+      "pt": "E daqui tudo parece morto",
+      "en": "And from here everything seems dead"
+    },
+    {
+      "tempo": 63.63,
+      "fr": "Ce soir j'suis pas là, j'suis partie",
+      "pt": "Esta noite não estou aqui, fui embora",
+      "en": "This evening I'm not here, I left"
+    },
+    {
+      "tempo": 66.19,
+      "fr": "J'me balade et j'ai froid",
+      "pt": "Eu ando por aí e estou com frio",
+      "en": "I walk around and I'm cold"
+    },
+    {
+      "tempo": 68.34,
+      "fr": "Dans Paris, sa magie, ses angoisses",
+      "pt": "Em Paris, sua magia, suas ansiedades",
+      "en": "In Paris, its magic, its anxieties"
+    },
+    {
+      "tempo": 71.38,
+      "fr": "À quelques larmes de toi",
+      "pt": "Algumas lágrimas suas",
+      "en": "A few tears from you"
+    },
+    {
+      "tempo": 75.66,
+      "fr": "J'me dis que c'était pas lui, que c'était pas moi",
+      "pt": "Digo a mim mesmo que não foi ele, que não fui eu",
+      "en": "I tell myself that it wasn't him, that it wasn't me"
+    },
+    {
+      "tempo": 78.23,
+      "fr": "Le ciel gris, les orages",
+      "pt": "O céu cinzento, as tempestades",
+      "en": "The gray sky, the storms"
+    },
+    {
+      "tempo": 80.18,
+      "fr": "Quelques griffes nous survivent dans ton dos",
+      "pt": "Algumas garras nos sobrevivem pelas suas costas",
+      "en": "A few claws survive us behind your back"
+    },
+    {
+      "tempo": 83.17,
+      "fr": "C'était la dernière fois",
+      "pt": "Foi a última vez",
+      "en": "It was the last time"
+    },
+    {
+      "tempo": 91.95,
+      "fr": "À trop attendre le sommeil",
+      "pt": "Esperando muito para dormir",
+      "en": "Waiting too long for sleep"
+    },
+    {
+      "tempo": 94.46,
+      "fr": "Je fatigue",
+      "pt": "Estou cansado",
+      "en": "I'm tired"
+    },
+    {
+      "tempo": 95.56,
+      "fr": "La nuit blanche m'offre ses pensées noires",
+      "pt": "A noite branca me oferece seus pensamentos negros",
+      "en": "The white night offers me its black thoughts"
+    },
+    {
+      "tempo": 98.65,
+      "fr": "Et le vide occulté",
+      "pt": "E o vazio oculto",
+      "en": "And the hidden void"
+    },
+    {
+      "tempo": 100.47,
+      "fr": "En plein jour éclairé, en pleine nuit",
+      "pt": "Em plena luz do dia, no meio da noite",
+      "en": "In broad daylight, in the middle of the night"
+    },
+    {
+      "tempo": 103.72,
+      "fr": "Insomnie, insomnie",
+      "pt": "Insônia, insônia",
+      "en": "Insomnia, insomnia"
+    },
+    {
+      "tempo": 111.5,
+      "fr": "Insomnie, la ville dort",
+      "pt": "Insônia, a cidade dorme",
+      "en": "Insomnia, the city sleeps"
+    },
+    {
+      "tempo": 113.64,
+      "fr": "J'vois les ombres comme des corps",
+      "pt": "Eu vejo sombras como corpos",
+      "en": "I see shadows like bodies"
+    },
+    {
+      "tempo": 119.35,
+      "fr": "Insomnie, comme des corps",
+      "pt": "Insônia, como corpos",
+      "en": "Insomnia, like bodies"
+    },
+    {
+      "tempo": 121.45,
+      "fr": "Et d'ici tout semble mort",
+      "pt": "E daqui tudo parece morto",
+      "en": "And from here everything seems dead"
+    },
+    {
+      "tempo": 127.48,
+      "fr": "Insomnie, la ville dort",
+      "pt": "Insônia, a cidade dorme",
+      "en": "Insomnia, the city sleeps"
+    },
+    {
+      "tempo": 129.44,
+      "fr": "J'me sens seule, tout semble mort",
+      "pt": "Me sinto sozinho, tudo parece morto",
+      "en": "I feel alone, everything seems dead"
+    },
+    {
+      "tempo": 135.43,
+      "fr": "Insomnie, jusqu'à l'aurore",
+      "pt": "Insônia, até o amanhecer",
+      "en": "Insomnia, until dawn"
+    },
+    {
+      "tempo": 137.65,
+      "fr": "Et nos cauchemars vaudraient de l'or",
+      "pt": "E nossos pesadelos valeriam ouro",
+      "en": "And our nightmares would be worth gold"
+    },
+    {
+      "tempo": 143.7,
+      "fr": "Alors je pense mais je pense à quoi",
+      "pt": "Então eu penso, mas no que estou pensando?",
+      "en": "So I think but what am I thinking about?"
+    },
+    {
+      "tempo": 146.79,
+      "fr": "Je pense que j'assume pas",
+      "pt": "Eu acho que não presumo",
+      "en": "I think I don't assume"
+    },
+    {
+      "tempo": 148.78,
+      "fr": "J'pense trop dans ces cas-là",
+      "pt": "Eu penso demais nesses casos",
+      "en": "I think too much in these cases"
+    },
+    {
+      "tempo": 150.93,
+      "fr": "Et je pense mal, je pense mais je pense à quoi",
+      "pt": "E penso mal, penso, mas no que estou pensando?",
+      "en": "And I think badly, I think but what am I thinking about?"
+    },
+    {
+      "tempo": 154.83,
+      "fr": "Je pense que j'assume pas",
+      "pt": "Eu acho que não presumo",
+      "en": "I think I don't assume"
+    },
+    {
+      "tempo": 156.83,
+      "fr": "J'pense trop dans ces cas-là",
+      "pt": "Eu penso demais nesses casos",
+      "en": "I think too much in these cases"
+    },
+    {
+      "tempo": 166.82,
+      "fr": "Et je pense mal, si mal, si mal",
+      "pt": "E eu penso mal, tão mal, tão mal",
+      "en": "And I think bad, so bad, so bad"
+    },
+    {
+      "tempo": 175.5,
+      "fr": "Insomnie, la ville dort",
+      "pt": "Insônia, a cidade dorme",
+      "en": "Insomnia, the city sleeps"
+    },
+    {
+      "tempo": 177.41,
+      "fr": "J'vois les ombres comme des corps",
+      "pt": "Eu vejo sombras como corpos",
+      "en": "I see shadows like bodies"
+    },
+    {
+      "tempo": 183.23,
+      "fr": "Insomnie, comme des corps",
+      "pt": "Insônia, como corpos",
+      "en": "Insomnia, like bodies"
+    },
+    {
+      "tempo": 185.57,
+      "fr": "Et d'ici tout semble mort",
+      "pt": "E daqui tudo parece morto",
+      "en": "And from here everything seems dead"
+    }
+  ],
+  "vocabulario": {
+    "j'ai": {
+      "pt": "Eu tenho",
+      "en": "I have"
+    },
+    "pas": {
+      "pt": "não",
+      "en": "not"
+    },
+    "vu": {
+      "pt": "visto",
+      "en": "seen"
+    },
+    "venir": {
+      "pt": "vir",
+      "en": "come"
+    },
+    "la": {
+      "pt": "lá",
+      "en": "there"
+    },
+    "nuit": {
+      "pt": "noite",
+      "en": "night"
+    },
+    "ni": {
+      "pt": "nenhum",
+      "en": "neither"
+    },
+    "les": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "ombres": {
+      "pt": "sombras",
+      "en": "shadows"
+    },
+    "qui": {
+      "pt": "Quem",
+      "en": "Who"
+    },
+    "passent": {
+      "pt": "passar",
+      "en": "pass"
+    },
+    "on": {
+      "pt": "nós",
+      "en": "we"
+    },
+    "m'a": {
+      "pt": "meu",
+      "en": "my"
+    },
+    "dit": {
+      "pt": "disse",
+      "en": "said"
+    },
+    "que": {
+      "pt": "que",
+      "en": "that"
+    },
+    "celle-ci": {
+      "pt": "Este",
+      "en": "this one"
+    },
+    "porte": {
+      "pt": "porta",
+      "en": "door"
+    },
+    "conseil": {
+      "pt": "conselho",
+      "en": "advice"
+    },
+    "si": {
+      "pt": "se",
+      "en": "if"
+    },
+    "seulement": {
+      "pt": "apenas",
+      "en": "only"
+    },
+    "je": {
+      "pt": "EU",
+      "en": "I"
+    },
+    "dormais": {
+      "pt": "estava dormindo",
+      "en": "was sleeping"
+    },
+    "heures": {
+      "pt": "horas",
+      "en": "hours"
+    },
+    "du": {
+      "pt": "de",
+      "en": "of"
+    },
+    "matin": {
+      "pt": "Manhã",
+      "en": "Morning"
+    },
+    "cette": {
+      "pt": "esse",
+      "en": "this"
+    },
+    "musique": {
+      "pt": "música",
+      "en": "music"
+    },
+    "me": {
+      "pt": "meu",
+      "en": "me"
+    },
+    "rien": {
+      "pt": "Nada",
+      "en": "Nothing"
+    },
+    "et": {
+      "pt": "E",
+      "en": "And"
+    },
+    "ferme": {
+      "pt": "fazenda",
+      "en": "farm"
+    },
+    "yeux": {
+      "pt": "olhos",
+      "en": "eyes"
+    },
+    "est": {
+      "pt": "Leste",
+      "en": "East"
+    },
+    "déjà": {
+      "pt": "Já",
+      "en": "Already"
+    },
+    "demain": {
+      "pt": "amanhã",
+      "en": "tomorrow"
+    },
+    "essayé": {
+      "pt": "tentar",
+      "en": "try"
+    },
+    "en": {
+      "pt": "em",
+      "en": "in"
+    },
+    "vain": {
+      "pt": "vão",
+      "en": "vain"
+    },
+    "à": {
+      "pt": "tem",
+      "en": "has"
+    },
+    "trop": {
+      "pt": "demais",
+      "en": "too much"
+    },
+    "attendre": {
+      "pt": "esperar por",
+      "en": "to wait for"
+    },
+    "le": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "sommeil": {
+      "pt": "dormir",
+      "en": "sleep"
+    },
+    "fatigue": {
+      "pt": "fadiga",
+      "en": "fatigue"
+    },
+    "blanche": {
+      "pt": "branco",
+      "en": "white"
+    },
+    "m'offre": {
+      "pt": "me oferece",
+      "en": "offers me"
+    },
+    "ses": {
+      "pt": "dele",
+      "en": "his"
+    },
+    "pensées": {
+      "pt": "pensamentos",
+      "en": "thoughts"
+    },
+    "noires": {
+      "pt": "preto",
+      "en": "black"
+    },
+    "vide": {
+      "pt": "vazio",
+      "en": "empty"
+    },
+    "occulté": {
+      "pt": "oculto",
+      "en": "occult"
+    },
+    "plein": {
+      "pt": "completo",
+      "en": "full"
+    },
+    "jour": {
+      "pt": "dia",
+      "en": "day"
+    },
+    "éclairé": {
+      "pt": "iluminado",
+      "en": "enlightened"
+    },
+    "pleine": {
+      "pt": "completo",
+      "en": "full"
+    },
+    "insomnie": {
+      "pt": "insônia",
+      "en": "insomnia"
+    },
+    "ville": {
+      "pt": "cidade",
+      "en": "city"
+    },
+    "dort": {
+      "pt": "dorme",
+      "en": "sleeps"
+    },
+    "j'vois": {
+      "pt": "Eu vejo",
+      "en": "I see"
+    },
+    "comme": {
+      "pt": "como",
+      "en": "as"
+    },
+    "des": {
+      "pt": "do",
+      "en": "of the"
+    },
+    "corps": {
+      "pt": "corpo",
+      "en": "body"
+    },
+    "d'ici": {
+      "pt": "daqui",
+      "en": "from here"
+    },
+    "tout": {
+      "pt": "Todos",
+      "en": "All"
+    },
+    "semble": {
+      "pt": "parece",
+      "en": "seems"
+    },
+    "mort": {
+      "pt": "morto",
+      "en": "dead"
+    },
+    "ce": {
+      "pt": "Esse",
+      "en": "This"
+    },
+    "soir": {
+      "pt": "noite",
+      "en": "evening"
+    },
+    "j'suis": {
+      "pt": "Eu sou",
+      "en": "I am"
+    },
+    "là": {
+      "pt": "lá",
+      "en": "there"
+    },
+    "partie": {
+      "pt": "papel",
+      "en": "part"
+    },
+    "j'me": {
+      "pt": "EU",
+      "en": "I"
+    },
+    "balade": {
+      "pt": "andar de",
+      "en": "ride"
+    },
+    "froid": {
+      "pt": "frio",
+      "en": "cold"
+    },
+    "dans": {
+      "pt": "Em",
+      "en": "In"
+    },
+    "paris": {
+      "pt": "Paris",
+      "en": "Paris"
+    },
+    "sa": {
+      "pt": "isso é",
+      "en": "its"
+    },
+    "magie": {
+      "pt": "magia",
+      "en": "magic"
+    },
+    "angoisses": {
+      "pt": "ansiedades",
+      "en": "anxieties"
+    },
+    "quelques": {
+      "pt": "um pouco",
+      "en": "a few"
+    },
+    "larmes": {
+      "pt": "lágrimas",
+      "en": "tears"
+    },
+    "de": {
+      "pt": "de",
+      "en": "of"
+    },
+    "toi": {
+      "pt": "Você",
+      "en": "You"
+    },
+    "dis": {
+      "pt": "dizer",
+      "en": "say"
+    },
+    "c'était": {
+      "pt": "era",
+      "en": "it was"
+    },
+    "lui": {
+      "pt": "ele",
+      "en": "him"
+    },
+    "moi": {
+      "pt": "Meu",
+      "en": "Me"
+    },
+    "ciel": {
+      "pt": "céu",
+      "en": "sky"
+    },
+    "gris": {
+      "pt": "cinza",
+      "en": "gray"
+    },
+    "orages": {
+      "pt": "trovoadas",
+      "en": "thunderstorms"
+    },
+    "griffes": {
+      "pt": "garras",
+      "en": "claws"
+    },
+    "nous": {
+      "pt": "Nós",
+      "en": "We"
+    },
+    "survivent": {
+      "pt": "sobreviver",
+      "en": "survive"
+    },
+    "ton": {
+      "pt": "seu",
+      "en": "your"
+    },
+    "dos": {
+      "pt": "voltar",
+      "en": "back"
+    },
+    "dernière": {
+      "pt": "durar",
+      "en": "last"
+    },
+    "fois": {
+      "pt": "vezes",
+      "en": "times"
+    },
+    "sens": {
+      "pt": "senso",
+      "en": "sense"
+    },
+    "seule": {
+      "pt": "sozinho",
+      "en": "alone"
+    },
+    "jusqu'à": {
+      "pt": "até",
+      "en": "until"
+    },
+    "l'aurore": {
+      "pt": "alvorecer",
+      "en": "dawn"
+    },
+    "nos": {
+      "pt": "nosso",
+      "en": "our"
+    },
+    "cauchemars": {
+      "pt": "pesadelos",
+      "en": "nightmares"
+    },
+    "vaudraient": {
+      "pt": "valeria a pena",
+      "en": "would be worth"
+    },
+    "l'or": {
+      "pt": "ouro",
+      "en": "gold"
+    },
+    "alors": {
+      "pt": "ENTÃO",
+      "en": "SO"
+    },
+    "pense": {
+      "pt": "pensar",
+      "en": "think"
+    },
+    "mais": {
+      "pt": "mas",
+      "en": "but"
+    },
+    "quoi": {
+      "pt": "O que",
+      "en": "What"
+    },
+    "j'assume": {
+      "pt": "eu presumo",
+      "en": "I assume"
+    },
+    "j'pense": {
+      "pt": "Eu penso",
+      "en": "I think"
+    },
+    "ces": {
+      "pt": "esses",
+      "en": "these"
+    },
+    "cas-là": {
+      "pt": "caso",
+      "en": "case"
+    },
+    "mal": {
+      "pt": "errado",
+      "en": "wrong"
+    }
+  },
+  "ordem": 9
+}

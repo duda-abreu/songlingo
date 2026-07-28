@@ -1,0 +1,588 @@
+{
+  "titulo": "Quand c'est ?",
+  "artista": "Stromae",
+  "arquivo_audio": "audio.mp3",
+  "linhas": [
+    {
+      "tempo": 12.4,
+      "fr": "Mais oui on se connait bien",
+      "pt": "Mas sim, nós nos conhecemos bem",
+      "en": "But yes we know each other well"
+    },
+    {
+      "tempo": 17.01,
+      "fr": "T'as même voulu t'faire ma mère, hein",
+      "pt": "Você até queria ser minha mãe, né",
+      "en": "You even wanted to be my mother, eh"
+    },
+    {
+      "tempo": 21.94,
+      "fr": "T'as commencé par ses seins",
+      "pt": "Você começou com os seios dela",
+      "en": "You started with her breasts"
+    },
+    {
+      "tempo": 26.2,
+      "fr": "Et puis du poumon à mon père",
+      "pt": "E então do pulmão para meu pai",
+      "en": "And then from the lung to my father"
+    },
+    {
+      "tempo": 28.54,
+      "fr": "Tu t'en souviens?",
+      "pt": "Você se lembra disso?",
+      "en": "Do you remember that?"
+    },
+    {
+      "tempo": 31.12,
+      "fr": "Cancer, cancer, dis-moi quand c'est?",
+      "pt": "Câncer, câncer, me diga quando é?",
+      "en": "Cancer, cancer, tell me when it is?"
+    },
+    {
+      "tempo": 35.77,
+      "fr": "Cancer, cancer, qui est le prochain?",
+      "pt": "Câncer, câncer, quem é o próximo?",
+      "en": "Cancer, cancer, who's next?"
+    },
+    {
+      "tempo": 40.22,
+      "fr": "Cancer, cancer, oh dis-moi quand c'est?",
+      "pt": "Câncer, câncer, diga-me quando será?",
+      "en": "Cancer, cancer, oh tell me when it is?"
+    },
+    {
+      "tempo": 45.03,
+      "fr": "Cancer, cancer, qui est le prochain?",
+      "pt": "Câncer, câncer, quem é o próximo?",
+      "en": "Cancer, cancer, who's next?"
+    },
+    {
+      "tempo": 49.52,
+      "fr": "Et tu aimes les petits enfants",
+      "pt": "E você ama crianças pequenas",
+      "en": "And you love little children"
+    },
+    {
+      "tempo": 54.13,
+      "fr": "Décidément, rien ne t'arrête toi",
+      "pt": "Claramente, nada está impedindo você",
+      "en": "Clearly, nothing is stopping you"
+    },
+    {
+      "tempo": 58.61,
+      "fr": "Et arrête de faire ton innocent",
+      "pt": "E pare de agir inocentemente",
+      "en": "And stop acting innocent"
+    },
+    {
+      "tempo": 61.34,
+      "fr": "Sur les paquets de cigarettes",
+      "pt": "Em maços de cigarro",
+      "en": "On cigarette packets"
+    },
+    {
+      "tempo": 63.58,
+      "fr": "\"Fumer tue\", tu m'étonnes",
+      "pt": "“Fumar mata”, você me surpreende",
+      "en": "“Smoking kills”, you surprise me"
+    },
+    {
+      "tempo": 65.8,
+      "fr": "Mais tu m'aides",
+      "pt": "Mas você me ajuda",
+      "en": "But you help me"
+    },
+    {
+      "tempo": 68.48,
+      "fr": "Cancer, cancer, dis-moi quand c'est?",
+      "pt": "Câncer, câncer, me diga quando é?",
+      "en": "Cancer, cancer, tell me when it is?"
+    },
+    {
+      "tempo": 72.78,
+      "fr": "Cancer, cancer, qui est le prochain?",
+      "pt": "Câncer, câncer, quem é o próximo?",
+      "en": "Cancer, cancer, who's next?"
+    },
+    {
+      "tempo": 77.75,
+      "fr": "Cancer, cancer, oh dis-moi quand c'est?",
+      "pt": "Câncer, câncer, diga-me quando será?",
+      "en": "Cancer, cancer, oh tell me when it is?"
+    },
+    {
+      "tempo": 82.34,
+      "fr": "Cancer, cancer, oh cancer",
+      "pt": "Câncer, câncer, ah câncer",
+      "en": "Cancer, cancer, oh cancer"
+    },
+    {
+      "tempo": 86.19,
+      "fr": "Quand c'est? Quand c'est?",
+      "pt": "Quando é isso? Quando é isso?",
+      "en": "When is it? When is it?"
+    },
+    {
+      "tempo": 87.84,
+      "fr": "Que tu cesses tes avances?",
+      "pt": "Que você pare seus avanços?",
+      "en": "That you stop your advances?"
+    },
+    {
+      "tempo": 90.71,
+      "fr": "Quand c'est? Quand c'est?",
+      "pt": "Quando é isso? Quando é isso?",
+      "en": "When is it? When is it?"
+    },
+    {
+      "tempo": 93.09,
+      "fr": "Que tu pars en vacances?",
+      "pt": "Você vai sair de férias?",
+      "en": "Are you going on vacation?"
+    },
+    {
+      "tempo": 95.35,
+      "fr": "Quand c'est? Quand c'est?",
+      "pt": "Quando é isso? Quando é isso?",
+      "en": "When is it? When is it?"
+    },
+    {
+      "tempo": 97.42,
+      "fr": "Quand est-ce que tu y penses?",
+      "pt": "Quando você pensa sobre isso?",
+      "en": "When do you think about it?"
+    },
+    {
+      "tempo": 100.02,
+      "fr": "Quand c'est? Quand c'est??",
+      "pt": "Quando é isso? Quando é??",
+      "en": "When is it? When is it??"
+    },
+    {
+      "tempo": 102.34,
+      "fr": "Ça nous fera des vacances",
+      "pt": "Isso nos dará férias",
+      "en": "It will give us a vacation"
+    },
+    {
+      "tempo": 105.68,
+      "fr": "Cancer, cancer, dis-moi quand c'est?",
+      "pt": "Câncer, câncer, me diga quando é?",
+      "en": "Cancer, cancer, tell me when it is?"
+    },
+    {
+      "tempo": 110.24,
+      "fr": "Cancer, cancer, qui est le prochain?",
+      "pt": "Câncer, câncer, quem é o próximo?",
+      "en": "Cancer, cancer, who's next?"
+    },
+    {
+      "tempo": 114.98,
+      "fr": "Cancer, cancer, oh dis-moi quand c'est?",
+      "pt": "Câncer, câncer, diga-me quando será?",
+      "en": "Cancer, cancer, oh tell me when it is?"
+    },
+    {
+      "tempo": 119.44,
+      "fr": "Cancer, cancer, qui est le prochain?",
+      "pt": "Câncer, câncer, quem é o próximo?",
+      "en": "Cancer, cancer, who's next?"
+    },
+    {
+      "tempo": 127.24,
+      "fr": "Qui est le prochain?",
+      "pt": "Quem é o próximo?",
+      "en": "Who's next?"
+    },
+    {
+      "tempo": 131.79,
+      "fr": "Qui est le prochain?",
+      "pt": "Quem é o próximo?",
+      "en": "Who's next?"
+    },
+    {
+      "tempo": 134.09,
+      "fr": "Qui est, qui est, qui est le prochain?",
+      "pt": "Quem é, quem é, quem é o próximo?",
+      "en": "Who is, who is, who is next?"
+    },
+    {
+      "tempo": 138.66,
+      "fr": "Qui est, qui est, qui est le prochain?",
+      "pt": "Quem é, quem é, quem é o próximo?",
+      "en": "Who is, who is, who is next?"
+    },
+    {
+      "tempo": 143.34,
+      "fr": "Qui est, qui est, qui est le prochain?",
+      "pt": "Quem é, quem é, quem é o próximo?",
+      "en": "Who is, who is, who is next?"
+    },
+    {
+      "tempo": 148.01,
+      "fr": "Qui est, qui est, qui est le prochain?",
+      "pt": "Quem é, quem é, quem é o próximo?",
+      "en": "Who is, who is, who is next?"
+    },
+    {
+      "tempo": 151.93,
+      "fr": "Qui est (qui est)",
+      "pt": "Quem é (quem é)",
+      "en": "Who is (who is)"
+    },
+    {
+      "tempo": 153.37,
+      "fr": "Qui est (qui est)",
+      "pt": "Quem é (quem é)",
+      "en": "Who is (who is)"
+    },
+    {
+      "tempo": 155.06,
+      "fr": "Qui est? (Qui est le prochain?)",
+      "pt": "Quem é? (Quem é o próximo?)",
+      "en": "Who is? (Who's next?)"
+    },
+    {
+      "tempo": 156.85,
+      "fr": "Qui est (qui est)",
+      "pt": "Quem é (quem é)",
+      "en": "Who is (who is)"
+    },
+    {
+      "tempo": 157.91,
+      "fr": "Qui est (qui est)",
+      "pt": "Quem é (quem é)",
+      "en": "Who is (who is)"
+    },
+    {
+      "tempo": 158.97,
+      "fr": "Qui est (Qui est le prochain?)",
+      "pt": "Quem é (quem é o próximo?)",
+      "en": "Who's (Who's next?)"
+    },
+    {
+      "tempo": 161.9,
+      "fr": "Qui est (qui est)",
+      "pt": "Quem é (quem é)",
+      "en": "Who is (who is)"
+    },
+    {
+      "tempo": 163.29,
+      "fr": "Qui est (qui est)",
+      "pt": "Quem é (quem é)",
+      "en": "Who is (who is)"
+    },
+    {
+      "tempo": 163.86,
+      "fr": "Qui est? (Qui est le prochain?)",
+      "pt": "Quem é? (Quem é o próximo?)",
+      "en": "Who is? (Who's next?)"
+    },
+    {
+      "tempo": 166.18,
+      "fr": "Qui est (qui est)",
+      "pt": "Quem é (quem é)",
+      "en": "Who is (who is)"
+    },
+    {
+      "tempo": 167.07,
+      "fr": "Qui est (qui est)",
+      "pt": "Quem é (quem é)",
+      "en": "Who is (who is)"
+    },
+    {
+      "tempo": 168.32,
+      "fr": "Qui est (Qui est le prochain?)",
+      "pt": "Quem é (quem é o próximo?)",
+      "en": "Who's (Who's next?)"
+    }
+  ],
+  "vocabulario": {
+    "mais": {
+      "pt": "mas",
+      "en": "but"
+    },
+    "oui": {
+      "pt": "Sim",
+      "en": "Yes"
+    },
+    "on": {
+      "pt": "nós",
+      "en": "we"
+    },
+    "se": {
+      "pt": "se",
+      "en": "se"
+    },
+    "connait": {
+      "pt": "sabe",
+      "en": "knows"
+    },
+    "bien": {
+      "pt": "BOM",
+      "en": "GOOD"
+    },
+    "t'as": {
+      "pt": "você tem",
+      "en": "you have"
+    },
+    "même": {
+      "pt": "até",
+      "en": "even"
+    },
+    "voulu": {
+      "pt": "desejado",
+      "en": "wanted"
+    },
+    "t'faire": {
+      "pt": "você",
+      "en": "do you"
+    },
+    "ma": {
+      "pt": "meu",
+      "en": "my"
+    },
+    "mère": {
+      "pt": "mãe",
+      "en": "mother"
+    },
+    "hein": {
+      "pt": "Eh",
+      "en": "eh"
+    },
+    "commencé": {
+      "pt": "começar",
+      "en": "begin"
+    },
+    "par": {
+      "pt": "por",
+      "en": "by"
+    },
+    "ses": {
+      "pt": "dele",
+      "en": "his"
+    },
+    "seins": {
+      "pt": "peitos",
+      "en": "tits"
+    },
+    "et": {
+      "pt": "E",
+      "en": "And"
+    },
+    "puis": {
+      "pt": "Então",
+      "en": "Then"
+    },
+    "du": {
+      "pt": "de",
+      "en": "of"
+    },
+    "poumon": {
+      "pt": "pulmão",
+      "en": "lung"
+    },
+    "à": {
+      "pt": "tem",
+      "en": "has"
+    },
+    "mon": {
+      "pt": "Meu",
+      "en": "My"
+    },
+    "père": {
+      "pt": "pai",
+      "en": "father"
+    },
+    "tu": {
+      "pt": "você",
+      "en": "you"
+    },
+    "t'en": {
+      "pt": "não se preocupe",
+      "en": "don't worry"
+    },
+    "souviens": {
+      "pt": "lembrar",
+      "en": "remember"
+    },
+    "cancer": {
+      "pt": "Câncer",
+      "en": "cancer"
+    },
+    "dis-moi": {
+      "pt": "Diga-me",
+      "en": "Tell me"
+    },
+    "quand": {
+      "pt": "Quando",
+      "en": "When"
+    },
+    "c'est": {
+      "pt": "Isso é",
+      "en": "It is"
+    },
+    "qui": {
+      "pt": "Quem",
+      "en": "Who"
+    },
+    "est": {
+      "pt": "Leste",
+      "en": "East"
+    },
+    "le": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "prochain": {
+      "pt": "próximo",
+      "en": "next"
+    },
+    "oh": {
+      "pt": "Oh",
+      "en": "Oh"
+    },
+    "aimes": {
+      "pt": "amor",
+      "en": "love"
+    },
+    "les": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "petits": {
+      "pt": "pequeno",
+      "en": "small"
+    },
+    "enfants": {
+      "pt": "crianças",
+      "en": "children"
+    },
+    "décidément": {
+      "pt": "definitivamente",
+      "en": "definitely"
+    },
+    "rien": {
+      "pt": "Nada",
+      "en": "Nothing"
+    },
+    "ne": {
+      "pt": "nascer",
+      "en": "born"
+    },
+    "t'arrête": {
+      "pt": "parar",
+      "en": "stop"
+    },
+    "toi": {
+      "pt": "Você",
+      "en": "You"
+    },
+    "arrête": {
+      "pt": "parar",
+      "en": "stop"
+    },
+    "de": {
+      "pt": "de",
+      "en": "of"
+    },
+    "faire": {
+      "pt": "PENDÊNCIA",
+      "en": "TO DO"
+    },
+    "ton": {
+      "pt": "seu",
+      "en": "your"
+    },
+    "innocent": {
+      "pt": "inocente",
+      "en": "innocent"
+    },
+    "sur": {
+      "pt": "sobre",
+      "en": "on"
+    },
+    "paquets": {
+      "pt": "pacotes",
+      "en": "packages"
+    },
+    "cigarettes": {
+      "pt": "cigarros",
+      "en": "cigarettes"
+    },
+    "fumer": {
+      "pt": "fumaça",
+      "en": "smoke"
+    },
+    "tue": {
+      "pt": "matar",
+      "en": "kill"
+    },
+    "m'étonnes": {
+      "pt": "me surpreenda",
+      "en": "surprise me"
+    },
+    "m'aides": {
+      "pt": "me ajude",
+      "en": "help me"
+    },
+    "que": {
+      "pt": "que",
+      "en": "that"
+    },
+    "cesses": {
+      "pt": "cessa",
+      "en": "ceases"
+    },
+    "tes": {
+      "pt": "seu",
+      "en": "your"
+    },
+    "avances": {
+      "pt": "avanços",
+      "en": "advances"
+    },
+    "pars": {
+      "pt": "deixar",
+      "en": "leave"
+    },
+    "en": {
+      "pt": "em",
+      "en": "in"
+    },
+    "vacances": {
+      "pt": "férias",
+      "en": "vacation"
+    },
+    "est-ce": {
+      "pt": "é isto",
+      "en": "is this"
+    },
+    "y": {
+      "pt": "sim",
+      "en": "y"
+    },
+    "penses": {
+      "pt": "pensar",
+      "en": "think"
+    },
+    "ça": {
+      "pt": "Que",
+      "en": "That"
+    },
+    "nous": {
+      "pt": "Nós",
+      "en": "We"
+    },
+    "fera": {
+      "pt": "vai fazer",
+      "en": "will do"
+    },
+    "des": {
+      "pt": "do",
+      "en": "of the"
+    }
+  },
+  "ordem": 53
+}

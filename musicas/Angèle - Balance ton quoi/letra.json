@@ -1,0 +1,837 @@
+{
+  "titulo": "Balance ton quoi",
+  "artista": "Angèle",
+  "arquivo_audio": "audio.mp3",
+  "linhas": [
+    {
+      "tempo": 1.68,
+      "fr": "Ils parlent tous comme des animaux",
+      "pt": "Todos falam como animais",
+      "en": "They all talk like animals"
+    },
+    {
+      "tempo": 3.17,
+      "fr": "De toutes les chattes ça parle mal",
+      "pt": "De todas as maricas fala mal",
+      "en": "Of all the pussies it speaks badly"
+    },
+    {
+      "tempo": 5.14,
+      "fr": "2018 j'sais pas ce qui te faut",
+      "pt": "2018 não sei do que você precisa",
+      "en": "2018 I don't know what you need"
+    },
+    {
+      "tempo": 7.06,
+      "fr": "Mais je suis plus qu'un animal",
+      "pt": "Mas eu sou mais que um animal",
+      "en": "But I'm more than an animal"
+    },
+    {
+      "tempo": 9.56,
+      "fr": "J'ai vu que le rap est à la mode",
+      "pt": "Eu vi que o rap está na moda",
+      "en": "I saw that rap is in fashion"
+    },
+    {
+      "tempo": 11.44,
+      "fr": "Et qu'il marche mieux quand il est sale",
+      "pt": "E funciona melhor quando está sujo",
+      "en": "And it works better when it's dirty"
+    },
+    {
+      "tempo": 13.81,
+      "fr": "Bah faudrait p't'être casser les codes",
+      "pt": "Bem, talvez você devesse quebrar os códigos",
+      "en": "Well maybe you should break the codes"
+    },
+    {
+      "tempo": 16.17,
+      "fr": "Une fille qui l'ouvre ça serait normal",
+      "pt": "Uma garota abrindo seria normal",
+      "en": "A girl opening it would be normal"
+    },
+    {
+      "tempo": 19.62,
+      "fr": "Balance ton quoi",
+      "pt": "Equilibre o que você",
+      "en": "Balance your what"
+    },
+    {
+      "tempo": 25.27,
+      "fr": "Même si tu parles mal des filles",
+      "pt": "Mesmo se você falar mal das garotas",
+      "en": "Even if you talk bad about girls"
+    },
+    {
+      "tempo": 27.64,
+      "fr": "Je sais qu'au fond t'as compris",
+      "pt": "Eu sei que no fundo você entende",
+      "en": "I know that deep down you understand"
+    },
+    {
+      "tempo": 29.68,
+      "fr": "Balance ton quoi",
+      "pt": "Equilibre o que você",
+      "en": "Balance your what"
+    },
+    {
+      "tempo": 31.22,
+      "fr": "Un jour peut-être ça changera",
+      "pt": "Um dia talvez isso mude",
+      "en": "One day maybe that will change"
+    },
+    {
+      "tempo": 33.65,
+      "fr": "Balance ton quoi",
+      "pt": "Equilibre o que você",
+      "en": "Balance your what"
+    },
+    {
+      "tempo": 37.42,
+      "fr": "Donc laisse-moi te chanter",
+      "pt": "Então deixe-me cantar para você",
+      "en": "So let me sing to you"
+    },
+    {
+      "tempo": 40.91,
+      "fr": "D'aller te faire en...",
+      "pt": "Para ir e fazer você mesmo...",
+      "en": "To go and make yourself..."
+    },
+    {
+      "tempo": 42.76,
+      "fr": "Humhumhumhum",
+      "pt": "Humhumhumhum",
+      "en": "Humhumhumhum"
+    },
+    {
+      "tempo": 45.17,
+      "fr": "Ouais j'passerai pas à la radio",
+      "pt": "Sim, não estarei no rádio",
+      "en": "Yeah I won't be on the radio"
+    },
+    {
+      "tempo": 49.56,
+      "fr": "Parce que mes mots sont pas très beaux",
+      "pt": "Porque minhas palavras não são muito bonitas",
+      "en": "Because my words are not very beautiful"
+    },
+    {
+      "tempo": 54.01,
+      "fr": "Les gens me disent à demi-mot",
+      "pt": "As pessoas me dizem sem entusiasmo",
+      "en": "People tell me half-heartedly"
+    },
+    {
+      "tempo": 55.97,
+      "fr": "Pour une fille belle t'es pas si bête",
+      "pt": "Para uma linda garota você não é tão estúpido",
+      "en": "For a beautiful girl you're not so stupid"
+    },
+    {
+      "tempo": 57.82,
+      "fr": "Pour une fille drôle t'es pas si laide",
+      "pt": "Para uma garota engraçada você não é tão feia",
+      "en": "For a funny girl you're not so ugly"
+    },
+    {
+      "tempo": 59.89,
+      "fr": "Tes parents et ton frère, ça aide",
+      "pt": "Seus pais e seu irmão, isso ajuda",
+      "en": "Your parents and your brother, that helps"
+    },
+    {
+      "tempo": 62.34,
+      "fr": "Oh, tu parles de moi",
+      "pt": "Ah, você está falando de mim",
+      "en": "Oh, you're talking about me"
+    },
+    {
+      "tempo": 64.22,
+      "fr": "C'est quoi ton problème?",
+      "pt": "Qual é o seu problema?",
+      "en": "What's your problem?"
+    },
+    {
+      "tempo": 66.57,
+      "fr": "J'ai écris rien que pour toi",
+      "pt": "Eu escrevi só para você",
+      "en": "I wrote just for you"
+    },
+    {
+      "tempo": 68.39,
+      "fr": "Le plus beau des poèmes",
+      "pt": "O poema mais lindo",
+      "en": "The most beautiful poem"
+    },
+    {
+      "tempo": 70.71,
+      "fr": "Laisse-moi te chanter",
+      "pt": "Deixe-me cantar para você",
+      "en": "Let me sing to you"
+    },
+    {
+      "tempo": 74.31,
+      "fr": "D'aller te faire en...",
+      "pt": "Para ir e fazer você mesmo...",
+      "en": "To go and make yourself..."
+    },
+    {
+      "tempo": 76.63,
+      "fr": "Humhumhumhum",
+      "pt": "Humhumhumhum",
+      "en": "Humhumhumhum"
+    },
+    {
+      "tempo": 78.23,
+      "fr": "Ouais j'serais polie pour la télé",
+      "pt": "Sim, eu seria educado com a TV",
+      "en": "Yeah I'd be polite for TV"
+    },
+    {
+      "tempo": 82.2,
+      "fr": "Mais va te faire en...",
+      "pt": "Mas vá em frente...",
+      "en": "But go ahead..."
+    },
+    {
+      "tempo": 83.89,
+      "fr": "Humhumhumhum",
+      "pt": "Humhumhumhum",
+      "en": "Humhumhumhum"
+    },
+    {
+      "tempo": 87.46,
+      "fr": "Balance ton quoi",
+      "pt": "Equilibre o que você",
+      "en": "Balance your what"
+    },
+    {
+      "tempo": 95.37,
+      "fr": "Balance ton quoi",
+      "pt": "Equilibre o que você",
+      "en": "Balance your what"
+    },
+    {
+      "tempo": 102.44,
+      "fr": "Balance ton quoi",
+      "pt": "Equilibre o que você",
+      "en": "Balance your what"
+    },
+    {
+      "tempo": 105.41,
+      "fr": "Un jour peut-être ça changera",
+      "pt": "Um dia talvez isso mude",
+      "en": "One day maybe that will change"
+    },
+    {
+      "tempo": 108.38,
+      "fr": "Y'a plus de respect dans la rue",
+      "pt": "Há mais respeito na rua",
+      "en": "There is more respect in the street"
+    },
+    {
+      "tempo": 110.01,
+      "fr": "Tu sais très bien quand t'abuses",
+      "pt": "Você sabe muito bem quando abusa",
+      "en": "You know very well when you abuse"
+    },
+    {
+      "tempo": 112.42,
+      "fr": "Balance ton quoi",
+      "pt": "Equilibre o que você",
+      "en": "Balance your what"
+    },
+    {
+      "tempo": 116.85,
+      "fr": "Balance ton quoi",
+      "pt": "Equilibre o que você",
+      "en": "Balance your what"
+    },
+    {
+      "tempo": 193.44,
+      "fr": "Laisse-moi te chanter",
+      "pt": "Deixe-me cantar para você",
+      "en": "Let me sing to you"
+    },
+    {
+      "tempo": 196.11,
+      "fr": "D'aller te faire en...",
+      "pt": "Para ir e fazer você mesmo...",
+      "en": "To go and make yourself..."
+    },
+    {
+      "tempo": 198.86,
+      "fr": "Humhumhumhum",
+      "pt": "Humhumhumhum",
+      "en": "Humhumhumhum"
+    },
+    {
+      "tempo": 201.19,
+      "fr": "Ouais j'passerai pas à la radio",
+      "pt": "Sim, não estarei no rádio",
+      "en": "Yeah I won't be on the radio"
+    },
+    {
+      "tempo": 205.34,
+      "fr": "Parce que mes mots sont pas très beaux",
+      "pt": "Porque minhas palavras não são muito bonitas",
+      "en": "Because my words are not very beautiful"
+    },
+    {
+      "tempo": 210.27,
+      "fr": "Laisse-moi te chanter",
+      "pt": "Deixe-me cantar para você",
+      "en": "Let me sing to you"
+    },
+    {
+      "tempo": 213.56,
+      "fr": "D'aller te faire en...",
+      "pt": "Para ir e fazer você mesmo...",
+      "en": "To go and make yourself..."
+    },
+    {
+      "tempo": 215.1,
+      "fr": "Humhumhumhum",
+      "pt": "Humhumhumhum",
+      "en": "Humhumhumhum"
+    },
+    {
+      "tempo": 217.43,
+      "fr": "Ouais j'serais polie pour la télé",
+      "pt": "Sim, eu seria educado com a TV",
+      "en": "Yeah I'd be polite for TV"
+    },
+    {
+      "tempo": 221.77,
+      "fr": "Mais va te faire en...",
+      "pt": "Mas vá em frente...",
+      "en": "But go ahead..."
+    },
+    {
+      "tempo": 223.47,
+      "fr": "Humhumhumhum",
+      "pt": "Humhumhumhum",
+      "en": "Humhumhumhum"
+    },
+    {
+      "tempo": 226.95,
+      "fr": "Balance ton quoi",
+      "pt": "Equilibre o que você",
+      "en": "Balance your what"
+    },
+    {
+      "tempo": 234.97,
+      "fr": "Balance ton quoi",
+      "pt": "Equilibre o que você",
+      "en": "Balance your what"
+    },
+    {
+      "tempo": 242.11,
+      "fr": "Balance ton quoi",
+      "pt": "Equilibre o que você",
+      "en": "Balance your what"
+    },
+    {
+      "tempo": 247.67,
+      "fr": "Même si tu parles mal des filles",
+      "pt": "Mesmo se você falar mal das garotas",
+      "en": "Even if you talk bad about girls"
+    },
+    {
+      "tempo": 249.63,
+      "fr": "Je sais qu'au fond t'as compris",
+      "pt": "Eu sei que no fundo você entende",
+      "en": "I know that deep down you understand"
+    },
+    {
+      "tempo": 251.71,
+      "fr": "Balance ton quoi",
+      "pt": "Equilibre o que você",
+      "en": "Balance your what"
+    },
+    {
+      "tempo": 253.38,
+      "fr": "Un jour peut-être ça changera",
+      "pt": "Um dia talvez isso mude",
+      "en": "One day maybe that will change"
+    },
+    {
+      "tempo": 255.86,
+      "fr": "Balance ton quoi",
+      "pt": "Equilibre o que você",
+      "en": "Balance your what"
+    }
+  ],
+  "vocabulario": {
+    "ils": {
+      "pt": "eles",
+      "en": "they"
+    },
+    "parlent": {
+      "pt": "falar",
+      "en": "speak"
+    },
+    "tous": {
+      "pt": "todos",
+      "en": "all"
+    },
+    "comme": {
+      "pt": "como",
+      "en": "as"
+    },
+    "des": {
+      "pt": "do",
+      "en": "of the"
+    },
+    "animaux": {
+      "pt": "animais",
+      "en": "animals"
+    },
+    "de": {
+      "pt": "de",
+      "en": "of"
+    },
+    "toutes": {
+      "pt": "todos",
+      "en": "all"
+    },
+    "les": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "chattes": {
+      "pt": "bichanos",
+      "en": "pussies"
+    },
+    "ça": {
+      "pt": "Que",
+      "en": "That"
+    },
+    "parle": {
+      "pt": "falar",
+      "en": "speak"
+    },
+    "mal": {
+      "pt": "errado",
+      "en": "wrong"
+    },
+    "j'sais": {
+      "pt": "Eu sei",
+      "en": "I know"
+    },
+    "pas": {
+      "pt": "não",
+      "en": "not"
+    },
+    "ce": {
+      "pt": "Esse",
+      "en": "This"
+    },
+    "qui": {
+      "pt": "Quem",
+      "en": "Who"
+    },
+    "te": {
+      "pt": "você",
+      "en": "you"
+    },
+    "faut": {
+      "pt": "deve",
+      "en": "must"
+    },
+    "mais": {
+      "pt": "mas",
+      "en": "but"
+    },
+    "je": {
+      "pt": "EU",
+      "en": "I"
+    },
+    "suis": {
+      "pt": "sou",
+      "en": "am"
+    },
+    "plus": {
+      "pt": "mais",
+      "en": "more"
+    },
+    "qu'un": {
+      "pt": "Aquele",
+      "en": "that one"
+    },
+    "animal": {
+      "pt": "animal",
+      "en": "animal"
+    },
+    "j'ai": {
+      "pt": "Eu tenho",
+      "en": "I have"
+    },
+    "vu": {
+      "pt": "visto",
+      "en": "seen"
+    },
+    "que": {
+      "pt": "que",
+      "en": "that"
+    },
+    "le": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "rap": {
+      "pt": "rap",
+      "en": "rap"
+    },
+    "est": {
+      "pt": "Leste",
+      "en": "East"
+    },
+    "à": {
+      "pt": "tem",
+      "en": "has"
+    },
+    "la": {
+      "pt": "lá",
+      "en": "there"
+    },
+    "mode": {
+      "pt": "moda",
+      "en": "fashion"
+    },
+    "et": {
+      "pt": "E",
+      "en": "And"
+    },
+    "qu'il": {
+      "pt": "que ele",
+      "en": "that he"
+    },
+    "marche": {
+      "pt": "andar",
+      "en": "walk"
+    },
+    "mieux": {
+      "pt": "melhorar",
+      "en": "better"
+    },
+    "quand": {
+      "pt": "Quando",
+      "en": "When"
+    },
+    "il": {
+      "pt": "ele",
+      "en": "he"
+    },
+    "sale": {
+      "pt": "sujo",
+      "en": "dirty"
+    },
+    "bah": {
+      "pt": "Bem",
+      "en": "Well"
+    },
+    "faudrait": {
+      "pt": "deve",
+      "en": "should"
+    },
+    "p't'être": {
+      "pt": "talvez",
+      "en": "maybe"
+    },
+    "casser": {
+      "pt": "quebrar",
+      "en": "to break"
+    },
+    "codes": {
+      "pt": "códigos",
+      "en": "codes"
+    },
+    "une": {
+      "pt": "um",
+      "en": "a"
+    },
+    "fille": {
+      "pt": "garota",
+      "en": "girl"
+    },
+    "l'ouvre": {
+      "pt": "abra-o",
+      "en": "open it"
+    },
+    "serait": {
+      "pt": "seria",
+      "en": "would be"
+    },
+    "normal": {
+      "pt": "normal",
+      "en": "normal"
+    },
+    "balance": {
+      "pt": "equilíbrio",
+      "en": "balance"
+    },
+    "ton": {
+      "pt": "seu",
+      "en": "your"
+    },
+    "quoi": {
+      "pt": "O que",
+      "en": "What"
+    },
+    "même": {
+      "pt": "até",
+      "en": "even"
+    },
+    "si": {
+      "pt": "se",
+      "en": "if"
+    },
+    "tu": {
+      "pt": "você",
+      "en": "you"
+    },
+    "parles": {
+      "pt": "falar",
+      "en": "speak"
+    },
+    "filles": {
+      "pt": "garotas",
+      "en": "girls"
+    },
+    "sais": {
+      "pt": "saber",
+      "en": "know"
+    },
+    "qu'au": {
+      "pt": "isso em",
+      "en": "that at"
+    },
+    "fond": {
+      "pt": "fundo",
+      "en": "bottom"
+    },
+    "t'as": {
+      "pt": "você tem",
+      "en": "you have"
+    },
+    "compris": {
+      "pt": "Entendido",
+      "en": "Understood"
+    },
+    "un": {
+      "pt": "UM",
+      "en": "A"
+    },
+    "jour": {
+      "pt": "dia",
+      "en": "day"
+    },
+    "peut-être": {
+      "pt": "talvez",
+      "en": "maybe"
+    },
+    "changera": {
+      "pt": "vai mudar",
+      "en": "will change"
+    },
+    "donc": {
+      "pt": "ENTÃO",
+      "en": "SO"
+    },
+    "laisse-moi": {
+      "pt": "deixe-me",
+      "en": "leave me"
+    },
+    "chanter": {
+      "pt": "cantar",
+      "en": "sing"
+    },
+    "d'aller": {
+      "pt": "ir",
+      "en": "to go"
+    },
+    "faire": {
+      "pt": "PENDÊNCIA",
+      "en": "TO DO"
+    },
+    "en": {
+      "pt": "em",
+      "en": "in"
+    },
+    "humhumhumhum": {
+      "pt": "humhumhumhum",
+      "en": "humhumhumhum"
+    },
+    "ouais": {
+      "pt": "Sim",
+      "en": "Yeah"
+    },
+    "j'passerai": {
+      "pt": "eu vou passar",
+      "en": "I will pass"
+    },
+    "radio": {
+      "pt": "rádio",
+      "en": "radio"
+    },
+    "parce": {
+      "pt": "porque",
+      "en": "because"
+    },
+    "mes": {
+      "pt": "meu",
+      "en": "my"
+    },
+    "mots": {
+      "pt": "palavras",
+      "en": "words"
+    },
+    "sont": {
+      "pt": "são",
+      "en": "are"
+    },
+    "très": {
+      "pt": "muito",
+      "en": "very"
+    },
+    "beaux": {
+      "pt": "lindo",
+      "en": "beautiful"
+    },
+    "gens": {
+      "pt": "pessoas",
+      "en": "people"
+    },
+    "me": {
+      "pt": "meu",
+      "en": "me"
+    },
+    "disent": {
+      "pt": "dizer",
+      "en": "say"
+    },
+    "demi-mot": {
+      "pt": "meia palavra",
+      "en": "half word"
+    },
+    "pour": {
+      "pt": "Para",
+      "en": "For"
+    },
+    "belle": {
+      "pt": "lindo",
+      "en": "beautiful"
+    },
+    "t'es": {
+      "pt": "seu",
+      "en": "your"
+    },
+    "bête": {
+      "pt": "besta",
+      "en": "beast"
+    },
+    "drôle": {
+      "pt": "engraçado",
+      "en": "funny"
+    },
+    "laide": {
+      "pt": "feio",
+      "en": "ugly"
+    },
+    "tes": {
+      "pt": "seu",
+      "en": "your"
+    },
+    "parents": {
+      "pt": "pais",
+      "en": "parents"
+    },
+    "frère": {
+      "pt": "irmão",
+      "en": "brother"
+    },
+    "aide": {
+      "pt": "ajuda",
+      "en": "help"
+    },
+    "oh": {
+      "pt": "Oh",
+      "en": "Oh"
+    },
+    "moi": {
+      "pt": "Meu",
+      "en": "Me"
+    },
+    "c'est": {
+      "pt": "Isso é",
+      "en": "It is"
+    },
+    "problème": {
+      "pt": "emitir",
+      "en": "issue"
+    },
+    "écris": {
+      "pt": "escrever",
+      "en": "write"
+    },
+    "rien": {
+      "pt": "Nada",
+      "en": "Nothing"
+    },
+    "toi": {
+      "pt": "Você",
+      "en": "You"
+    },
+    "beau": {
+      "pt": "lindo",
+      "en": "beautiful"
+    },
+    "poèmes": {
+      "pt": "poemas",
+      "en": "poems"
+    },
+    "j'serais": {
+      "pt": "Eu gostaria",
+      "en": "I would be"
+    },
+    "polie": {
+      "pt": "polido",
+      "en": "polished"
+    },
+    "télé": {
+      "pt": "TV",
+      "en": "TV"
+    },
+    "va": {
+      "pt": "ir",
+      "en": "go"
+    },
+    "y'a": {
+      "pt": "há",
+      "en": "there is"
+    },
+    "respect": {
+      "pt": "respeito",
+      "en": "respect"
+    },
+    "dans": {
+      "pt": "Em",
+      "en": "In"
+    },
+    "rue": {
+      "pt": "Rua",
+      "en": "Street"
+    },
+    "bien": {
+      "pt": "BOM",
+      "en": "GOOD"
+    },
+    "t'abuses": {
+      "pt": "você está abusando",
+      "en": "you are abusing"
+    }
+  }
+}

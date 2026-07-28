@@ -1,0 +1,828 @@
+{
+  "titulo": "Mauvaise journée",
+  "artista": "Stromae",
+  "arquivo_audio": "audio.mp3",
+  "linhas": [
+    {
+      "tempo": 6.92,
+      "fr": "Ces matins-là sont trop pénibles",
+      "pt": "Essas manhãs são muito dolorosas",
+      "en": "These mornings are too painful"
+    },
+    {
+      "tempo": 10.1,
+      "fr": "Quand même dehors le temps est gris",
+      "pt": "Mesmo que o tempo lá fora esteja cinza",
+      "en": "Even though the weather outside is gray"
+    },
+    {
+      "tempo": 13.43,
+      "fr": "Et d'ailleurs dedans aussi, y a les jours sans, les jours avec",
+      "pt": "E além de dentro também tem dias sem, dias com",
+      "en": "And besides inside too, there are days without, days with"
+    },
+    {
+      "tempo": 16.75,
+      "fr": "Ce sera sans, j'te l'parie",
+      "pt": "Vai ficar sem, eu aposto",
+      "en": "It will be without, I bet you"
+    },
+    {
+      "tempo": 19.81,
+      "fr": "Y a mon caca qui a mal finit",
+      "pt": "Meu cocô acabou mal",
+      "en": "My poop ended badly"
+    },
+    {
+      "tempo": 23.02,
+      "fr": "J'vais d'voir frotter une heure et demie",
+      "pt": "Vou ter que esfregar por uma hora e meia",
+      "en": "I'm going to have to scrub for an hour and a half"
+    },
+    {
+      "tempo": 26.22,
+      "fr": "Et puis j'm'emmerde, ça n'arrange rien",
+      "pt": "E então fico entediado, isso não ajuda em nada",
+      "en": "And then I'm bored, that doesn't help anything"
+    },
+    {
+      "tempo": 28.25,
+      "fr": "Et comme on dit, l'malheur des uns",
+      "pt": "E como dizem, o infortúnio de alguns",
+      "en": "And as they say, the misfortune of some"
+    },
+    {
+      "tempo": 29.52,
+      "fr": "Chacun sa merde, oui j'ai compris",
+      "pt": "Todo mundo tem sua própria merda, sim, eu entendo",
+      "en": "Everyone has their own shit, yes I understand"
+    },
+    {
+      "tempo": 32.97,
+      "fr": "Mmh aidez-moi",
+      "pt": "Mmm me ajude",
+      "en": "Mmm help me"
+    },
+    {
+      "tempo": 36.0,
+      "fr": "Mmh, je m'sens si seul",
+      "pt": "Mmh, me sinto tão sozinho",
+      "en": "Mmh, I feel so alone"
+    },
+    {
+      "tempo": 39.49,
+      "fr": "Mmh laissez-moi",
+      "pt": "Mmh, deixe-me",
+      "en": "Mmh let me"
+    },
+    {
+      "tempo": 41.05,
+      "fr": "C'est mon droit d'être déprimé dans mon fauteuil",
+      "pt": "É meu direito ficar deprimido na minha cadeira",
+      "en": "It's my right to be depressed in my chair"
+    },
+    {
+      "tempo": 52.38,
+      "fr": "Encore une bonne journée de merde",
+      "pt": "Outro bom dia de merda",
+      "en": "Another good shit day"
+    },
+    {
+      "tempo": 55.69,
+      "fr": "Comme une journée de confinement",
+      "pt": "Como um dia de confinamento",
+      "en": "Like a day of confinement"
+    },
+    {
+      "tempo": 58.85,
+      "fr": "Comme une journée d'anniversaire passée la barre des 35 ans",
+      "pt": "Como um aniversário ultrapassando a marca dos 35 anos",
+      "en": "Like a birthday passing the 35 year mark"
+    },
+    {
+      "tempo": 62.24,
+      "fr": "Franchement, à quoi ça sert?",
+      "pt": "Honestamente, qual é o objetivo?",
+      "en": "Honestly, what's the point?"
+    },
+    {
+      "tempo": 65.14,
+      "fr": "Un peu comme moi, tout l'monde s'en fout",
+      "pt": "Um pouco como eu, ninguém se importa",
+      "en": "A bit like me, no one cares"
+    },
+    {
+      "tempo": 68.44,
+      "fr": "Quand j'serai plus là, est-ce qu'ils seront tristes?",
+      "pt": "Quando eu não estiver mais aqui, eles ficarão tristes?",
+      "en": "When I'm not here anymore, will they be sad?"
+    },
+    {
+      "tempo": 71.64,
+      "fr": "Remplis mon verre jusqu'au bout parce qu'il est à moitié vide",
+      "pt": "Encha meu copo até o fim porque está meio vazio",
+      "en": "Fill my glass all the way up because it's half empty"
+    },
+    {
+      "tempo": 75.38,
+      "fr": "Pessimiste? Pas du tout",
+      "pt": "Pessimista? Sem chance",
+      "en": "Pessimistic? No way"
+    },
+    {
+      "tempo": 78.34,
+      "fr": "Mmh aidez-moi",
+      "pt": "Mmm me ajude",
+      "en": "Mmm help me"
+    },
+    {
+      "tempo": 81.41,
+      "fr": "Mmh, je m'sens si seul",
+      "pt": "Mmh, me sinto tão sozinho",
+      "en": "Mmh, I feel so alone"
+    },
+    {
+      "tempo": 84.87,
+      "fr": "Mmh laissez-moi",
+      "pt": "Mmh, deixe-me",
+      "en": "Mmh let me"
+    },
+    {
+      "tempo": 86.52,
+      "fr": "C'est mon droit d'être déprimé dans mon fauteuil",
+      "pt": "É meu direito ficar deprimido na minha cadeira",
+      "en": "It's my right to be depressed in my chair"
+    },
+    {
+      "tempo": 104.42,
+      "fr": "Y a l'espoir d'une lueur",
+      "pt": "Há esperança de uma luz",
+      "en": "There is hope of a light"
+    },
+    {
+      "tempo": 107.64,
+      "fr": "Que demain s'ra meilleur, mais",
+      "pt": "Que amanhã será melhor, mas",
+      "en": "That tomorrow will be better, but"
+    },
+    {
+      "tempo": 110.66,
+      "fr": "Mais j'en ai marre d'être déprimé",
+      "pt": "Mas estou cansado de ficar deprimido",
+      "en": "But I'm tired of being depressed"
+    },
+    {
+      "tempo": 114.07,
+      "fr": "Et ça m'déprime d'en avoir marre",
+      "pt": "E me deprime estar farto",
+      "en": "And it depresses me to be fed up"
+    },
+    {
+      "tempo": 117.39,
+      "fr": "Mais à quoi bon me réveiller? J'préfère dormir toute la journée",
+      "pt": "Mas qual é o sentido de acordar? Eu prefiro dormir o dia todo",
+      "en": "But what's the point of waking up? I prefer to sleep all day"
+    },
+    {
+      "tempo": 120.58,
+      "fr": "Si c'est pour vivre ce cauchemar",
+      "pt": "Se for para viver esse pesadelo",
+      "en": "If it's to live this nightmare"
+    },
+    {
+      "tempo": 125.22,
+      "fr": "Mais pourquoi j'ai plus de peine que les autres?",
+      "pt": "Mas por que tenho mais problemas do que os outros?",
+      "en": "But why do I have more trouble than the others?"
+    },
+    {
+      "tempo": 128.93,
+      "fr": "Alors que les autres n'ont aucun problème",
+      "pt": "Enquanto outros não têm problema",
+      "en": "While others have no problem"
+    },
+    {
+      "tempo": 132.19,
+      "fr": "D'ailleurs est-ce que tout ça c'est pas d'leur faute?",
+      "pt": "Além disso, isso não é tudo culpa deles?",
+      "en": "Besides, isn’t this all their fault?"
+    },
+    {
+      "tempo": 135.49,
+      "fr": "À ces égoïstes au bonheur obscène?",
+      "pt": "Para esses egoístas obscenamente felizes?",
+      "en": "To these obscenely happy egoists?"
+    },
+    {
+      "tempo": 152.8,
+      "fr": "Mmh aidez-moi (mmh aidez-moi)",
+      "pt": "Mmm me ajude (mmh me ajude)",
+      "en": "Mmh help me (mmh help me)"
+    },
+    {
+      "tempo": 156.1,
+      "fr": "Mmh, je m'sens si seul (mmh, je m'sens si seul)",
+      "pt": "Mmh, me sinto tão sozinho (mmh, me sinto tão sozinho)",
+      "en": "Mmh, I feel so alone (mmh, I feel so alone)"
+    },
+    {
+      "tempo": 159.86,
+      "fr": "Mmh laissez-moi",
+      "pt": "Mmh, deixe-me",
+      "en": "Mmh let me"
+    },
+    {
+      "tempo": 161.03,
+      "fr": "C'est mon droit d'être déprimé dans mon fauteuil",
+      "pt": "É meu direito ficar deprimido na minha cadeira",
+      "en": "It's my right to be depressed in my chair"
+    },
+    {
+      "tempo": 178.76,
+      "fr": "Y a l'espoir d'une lueur",
+      "pt": "Há esperança de uma luz",
+      "en": "There is hope of a light"
+    },
+    {
+      "tempo": 182.02,
+      "fr": "Que demain s'ra meilleur, mais",
+      "pt": "Que amanhã será melhor, mas",
+      "en": "That tomorrow will be better, but"
+    }
+  ],
+  "vocabulario": {
+    "ces": {
+      "pt": "esses",
+      "en": "these"
+    },
+    "matins-là": {
+      "pt": "manhãs lá",
+      "en": "mornings there"
+    },
+    "sont": {
+      "pt": "são",
+      "en": "are"
+    },
+    "trop": {
+      "pt": "demais",
+      "en": "too much"
+    },
+    "pénibles": {
+      "pt": "doloroso",
+      "en": "painful"
+    },
+    "quand": {
+      "pt": "Quando",
+      "en": "When"
+    },
+    "même": {
+      "pt": "até",
+      "en": "even"
+    },
+    "dehors": {
+      "pt": "fora",
+      "en": "out"
+    },
+    "le": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "temps": {
+      "pt": "tempo",
+      "en": "time"
+    },
+    "est": {
+      "pt": "Leste",
+      "en": "East"
+    },
+    "gris": {
+      "pt": "cinza",
+      "en": "gray"
+    },
+    "et": {
+      "pt": "E",
+      "en": "And"
+    },
+    "d'ailleurs": {
+      "pt": "Além do mais",
+      "en": "Besides"
+    },
+    "dedans": {
+      "pt": "dentro",
+      "en": "inside"
+    },
+    "aussi": {
+      "pt": "Também",
+      "en": "Also"
+    },
+    "y": {
+      "pt": "sim",
+      "en": "y"
+    },
+    "a": {
+      "pt": "tem",
+      "en": "has"
+    },
+    "les": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "jours": {
+      "pt": "dias",
+      "en": "days"
+    },
+    "sans": {
+      "pt": "sem",
+      "en": "without"
+    },
+    "avec": {
+      "pt": "com",
+      "en": "with"
+    },
+    "ce": {
+      "pt": "Esse",
+      "en": "This"
+    },
+    "sera": {
+      "pt": "vai ser",
+      "en": "will be"
+    },
+    "j'te": {
+      "pt": "EU",
+      "en": "I"
+    },
+    "l'parie": {
+      "pt": "a aposta",
+      "en": "the bet"
+    },
+    "mon": {
+      "pt": "Meu",
+      "en": "My"
+    },
+    "caca": {
+      "pt": "pooh",
+      "en": "pooh"
+    },
+    "qui": {
+      "pt": "Quem",
+      "en": "Who"
+    },
+    "mal": {
+      "pt": "errado",
+      "en": "wrong"
+    },
+    "finit": {
+      "pt": "termina",
+      "en": "ends"
+    },
+    "j'vais": {
+      "pt": "eu vou",
+      "en": "I'm going"
+    },
+    "d'voir": {
+      "pt": "ver",
+      "en": "to see"
+    },
+    "frotter": {
+      "pt": "esfregar",
+      "en": "rub"
+    },
+    "une": {
+      "pt": "um",
+      "en": "a"
+    },
+    "heure": {
+      "pt": "hora",
+      "en": "hour"
+    },
+    "demie": {
+      "pt": "metade",
+      "en": "half"
+    },
+    "puis": {
+      "pt": "Então",
+      "en": "Then"
+    },
+    "j'm'emmerde": {
+      "pt": "Estou entediado",
+      "en": "I'm bored"
+    },
+    "ça": {
+      "pt": "Que",
+      "en": "That"
+    },
+    "n'arrange": {
+      "pt": "não conserte",
+      "en": "don't fix"
+    },
+    "rien": {
+      "pt": "Nada",
+      "en": "Nothing"
+    },
+    "comme": {
+      "pt": "como",
+      "en": "as"
+    },
+    "on": {
+      "pt": "nós",
+      "en": "we"
+    },
+    "dit": {
+      "pt": "disse",
+      "en": "said"
+    },
+    "l'malheur": {
+      "pt": "infortúnio",
+      "en": "misfortune"
+    },
+    "des": {
+      "pt": "do",
+      "en": "of the"
+    },
+    "uns": {
+      "pt": "alguns",
+      "en": "some"
+    },
+    "chacun": {
+      "pt": "cada",
+      "en": "each"
+    },
+    "sa": {
+      "pt": "isso é",
+      "en": "its"
+    },
+    "merde": {
+      "pt": "merda",
+      "en": "shit"
+    },
+    "oui": {
+      "pt": "Sim",
+      "en": "Yes"
+    },
+    "j'ai": {
+      "pt": "Eu tenho",
+      "en": "I have"
+    },
+    "compris": {
+      "pt": "Entendido",
+      "en": "Understood"
+    },
+    "mmh": {
+      "pt": "mmh",
+      "en": "mmh"
+    },
+    "aidez-moi": {
+      "pt": "me ajude",
+      "en": "help me"
+    },
+    "je": {
+      "pt": "EU",
+      "en": "I"
+    },
+    "m'sens": {
+      "pt": "eu sinto",
+      "en": "I feel"
+    },
+    "si": {
+      "pt": "se",
+      "en": "if"
+    },
+    "seul": {
+      "pt": "sozinho",
+      "en": "alone"
+    },
+    "laissez-moi": {
+      "pt": "deixe-me",
+      "en": "leave me"
+    },
+    "c'est": {
+      "pt": "Isso é",
+      "en": "It is"
+    },
+    "droit": {
+      "pt": "certo",
+      "en": "right"
+    },
+    "d'être": {
+      "pt": "ser",
+      "en": "to be"
+    },
+    "déprimé": {
+      "pt": "deprimido",
+      "en": "depressed"
+    },
+    "dans": {
+      "pt": "Em",
+      "en": "In"
+    },
+    "fauteuil": {
+      "pt": "cadeirão",
+      "en": "armchair"
+    },
+    "encore": {
+      "pt": "De novo",
+      "en": "Again"
+    },
+    "bonne": {
+      "pt": "Bom",
+      "en": "Good"
+    },
+    "journée": {
+      "pt": "dia",
+      "en": "daytime"
+    },
+    "de": {
+      "pt": "de",
+      "en": "of"
+    },
+    "confinement": {
+      "pt": "confinamento",
+      "en": "confinement"
+    },
+    "d'anniversaire": {
+      "pt": "aniversário",
+      "en": "birthday"
+    },
+    "passée": {
+      "pt": "passado",
+      "en": "past"
+    },
+    "la": {
+      "pt": "lá",
+      "en": "there"
+    },
+    "barre": {
+      "pt": "haste",
+      "en": "rod"
+    },
+    "35": {
+      "pt": "35",
+      "en": "35"
+    },
+    "ans": {
+      "pt": "anos",
+      "en": "years"
+    },
+    "franchement": {
+      "pt": "Francamente",
+      "en": "Frankly"
+    },
+    "à": {
+      "pt": "tem",
+      "en": "has"
+    },
+    "quoi": {
+      "pt": "O que",
+      "en": "What"
+    },
+    "sert": {
+      "pt": "serve",
+      "en": "serves"
+    },
+    "un": {
+      "pt": "UM",
+      "en": "A"
+    },
+    "peu": {
+      "pt": "pequeno",
+      "en": "little"
+    },
+    "moi": {
+      "pt": "Meu",
+      "en": "Me"
+    },
+    "tout": {
+      "pt": "Todos",
+      "en": "All"
+    },
+    "l'monde": {
+      "pt": "o mundo",
+      "en": "the world"
+    },
+    "s'en": {
+      "pt": "vá embora",
+      "en": "go away"
+    },
+    "fout": {
+      "pt": "Porra",
+      "en": "fuck"
+    },
+    "j'serai": {
+      "pt": "eu estarei",
+      "en": "I will be"
+    },
+    "plus": {
+      "pt": "mais",
+      "en": "more"
+    },
+    "là": {
+      "pt": "lá",
+      "en": "there"
+    },
+    "est-ce": {
+      "pt": "é isto",
+      "en": "is this"
+    },
+    "qu'ils": {
+      "pt": "que eles",
+      "en": "that they"
+    },
+    "seront": {
+      "pt": "vai ser",
+      "en": "will be"
+    },
+    "tristes": {
+      "pt": "triste",
+      "en": "sad"
+    },
+    "remplis": {
+      "pt": "preenchido",
+      "en": "filled"
+    },
+    "verre": {
+      "pt": "vidro",
+      "en": "glass"
+    },
+    "jusqu'au": {
+      "pt": "até",
+      "en": "until"
+    },
+    "bout": {
+      "pt": "fim",
+      "en": "end"
+    },
+    "parce": {
+      "pt": "porque",
+      "en": "because"
+    },
+    "qu'il": {
+      "pt": "que ele",
+      "en": "that he"
+    },
+    "moitié": {
+      "pt": "metade",
+      "en": "half"
+    },
+    "vide": {
+      "pt": "vazio",
+      "en": "empty"
+    },
+    "pessimiste": {
+      "pt": "pessimista",
+      "en": "pessimistic"
+    },
+    "pas": {
+      "pt": "não",
+      "en": "not"
+    },
+    "du": {
+      "pt": "de",
+      "en": "of"
+    },
+    "l'espoir": {
+      "pt": "ter esperança",
+      "en": "hope"
+    },
+    "d'une": {
+      "pt": "de um",
+      "en": "of a"
+    },
+    "lueur": {
+      "pt": "brilho",
+      "en": "glow"
+    },
+    "que": {
+      "pt": "que",
+      "en": "that"
+    },
+    "demain": {
+      "pt": "amanhã",
+      "en": "tomorrow"
+    },
+    "s'ra": {
+      "pt": "s'ra",
+      "en": "s'ra"
+    },
+    "meilleur": {
+      "pt": "melhor",
+      "en": "best"
+    },
+    "mais": {
+      "pt": "mas",
+      "en": "but"
+    },
+    "j'en": {
+      "pt": "Eu tenho",
+      "en": "I have"
+    },
+    "ai": {
+      "pt": "ai",
+      "en": "ai"
+    },
+    "marre": {
+      "pt": "cheio",
+      "en": "fed up"
+    },
+    "m'déprime": {
+      "pt": "me deprime",
+      "en": "depresses me"
+    },
+    "d'en": {
+      "pt": "de",
+      "en": "from"
+    },
+    "avoir": {
+      "pt": "ter",
+      "en": "to have"
+    },
+    "bon": {
+      "pt": "Bom",
+      "en": "Good"
+    },
+    "me": {
+      "pt": "meu",
+      "en": "me"
+    },
+    "réveiller": {
+      "pt": "acordar",
+      "en": "wake"
+    },
+    "j'préfère": {
+      "pt": "eu prefiro",
+      "en": "I prefer"
+    },
+    "dormir": {
+      "pt": "dormir",
+      "en": "sleep"
+    },
+    "toute": {
+      "pt": "todos",
+      "en": "all"
+    },
+    "pour": {
+      "pt": "Para",
+      "en": "For"
+    },
+    "vivre": {
+      "pt": "ao vivo",
+      "en": "live"
+    },
+    "cauchemar": {
+      "pt": "pesadelo",
+      "en": "nightmare"
+    },
+    "pourquoi": {
+      "pt": "Por que",
+      "en": "Why"
+    },
+    "peine": {
+      "pt": "pena",
+      "en": "penalty"
+    },
+    "autres": {
+      "pt": "outros",
+      "en": "others"
+    },
+    "alors": {
+      "pt": "ENTÃO",
+      "en": "SO"
+    },
+    "n'ont": {
+      "pt": "não tenho",
+      "en": "don't have"
+    },
+    "aucun": {
+      "pt": "nenhum",
+      "en": "none"
+    },
+    "problème": {
+      "pt": "emitir",
+      "en": "issue"
+    },
+    "d'leur": {
+      "pt": "dos seus",
+      "en": "of their"
+    },
+    "faute": {
+      "pt": "erro",
+      "en": "mistake"
+    },
+    "égoïstes": {
+      "pt": "egoísta",
+      "en": "selfish"
+    },
+    "au": {
+      "pt": "No",
+      "en": "At"
+    },
+    "bonheur": {
+      "pt": "felicidade",
+      "en": "happiness"
+    },
+    "obscène": {
+      "pt": "obsceno",
+      "en": "obscene"
+    }
+  },
+  "ordem": 49
+}

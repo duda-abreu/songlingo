@@ -1,0 +1,670 @@
+{
+  "titulo": "Tout oublier",
+  "artista": "Angèle",
+  "arquivo_audio": "audio.mp3",
+  "linhas": [
+    {
+      "tempo": 5.41,
+      "fr": "N'existe pas sans son contraire qui lui semble facile à trouver",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 9.92,
+      "fr": "Le bonheur n'existe que pour plaire, je le veux",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 14.5,
+      "fr": "Enfin, je commence à douter d'en avoir vraiment rêvé",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 18.93,
+      "fr": "Est-ce une envie? Parfois, j'me sens obligée",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 23.45,
+      "fr": "Le spleen n'est plus à la mode, c'est pas compliqué d'être heureux",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 28.0,
+      "fr": "Le spleen n'est plus à la mode, c'est pas compliqué",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 31.92,
+      "fr": "Tout, il faudrait tout oublier",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 35.92,
+      "fr": "Pour y croire, il faudrait tout oublier",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 40.95,
+      "fr": "On joue, mais là, j'ai trop joué",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 45.12,
+      "fr": "Ce bonheur, si je le veux, je l'aurai",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 51.16,
+      "fr": "N'existe pas sans son contraire, une jeunesse pleine de sentiments",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 55.7,
+      "fr": "L'ennui est inconditionnel, je peux ressentir le malaise des gens qui dansent",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 60.39,
+      "fr": "Essaie d'oublier que tu es seul, vieux souvenir comme l'ADSL",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 64.85,
+      "fr": "Et si tout le monde t'a délaissé, ça s'est passé après les soldes",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 68.58,
+      "fr": "Tout, il faudrait tout oublier",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 72.69,
+      "fr": "Pour y croire, il faudrait tout oublier",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 77.46,
+      "fr": "On joue, mais là, j'ai trop joué",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 81.64,
+      "fr": "Ce bonheur, si je le veux, je l'aurai",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 87.34,
+      "fr": "Le spleen n'est plus à la mode, c'est pas compliqué d'être heureux",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 92.04,
+      "fr": "Le spleen n'est plus à la mode, c'est pas compliqué",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 96.54,
+      "fr": "Le spleen n'est plus à la mode, c'est pas compliqué d'être heureux",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 100.38,
+      "fr": "C'est simple, sois juste heureux, si tu le voulais, tu le serais",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 105.14,
+      "fr": "Ferme les yeux, oublie que tu es toujours seul",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 109.51,
+      "fr": "Oublie qu'elle t'a blessé, oublie qu'il t'a trompé",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 114.37,
+      "fr": "Oublie que t'as perdu tout ce que t'avais",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 118.72,
+      "fr": "C'est simple, sois juste heureux, si tu le voulais, tu le serais",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 123.32,
+      "fr": "Tout, il faudrait tout oublier",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 127.44,
+      "fr": "Pour y croire, il faudrait tout oublier",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 132.46,
+      "fr": "On joue, mais là, j'ai trop joué",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 136.68,
+      "fr": "Ce bonheur, si je le veux, je l'aurai",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 141.79,
+      "fr": "Tout, il faudrait tout oublier",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 145.68,
+      "fr": "Pour y croire, il faudrait tout oublier",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 150.72,
+      "fr": "On joue, mais là, j'ai trop joué",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 154.72,
+      "fr": "Ce bonheur, si je le veux, je l'aurai",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 160.58,
+      "fr": "Le spleen n'est plus à la mode, c'est pas compliqué d'être heureux",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 165.18,
+      "fr": "Le spleen n'est plus à la mode, c'est pas compliqué",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 169.7,
+      "fr": "Le spleen n'est plus à la mode, c'est pas compliqué d'être",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 173.5,
+      "fr": "C'est simple, sois juste heureux, si tu le voulais, tu le serais",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 182.86,
+      "fr": "C'est simple, sois juste heureux, si tu le voulais, tu le serais",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 191.83,
+      "fr": "C'est simple, sois juste heureux, si tu le voulais, tu le serais",
+      "pt": "",
+      "en": ""
+    }
+  ],
+  "vocabulario": {
+    "n'existe": {
+      "pt": "",
+      "en": ""
+    },
+    "pas": {
+      "pt": "",
+      "en": ""
+    },
+    "sans": {
+      "pt": "",
+      "en": ""
+    },
+    "son": {
+      "pt": "",
+      "en": ""
+    },
+    "contraire": {
+      "pt": "",
+      "en": ""
+    },
+    "qui": {
+      "pt": "",
+      "en": ""
+    },
+    "lui": {
+      "pt": "",
+      "en": ""
+    },
+    "semble": {
+      "pt": "",
+      "en": ""
+    },
+    "facile": {
+      "pt": "",
+      "en": ""
+    },
+    "à": {
+      "pt": "",
+      "en": ""
+    },
+    "trouver": {
+      "pt": "",
+      "en": ""
+    },
+    "le": {
+      "pt": "",
+      "en": ""
+    },
+    "bonheur": {
+      "pt": "",
+      "en": ""
+    },
+    "que": {
+      "pt": "",
+      "en": ""
+    },
+    "pour": {
+      "pt": "",
+      "en": ""
+    },
+    "plaire": {
+      "pt": "",
+      "en": ""
+    },
+    "je": {
+      "pt": "",
+      "en": ""
+    },
+    "veux": {
+      "pt": "",
+      "en": ""
+    },
+    "enfin": {
+      "pt": "",
+      "en": ""
+    },
+    "commence": {
+      "pt": "",
+      "en": ""
+    },
+    "douter": {
+      "pt": "",
+      "en": ""
+    },
+    "d'en": {
+      "pt": "",
+      "en": ""
+    },
+    "avoir": {
+      "pt": "",
+      "en": ""
+    },
+    "vraiment": {
+      "pt": "",
+      "en": ""
+    },
+    "rêvé": {
+      "pt": "",
+      "en": ""
+    },
+    "est-ce": {
+      "pt": "",
+      "en": ""
+    },
+    "une": {
+      "pt": "",
+      "en": ""
+    },
+    "envie": {
+      "pt": "",
+      "en": ""
+    },
+    "parfois": {
+      "pt": "",
+      "en": ""
+    },
+    "j'me": {
+      "pt": "",
+      "en": ""
+    },
+    "sens": {
+      "pt": "",
+      "en": ""
+    },
+    "obligée": {
+      "pt": "",
+      "en": ""
+    },
+    "spleen": {
+      "pt": "",
+      "en": ""
+    },
+    "n'est": {
+      "pt": "",
+      "en": ""
+    },
+    "plus": {
+      "pt": "",
+      "en": ""
+    },
+    "la": {
+      "pt": "",
+      "en": ""
+    },
+    "mode": {
+      "pt": "",
+      "en": ""
+    },
+    "c'est": {
+      "pt": "",
+      "en": ""
+    },
+    "compliqué": {
+      "pt": "",
+      "en": ""
+    },
+    "d'être": {
+      "pt": "",
+      "en": ""
+    },
+    "heureux": {
+      "pt": "",
+      "en": ""
+    },
+    "tout": {
+      "pt": "",
+      "en": ""
+    },
+    "il": {
+      "pt": "",
+      "en": ""
+    },
+    "faudrait": {
+      "pt": "",
+      "en": ""
+    },
+    "oublier": {
+      "pt": "",
+      "en": ""
+    },
+    "y": {
+      "pt": "",
+      "en": ""
+    },
+    "croire": {
+      "pt": "",
+      "en": ""
+    },
+    "on": {
+      "pt": "",
+      "en": ""
+    },
+    "joue": {
+      "pt": "",
+      "en": ""
+    },
+    "mais": {
+      "pt": "",
+      "en": ""
+    },
+    "là": {
+      "pt": "",
+      "en": ""
+    },
+    "j'ai": {
+      "pt": "",
+      "en": ""
+    },
+    "trop": {
+      "pt": "",
+      "en": ""
+    },
+    "joué": {
+      "pt": "",
+      "en": ""
+    },
+    "ce": {
+      "pt": "",
+      "en": ""
+    },
+    "si": {
+      "pt": "",
+      "en": ""
+    },
+    "l'aurai": {
+      "pt": "",
+      "en": ""
+    },
+    "jeunesse": {
+      "pt": "",
+      "en": ""
+    },
+    "pleine": {
+      "pt": "",
+      "en": ""
+    },
+    "de": {
+      "pt": "",
+      "en": ""
+    },
+    "sentiments": {
+      "pt": "",
+      "en": ""
+    },
+    "l'ennui": {
+      "pt": "",
+      "en": ""
+    },
+    "est": {
+      "pt": "",
+      "en": ""
+    },
+    "inconditionnel": {
+      "pt": "",
+      "en": ""
+    },
+    "peux": {
+      "pt": "",
+      "en": ""
+    },
+    "ressentir": {
+      "pt": "",
+      "en": ""
+    },
+    "malaise": {
+      "pt": "",
+      "en": ""
+    },
+    "des": {
+      "pt": "",
+      "en": ""
+    },
+    "gens": {
+      "pt": "",
+      "en": ""
+    },
+    "dansent": {
+      "pt": "",
+      "en": ""
+    },
+    "essaie": {
+      "pt": "",
+      "en": ""
+    },
+    "d'oublier": {
+      "pt": "",
+      "en": ""
+    },
+    "tu": {
+      "pt": "",
+      "en": ""
+    },
+    "es": {
+      "pt": "",
+      "en": ""
+    },
+    "seul": {
+      "pt": "",
+      "en": ""
+    },
+    "vieux": {
+      "pt": "",
+      "en": ""
+    },
+    "souvenir": {
+      "pt": "",
+      "en": ""
+    },
+    "comme": {
+      "pt": "",
+      "en": ""
+    },
+    "l'adsl": {
+      "pt": "",
+      "en": ""
+    },
+    "et": {
+      "pt": "",
+      "en": ""
+    },
+    "monde": {
+      "pt": "",
+      "en": ""
+    },
+    "t'a": {
+      "pt": "",
+      "en": ""
+    },
+    "délaissé": {
+      "pt": "",
+      "en": ""
+    },
+    "ça": {
+      "pt": "",
+      "en": ""
+    },
+    "s'est": {
+      "pt": "",
+      "en": ""
+    },
+    "passé": {
+      "pt": "",
+      "en": ""
+    },
+    "après": {
+      "pt": "",
+      "en": ""
+    },
+    "les": {
+      "pt": "",
+      "en": ""
+    },
+    "soldes": {
+      "pt": "",
+      "en": ""
+    },
+    "simple": {
+      "pt": "",
+      "en": ""
+    },
+    "sois": {
+      "pt": "",
+      "en": ""
+    },
+    "juste": {
+      "pt": "",
+      "en": ""
+    },
+    "voulais": {
+      "pt": "",
+      "en": ""
+    },
+    "serais": {
+      "pt": "",
+      "en": ""
+    },
+    "ferme": {
+      "pt": "",
+      "en": ""
+    },
+    "yeux": {
+      "pt": "",
+      "en": ""
+    },
+    "oublie": {
+      "pt": "",
+      "en": ""
+    },
+    "toujours": {
+      "pt": "",
+      "en": ""
+    },
+    "qu'elle": {
+      "pt": "",
+      "en": ""
+    },
+    "blessé": {
+      "pt": "",
+      "en": ""
+    },
+    "qu'il": {
+      "pt": "",
+      "en": ""
+    },
+    "trompé": {
+      "pt": "",
+      "en": ""
+    },
+    "t'as": {
+      "pt": "",
+      "en": ""
+    },
+    "perdu": {
+      "pt": "",
+      "en": ""
+    },
+    "t'avais": {
+      "pt": "",
+      "en": ""
+    }
+  },
+  "ordem": 22
+}

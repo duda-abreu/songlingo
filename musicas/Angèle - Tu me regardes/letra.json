@@ -1,0 +1,770 @@
+{
+  "titulo": "Tu me regardes",
+  "artista": "Angèle",
+  "arquivo_audio": "audio.mp3",
+  "linhas": [
+    {
+      "tempo": 11.77,
+      "fr": "Serait-ce juste dans ma tête",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 13.33,
+      "fr": "Ou toi aussi c'est dans la tienne",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 17.14,
+      "fr": "Mais chaque fois que je suis seule",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 18.72,
+      "fr": "Je pense à toi, je sais c'est bête",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 22.61,
+      "fr": "J'y ai pensé en boucle",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 24.5,
+      "fr": "Je te veux",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 28.11,
+      "fr": "Je m'le cachais sans doute",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 30.04,
+      "fr": "Je te veux",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 33.37,
+      "fr": "Quand j'ai besoin d'aide je te vois",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 36.05,
+      "fr": "Oh et c'est peut-être ce qui m'échappe",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 38.73,
+      "fr": "J'aimerais pouvoir t'aimer sans mal",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 41.53,
+      "fr": "Ou j'aimerais peut-être juste",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 43.88,
+      "fr": "Que tu me regardes",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 46.7,
+      "fr": "Comme tu me regardais hier",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 49.41,
+      "fr": "Sans qu'ils nous regardent",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 52.04,
+      "fr": "Quand ils nous regardent de travers",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 54.76,
+      "fr": "Que tu me regardes",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 57.76,
+      "fr": "Comme tu me regardais hier",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 60.39,
+      "fr": "Sans qu'ils nous regardent",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 62.93,
+      "fr": "Quand ils nous regardent de travers",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 66.38,
+      "fr": "J'y ai pensé parfois, je voulais pas le voir",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 69.09,
+      "fr": "J'l'avais chanté déjà mais sans trop le savoir",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 71.77,
+      "fr": "Les échecs me font peur",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 73.13,
+      "fr": "Je jouais avec le roi, la reine a pris mon cœur",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 77.13,
+      "fr": "J'y ai pensé en boucle",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 79.14,
+      "fr": "Tu me plais",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 82.68,
+      "fr": "J'vais te le cacher sans doute",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 84.45,
+      "fr": "Tu me plais",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 87.89,
+      "fr": "Quand j'ai besoin d'aide je te vois",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 90.58,
+      "fr": "Oh et c'est peut-être ce qui m'échappe",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 93.33,
+      "fr": "J'aimerais pouvoir t'aimer sans mal",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 95.97,
+      "fr": "Ou j'aimerais peut-être juste",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 98.41,
+      "fr": "Que tu me regardes",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 101.38,
+      "fr": "Comme tu me regardais hier",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 103.88,
+      "fr": "Sans qu'ils nous regardent",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 106.72,
+      "fr": "Quand ils nous regardent de travers",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 109.27,
+      "fr": "Que tu me regardes",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 112.11,
+      "fr": "Comme tu me regardais hier",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 114.75,
+      "fr": "Sans qu'ils nous regardent",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 117.64,
+      "fr": "Quand ils nous regardent de travers",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 121.56,
+      "fr": "Que tu me regardes",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 124.28,
+      "fr": "Que tu me regardes",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 131.58,
+      "fr": "J'ai peur d'être seule",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 134.05,
+      "fr": "J'ai peur d'être à deux",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 136.77,
+      "fr": "J'ai peur de te regarder",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 139.18,
+      "fr": "Et encore plus dans les yeux",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 142.38,
+      "fr": "Et ceux-là je les évite",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 145.04,
+      "fr": "Ce regard qui m'invite",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 147.34,
+      "fr": "Même si au fond de moi j'hésite",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 150.38,
+      "fr": "Je brûle d'envie",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 153.16,
+      "fr": "Que tu me regardes",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 158.52,
+      "fr": "Tu me regardes",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 164.08,
+      "fr": "Que tu me regardes",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 166.52,
+      "fr": "Comme tu me regardais hier",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 169.26,
+      "fr": "Sans qu'ils nous regardent",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 171.9,
+      "fr": "Quand ils nous regardent de travers",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 176.28,
+      "fr": "Que tu me regardes",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 178.74,
+      "fr": "Que tu me regardes",
+      "pt": "",
+      "en": ""
+    }
+  ],
+  "vocabulario": {
+    "serait-ce": {
+      "pt": "",
+      "en": ""
+    },
+    "juste": {
+      "pt": "",
+      "en": ""
+    },
+    "dans": {
+      "pt": "",
+      "en": ""
+    },
+    "ma": {
+      "pt": "",
+      "en": ""
+    },
+    "tête": {
+      "pt": "",
+      "en": ""
+    },
+    "ou": {
+      "pt": "",
+      "en": ""
+    },
+    "toi": {
+      "pt": "",
+      "en": ""
+    },
+    "aussi": {
+      "pt": "",
+      "en": ""
+    },
+    "c'est": {
+      "pt": "",
+      "en": ""
+    },
+    "la": {
+      "pt": "",
+      "en": ""
+    },
+    "tienne": {
+      "pt": "",
+      "en": ""
+    },
+    "mais": {
+      "pt": "",
+      "en": ""
+    },
+    "chaque": {
+      "pt": "",
+      "en": ""
+    },
+    "fois": {
+      "pt": "",
+      "en": ""
+    },
+    "que": {
+      "pt": "",
+      "en": ""
+    },
+    "je": {
+      "pt": "",
+      "en": ""
+    },
+    "suis": {
+      "pt": "",
+      "en": ""
+    },
+    "seule": {
+      "pt": "",
+      "en": ""
+    },
+    "pense": {
+      "pt": "",
+      "en": ""
+    },
+    "à": {
+      "pt": "",
+      "en": ""
+    },
+    "sais": {
+      "pt": "",
+      "en": ""
+    },
+    "bête": {
+      "pt": "",
+      "en": ""
+    },
+    "j'y": {
+      "pt": "",
+      "en": ""
+    },
+    "ai": {
+      "pt": "",
+      "en": ""
+    },
+    "pensé": {
+      "pt": "",
+      "en": ""
+    },
+    "en": {
+      "pt": "",
+      "en": ""
+    },
+    "boucle": {
+      "pt": "",
+      "en": ""
+    },
+    "te": {
+      "pt": "",
+      "en": ""
+    },
+    "veux": {
+      "pt": "",
+      "en": ""
+    },
+    "m'le": {
+      "pt": "",
+      "en": ""
+    },
+    "cachais": {
+      "pt": "",
+      "en": ""
+    },
+    "sans": {
+      "pt": "",
+      "en": ""
+    },
+    "doute": {
+      "pt": "",
+      "en": ""
+    },
+    "quand": {
+      "pt": "",
+      "en": ""
+    },
+    "j'ai": {
+      "pt": "",
+      "en": ""
+    },
+    "besoin": {
+      "pt": "",
+      "en": ""
+    },
+    "d'aide": {
+      "pt": "",
+      "en": ""
+    },
+    "vois": {
+      "pt": "",
+      "en": ""
+    },
+    "oh": {
+      "pt": "",
+      "en": ""
+    },
+    "et": {
+      "pt": "",
+      "en": ""
+    },
+    "peut-être": {
+      "pt": "",
+      "en": ""
+    },
+    "ce": {
+      "pt": "",
+      "en": ""
+    },
+    "qui": {
+      "pt": "",
+      "en": ""
+    },
+    "m'échappe": {
+      "pt": "",
+      "en": ""
+    },
+    "j'aimerais": {
+      "pt": "",
+      "en": ""
+    },
+    "pouvoir": {
+      "pt": "",
+      "en": ""
+    },
+    "t'aimer": {
+      "pt": "",
+      "en": ""
+    },
+    "mal": {
+      "pt": "",
+      "en": ""
+    },
+    "tu": {
+      "pt": "",
+      "en": ""
+    },
+    "me": {
+      "pt": "",
+      "en": ""
+    },
+    "regardes": {
+      "pt": "",
+      "en": ""
+    },
+    "comme": {
+      "pt": "",
+      "en": ""
+    },
+    "regardais": {
+      "pt": "",
+      "en": ""
+    },
+    "hier": {
+      "pt": "",
+      "en": ""
+    },
+    "qu'ils": {
+      "pt": "",
+      "en": ""
+    },
+    "nous": {
+      "pt": "",
+      "en": ""
+    },
+    "regardent": {
+      "pt": "",
+      "en": ""
+    },
+    "ils": {
+      "pt": "",
+      "en": ""
+    },
+    "de": {
+      "pt": "",
+      "en": ""
+    },
+    "travers": {
+      "pt": "",
+      "en": ""
+    },
+    "parfois": {
+      "pt": "",
+      "en": ""
+    },
+    "voulais": {
+      "pt": "",
+      "en": ""
+    },
+    "pas": {
+      "pt": "",
+      "en": ""
+    },
+    "le": {
+      "pt": "",
+      "en": ""
+    },
+    "voir": {
+      "pt": "",
+      "en": ""
+    },
+    "j'l'avais": {
+      "pt": "",
+      "en": ""
+    },
+    "chanté": {
+      "pt": "",
+      "en": ""
+    },
+    "déjà": {
+      "pt": "",
+      "en": ""
+    },
+    "trop": {
+      "pt": "",
+      "en": ""
+    },
+    "savoir": {
+      "pt": "",
+      "en": ""
+    },
+    "les": {
+      "pt": "",
+      "en": ""
+    },
+    "échecs": {
+      "pt": "",
+      "en": ""
+    },
+    "font": {
+      "pt": "",
+      "en": ""
+    },
+    "peur": {
+      "pt": "",
+      "en": ""
+    },
+    "jouais": {
+      "pt": "",
+      "en": ""
+    },
+    "avec": {
+      "pt": "",
+      "en": ""
+    },
+    "roi": {
+      "pt": "",
+      "en": ""
+    },
+    "reine": {
+      "pt": "",
+      "en": ""
+    },
+    "a": {
+      "pt": "",
+      "en": ""
+    },
+    "pris": {
+      "pt": "",
+      "en": ""
+    },
+    "mon": {
+      "pt": "",
+      "en": ""
+    },
+    "cœur": {
+      "pt": "",
+      "en": ""
+    },
+    "plais": {
+      "pt": "",
+      "en": ""
+    },
+    "j'vais": {
+      "pt": "",
+      "en": ""
+    },
+    "cacher": {
+      "pt": "",
+      "en": ""
+    },
+    "d'être": {
+      "pt": "",
+      "en": ""
+    },
+    "deux": {
+      "pt": "",
+      "en": ""
+    },
+    "regarder": {
+      "pt": "",
+      "en": ""
+    },
+    "encore": {
+      "pt": "",
+      "en": ""
+    },
+    "plus": {
+      "pt": "",
+      "en": ""
+    },
+    "yeux": {
+      "pt": "",
+      "en": ""
+    },
+    "ceux-là": {
+      "pt": "",
+      "en": ""
+    },
+    "évite": {
+      "pt": "",
+      "en": ""
+    },
+    "regard": {
+      "pt": "",
+      "en": ""
+    },
+    "m'invite": {
+      "pt": "",
+      "en": ""
+    },
+    "même": {
+      "pt": "",
+      "en": ""
+    },
+    "si": {
+      "pt": "",
+      "en": ""
+    },
+    "au": {
+      "pt": "",
+      "en": ""
+    },
+    "fond": {
+      "pt": "",
+      "en": ""
+    },
+    "moi": {
+      "pt": "",
+      "en": ""
+    },
+    "j'hésite": {
+      "pt": "",
+      "en": ""
+    },
+    "brûle": {
+      "pt": "",
+      "en": ""
+    },
+    "d'envie": {
+      "pt": "",
+      "en": ""
+    }
+  },
+  "ordem": 23
+}

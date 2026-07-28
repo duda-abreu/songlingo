@@ -1,0 +1,612 @@
+{
+  "titulo": "Ta reine",
+  "artista": "Angèle",
+  "arquivo_audio": "audio.mp3",
+  "linhas": [
+    {
+      "tempo": 9.49,
+      "fr": "Si seulement elle savait comment",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 11.49,
+      "fr": "Comment tu la regardais, elle serait effrayée",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 18.33,
+      "fr": "Si seulement elle savait comment",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 20.4,
+      "fr": "Comment tu l'imaginais, elle pourrait t'abîmer",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 26.96,
+      "fr": "Mais laisse, laisse le temps",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 29.19,
+      "fr": "Il pourrait vous donner une chance de vous retrouver",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 36.18,
+      "fr": "Il lui faudra du temps, c'est sûr, pour oublier tous ses préjugés",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 43.59,
+      "fr": "Mais tu voudrais qu'elle soit ta reine ce soir",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 47.74,
+      "fr": "Même si deux reines c'est pas trop accepté",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 52.3,
+      "fr": "Mais tu voudrais qu'elle soit ta reine ce soir",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 57.31,
+      "fr": "Toi, les rois tu t'en fous c'est pas ce qui te plaît",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 63.39,
+      "fr": "Si seulement elle savait comment",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 65.02,
+      "fr": "Comment tu l'envisageais, même si t'es une fille",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 71.72,
+      "fr": "Si seulement elle savait comment",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 74.1,
+      "fr": "Comment tu pourrais l'aimer tellement plus que lui",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 80.93,
+      "fr": "Mais peut-être qu'un jour",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 83.25,
+      "fr": "Elle verra tout l'amour que tu pourrais lui donner",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 89.6,
+      "fr": "Moi je crois aux histoires qui peuvent parfois",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 92.32,
+      "fr": "Bien se terminer",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 97.62,
+      "fr": "Mais tu voudrais qu'elle soit ta reine ce soir",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 101.75,
+      "fr": "Même si deux reines c'est pas trop accepté",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 106.32,
+      "fr": "Mais tu voudrais qu'elle soit ta reine ce soir",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 110.76,
+      "fr": "Toi, les rois tu t'en fous c'est pas ce qui te plaît",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 115.2,
+      "fr": "Mais tu voudrais qu'elle soit ta reine ce soir (mais tu voudrais qu'elle soit ta reine ce soir)",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 119.89,
+      "fr": "Même si deux reines c'est pas trop accepté",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 124.35,
+      "fr": "Mais tu voudrais qu'elle soit ta reine ce soir (mais tu voudrais qu'elle soit ta reine ce soir)",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 128.88,
+      "fr": "Toi, les rois tu t'en fous c'est pas ce qui te plaît",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 153.19,
+      "fr": "Mais je pense qu'un jour elle acceptera",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 155.35,
+      "fr": "Qu'elle aussi elle t'aime un peu plus fort",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 161.54,
+      "fr": "Moi je crois aux histoires auxquelles les autres",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 165.24,
+      "fr": "Ne croient pas encore",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 169.14,
+      "fr": "Et tu voudrais qu'elle soit ta reine ce soir (et tu voudrais qu'elle soit ta reine ce soir)",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 173.64,
+      "fr": "Même si deux reines c'est pas trop accepté (même si deux reines c'est pas trop accepté)",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 178.18,
+      "fr": "Et tu voudrais qu'elle soit ta reine ce soir (et tu voudrais qu'elle soit ta reine ce soir)",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 182.54,
+      "fr": "Toi, les rois tu t'en fous c'est pas ce qui te plaît (toi, les rois tu t'en fous c'est pas ce qui te plaît)",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 190.11,
+      "fr": "Et tu voudrais qu'elle soit ta reine ce soir",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 193.87,
+      "fr": "Même si deux reines c'est pas trop accepté",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 198.32,
+      "fr": "Et tu voudrais qu'elle soit ta reine ce soir",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 202.82,
+      "fr": "Toi, les rois tu t'en fous c'est pas ce qui te plaît",
+      "pt": "",
+      "en": ""
+    }
+  ],
+  "vocabulario": {
+    "si": {
+      "pt": "",
+      "en": ""
+    },
+    "seulement": {
+      "pt": "",
+      "en": ""
+    },
+    "elle": {
+      "pt": "",
+      "en": ""
+    },
+    "savait": {
+      "pt": "",
+      "en": ""
+    },
+    "comment": {
+      "pt": "",
+      "en": ""
+    },
+    "tu": {
+      "pt": "",
+      "en": ""
+    },
+    "la": {
+      "pt": "",
+      "en": ""
+    },
+    "regardais": {
+      "pt": "",
+      "en": ""
+    },
+    "serait": {
+      "pt": "",
+      "en": ""
+    },
+    "effrayée": {
+      "pt": "",
+      "en": ""
+    },
+    "l'imaginais": {
+      "pt": "",
+      "en": ""
+    },
+    "pourrait": {
+      "pt": "",
+      "en": ""
+    },
+    "t'abîmer": {
+      "pt": "",
+      "en": ""
+    },
+    "mais": {
+      "pt": "",
+      "en": ""
+    },
+    "laisse": {
+      "pt": "",
+      "en": ""
+    },
+    "le": {
+      "pt": "",
+      "en": ""
+    },
+    "temps": {
+      "pt": "",
+      "en": ""
+    },
+    "il": {
+      "pt": "",
+      "en": ""
+    },
+    "vous": {
+      "pt": "",
+      "en": ""
+    },
+    "donner": {
+      "pt": "",
+      "en": ""
+    },
+    "une": {
+      "pt": "",
+      "en": ""
+    },
+    "chance": {
+      "pt": "",
+      "en": ""
+    },
+    "de": {
+      "pt": "",
+      "en": ""
+    },
+    "retrouver": {
+      "pt": "",
+      "en": ""
+    },
+    "lui": {
+      "pt": "",
+      "en": ""
+    },
+    "faudra": {
+      "pt": "",
+      "en": ""
+    },
+    "du": {
+      "pt": "",
+      "en": ""
+    },
+    "c'est": {
+      "pt": "",
+      "en": ""
+    },
+    "sûr": {
+      "pt": "",
+      "en": ""
+    },
+    "pour": {
+      "pt": "",
+      "en": ""
+    },
+    "oublier": {
+      "pt": "",
+      "en": ""
+    },
+    "tous": {
+      "pt": "",
+      "en": ""
+    },
+    "ses": {
+      "pt": "",
+      "en": ""
+    },
+    "préjugés": {
+      "pt": "",
+      "en": ""
+    },
+    "voudrais": {
+      "pt": "",
+      "en": ""
+    },
+    "qu'elle": {
+      "pt": "",
+      "en": ""
+    },
+    "soit": {
+      "pt": "",
+      "en": ""
+    },
+    "ta": {
+      "pt": "",
+      "en": ""
+    },
+    "reine": {
+      "pt": "",
+      "en": ""
+    },
+    "ce": {
+      "pt": "",
+      "en": ""
+    },
+    "soir": {
+      "pt": "",
+      "en": ""
+    },
+    "même": {
+      "pt": "",
+      "en": ""
+    },
+    "deux": {
+      "pt": "",
+      "en": ""
+    },
+    "reines": {
+      "pt": "",
+      "en": ""
+    },
+    "pas": {
+      "pt": "",
+      "en": ""
+    },
+    "trop": {
+      "pt": "",
+      "en": ""
+    },
+    "accepté": {
+      "pt": "",
+      "en": ""
+    },
+    "toi": {
+      "pt": "",
+      "en": ""
+    },
+    "les": {
+      "pt": "",
+      "en": ""
+    },
+    "rois": {
+      "pt": "",
+      "en": ""
+    },
+    "t'en": {
+      "pt": "",
+      "en": ""
+    },
+    "fous": {
+      "pt": "",
+      "en": ""
+    },
+    "qui": {
+      "pt": "",
+      "en": ""
+    },
+    "te": {
+      "pt": "",
+      "en": ""
+    },
+    "plaît": {
+      "pt": "",
+      "en": ""
+    },
+    "l'envisageais": {
+      "pt": "",
+      "en": ""
+    },
+    "t'es": {
+      "pt": "",
+      "en": ""
+    },
+    "fille": {
+      "pt": "",
+      "en": ""
+    },
+    "pourrais": {
+      "pt": "",
+      "en": ""
+    },
+    "l'aimer": {
+      "pt": "",
+      "en": ""
+    },
+    "tellement": {
+      "pt": "",
+      "en": ""
+    },
+    "plus": {
+      "pt": "",
+      "en": ""
+    },
+    "que": {
+      "pt": "",
+      "en": ""
+    },
+    "peut-être": {
+      "pt": "",
+      "en": ""
+    },
+    "qu'un": {
+      "pt": "",
+      "en": ""
+    },
+    "jour": {
+      "pt": "",
+      "en": ""
+    },
+    "verra": {
+      "pt": "",
+      "en": ""
+    },
+    "tout": {
+      "pt": "",
+      "en": ""
+    },
+    "l'amour": {
+      "pt": "",
+      "en": ""
+    },
+    "moi": {
+      "pt": "",
+      "en": ""
+    },
+    "je": {
+      "pt": "",
+      "en": ""
+    },
+    "crois": {
+      "pt": "",
+      "en": ""
+    },
+    "aux": {
+      "pt": "",
+      "en": ""
+    },
+    "histoires": {
+      "pt": "",
+      "en": ""
+    },
+    "peuvent": {
+      "pt": "",
+      "en": ""
+    },
+    "parfois": {
+      "pt": "",
+      "en": ""
+    },
+    "bien": {
+      "pt": "",
+      "en": ""
+    },
+    "se": {
+      "pt": "",
+      "en": ""
+    },
+    "terminer": {
+      "pt": "",
+      "en": ""
+    },
+    "pense": {
+      "pt": "",
+      "en": ""
+    },
+    "acceptera": {
+      "pt": "",
+      "en": ""
+    },
+    "aussi": {
+      "pt": "",
+      "en": ""
+    },
+    "t'aime": {
+      "pt": "",
+      "en": ""
+    },
+    "un": {
+      "pt": "",
+      "en": ""
+    },
+    "peu": {
+      "pt": "",
+      "en": ""
+    },
+    "fort": {
+      "pt": "",
+      "en": ""
+    },
+    "auxquelles": {
+      "pt": "",
+      "en": ""
+    },
+    "autres": {
+      "pt": "",
+      "en": ""
+    },
+    "ne": {
+      "pt": "",
+      "en": ""
+    },
+    "croient": {
+      "pt": "",
+      "en": ""
+    },
+    "encore": {
+      "pt": "",
+      "en": ""
+    },
+    "et": {
+      "pt": "",
+      "en": ""
+    }
+  },
+  "ordem": 20
+}

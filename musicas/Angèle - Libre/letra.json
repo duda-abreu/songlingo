@@ -1,0 +1,652 @@
+{
+  "titulo": "Libre",
+  "artista": "Angèle",
+  "arquivo_audio": "audio.mp3",
+  "linhas": [
+    {
+      "tempo": 7.64,
+      "fr": "Libre me voilà, c'est ma voix là, la suite en musique sur scène, en coulisses",
+      "pt": "Livre aqui estou, essa é minha voz, o resto na música no palco, nos bastidores",
+      "en": "Free here I am, this is my voice, the rest in music on stage, behind the scenes"
+    },
+    {
+      "tempo": 15.18,
+      "fr": "Libre me voilà, mais sans toi là, la suite en roue libre, tout en équilibre",
+      "pt": "Livre aqui estou, mas sem você aí, o resto em roda livre, tudo em equilíbrio",
+      "en": "Free here I am, but without you there, the rest in freewheeling, all in balance"
+    },
+    {
+      "tempo": 22.85,
+      "fr": "J'avais peur avant",
+      "pt": "Eu estava com medo antes",
+      "en": "I was scared before"
+    },
+    {
+      "tempo": 26.29,
+      "fr": "Je parlais tout bas",
+      "pt": "falei baixinho",
+      "en": "I spoke quietly"
+    },
+    {
+      "tempo": 30.02,
+      "fr": "J'étais jamais devant, oh non",
+      "pt": "Eu nunca estive na frente, oh não",
+      "en": "I was never in front, oh no"
+    },
+    {
+      "tempo": 33.39,
+      "fr": "Aujourd'hui j'ai bien changé, crois-moi",
+      "pt": "Hoje eu mudei muito, acredite",
+      "en": "Today I have changed a lot, believe me"
+    },
+    {
+      "tempo": 36.54,
+      "fr": "Fais bien attention à toi",
+      "pt": "Cuide bem de você",
+      "en": "Take good care of yourself"
+    },
+    {
+      "tempo": 40.19,
+      "fr": "Ton jeu, je le connais déjà",
+      "pt": "Eu já conheço seu jogo",
+      "en": "I already know your game"
+    },
+    {
+      "tempo": 44.05,
+      "fr": "J'suis libre et ça ne changera pas",
+      "pt": "Estou livre e isso não vai mudar",
+      "en": "I'm free and that won't change"
+    },
+    {
+      "tempo": 47.83,
+      "fr": "Oui, fais bien attention à toi",
+      "pt": "Sim, cuide-se",
+      "en": "Yes, take care of yourself"
+    },
+    {
+      "tempo": 53.77,
+      "fr": "Vivre libre, je ne veux plus tomber",
+      "pt": "Viva livre, não quero mais cair",
+      "en": "Live free, I don't want to fall anymore"
+    },
+    {
+      "tempo": 57.47,
+      "fr": "Dans le piège des fous, qu'ils se mettent à genoux",
+      "pt": "Na armadilha dos tolos, deixe-os se ajoelhar",
+      "en": "In the trap of fools, let them kneel"
+    },
+    {
+      "tempo": 61.45,
+      "fr": "Vivre libre, crois-moi, ça va changer",
+      "pt": "Viva livre, acredite, isso vai mudar",
+      "en": "Live free, believe me, it will change"
+    },
+    {
+      "tempo": 65.06,
+      "fr": "J'suis restée debout et j'y ai pris goût",
+      "pt": "Eu fiquei acordado e experimentei isso",
+      "en": "I stayed up and got a taste for it"
+    },
+    {
+      "tempo": 67.86,
+      "fr": "J'suis libre, me voilà, c'est ma voix, là, mais toi tu crois quoi? Moi, j'oublie pas",
+      "pt": "Estou livre, aqui estou, é a minha voz, mas o que você acha? eu não esqueço",
+      "en": "I'm free, here I am, it's my voice, but what do you think? I don't forget"
+    },
+    {
+      "tempo": 75.85,
+      "fr": "Et sèche tes larmes car elles ne lavent pas, toutes tes armes dressées contre moi",
+      "pt": "E enxugue suas lágrimas porque elas não lavam, todas as suas armas levantadas contra mim",
+      "en": "And dry your tears because they do not wash away, all your weapons raised against me"
+    },
+    {
+      "tempo": 83.66,
+      "fr": "J'avais peur avant",
+      "pt": "Eu estava com medo antes",
+      "en": "I was scared before"
+    },
+    {
+      "tempo": 87.12,
+      "fr": "Je parlais tout bas",
+      "pt": "falei baixinho",
+      "en": "I spoke quietly"
+    },
+    {
+      "tempo": 91.19,
+      "fr": "J'étais jamais devant, oh, non",
+      "pt": "Eu nunca estive na frente, oh, não",
+      "en": "I was never in front, oh, no"
+    },
+    {
+      "tempo": 94.43,
+      "fr": "Aujourd'hui j'ai bien changé, crois-moi",
+      "pt": "Hoje eu mudei muito, acredite",
+      "en": "Today I have changed a lot, believe me"
+    },
+    {
+      "tempo": 97.65,
+      "fr": "Fais bien attention à toi",
+      "pt": "Cuide bem de você",
+      "en": "Take good care of yourself"
+    },
+    {
+      "tempo": 101.04,
+      "fr": "Ton jeu, je le connais déjà",
+      "pt": "Eu já conheço seu jogo",
+      "en": "I already know your game"
+    },
+    {
+      "tempo": 104.78,
+      "fr": "J'suis libre et ça ne changera pas",
+      "pt": "Estou livre e isso não vai mudar",
+      "en": "I'm free and that won't change"
+    },
+    {
+      "tempo": 108.63,
+      "fr": "Oui, fais bien attention à toi (eh)",
+      "pt": "Sim, cuide-se (eh)",
+      "en": "Yes, take care of yourself (eh)"
+    },
+    {
+      "tempo": 114.62,
+      "fr": "Vivre libre, je ne veux plus tomber",
+      "pt": "Viva livre, não quero mais cair",
+      "en": ""
+    },
+    {
+      "tempo": 118.54,
+      "fr": "Dans le piège des fous, qu'ils se mettent à genoux",
+      "pt": "Na armadilha dos tolos, deixe-os se ajoelhar",
+      "en": "In the trap of fools, let them kneel"
+    },
+    {
+      "tempo": 122.3,
+      "fr": "Vivre libre, crois-moi, ça va changer",
+      "pt": "Viva livre, acredite, isso vai mudar",
+      "en": "Live free, believe me, it will change"
+    },
+    {
+      "tempo": 126.18,
+      "fr": "J'suis restée debout et j'y ai pris goût",
+      "pt": "Eu fiquei acordado e experimentei isso",
+      "en": "I stayed up and got a taste for it"
+    },
+    {
+      "tempo": 129.57,
+      "fr": "Et je te dérange mais c'est plus fort que moi",
+      "pt": "E eu te incomodo, mas é mais forte que eu",
+      "en": "And I bother you but it's stronger than me"
+    },
+    {
+      "tempo": 133.02,
+      "fr": "Trop prise pour un ange, moi-même, j'y croyais pas",
+      "pt": "Tomado demais por um anjo, eu mesmo não acreditei",
+      "en": "Too taken for an angel, I didn't believe it myself"
+    },
+    {
+      "tempo": 136.83,
+      "fr": "Tous ces derniers temps consacrés à ça",
+      "pt": "Todos esses dias gastos nisso",
+      "en": "All these days spent on this"
+    },
+    {
+      "tempo": 140.62,
+      "fr": "J'ai touché le fond mais j'suis libre",
+      "pt": "Cheguei ao fundo do poço, mas estou livre",
+      "en": "I've hit rock bottom but I'm free"
+    },
+    {
+      "tempo": 145.11,
+      "fr": "Vivre libre, je ne veux plus tomber",
+      "pt": "Viva livre, não quero mais cair",
+      "en": "Live free, I don't want to fall anymore"
+    },
+    {
+      "tempo": 148.99,
+      "fr": "Dans le piège des fous, qu'ils se mettent à genoux",
+      "pt": "",
+      "en": "In the trap of fools, let them kneel"
+    },
+    {
+      "tempo": 152.91,
+      "fr": "Vivre libre, crois-moi, ça va changer",
+      "pt": "Viva livre, acredite, isso vai mudar",
+      "en": ""
+    },
+    {
+      "tempo": 156.53,
+      "fr": "J'suis restée debout et j'y ai pris goût",
+      "pt": "",
+      "en": "I stayed up and got a taste for it"
+    },
+    {
+      "tempo": 159.37,
+      "fr": "J'suis libre, me voilà",
+      "pt": "Estou livre, aqui estou",
+      "en": "I'm free, here I am"
+    }
+  ],
+  "vocabulario": {
+    "libre": {
+      "pt": "livre",
+      "en": "free"
+    },
+    "me": {
+      "pt": "meu",
+      "en": "me"
+    },
+    "voilà": {
+      "pt": "Lá",
+      "en": "There"
+    },
+    "c'est": {
+      "pt": "Isso é",
+      "en": "It is"
+    },
+    "ma": {
+      "pt": "meu",
+      "en": "my"
+    },
+    "voix": {
+      "pt": "voz",
+      "en": "voice"
+    },
+    "là": {
+      "pt": "lá",
+      "en": ""
+    },
+    "la": {
+      "pt": "lá",
+      "en": "there"
+    },
+    "suite": {
+      "pt": "seguindo",
+      "en": "following"
+    },
+    "en": {
+      "pt": "em",
+      "en": "in"
+    },
+    "musique": {
+      "pt": "música",
+      "en": "music"
+    },
+    "sur": {
+      "pt": "sobre",
+      "en": "on"
+    },
+    "scène": {
+      "pt": "cena",
+      "en": "scene"
+    },
+    "coulisses": {
+      "pt": "nos bastidores",
+      "en": "behind the scenes"
+    },
+    "mais": {
+      "pt": "mas",
+      "en": "but"
+    },
+    "sans": {
+      "pt": "sem",
+      "en": "without"
+    },
+    "toi": {
+      "pt": "Você",
+      "en": "You"
+    },
+    "roue": {
+      "pt": "roda",
+      "en": "wheel"
+    },
+    "tout": {
+      "pt": "Todos",
+      "en": "All"
+    },
+    "équilibre": {
+      "pt": "equilíbrio",
+      "en": "balance"
+    },
+    "j'avais": {
+      "pt": "Eu tive",
+      "en": "I had"
+    },
+    "peur": {
+      "pt": "temer",
+      "en": "fear"
+    },
+    "avant": {
+      "pt": "Antes",
+      "en": "Before"
+    },
+    "je": {
+      "pt": "EU",
+      "en": "I"
+    },
+    "parlais": {
+      "pt": "falou",
+      "en": "spoke"
+    },
+    "bas": {
+      "pt": "abaixo",
+      "en": "down"
+    },
+    "j'étais": {
+      "pt": "Eu era",
+      "en": "I was"
+    },
+    "jamais": {
+      "pt": "Nunca",
+      "en": "Never"
+    },
+    "devant": {
+      "pt": "na frente",
+      "en": "in front"
+    },
+    "oh": {
+      "pt": "Oh",
+      "en": "Oh"
+    },
+    "non": {
+      "pt": "Não",
+      "en": "No"
+    },
+    "aujourd'hui": {
+      "pt": "Hoje",
+      "en": "Today"
+    },
+    "j'ai": {
+      "pt": "Eu tenho",
+      "en": "I have"
+    },
+    "bien": {
+      "pt": "BOM",
+      "en": "GOOD"
+    },
+    "changé": {
+      "pt": "intercâmbio",
+      "en": "exchange"
+    },
+    "crois-moi": {
+      "pt": "acredite em mim",
+      "en": "believe me"
+    },
+    "fais": {
+      "pt": "fazer",
+      "en": "do"
+    },
+    "attention": {
+      "pt": "atenção",
+      "en": "attention"
+    },
+    "à": {
+      "pt": "tem",
+      "en": "has"
+    },
+    "ton": {
+      "pt": "seu",
+      "en": "your"
+    },
+    "jeu": {
+      "pt": "jogo",
+      "en": "game"
+    },
+    "le": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "connais": {
+      "pt": "saber",
+      "en": "know"
+    },
+    "déjà": {
+      "pt": "",
+      "en": "Already"
+    },
+    "j'suis": {
+      "pt": "Eu sou",
+      "en": "I am"
+    },
+    "et": {
+      "pt": "E",
+      "en": "And"
+    },
+    "ça": {
+      "pt": "Que",
+      "en": "That"
+    },
+    "ne": {
+      "pt": "",
+      "en": "born"
+    },
+    "changera": {
+      "pt": "vai mudar",
+      "en": "will change"
+    },
+    "pas": {
+      "pt": "não",
+      "en": "not"
+    },
+    "oui": {
+      "pt": "Sim",
+      "en": "Yes"
+    },
+    "vivre": {
+      "pt": "ao vivo",
+      "en": "live"
+    },
+    "veux": {
+      "pt": "",
+      "en": "want"
+    },
+    "plus": {
+      "pt": "mais",
+      "en": "more"
+    },
+    "tomber": {
+      "pt": "cair",
+      "en": "to fall"
+    },
+    "dans": {
+      "pt": "Em",
+      "en": "In"
+    },
+    "piège": {
+      "pt": "armadilha",
+      "en": "trap"
+    },
+    "des": {
+      "pt": "do",
+      "en": "of the"
+    },
+    "fous": {
+      "pt": "louco",
+      "en": "crazy"
+    },
+    "qu'ils": {
+      "pt": "que eles",
+      "en": "that they"
+    },
+    "se": {
+      "pt": "se",
+      "en": "se"
+    },
+    "mettent": {
+      "pt": "colocar",
+      "en": "put"
+    },
+    "genoux": {
+      "pt": "joelhos",
+      "en": "knees"
+    },
+    "va": {
+      "pt": "ir",
+      "en": "go"
+    },
+    "changer": {
+      "pt": "mudar",
+      "en": "to change"
+    },
+    "restée": {
+      "pt": "permaneceu",
+      "en": "remained"
+    },
+    "debout": {
+      "pt": "de pé",
+      "en": "standing"
+    },
+    "j'y": {
+      "pt": "eu estou lá",
+      "en": "I'm there"
+    },
+    "ai": {
+      "pt": "ai",
+      "en": "ai"
+    },
+    "pris": {
+      "pt": "levado",
+      "en": "taken"
+    },
+    "goût": {
+      "pt": "gosto",
+      "en": "taste"
+    },
+    "tu": {
+      "pt": "você",
+      "en": "you"
+    },
+    "crois": {
+      "pt": "acreditar",
+      "en": "believe"
+    },
+    "quoi": {
+      "pt": "O que",
+      "en": "What"
+    },
+    "moi": {
+      "pt": "Meu",
+      "en": "Me"
+    },
+    "j'oublie": {
+      "pt": "eu esqueço",
+      "en": "I forget"
+    },
+    "sèche": {
+      "pt": "seco",
+      "en": "dried"
+    },
+    "tes": {
+      "pt": "seu",
+      "en": "your"
+    },
+    "larmes": {
+      "pt": "lágrimas",
+      "en": "tears"
+    },
+    "car": {
+      "pt": "porque",
+      "en": "because"
+    },
+    "elles": {
+      "pt": "eles",
+      "en": "they"
+    },
+    "lavent": {
+      "pt": "lavar",
+      "en": "wash"
+    },
+    "toutes": {
+      "pt": "todos",
+      "en": "all"
+    },
+    "armes": {
+      "pt": "armas",
+      "en": "weapons"
+    },
+    "dressées": {
+      "pt": "ereto",
+      "en": "erect"
+    },
+    "contre": {
+      "pt": "contra",
+      "en": "against"
+    },
+    "eh": {
+      "pt": "Eh",
+      "en": "eh"
+    },
+    "te": {
+      "pt": "você",
+      "en": "you"
+    },
+    "dérange": {
+      "pt": "perturba",
+      "en": "disturbs"
+    },
+    "fort": {
+      "pt": "forte",
+      "en": "strong"
+    },
+    "que": {
+      "pt": "que",
+      "en": "that"
+    },
+    "trop": {
+      "pt": "demais",
+      "en": "too much"
+    },
+    "prise": {
+      "pt": "tomada",
+      "en": "socket"
+    },
+    "pour": {
+      "pt": "Para",
+      "en": "For"
+    },
+    "un": {
+      "pt": "UM",
+      "en": "A"
+    },
+    "ange": {
+      "pt": "anjo",
+      "en": "angel"
+    },
+    "moi-même": {
+      "pt": "eu mesmo",
+      "en": "myself"
+    },
+    "croyais": {
+      "pt": "acreditava",
+      "en": "believed"
+    },
+    "tous": {
+      "pt": "todos",
+      "en": "all"
+    },
+    "ces": {
+      "pt": "esses",
+      "en": "these"
+    },
+    "derniers": {
+      "pt": "mais recente",
+      "en": "latest"
+    },
+    "temps": {
+      "pt": "tempo",
+      "en": "time"
+    },
+    "consacrés": {
+      "pt": "dedicado",
+      "en": "dedicated"
+    },
+    "touché": {
+      "pt": "tocar",
+      "en": "touch"
+    },
+    "fond": {
+      "pt": "fundo",
+      "en": "bottom"
+    }
+  },
+  "ordem": 13
+}

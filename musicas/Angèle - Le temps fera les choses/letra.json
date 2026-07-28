@@ -1,0 +1,812 @@
+{
+  "titulo": "Le temps fera les choses",
+  "artista": "Angèle",
+  "arquivo_audio": "audio.mp3",
+  "linhas": [
+    {
+      "tempo": 7.87,
+      "fr": "Toujours faire semblant",
+      "pt": "Sempre finja",
+      "en": "Always pretend"
+    },
+    {
+      "tempo": 9.95,
+      "fr": "Quand on me parle de nous évidemment",
+      "pt": "Quando as pessoas falam comigo sobre nós, obviamente",
+      "en": "When people talk to me about us obviously"
+    },
+    {
+      "tempo": 13.2,
+      "fr": "Avancer sans toi",
+      "pt": "Seguindo em frente sem você",
+      "en": "Moving forward without you"
+    },
+    {
+      "tempo": 15.39,
+      "fr": "Et me dire que tout ça reviendra",
+      "pt": "E me diga que tudo vai voltar",
+      "en": "And tell me that it will all come back"
+    },
+    {
+      "tempo": 18.54,
+      "fr": "Réouvrir les plaies",
+      "pt": "Reabra as feridas",
+      "en": "Reopen the wounds"
+    },
+    {
+      "tempo": 20.31,
+      "fr": "En essayant de retrouver le passé",
+      "pt": "Tentando redescobrir o passado",
+      "en": "Trying to rediscover the past"
+    },
+    {
+      "tempo": 23.67,
+      "fr": "Et puis vouloir oublier",
+      "pt": "E então quero esquecer",
+      "en": "And then want to forget"
+    },
+    {
+      "tempo": 26.29,
+      "fr": "Et tout refermer",
+      "pt": "E feche tudo",
+      "en": "And close everything"
+    },
+    {
+      "tempo": 28.67,
+      "fr": "Oh y'a des jours je te jure sur mes joues",
+      "pt": "Oh, há dias em que juro pelas minhas bochechas",
+      "en": "Oh there are days I swear to you on my cheeks"
+    },
+    {
+      "tempo": 31.39,
+      "fr": "Mes larmes coulent j'en perds les mots",
+      "pt": "Minhas lágrimas fluem, eu perco as palavras",
+      "en": "My tears flow, I lose the words"
+    },
+    {
+      "tempo": 34.55,
+      "fr": "Y'a des jours je te jure que je joue",
+      "pt": "Tem dias que eu juro que jogo",
+      "en": "There are days I swear to you that I play"
+    },
+    {
+      "tempo": 36.91,
+      "fr": "Sans toi comme si c'était nouveau",
+      "pt": "Sem você como se fosse novo",
+      "en": "Without you as if it were new"
+    },
+    {
+      "tempo": 39.61,
+      "fr": "Mais y'a des jours je t'attends et j'avoue",
+      "pt": "Mas tem dias que espero por você e confesso",
+      "en": "But there are days I wait for you and I confess"
+    },
+    {
+      "tempo": 42.09,
+      "fr": "Que tout est de plus en plus lourd",
+      "pt": "Que tudo está ficando cada vez mais pesado",
+      "en": "That everything is getting heavier and heavier"
+    },
+    {
+      "tempo": 44.91,
+      "fr": "J'aimerais parfois faire demi-tour",
+      "pt": "Às vezes eu gostaria de me virar",
+      "en": "Sometimes I would like to turn around"
+    },
+    {
+      "tempo": 49.22,
+      "fr": "Le temps fera les choses",
+      "pt": "O tempo fará coisas",
+      "en": "Time will do things"
+    },
+    {
+      "tempo": 54.51,
+      "fr": "On verra si on ose",
+      "pt": "",
+      "en": "We'll see if we dare"
+    },
+    {
+      "tempo": 60.23,
+      "fr": "Perdre nos raisons",
+      "pt": "Perdendo nossas razões",
+      "en": ""
+    },
+    {
+      "tempo": 62.66,
+      "fr": "Pour retrouver la maison",
+      "pt": "Para encontrar casa",
+      "en": "To find home"
+    },
+    {
+      "tempo": 65.21,
+      "fr": "Mais le temps fera les choses",
+      "pt": "Mas o tempo fará as coisas",
+      "en": "But time will do things"
+    },
+    {
+      "tempo": 68.72,
+      "fr": "Tu me l'as dit",
+      "pt": "Você me disse",
+      "en": "You told me"
+    },
+    {
+      "tempo": 72.43,
+      "fr": "Si on veut on peut dire que c'était mieux avant",
+      "pt": "Se quisermos podemos dizer que antes era melhor",
+      "en": "If we want we can say that it was better before"
+    },
+    {
+      "tempo": 74.86,
+      "fr": "Si on veut on peut encore s'éviter longtemps",
+      "pt": "Se quisermos ainda podemos nos evitar por muito tempo",
+      "en": "If we want we can still avoid each other for a long time"
+    },
+    {
+      "tempo": 77.52,
+      "fr": "Un éternité qu'on s'aime et on se hait",
+      "pt": "Uma eternidade que nos amamos e nos odiamos",
+      "en": "An eternity that we love and hate each other"
+    },
+    {
+      "tempo": 80.56,
+      "fr": "Mais on le sait",
+      "pt": "Mas nós sabemos disso",
+      "en": "But we know it"
+    },
+    {
+      "tempo": 81.8,
+      "fr": "Tout ne tenait qu'à un fil",
+      "pt": "Tudo pendurado por um fio",
+      "en": "Everything hung by a thread"
+    },
+    {
+      "tempo": 84.5,
+      "fr": "C'était déjà fragile",
+      "pt": "",
+      "en": "It was already fragile"
+    },
+    {
+      "tempo": 87.46,
+      "fr": "Mais c'est comme ça les familles",
+      "pt": "Mas é assim que as famílias são",
+      "en": "But that's how families are"
+    },
+    {
+      "tempo": 90.09,
+      "fr": "On peut s'aimer comme on se détruit",
+      "pt": "",
+      "en": "We can love each other as we destroy each other"
+    },
+    {
+      "tempo": 92.79,
+      "fr": "Oh y'a des jours je te jure sur mes joues",
+      "pt": "Oh, há dias em que juro pelas minhas bochechas",
+      "en": "Oh there are days I swear to you on my cheeks"
+    },
+    {
+      "tempo": 95.65,
+      "fr": "Mes larmes coulent j'en perds les mots",
+      "pt": "Minhas lágrimas fluem, eu perco as palavras",
+      "en": "My tears flow, I lose the words"
+    },
+    {
+      "tempo": 98.65,
+      "fr": "Y'a des jours je te jure que je joue",
+      "pt": "Tem dias que eu juro que jogo",
+      "en": "There are days I swear to you that I play"
+    },
+    {
+      "tempo": 101.05,
+      "fr": "Sans toi comme si c'était nouveau",
+      "pt": "Sem você como se fosse novo",
+      "en": ""
+    },
+    {
+      "tempo": 103.94,
+      "fr": "Mais y'a des jours je t'entends et j'avoue",
+      "pt": "Mas há dias que ouço você e confesso",
+      "en": "But there are days I hear you and I confess"
+    },
+    {
+      "tempo": 106.34,
+      "fr": "Que je m'en fais pour toi à mon tour",
+      "pt": "Que eu me preocupo com você por sua vez",
+      "en": "That I worry about you in turn"
+    },
+    {
+      "tempo": 108.98,
+      "fr": "Nos désaccords nous rendront sourds",
+      "pt": "Nossas divergências nos deixarão surdos",
+      "en": "Our disagreements will make us deaf"
+    },
+    {
+      "tempo": 113.54,
+      "fr": "Le temps fera les choses",
+      "pt": "O tempo fará coisas",
+      "en": "Time will do things"
+    },
+    {
+      "tempo": 118.62,
+      "fr": "On verra si on ose",
+      "pt": "Veremos se ousaremos",
+      "en": "We'll see if we dare"
+    },
+    {
+      "tempo": 123.97,
+      "fr": "Perdre la raison",
+      "pt": "Perca a cabeça",
+      "en": "Lose your mind"
+    },
+    {
+      "tempo": 126.32,
+      "fr": "Pour retrouver nos maisons",
+      "pt": "Para encontrar nossas casas",
+      "en": "To find our homes"
+    },
+    {
+      "tempo": 129.02,
+      "fr": "Mais le temps fera les choses",
+      "pt": "Mas o tempo fará as coisas",
+      "en": "But time will do things"
+    },
+    {
+      "tempo": 132.45,
+      "fr": "Tu me l'as dit",
+      "pt": "Você me disse",
+      "en": "You told me"
+    },
+    {
+      "tempo": 137.26,
+      "fr": "On voulait s'oublier",
+      "pt": "Queríamos esquecer um do outro",
+      "en": "We wanted to forget each other"
+    },
+    {
+      "tempo": 139.67,
+      "fr": "Quelque chose nous avait liés",
+      "pt": "Algo nos ligou",
+      "en": "Something had linked us"
+    },
+    {
+      "tempo": 143.99,
+      "fr": "Depuis tout s'est brisé",
+      "pt": "Desde então tudo quebrou",
+      "en": "Since then everything has broken"
+    },
+    {
+      "tempo": 147.69,
+      "fr": "J'aimerais nous retrouver",
+      "pt": "Eu gostaria de me encontrar novamente",
+      "en": "I would like to meet again"
+    },
+    {
+      "tempo": 150.32,
+      "fr": "Ou faire une pause dans nos regrets",
+      "pt": "Ou faça uma pausa em nossos arrependimentos",
+      "en": "Or take a break from our regrets"
+    },
+    {
+      "tempo": 155.12,
+      "fr": "Pour tout recommencer",
+      "pt": "Para começar tudo de novo",
+      "en": "To start all over again"
+    },
+    {
+      "tempo": 160.28,
+      "fr": "Pour tout recommencer",
+      "pt": "Para começar tudo de novo",
+      "en": "To start all over again"
+    },
+    {
+      "tempo": 164.78,
+      "fr": "Pour tout recommencer",
+      "pt": "Para começar tudo de novo",
+      "en": "To start all over again"
+    },
+    {
+      "tempo": 169.21,
+      "fr": "Pour tout recommencer",
+      "pt": "Para começar tudo de novo",
+      "en": "To start all over again"
+    }
+  ],
+  "vocabulario": {
+    "toujours": {
+      "pt": "sempre",
+      "en": "always"
+    },
+    "faire": {
+      "pt": "PENDÊNCIA",
+      "en": "TO DO"
+    },
+    "semblant": {
+      "pt": "fingir",
+      "en": "pretend"
+    },
+    "quand": {
+      "pt": "Quando",
+      "en": "When"
+    },
+    "on": {
+      "pt": "nós",
+      "en": "we"
+    },
+    "me": {
+      "pt": "meu",
+      "en": "me"
+    },
+    "parle": {
+      "pt": "falar",
+      "en": "speak"
+    },
+    "de": {
+      "pt": "de",
+      "en": "of"
+    },
+    "nous": {
+      "pt": "Nós",
+      "en": "We"
+    },
+    "évidemment": {
+      "pt": "obviamente",
+      "en": "obviously"
+    },
+    "avancer": {
+      "pt": "seguir em frente",
+      "en": "move forward"
+    },
+    "sans": {
+      "pt": "sem",
+      "en": "without"
+    },
+    "toi": {
+      "pt": "Você",
+      "en": "You"
+    },
+    "et": {
+      "pt": "E",
+      "en": "And"
+    },
+    "dire": {
+      "pt": "dizer",
+      "en": "say"
+    },
+    "que": {
+      "pt": "que",
+      "en": "that"
+    },
+    "tout": {
+      "pt": "Todos",
+      "en": "All"
+    },
+    "ça": {
+      "pt": "Que",
+      "en": "That"
+    },
+    "reviendra": {
+      "pt": "voltará",
+      "en": "will come back"
+    },
+    "réouvrir": {
+      "pt": "reabrir",
+      "en": "reopen"
+    },
+    "les": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "plaies": {
+      "pt": "ferimentos",
+      "en": "wounds"
+    },
+    "en": {
+      "pt": "em",
+      "en": "in"
+    },
+    "essayant": {
+      "pt": "tentando",
+      "en": "trying"
+    },
+    "retrouver": {
+      "pt": "encontrar",
+      "en": "find"
+    },
+    "le": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "passé": {
+      "pt": "passar",
+      "en": "pass"
+    },
+    "puis": {
+      "pt": "Então",
+      "en": "Then"
+    },
+    "vouloir": {
+      "pt": "querer",
+      "en": "to want"
+    },
+    "oublier": {
+      "pt": "esquecer",
+      "en": "forget"
+    },
+    "refermer": {
+      "pt": "fechar",
+      "en": "close"
+    },
+    "oh": {
+      "pt": "Oh",
+      "en": "Oh"
+    },
+    "y'a": {
+      "pt": "há",
+      "en": "there is"
+    },
+    "des": {
+      "pt": "do",
+      "en": "of the"
+    },
+    "jours": {
+      "pt": "dias",
+      "en": "days"
+    },
+    "je": {
+      "pt": "EU",
+      "en": "I"
+    },
+    "te": {
+      "pt": "você",
+      "en": "you"
+    },
+    "jure": {
+      "pt": "juramentado",
+      "en": "sworn"
+    },
+    "sur": {
+      "pt": "sobre",
+      "en": "on"
+    },
+    "mes": {
+      "pt": "meu",
+      "en": "my"
+    },
+    "joues": {
+      "pt": "bochechas",
+      "en": "cheeks"
+    },
+    "larmes": {
+      "pt": "lágrimas",
+      "en": "tears"
+    },
+    "coulent": {
+      "pt": "fluxo",
+      "en": "flow"
+    },
+    "j'en": {
+      "pt": "Eu tenho",
+      "en": "I have"
+    },
+    "perds": {
+      "pt": "perder",
+      "en": "lose"
+    },
+    "mots": {
+      "pt": "palavras",
+      "en": "words"
+    },
+    "joue": {
+      "pt": "peças",
+      "en": "plays"
+    },
+    "comme": {
+      "pt": "como",
+      "en": "as"
+    },
+    "si": {
+      "pt": "se",
+      "en": "if"
+    },
+    "c'était": {
+      "pt": "era",
+      "en": "it was"
+    },
+    "nouveau": {
+      "pt": "novo",
+      "en": "new"
+    },
+    "mais": {
+      "pt": "mas",
+      "en": "but"
+    },
+    "t'attends": {
+      "pt": "você espera",
+      "en": "you wait"
+    },
+    "j'avoue": {
+      "pt": "eu admito",
+      "en": "I admit"
+    },
+    "est": {
+      "pt": "Leste",
+      "en": "East"
+    },
+    "plus": {
+      "pt": "mais",
+      "en": "more"
+    },
+    "lourd": {
+      "pt": "pesado",
+      "en": "heavy"
+    },
+    "j'aimerais": {
+      "pt": "Gostaria",
+      "en": "I would like"
+    },
+    "parfois": {
+      "pt": "Às vezes",
+      "en": "Sometimes"
+    },
+    "demi-tour": {
+      "pt": "Retorno",
+      "en": "U-turn"
+    },
+    "temps": {
+      "pt": "tempo",
+      "en": "time"
+    },
+    "fera": {
+      "pt": "vai fazer",
+      "en": "will do"
+    },
+    "choses": {
+      "pt": "coisas",
+      "en": "things"
+    },
+    "verra": {
+      "pt": "vai ver",
+      "en": "will see"
+    },
+    "ose": {
+      "pt": "ousar",
+      "en": "dare"
+    },
+    "perdre": {
+      "pt": "perder",
+      "en": "lose"
+    },
+    "nos": {
+      "pt": "nosso",
+      "en": "our"
+    },
+    "raisons": {
+      "pt": "razões",
+      "en": "reasons"
+    },
+    "pour": {
+      "pt": "Para",
+      "en": "For"
+    },
+    "la": {
+      "pt": "lá",
+      "en": "there"
+    },
+    "maison": {
+      "pt": "Casa",
+      "en": "House"
+    },
+    "tu": {
+      "pt": "você",
+      "en": "you"
+    },
+    "l'as": {
+      "pt": "Las",
+      "en": "Las"
+    },
+    "dit": {
+      "pt": "disse",
+      "en": "said"
+    },
+    "veut": {
+      "pt": "quero",
+      "en": "wanna"
+    },
+    "peut": {
+      "pt": "pode",
+      "en": "can"
+    },
+    "mieux": {
+      "pt": "melhorar",
+      "en": "better"
+    },
+    "avant": {
+      "pt": "Antes",
+      "en": "Before"
+    },
+    "encore": {
+      "pt": "De novo",
+      "en": "Again"
+    },
+    "s'éviter": {
+      "pt": "evitar",
+      "en": "avoid"
+    },
+    "longtemps": {
+      "pt": "muito tempo",
+      "en": "a long time"
+    },
+    "un": {
+      "pt": "UM",
+      "en": "A"
+    },
+    "éternité": {
+      "pt": "eternidade",
+      "en": "eternity"
+    },
+    "qu'on": {
+      "pt": "que nós",
+      "en": "that we"
+    },
+    "s'aime": {
+      "pt": "amem um ao outro",
+      "en": "love each other"
+    },
+    "se": {
+      "pt": "se",
+      "en": "se"
+    },
+    "hait": {
+      "pt": "odeia",
+      "en": "hates"
+    },
+    "sait": {
+      "pt": "sabe",
+      "en": "knows"
+    },
+    "ne": {
+      "pt": "nascer",
+      "en": "born"
+    },
+    "tenait": {
+      "pt": "mantido",
+      "en": "held"
+    },
+    "qu'à": {
+      "pt": "do que",
+      "en": "than to"
+    },
+    "fil": {
+      "pt": "fio",
+      "en": "thread"
+    },
+    "déjà": {
+      "pt": "Já",
+      "en": "Already"
+    },
+    "fragile": {
+      "pt": "frágil",
+      "en": "fragile"
+    },
+    "c'est": {
+      "pt": "Isso é",
+      "en": "It is"
+    },
+    "familles": {
+      "pt": "famílias",
+      "en": "families"
+    },
+    "s'aimer": {
+      "pt": "amem um ao outro",
+      "en": ""
+    },
+    "détruit": {
+      "pt": "destruído",
+      "en": "destroyed"
+    },
+    "t'entends": {
+      "pt": "você ouve",
+      "en": "you hear"
+    },
+    "m'en": {
+      "pt": "meu",
+      "en": "me"
+    },
+    "fais": {
+      "pt": "",
+      "en": "do"
+    },
+    "à": {
+      "pt": "tem",
+      "en": ""
+    },
+    "mon": {
+      "pt": "Meu",
+      "en": "My"
+    },
+    "tour": {
+      "pt": "redondo",
+      "en": "round"
+    },
+    "désaccords": {
+      "pt": "desentendimentos",
+      "en": "disagreements"
+    },
+    "rendront": {
+      "pt": "vai voltar",
+      "en": "will return"
+    },
+    "sourds": {
+      "pt": "surdo",
+      "en": "deaf"
+    },
+    "raison": {
+      "pt": "razão",
+      "en": "reason"
+    },
+    "maisons": {
+      "pt": "casas",
+      "en": "houses"
+    },
+    "voulait": {
+      "pt": "desejado",
+      "en": "wanted"
+    },
+    "s'oublier": {
+      "pt": "esqueça de si mesmo",
+      "en": "forget yourself"
+    },
+    "quelque": {
+      "pt": "alguns",
+      "en": "some"
+    },
+    "chose": {
+      "pt": "coisa",
+      "en": "thing"
+    },
+    "avait": {
+      "pt": "tive",
+      "en": "had"
+    },
+    "liés": {
+      "pt": "relacionado",
+      "en": "related"
+    },
+    "depuis": {
+      "pt": "Desde",
+      "en": "Since"
+    },
+    "s'est": {
+      "pt": "é",
+      "en": "is"
+    },
+    "brisé": {
+      "pt": "brisa",
+      "en": "breeze"
+    },
+    "ou": {
+      "pt": "Ou",
+      "en": "Or"
+    },
+    "une": {
+      "pt": "um",
+      "en": "a"
+    },
+    "pause": {
+      "pt": "quebrar",
+      "en": "break"
+    },
+    "dans": {
+      "pt": "Em",
+      "en": "In"
+    },
+    "regrets": {
+      "pt": "lamenta",
+      "en": "regrets"
+    },
+    "recommencer": {
+      "pt": "começar de novo",
+      "en": "start again"
+    }
+  },
+  "ordem": 12
+}

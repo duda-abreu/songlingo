@@ -1,0 +1,910 @@
+{
+  "titulo": "Oui ou non",
+  "artista": "Angèle",
+  "arquivo_audio": "audio.mp3",
+  "linhas": [
+    {
+      "tempo": 10.19,
+      "fr": "Ma journée est passée à une de ces vitesses (quoi?)",
+      "pt": "Meu dia passou em uma dessas velocidades (o quê?)",
+      "en": "My day went by in one of those speeds (what?)"
+    },
+    {
+      "tempo": 14.73,
+      "fr": "Pas mis le nez dehors et pas lavée (oh)",
+      "pt": "Não coloquei os pés lá fora e não lavei (oh)",
+      "en": "Not set foot outside and not washed (oh)"
+    },
+    {
+      "tempo": 17.88,
+      "fr": "Ah ça je déteste",
+      "pt": "Ah, isso eu odeio",
+      "en": "Oh that I hate"
+    },
+    {
+      "tempo": 19.61,
+      "fr": "Batterie faible, j'ai pas de quoi recharger (oh non)",
+      "pt": "Bateria fraca, não tenho nada para recarregar (ah, não)",
+      "en": "Low battery, I don't have anything to recharge (oh no)"
+    },
+    {
+      "tempo": 22.66,
+      "fr": "Et ça n'arrive qu'à moi",
+      "pt": "E isso só acontece comigo",
+      "en": "And it only happens to me"
+    },
+    {
+      "tempo": 24.35,
+      "fr": "J'voulais faire des stories qui t'étaient dédiées",
+      "pt": "Eu queria fazer histórias dedicadas a você",
+      "en": "I wanted to make stories dedicated to you"
+    },
+    {
+      "tempo": 27.26,
+      "fr": "J'sais pas te dire pourquoi",
+      "pt": "Eu não sei por que",
+      "en": "I don't know why"
+    },
+    {
+      "tempo": 29.72,
+      "fr": "Regarde comment je souris",
+      "pt": "Olha como eu sorrio",
+      "en": "Look how I smile"
+    },
+    {
+      "tempo": 32.65,
+      "fr": "Regardez encore",
+      "pt": "Olhe novamente",
+      "en": "Look again"
+    },
+    {
+      "tempo": 34.53,
+      "fr": "Je veux savoir ce que t'en dis",
+      "pt": "Eu quero saber o que você diz",
+      "en": "I want to know what you say"
+    },
+    {
+      "tempo": 37.62,
+      "fr": "Quand j'souris trop fort",
+      "pt": "Quando eu sorrio muito",
+      "en": "When I smile too hard"
+    },
+    {
+      "tempo": 39.34,
+      "fr": "C'est faux peut-être mais au plus je ris",
+      "pt": "Talvez seja falso, mas quanto mais eu rio",
+      "en": "It's perhaps false but the more I laugh"
+    },
+    {
+      "tempo": 42.2,
+      "fr": "Au plus j'te donne tort",
+      "pt": "No máximo eu provo que você está errado",
+      "en": "At most I prove you wrong"
+    },
+    {
+      "tempo": 44.1,
+      "fr": "De pas vouloir m'aimer",
+      "pt": "Por não querer me amar",
+      "en": "For not wanting to love me"
+    },
+    {
+      "tempo": 48.81,
+      "fr": "C'est oui ou bien c'est non",
+      "pt": "É sim ou não",
+      "en": "It's yes or it's no"
+    },
+    {
+      "tempo": 51.42,
+      "fr": "Hier tu me voulais",
+      "pt": "Ontem você me quis",
+      "en": "Yesterday you wanted me"
+    },
+    {
+      "tempo": 53.63,
+      "fr": "C'est oui ou bien c'est non",
+      "pt": "É sim ou não",
+      "en": "It's yes or it's no"
+    },
+    {
+      "tempo": 56.29,
+      "fr": "Demain tu me feras marcher",
+      "pt": "Amanhã você vai me fazer andar",
+      "en": "Tomorrow you will make me walk"
+    },
+    {
+      "tempo": 58.58,
+      "fr": "C'est oui ou bien c'est non",
+      "pt": "É sim ou não",
+      "en": "It's yes or it's no"
+    },
+    {
+      "tempo": 60.97,
+      "fr": "J'vais devoir t'oublier",
+      "pt": "vou ter que te esquecer",
+      "en": "I'm going to have to forget you"
+    },
+    {
+      "tempo": 63.35,
+      "fr": "C'est oui ou bien c'est non",
+      "pt": "É sim ou não",
+      "en": "It's yes or it's no"
+    },
+    {
+      "tempo": 67.3,
+      "fr": "Hier encore, on était liés",
+      "pt": "Ainda ontem estávamos ligados",
+      "en": "Just yesterday we were linked"
+    },
+    {
+      "tempo": 70.33,
+      "fr": "J'étais celle de tes rêves",
+      "pt": "Eu era o dos seus sonhos",
+      "en": "I was the one of your dreams"
+    },
+    {
+      "tempo": 72.24,
+      "fr": "Celle qui comble tes nuits, celle à marier",
+      "pt": "Aquela que preenche suas noites, aquela que vai casar",
+      "en": "The one who fills your nights, the one to marry"
+    },
+    {
+      "tempo": 75.07,
+      "fr": "Faut dire que ce fut bref",
+      "pt": "Devo dizer que foi breve",
+      "en": "Must say it was brief"
+    },
+    {
+      "tempo": 77.09,
+      "fr": "La nuit n'a duré qu'une seule soirée",
+      "pt": "A noite durou apenas uma noite",
+      "en": "The night only lasted one evening"
+    },
+    {
+      "tempo": 79.98,
+      "fr": "Genre romantisme express",
+      "pt": "Gênero de romantismo expresso",
+      "en": "Express romanticism genre"
+    },
+    {
+      "tempo": 81.8,
+      "fr": "T'as pris le temps de venir mais pas de rester",
+      "pt": "Você aproveitou o tempo para vir, mas não para ficar",
+      "en": "You took the time to come but not to stay"
+    },
+    {
+      "tempo": 84.89,
+      "fr": "Tu m'embrasses puis tu me laisses",
+      "pt": "Você me beija e depois me deixa",
+      "en": "You kiss me then you leave me"
+    },
+    {
+      "tempo": 87.16,
+      "fr": "Regarde comment je souris",
+      "pt": "Olha como eu sorrio",
+      "en": "Look how I smile"
+    },
+    {
+      "tempo": 90.24,
+      "fr": "Regardez encore",
+      "pt": "Olhe novamente",
+      "en": "Look again"
+    },
+    {
+      "tempo": 92.09,
+      "fr": "Je veux savoir ce que t'en dis",
+      "pt": "Eu quero saber o que você diz",
+      "en": "I want to know what you say"
+    },
+    {
+      "tempo": 95.09,
+      "fr": "Quand j'souris trop fort",
+      "pt": "Quando eu sorrio muito",
+      "en": "When I smile too hard"
+    },
+    {
+      "tempo": 96.83,
+      "fr": "C'est faux peut-être mais au plus je ris",
+      "pt": "Talvez seja falso, mas quanto mais eu rio",
+      "en": "It's perhaps false but the more I laugh"
+    },
+    {
+      "tempo": 99.9,
+      "fr": "Au plus j'te donne tort",
+      "pt": "No máximo eu provo que você está errado",
+      "en": "At most I prove you wrong"
+    },
+    {
+      "tempo": 101.56,
+      "fr": "De pas vouloir m'aimer",
+      "pt": "Por não querer me amar",
+      "en": "For not wanting to love me"
+    },
+    {
+      "tempo": 106.09,
+      "fr": "C'est oui ou bien c'est non",
+      "pt": "É sim ou não",
+      "en": "It's yes or it's no"
+    },
+    {
+      "tempo": 108.97,
+      "fr": "Hier tu me voulais",
+      "pt": "Ontem você me quis",
+      "en": "Yesterday you wanted me"
+    },
+    {
+      "tempo": 111.29,
+      "fr": "C'est oui ou bien c'est non",
+      "pt": "É sim ou não",
+      "en": "It's yes or it's no"
+    },
+    {
+      "tempo": 113.64,
+      "fr": "Demain tu me feras marcher",
+      "pt": "Amanhã você vai me fazer andar",
+      "en": "Tomorrow you will make me walk"
+    },
+    {
+      "tempo": 115.9,
+      "fr": "C'est oui ou bien c'est non",
+      "pt": "É sim ou não",
+      "en": "It's yes or it's no"
+    },
+    {
+      "tempo": 118.41,
+      "fr": "J'vais devoir t'oublier",
+      "pt": "vou ter que te esquecer",
+      "en": "I'm going to have to forget you"
+    },
+    {
+      "tempo": 120.89,
+      "fr": "C'est oui ou bien c'est non",
+      "pt": "É sim ou não",
+      "en": "It's yes or it's no"
+    },
+    {
+      "tempo": 124.81,
+      "fr": "Pourquoi tes \"j'aime\" comptent plus que ceux des autres",
+      "pt": "Por que suas “curtidas” são mais importantes do que as dos outros",
+      "en": "Why your “likes” matter more than those of others"
+    },
+    {
+      "tempo": 128.73,
+      "fr": "Pourquoi même quand eux ils m'aiment, j'te veux toi jusqu'à l'aube",
+      "pt": "Por que mesmo quando eles me amam, eu quero você até o amanhecer",
+      "en": "Why even when they love me, I want you until dawn"
+    },
+    {
+      "tempo": 133.41,
+      "fr": "Pourquoi j'me mens à moi-même en croyant c'que tu m'racontes",
+      "pt": "Por que minto para mim mesmo acreditando no que você me diz",
+      "en": "Why do I lie to myself by believing what you tell me"
+    },
+    {
+      "tempo": 138.24,
+      "fr": "Quand tu m'écris que je suis belle",
+      "pt": "Quando você me escreve que sou linda",
+      "en": "When you write to me that I am beautiful"
+    },
+    {
+      "tempo": 140.85,
+      "fr": "Et finalement c'est des mensonges",
+      "pt": "E no final das contas são mentiras",
+      "en": "And ultimately it's lies"
+    },
+    {
+      "tempo": 144.9,
+      "fr": "C'est oui ou bien c'est non",
+      "pt": "É sim ou não",
+      "en": "It's yes or it's no"
+    },
+    {
+      "tempo": 147.42,
+      "fr": "Hier tu me voulais",
+      "pt": "Ontem você me quis",
+      "en": "Yesterday you wanted me"
+    },
+    {
+      "tempo": 149.62,
+      "fr": "C'est oui ou bien c'est non",
+      "pt": "É sim ou não",
+      "en": "It's yes or it's no"
+    },
+    {
+      "tempo": 152.15,
+      "fr": "Demain tu me feras marcher",
+      "pt": "Amanhã você vai me fazer andar",
+      "en": "Tomorrow you will make me walk"
+    },
+    {
+      "tempo": 154.52,
+      "fr": "C'est oui ou bien c'est non",
+      "pt": "É sim ou não",
+      "en": "It's yes or it's no"
+    },
+    {
+      "tempo": 156.97,
+      "fr": "J'vais devoir t'oublier",
+      "pt": "vou ter que te esquecer",
+      "en": "I'm going to have to forget you"
+    },
+    {
+      "tempo": 159.2,
+      "fr": "C'est oui ou bien c'est non",
+      "pt": "É sim ou não",
+      "en": "It's yes or it's no"
+    },
+    {
+      "tempo": 164.09,
+      "fr": "C'est oui ou bien c'est non",
+      "pt": "É sim ou não",
+      "en": "It's yes or it's no"
+    },
+    {
+      "tempo": 168.35,
+      "fr": "C'est oui ou bien c'est non",
+      "pt": "É sim ou não",
+      "en": "It's yes or it's no"
+    },
+    {
+      "tempo": 173.48,
+      "fr": "C'est oui ou bien c'est non",
+      "pt": "É sim ou não",
+      "en": "It's yes or it's no"
+    },
+    {
+      "tempo": 176.29,
+      "fr": "Hier tu me voulais",
+      "pt": "Ontem você me quis",
+      "en": "Yesterday you wanted me"
+    },
+    {
+      "tempo": 178.45,
+      "fr": "C'est oui ou bien c'est non",
+      "pt": "É sim ou não",
+      "en": "It's yes or it's no"
+    }
+  ],
+  "vocabulario": {
+    "ma": {
+      "pt": "meu",
+      "en": "my"
+    },
+    "journée": {
+      "pt": "dia",
+      "en": "daytime"
+    },
+    "est": {
+      "pt": "Leste",
+      "en": "East"
+    },
+    "passée": {
+      "pt": "passado",
+      "en": "past"
+    },
+    "à": {
+      "pt": "tem",
+      "en": "has"
+    },
+    "une": {
+      "pt": "um",
+      "en": "a"
+    },
+    "de": {
+      "pt": "de",
+      "en": "of"
+    },
+    "ces": {
+      "pt": "esses",
+      "en": "these"
+    },
+    "vitesses": {
+      "pt": "velocidades",
+      "en": "speeds"
+    },
+    "quoi": {
+      "pt": "O que",
+      "en": "What"
+    },
+    "pas": {
+      "pt": "não",
+      "en": "not"
+    },
+    "mis": {
+      "pt": "colocar",
+      "en": "put"
+    },
+    "le": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "nez": {
+      "pt": "nariz",
+      "en": "nose"
+    },
+    "dehors": {
+      "pt": "fora",
+      "en": "out"
+    },
+    "et": {
+      "pt": "E",
+      "en": "And"
+    },
+    "lavée": {
+      "pt": "lavado",
+      "en": "washed"
+    },
+    "oh": {
+      "pt": "Oh",
+      "en": "Oh"
+    },
+    "ah": {
+      "pt": "oh",
+      "en": "oh"
+    },
+    "ça": {
+      "pt": "Que",
+      "en": "That"
+    },
+    "je": {
+      "pt": "EU",
+      "en": "I"
+    },
+    "déteste": {
+      "pt": "odiado",
+      "en": "hated"
+    },
+    "batterie": {
+      "pt": "bateria",
+      "en": "battery"
+    },
+    "faible": {
+      "pt": "fraco",
+      "en": "weak"
+    },
+    "j'ai": {
+      "pt": "Eu tenho",
+      "en": "I have"
+    },
+    "recharger": {
+      "pt": "recarregar",
+      "en": "reload"
+    },
+    "non": {
+      "pt": "Não",
+      "en": "No"
+    },
+    "n'arrive": {
+      "pt": "não acontece",
+      "en": "doesn't happen"
+    },
+    "qu'à": {
+      "pt": "do que",
+      "en": "than to"
+    },
+    "moi": {
+      "pt": "Meu",
+      "en": "Me"
+    },
+    "j'voulais": {
+      "pt": "eu queria",
+      "en": "I wanted"
+    },
+    "faire": {
+      "pt": "PENDÊNCIA",
+      "en": "TO DO"
+    },
+    "des": {
+      "pt": "do",
+      "en": "of the"
+    },
+    "stories": {
+      "pt": "histórias",
+      "en": "stories"
+    },
+    "qui": {
+      "pt": "Quem",
+      "en": "Who"
+    },
+    "t'étaient": {
+      "pt": "você estava",
+      "en": "you were"
+    },
+    "dédiées": {
+      "pt": "dedicado",
+      "en": "dedicated"
+    },
+    "j'sais": {
+      "pt": "Eu sei",
+      "en": "I know"
+    },
+    "te": {
+      "pt": "você",
+      "en": "you"
+    },
+    "dire": {
+      "pt": "dizer",
+      "en": "say"
+    },
+    "pourquoi": {
+      "pt": "Por que",
+      "en": "Why"
+    },
+    "regarde": {
+      "pt": "olhe",
+      "en": "look at"
+    },
+    "comment": {
+      "pt": "como",
+      "en": "how"
+    },
+    "souris": {
+      "pt": "rato",
+      "en": "mouse"
+    },
+    "regardez": {
+      "pt": "olhar",
+      "en": "look"
+    },
+    "encore": {
+      "pt": "De novo",
+      "en": "Again"
+    },
+    "veux": {
+      "pt": "querer",
+      "en": "want"
+    },
+    "savoir": {
+      "pt": "saber",
+      "en": "know"
+    },
+    "ce": {
+      "pt": "Esse",
+      "en": "This"
+    },
+    "que": {
+      "pt": "que",
+      "en": "that"
+    },
+    "t'en": {
+      "pt": "não se preocupe",
+      "en": "don't worry"
+    },
+    "dis": {
+      "pt": "dizer",
+      "en": "say"
+    },
+    "quand": {
+      "pt": "Quando",
+      "en": "When"
+    },
+    "j'souris": {
+      "pt": "eu sorrio",
+      "en": "I smile"
+    },
+    "trop": {
+      "pt": "demais",
+      "en": "too much"
+    },
+    "fort": {
+      "pt": "forte",
+      "en": "strong"
+    },
+    "c'est": {
+      "pt": "Isso é",
+      "en": "It is"
+    },
+    "faux": {
+      "pt": "falso",
+      "en": "fake"
+    },
+    "peut-être": {
+      "pt": "talvez",
+      "en": "maybe"
+    },
+    "mais": {
+      "pt": "mas",
+      "en": "but"
+    },
+    "au": {
+      "pt": "No",
+      "en": "At"
+    },
+    "plus": {
+      "pt": "mais",
+      "en": "more"
+    },
+    "ris": {
+      "pt": "rir",
+      "en": "laugh"
+    },
+    "j'te": {
+      "pt": "EU",
+      "en": "I"
+    },
+    "donne": {
+      "pt": "dado",
+      "en": "given"
+    },
+    "tort": {
+      "pt": "errado",
+      "en": "wrong"
+    },
+    "vouloir": {
+      "pt": "querer",
+      "en": "to want"
+    },
+    "m'aimer": {
+      "pt": "me ame",
+      "en": "love me"
+    },
+    "oui": {
+      "pt": "Sim",
+      "en": "Yes"
+    },
+    "ou": {
+      "pt": "Ou",
+      "en": "Or"
+    },
+    "bien": {
+      "pt": "BOM",
+      "en": "GOOD"
+    },
+    "hier": {
+      "pt": "ontem",
+      "en": "yesterday"
+    },
+    "tu": {
+      "pt": "você",
+      "en": "you"
+    },
+    "me": {
+      "pt": "meu",
+      "en": "me"
+    },
+    "voulais": {
+      "pt": "desejado",
+      "en": "wanted"
+    },
+    "demain": {
+      "pt": "amanhã",
+      "en": "tomorrow"
+    },
+    "feras": {
+      "pt": "vai fazer",
+      "en": "will do"
+    },
+    "marcher": {
+      "pt": "caminhar",
+      "en": "to walk"
+    },
+    "j'vais": {
+      "pt": "eu vou",
+      "en": "I'm going"
+    },
+    "devoir": {
+      "pt": "obrigação",
+      "en": "duty"
+    },
+    "t'oublier": {
+      "pt": "esquecer você",
+      "en": "forget you"
+    },
+    "on": {
+      "pt": "nós",
+      "en": "we"
+    },
+    "était": {
+      "pt": "era",
+      "en": "was"
+    },
+    "liés": {
+      "pt": "relacionado",
+      "en": "related"
+    },
+    "j'étais": {
+      "pt": "Eu era",
+      "en": "I was"
+    },
+    "celle": {
+      "pt": "que",
+      "en": "that"
+    },
+    "tes": {
+      "pt": "seu",
+      "en": "your"
+    },
+    "rêves": {
+      "pt": "sonhos",
+      "en": "dreams"
+    },
+    "comble": {
+      "pt": "sótão",
+      "en": "attic"
+    },
+    "nuits": {
+      "pt": "noites",
+      "en": "nights"
+    },
+    "marier": {
+      "pt": "casar",
+      "en": "marry"
+    },
+    "faut": {
+      "pt": "deve",
+      "en": "must"
+    },
+    "fut": {
+      "pt": "era",
+      "en": "was"
+    },
+    "bref": {
+      "pt": "Curto",
+      "en": "Short"
+    },
+    "la": {
+      "pt": "lá",
+      "en": "there"
+    },
+    "nuit": {
+      "pt": "noite",
+      "en": "night"
+    },
+    "n'a": {
+      "pt": "n / D",
+      "en": "n / A"
+    },
+    "duré": {
+      "pt": "duro",
+      "en": "hard"
+    },
+    "qu'une": {
+      "pt": "Aquele",
+      "en": "that one"
+    },
+    "seule": {
+      "pt": "sozinho",
+      "en": "alone"
+    },
+    "soirée": {
+      "pt": "noite",
+      "en": "evening"
+    },
+    "genre": {
+      "pt": "gênero",
+      "en": "gender"
+    },
+    "romantisme": {
+      "pt": "romantismo",
+      "en": "romanticism"
+    },
+    "express": {
+      "pt": "expressar",
+      "en": "express"
+    },
+    "t'as": {
+      "pt": "você tem",
+      "en": "you have"
+    },
+    "pris": {
+      "pt": "levado",
+      "en": "taken"
+    },
+    "temps": {
+      "pt": "tempo",
+      "en": "time"
+    },
+    "venir": {
+      "pt": "vir",
+      "en": "come"
+    },
+    "rester": {
+      "pt": "ficar",
+      "en": "stay"
+    },
+    "m'embrasses": {
+      "pt": "me beija",
+      "en": "kiss me"
+    },
+    "puis": {
+      "pt": "Então",
+      "en": "Then"
+    },
+    "laisses": {
+      "pt": "trelas",
+      "en": "leashes"
+    },
+    "j'aime": {
+      "pt": "Eu gosto",
+      "en": "I like"
+    },
+    "comptent": {
+      "pt": "contar",
+      "en": "count"
+    },
+    "ceux": {
+      "pt": "aqueles",
+      "en": "those"
+    },
+    "autres": {
+      "pt": "outros",
+      "en": "others"
+    },
+    "même": {
+      "pt": "até",
+      "en": "even"
+    },
+    "eux": {
+      "pt": "eles",
+      "en": "them"
+    },
+    "ils": {
+      "pt": "eles",
+      "en": "they"
+    },
+    "m'aiment": {
+      "pt": "me ame",
+      "en": "love me"
+    },
+    "toi": {
+      "pt": "Você",
+      "en": "You"
+    },
+    "jusqu'à": {
+      "pt": "até",
+      "en": "until"
+    },
+    "l'aube": {
+      "pt": "alvorecer",
+      "en": "dawn"
+    },
+    "j'me": {
+      "pt": "EU",
+      "en": "I"
+    },
+    "mens": {
+      "pt": "masculino",
+      "en": "mens"
+    },
+    "moi-même": {
+      "pt": "eu mesmo",
+      "en": "myself"
+    },
+    "en": {
+      "pt": "em",
+      "en": "in"
+    },
+    "croyant": {
+      "pt": "crente",
+      "en": "believer"
+    },
+    "c'que": {
+      "pt": "o que",
+      "en": "what"
+    },
+    "m'racontes": {
+      "pt": "diga-me",
+      "en": "tell me"
+    },
+    "m'écris": {
+      "pt": "escreva para mim",
+      "en": "write to me"
+    },
+    "suis": {
+      "pt": "sou",
+      "en": "am"
+    },
+    "belle": {
+      "pt": "lindo",
+      "en": "beautiful"
+    },
+    "finalement": {
+      "pt": "Em última análise",
+      "en": "Ultimately"
+    },
+    "mensonges": {
+      "pt": "mentiras",
+      "en": "lies"
+    }
+  },
+  "ordem": 14
+}

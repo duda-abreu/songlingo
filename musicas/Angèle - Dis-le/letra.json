@@ -1,0 +1,848 @@
+{
+  "titulo": "Dis-le",
+  "artista": "Angèle",
+  "arquivo_audio": "audio.mp3",
+  "linhas": [
+    {
+      "tempo": 6.77,
+      "fr": "\"L'être\" ou bien \"l'avoir\", personne n'a jamais su conjuguer",
+      "pt": "“Ser” ou “ter”, ninguém jamais soube conjugar",
+      "en": "“Being” or “having”, no one has ever known how to conjugate"
+    },
+    {
+      "tempo": 9.82,
+      "fr": "Pourtant, ne rien avoir ne signifie pas ne rien être",
+      "pt": "Porém, não ter nada não significa não ser nada",
+      "en": "However, having nothing does not mean being nothing"
+    },
+    {
+      "tempo": 13.22,
+      "fr": "Matin, midi, soir, tout l'monde voudrait pouvoir s'accorder",
+      "pt": "De manhã, ao meio-dia, à noite, todos gostariam de poder concordar",
+      "en": "Morning, noon, evening, everyone would like to be able to agree"
+    },
+    {
+      "tempo": 16.57,
+      "fr": "Mais une chose à la fois, respire et ne fous pas la merde",
+      "pt": "Mas uma coisa de cada vez, respire e não estrague tudo",
+      "en": "But one thing at a time, breathe and don't fuck up"
+    },
+    {
+      "tempo": 20.17,
+      "fr": "Comptez les étoiles, elles font déjà partie du passé",
+      "pt": "Conte as estrelas, elas já estão no passado",
+      "en": "Count the stars, they are already in the past"
+    },
+    {
+      "tempo": 24.74,
+      "fr": "Ça donne le vertige sur terre",
+      "pt": "Isso deixa você tonto na terra",
+      "en": "It makes you dizzy on earth"
+    },
+    {
+      "tempo": 26.86,
+      "fr": "Tout s'arrête un jour, c'est l'épreuve de la lucidité",
+      "pt": "Tudo para um dia, é o teste de lucidez",
+      "en": "Everything stops one day, it's the test of lucidity"
+    },
+    {
+      "tempo": 31.41,
+      "fr": "Même tout ce qu'on regrette",
+      "pt": "Mesmo tudo o que nos arrependemos",
+      "en": "Even everything we regret"
+    },
+    {
+      "tempo": 33.86,
+      "fr": "Dis-le, dis-le, dis-le, dis-le, dis-le, dis-le, dis-le, dis-le",
+      "pt": "Diga, diga, diga, diga, diga, diga, diga, diga",
+      "en": "Say it, say it, say it, say it, say it, say it, say it, say it"
+    },
+    {
+      "tempo": 37.48,
+      "fr": "Dis-le, dis-le, dis-le, dis-le",
+      "pt": "Diga, diga, diga, diga",
+      "en": "Say it, say it, say it, say it"
+    },
+    {
+      "tempo": 40.26,
+      "fr": "Dis-le, dis-le, dis-le, dis-le, dis-le, dis-le, dis-le, dis-le",
+      "pt": "Diga, diga, diga, diga, diga, diga, diga, diga",
+      "en": "Say it, say it, say it, say it, say it, say it, say it, say it"
+    },
+    {
+      "tempo": 43.85,
+      "fr": "Dis-le, dis-le, dis-le, dis-le",
+      "pt": "Diga, diga, diga, diga",
+      "en": "Say it, say it, say it, say it"
+    },
+    {
+      "tempo": 46.83,
+      "fr": "Dis-le que t'te sens seul, dis-le que t'es fatigué",
+      "pt": "Diga que você se sente sozinho, diga que você está cansado",
+      "en": "Say it that you feel alone, say it that you are tired"
+    },
+    {
+      "tempo": 49.14,
+      "fr": "Dis-le pourquoi t'es pas bien, dis-le pourquoi c'est pas rien",
+      "pt": "Diga por que você não está bem, diga por que não é nada",
+      "en": "Say it why you're not well, say it why it's not nothing"
+    },
+    {
+      "tempo": 51.8,
+      "fr": "Dis-le plus fort, oh",
+      "pt": "Diga mais alto, oh",
+      "en": "Say it louder, oh"
+    },
+    {
+      "tempo": 53.58,
+      "fr": "Dis-le où tu as mal, dis-le qui t'a blessé",
+      "pt": "Diga onde dói, diga quem te machucou",
+      "en": "Say it where it hurts, say it who hurt you"
+    },
+    {
+      "tempo": 56.24,
+      "fr": "Oh, dis-le, dis-le",
+      "pt": "Ah, diga, diga",
+      "en": "Oh, say it, say it"
+    },
+    {
+      "tempo": 59.59,
+      "fr": "Dis-le que tu aimes les reines, dis-le qu't'aimes les rois",
+      "pt": "Diga que você ama rainhas, diga que você ama reis",
+      "en": "Say it that you love queens, say it that you love kings"
+    },
+    {
+      "tempo": 63.03,
+      "fr": "Dis-le qu't'as peur du futur, dis-le si t'oses pas le dire",
+      "pt": "Diga que você tem medo do futuro, diga se não tiver coragem de dizer",
+      "en": "Say it that you're afraid of the future, say it if you don't dare say it"
+    },
+    {
+      "tempo": 66.58,
+      "fr": "Dis-le que tu as d'la peine, dis-le dans mes bras",
+      "pt": "Diga que você está triste, diga em meus braços",
+      "en": "Say it that you are sad, say it in my arms"
+    },
+    {
+      "tempo": 69.21,
+      "fr": "Dis-le qu't'en peux plus, dis-le qu'tu veux plus",
+      "pt": "Diga que você não aguenta mais, diga que quer mais",
+      "en": "Say you can't take more, say you want more"
+    },
+    {
+      "tempo": 71.76,
+      "fr": "Dis-le qu'tu crois pas, dis-le que tu sens pas",
+      "pt": "Diga que você não acredita, diga que você não sente",
+      "en": "Say it you don't believe, say it you don't feel"
+    },
+    {
+      "tempo": 74.35,
+      "fr": "Dis-le qu'tu veux plus, dis-le que tu mérites pas ça",
+      "pt": "Diga que você quer mais, diga que você não merece isso",
+      "en": "Say it you want more, say it you don't deserve this"
+    },
+    {
+      "tempo": 77.26,
+      "fr": "Dis-le qu't'es perdu, dis-le que tu t'en sortiras",
+      "pt": "Diga que você está perdido, diga que você vai superar isso",
+      "en": "Say it you're lost, say it you'll get through it"
+    },
+    {
+      "tempo": 80.62,
+      "fr": "Dis-le, dis-le, dis-le, dis-le, dis-le, dis-le, dis-le, dis-le",
+      "pt": "Diga, diga, diga, diga, diga, diga, diga, diga",
+      "en": "Say it, say it, say it, say it, say it, say it, say it, say it"
+    },
+    {
+      "tempo": 83.75,
+      "fr": "Dis-le, dis-le, dis-le, dis-le",
+      "pt": "Diga, diga, diga, diga",
+      "en": "Say it, say it, say it, say it"
+    },
+    {
+      "tempo": 87.03,
+      "fr": "Dis-le, dis-le, dis-le, dis-le, dis-le, dis-le, dis-le, dis-le",
+      "pt": "Diga, diga, diga, diga, diga, diga, diga, diga",
+      "en": "Say it, say it, say it, say it, say it, say it, say it, say it"
+    },
+    {
+      "tempo": 90.52,
+      "fr": "Dis-le, dis-le, dis-le, dis-le",
+      "pt": "Diga, diga, diga, diga",
+      "en": "Say it, say it, say it, say it"
+    },
+    {
+      "tempo": 93.84,
+      "fr": "Dis-le, dis-le, dis-le, dis-le, dis-le, dis-le, dis-le, dis-le",
+      "pt": "Diga, diga, diga, diga, diga, diga, diga, diga",
+      "en": "Say it, say it, say it, say it, say it, say it, say it, say it"
+    },
+    {
+      "tempo": 97.5,
+      "fr": "Dis-le, dis-le, dis-le, dis-le",
+      "pt": "Diga, diga, diga, diga",
+      "en": "Say it, say it, say it, say it"
+    },
+    {
+      "tempo": 100.1,
+      "fr": "Dis-le, dis-le, dis-le, dis-le, dis-le, dis-le, dis-le, dis-le",
+      "pt": "Diga, diga, diga, diga, diga, diga, diga, diga",
+      "en": "Say it, say it, say it, say it, say it, say it, say it, say it"
+    },
+    {
+      "tempo": 103.91,
+      "fr": "Dis-le, dis-le, dis-le, dis-le",
+      "pt": "Diga, diga, diga, diga",
+      "en": "Say it, say it, say it, say it"
+    },
+    {
+      "tempo": 106.72,
+      "fr": "Écouter son instinct",
+      "pt": "Ouça seu instinto",
+      "en": "Listen to your instinct"
+    },
+    {
+      "tempo": 108.33,
+      "fr": "Vivre que dans l'instant",
+      "pt": "Viva apenas o momento",
+      "en": "Live only in the moment"
+    },
+    {
+      "tempo": 110.09,
+      "fr": "Manifeste au destin",
+      "pt": "Manifesto ao destino",
+      "en": "Manifesto to destiny"
+    },
+    {
+      "tempo": 111.68,
+      "fr": "Tout restera certain, eh",
+      "pt": "Tudo permanecerá certo, hein",
+      "en": "Everything will remain certain, eh"
+    },
+    {
+      "tempo": 113.57,
+      "fr": "Écouter son instinct",
+      "pt": "Ouça seu instinto",
+      "en": "Listen to your instinct"
+    },
+    {
+      "tempo": 114.95,
+      "fr": "Vivre que dans l'instant",
+      "pt": "Viva apenas o momento",
+      "en": "Live only in the moment"
+    },
+    {
+      "tempo": 116.7,
+      "fr": "Manifeste au destin",
+      "pt": "Manifesto ao destino",
+      "en": "Manifesto to destiny"
+    },
+    {
+      "tempo": 118.33,
+      "fr": "Tout restera certain, eh",
+      "pt": "Tudo permanecerá certo, hein",
+      "en": "Everything will remain certain, eh"
+    },
+    {
+      "tempo": 120.84,
+      "fr": "Dis-le, dis-le, dis-le, dis-le, dis-le, dis-le, dis-le, dis-le",
+      "pt": "Diga, diga, diga, diga, diga, diga, diga, diga",
+      "en": "Say it, say it, say it, say it, say it, say it, say it, say it"
+    },
+    {
+      "tempo": 123.86,
+      "fr": "Dis-le, dis-le, dis-le, dis-le",
+      "pt": "Diga, diga, diga, diga",
+      "en": "Say it, say it, say it, say it"
+    },
+    {
+      "tempo": 127.19,
+      "fr": "Dis-le, dis-le, dis-le, dis-le, dis-le, dis-le, dis-le, dis-le",
+      "pt": "Diga, diga, diga, diga, diga, diga, diga, diga",
+      "en": "Say it, say it, say it, say it, say it, say it, say it, say it"
+    },
+    {
+      "tempo": 130.58,
+      "fr": "Dis-le, dis-le, dis-le, dis-le",
+      "pt": "Diga, diga, diga, diga",
+      "en": "Say it, say it, say it, say it"
+    },
+    {
+      "tempo": 133.41,
+      "fr": "Écouter son instinct",
+      "pt": "Ouça seu instinto",
+      "en": "Listen to your instinct"
+    },
+    {
+      "tempo": 135.19,
+      "fr": "Vivre que dans l'instant",
+      "pt": "Viva apenas o momento",
+      "en": "Live only in the moment"
+    },
+    {
+      "tempo": 136.86,
+      "fr": "Manifeste au destin",
+      "pt": "Manifesto ao destino",
+      "en": "Manifesto to destiny"
+    },
+    {
+      "tempo": 138.54,
+      "fr": "Tout restera certain, eh",
+      "pt": "Tudo permanecerá certo, hein",
+      "en": "Everything will remain certain, eh"
+    },
+    {
+      "tempo": 140.39,
+      "fr": "Écouter son instinct",
+      "pt": "Ouça seu instinto",
+      "en": "Listen to your instinct"
+    },
+    {
+      "tempo": 141.49,
+      "fr": "Vivre que dans l'instant",
+      "pt": "Viva apenas o momento",
+      "en": "Live only in the moment"
+    },
+    {
+      "tempo": 143.03,
+      "fr": "Manifeste au destin",
+      "pt": "Manifesto ao destino",
+      "en": "Manifesto to destiny"
+    },
+    {
+      "tempo": 144.81,
+      "fr": "Tout restera certain, eh",
+      "pt": "Tudo permanecerá certo, hein",
+      "en": "Everything will remain certain, eh"
+    },
+    {
+      "tempo": 146.66,
+      "fr": "(Écouter son instinct",
+      "pt": "(Ouça seu instinto",
+      "en": "(Listen to your instinct"
+    },
+    {
+      "tempo": 148.39,
+      "fr": "Vivre que dans l'instant",
+      "pt": "Viva apenas o momento",
+      "en": "Live only in the moment"
+    },
+    {
+      "tempo": 149.87,
+      "fr": "Manifeste au destin",
+      "pt": "Manifesto ao destino",
+      "en": "Manifesto to destiny"
+    },
+    {
+      "tempo": 152.09,
+      "fr": "Tout restera certain, eh",
+      "pt": "Tudo permanecerá certo, hein",
+      "en": "Everything will remain certain, eh"
+    },
+    {
+      "tempo": 153.24,
+      "fr": "Écouter son instinct",
+      "pt": "Ouça seu instinto",
+      "en": "Listen to your instinct"
+    },
+    {
+      "tempo": 154.91,
+      "fr": "Vivre que dans l'instant",
+      "pt": "Viva apenas o momento",
+      "en": "Live only in the moment"
+    },
+    {
+      "tempo": 156.61,
+      "fr": "Manifeste au destin",
+      "pt": "Manifesto ao destino",
+      "en": "Manifesto to destiny"
+    },
+    {
+      "tempo": 158.69,
+      "fr": "Tout restera certain, eh)",
+      "pt": "Tudo permanecerá certo, eh)",
+      "en": "Everything will remain certain, eh)"
+    },
+    {
+      "tempo": 174.21,
+      "fr": "(Dis-le, dis-le, dis-le, dis-le, dis-le, dis-le, dis-le)",
+      "pt": "(Diga, diga, diga, diga, diga, diga, diga)",
+      "en": "(Say it, say it, say it, say it, say it, say it, say it)"
+    },
+    {
+      "tempo": 182.42,
+      "fr": "Eh-eh-eh-eh-eh-hm",
+      "pt": "Eh-eh-eh-eh-eh-hm",
+      "en": "Eh-eh-eh-eh-eh-hm"
+    },
+    {
+      "tempo": 190.4,
+      "fr": "Dis-le, dis-le, dis-le, dis-le, dis-le, dis-le, dis-le, dis-le, dis-le...",
+      "pt": "Diga, diga, diga, diga, diga, diga, diga, diga, diga...",
+      "en": "Say it, say it, say it, say it, say it, say it, say it, say it, say it..."
+    }
+  ],
+  "vocabulario": {
+    "l'être": {
+      "pt": "ser",
+      "en": "to be"
+    },
+    "ou": {
+      "pt": "Ou",
+      "en": "Or"
+    },
+    "bien": {
+      "pt": "BOM",
+      "en": "GOOD"
+    },
+    "l'avoir": {
+      "pt": "tenha isso",
+      "en": "have it"
+    },
+    "personne": {
+      "pt": "pessoa",
+      "en": "person"
+    },
+    "n'a": {
+      "pt": "n / D",
+      "en": "n / A"
+    },
+    "jamais": {
+      "pt": "Nunca",
+      "en": "Never"
+    },
+    "su": {
+      "pt": "saber",
+      "en": "know"
+    },
+    "conjuguer": {
+      "pt": "conjugado",
+      "en": "conjugate"
+    },
+    "pourtant": {
+      "pt": "Ainda",
+      "en": "Yet"
+    },
+    "ne": {
+      "pt": "nascer",
+      "en": "born"
+    },
+    "rien": {
+      "pt": "Nada",
+      "en": "Nothing"
+    },
+    "avoir": {
+      "pt": "ter",
+      "en": "to have"
+    },
+    "signifie": {
+      "pt": "significa",
+      "en": "means"
+    },
+    "pas": {
+      "pt": "não",
+      "en": "not"
+    },
+    "être": {
+      "pt": "ser",
+      "en": "be"
+    },
+    "matin": {
+      "pt": "Manhã",
+      "en": "Morning"
+    },
+    "midi": {
+      "pt": "meio-dia",
+      "en": "noon"
+    },
+    "soir": {
+      "pt": "noite",
+      "en": "evening"
+    },
+    "tout": {
+      "pt": "Todos",
+      "en": "All"
+    },
+    "l'monde": {
+      "pt": "o mundo",
+      "en": "the world"
+    },
+    "voudrait": {
+      "pt": "gostaria",
+      "en": "would like"
+    },
+    "pouvoir": {
+      "pt": "poder",
+      "en": "power"
+    },
+    "s'accorder": {
+      "pt": "concordar",
+      "en": "agree"
+    },
+    "mais": {
+      "pt": "mas",
+      "en": "but"
+    },
+    "une": {
+      "pt": "um",
+      "en": "a"
+    },
+    "chose": {
+      "pt": "coisa",
+      "en": "thing"
+    },
+    "à": {
+      "pt": "tem",
+      "en": "has"
+    },
+    "la": {
+      "pt": "lá",
+      "en": "there"
+    },
+    "fois": {
+      "pt": "vezes",
+      "en": "times"
+    },
+    "respire": {
+      "pt": "respirar",
+      "en": "breathe"
+    },
+    "et": {
+      "pt": "E",
+      "en": "And"
+    },
+    "fous": {
+      "pt": "louco",
+      "en": "crazy"
+    },
+    "merde": {
+      "pt": "merda",
+      "en": "shit"
+    },
+    "comptez": {
+      "pt": "contar",
+      "en": "count"
+    },
+    "les": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "étoiles": {
+      "pt": "estrelas",
+      "en": "stars"
+    },
+    "elles": {
+      "pt": "eles",
+      "en": "they"
+    },
+    "font": {
+      "pt": "fazer",
+      "en": "make"
+    },
+    "déjà": {
+      "pt": "Já",
+      "en": "Already"
+    },
+    "partie": {
+      "pt": "papel",
+      "en": "part"
+    },
+    "du": {
+      "pt": "de",
+      "en": "of"
+    },
+    "passé": {
+      "pt": "passar",
+      "en": "pass"
+    },
+    "ça": {
+      "pt": "Que",
+      "en": "That"
+    },
+    "donne": {
+      "pt": "dado",
+      "en": "given"
+    },
+    "le": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "vertige": {
+      "pt": "vertigem",
+      "en": "vertigo"
+    },
+    "sur": {
+      "pt": "sobre",
+      "en": "on"
+    },
+    "terre": {
+      "pt": "terra",
+      "en": "earth"
+    },
+    "s'arrête": {
+      "pt": "para",
+      "en": "stops"
+    },
+    "un": {
+      "pt": "UM",
+      "en": "A"
+    },
+    "jour": {
+      "pt": "dia",
+      "en": "day"
+    },
+    "c'est": {
+      "pt": "Isso é",
+      "en": "It is"
+    },
+    "l'épreuve": {
+      "pt": "o teste",
+      "en": "the test"
+    },
+    "de": {
+      "pt": "de",
+      "en": "of"
+    },
+    "lucidité": {
+      "pt": "lucidez",
+      "en": "lucidity"
+    },
+    "même": {
+      "pt": "até",
+      "en": "even"
+    },
+    "ce": {
+      "pt": "Esse",
+      "en": "This"
+    },
+    "qu'on": {
+      "pt": "que nós",
+      "en": "that we"
+    },
+    "regrette": {
+      "pt": "arrependimento",
+      "en": "regret"
+    },
+    "dis-le": {
+      "pt": "diga",
+      "en": "say it"
+    },
+    "que": {
+      "pt": "que",
+      "en": "that"
+    },
+    "t'te": {
+      "pt": "você",
+      "en": "you"
+    },
+    "sens": {
+      "pt": "senso",
+      "en": "sense"
+    },
+    "seul": {
+      "pt": "sozinho",
+      "en": "alone"
+    },
+    "t'es": {
+      "pt": "seu",
+      "en": "your"
+    },
+    "fatigué": {
+      "pt": "fadiga",
+      "en": "fatigue"
+    },
+    "pourquoi": {
+      "pt": "Por que",
+      "en": "Why"
+    },
+    "plus": {
+      "pt": "mais",
+      "en": "more"
+    },
+    "fort": {
+      "pt": "forte",
+      "en": "strong"
+    },
+    "oh": {
+      "pt": "Oh",
+      "en": "Oh"
+    },
+    "où": {
+      "pt": "Ou",
+      "en": "Or"
+    },
+    "tu": {
+      "pt": "você",
+      "en": "you"
+    },
+    "as": {
+      "pt": "ás",
+      "en": "ace"
+    },
+    "mal": {
+      "pt": "errado",
+      "en": "wrong"
+    },
+    "qui": {
+      "pt": "Quem",
+      "en": "Who"
+    },
+    "t'a": {
+      "pt": "seu",
+      "en": "your"
+    },
+    "blessé": {
+      "pt": "ferir",
+      "en": "hurt"
+    },
+    "aimes": {
+      "pt": "amor",
+      "en": "love"
+    },
+    "reines": {
+      "pt": "rainhas",
+      "en": "queens"
+    },
+    "qu't'aimes": {
+      "pt": "do que você gosta",
+      "en": "what do you like"
+    },
+    "rois": {
+      "pt": "reis",
+      "en": "kings"
+    },
+    "qu't'as": {
+      "pt": "o que você tem",
+      "en": "what do you have"
+    },
+    "peur": {
+      "pt": "temer",
+      "en": "fear"
+    },
+    "futur": {
+      "pt": "futuro",
+      "en": "future"
+    },
+    "si": {
+      "pt": "se",
+      "en": "if"
+    },
+    "t'oses": {
+      "pt": "você ousa",
+      "en": "you dare"
+    },
+    "dire": {
+      "pt": "dizer",
+      "en": "say"
+    },
+    "d'la": {
+      "pt": "do",
+      "en": "from the"
+    },
+    "peine": {
+      "pt": "pena",
+      "en": "penalty"
+    },
+    "dans": {
+      "pt": "Em",
+      "en": "In"
+    },
+    "mes": {
+      "pt": "meu",
+      "en": "my"
+    },
+    "bras": {
+      "pt": "braço",
+      "en": "arm"
+    },
+    "qu't'en": {
+      "pt": "o que você acha",
+      "en": "what do you think"
+    },
+    "peux": {
+      "pt": "pode",
+      "en": "can"
+    },
+    "qu'tu": {
+      "pt": "que você",
+      "en": "that you"
+    },
+    "veux": {
+      "pt": "querer",
+      "en": "want"
+    },
+    "crois": {
+      "pt": "acreditar",
+      "en": "believe"
+    },
+    "mérites": {
+      "pt": "méritos",
+      "en": "merits"
+    },
+    "qu't'es": {
+      "pt": "o que você está",
+      "en": "what are you"
+    },
+    "perdu": {
+      "pt": "perdido",
+      "en": "lost"
+    },
+    "t'en": {
+      "pt": "não se preocupe",
+      "en": "don't worry"
+    },
+    "sortiras": {
+      "pt": "vai sair",
+      "en": "will go out"
+    },
+    "écouter": {
+      "pt": "ouvir",
+      "en": "listen"
+    },
+    "son": {
+      "pt": "dela",
+      "en": "her"
+    },
+    "instinct": {
+      "pt": "instinto",
+      "en": "instinct"
+    },
+    "vivre": {
+      "pt": "ao vivo",
+      "en": "live"
+    },
+    "l'instant": {
+      "pt": "o momento",
+      "en": "the moment"
+    },
+    "manifeste": {
+      "pt": "manifesto",
+      "en": "manifest"
+    },
+    "au": {
+      "pt": "No",
+      "en": "At"
+    },
+    "destin": {
+      "pt": "destino",
+      "en": "fate"
+    },
+    "restera": {
+      "pt": "permanecerá",
+      "en": "will remain"
+    },
+    "certain": {
+      "pt": "certo",
+      "en": "certain"
+    },
+    "eh": {
+      "pt": "Eh",
+      "en": "eh"
+    },
+    "eh-eh-eh-eh-eh-hm": {
+      "pt": "eh-eh-eh-eh-eh-hm",
+      "en": "eh-eh-eh-eh-eh-hm"
+    }
+  },
+  "ordem": 5
+}

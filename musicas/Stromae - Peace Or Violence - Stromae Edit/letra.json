@@ -1,0 +1,800 @@
+{
+  "titulo": "Peace Or Violence - Stromae Edit",
+  "artista": "Stromae",
+  "arquivo_audio": "audio.mp3",
+  "linhas": [
+    {
+      "tempo": 0.51,
+      "fr": "Peace or violence",
+      "pt": "Paz ou violência",
+      "en": "Peace or violence"
+    },
+    {
+      "tempo": 1.54,
+      "fr": "J'ai vu des gens tendre les bras et leurs deux doigts levés",
+      "pt": "Vi pessoas com os braços estendidos e os dois dedos levantados",
+      "en": "I saw people with their arms outstretched and their two fingers raised"
+    },
+    {
+      "tempo": 5.62,
+      "fr": "Leurs majeurs et leurs index toujours en forme de V",
+      "pt": "Seus dedos médio e indicador sempre em forma de V",
+      "en": "Their middle and index fingers always in the shape of a V"
+    },
+    {
+      "tempo": 9.13,
+      "fr": "J'ai donc demandé ce que ce symbole, pouvait signifier",
+      "pt": "Então perguntei o que esse símbolo poderia significar.",
+      "en": "So I asked what this symbol could mean."
+    },
+    {
+      "tempo": 12.81,
+      "fr": "Et bien personne, au grand personne, n'a pu me l'expliquer",
+      "pt": "Bem, ninguém, realmente, poderia explicar isso para mim",
+      "en": "Well no one, really, could explain it to me"
+    },
+    {
+      "tempo": 17.04,
+      "fr": "Serait-ce un signe de paix",
+      "pt": "Isso poderia ser um sinal de paz",
+      "en": "Could this be a sign of peace"
+    },
+    {
+      "tempo": 18.78,
+      "fr": "Ou bien le V de violence?",
+      "pt": "Ou o V de violência?",
+      "en": "Or the V for violence?"
+    },
+    {
+      "tempo": 20.41,
+      "fr": "Quelqu'un sait ce qu'il avance",
+      "pt": "Alguém sabe o que ele está dizendo?",
+      "en": "Does anyone know what he's saying?"
+    },
+    {
+      "tempo": 22.19,
+      "fr": "Ou ce qu'il fait? (Peace or violence)",
+      "pt": "Ou o que ele faz? (Paz ou violência)",
+      "en": "Or what he does? (Peace or violence)"
+    },
+    {
+      "tempo": 25.09,
+      "fr": "Qu'est-ce que j'en sais moi?",
+      "pt": "O que eu sei sobre isso?",
+      "en": "What do I know about it?"
+    },
+    {
+      "tempo": 26.96,
+      "fr": "Peace or violence",
+      "pt": "Paz ou violência",
+      "en": "Peace or violence"
+    },
+    {
+      "tempo": 28.75,
+      "fr": "Qu'est-ce que j'en sais moi?",
+      "pt": "O que eu sei sobre isso?",
+      "en": "What do I know about it?"
+    },
+    {
+      "tempo": 30.5,
+      "fr": "Peace or violence",
+      "pt": "Paz ou violência",
+      "en": "Peace or violence"
+    },
+    {
+      "tempo": 31.95,
+      "fr": "Serait-ce un signe de paix",
+      "pt": "Isso poderia ser um sinal de paz",
+      "en": "Could this be a sign of peace"
+    },
+    {
+      "tempo": 33.92,
+      "fr": "Ou bien le V de violence?",
+      "pt": "Ou o V de violência?",
+      "en": "Or the V for violence?"
+    },
+    {
+      "tempo": 35.69,
+      "fr": "Quelqu'un sait ce qu'il avance",
+      "pt": "Alguém sabe o que ele está dizendo?",
+      "en": "Does anyone know what he's saying?"
+    },
+    {
+      "tempo": 37.55,
+      "fr": "Ou ce qu'il fait?",
+      "pt": "Ou o que ele faz?",
+      "en": "Or what he does?"
+    },
+    {
+      "tempo": 39.52,
+      "fr": "Serait-ce un signe de paix",
+      "pt": "Isso poderia ser um sinal de paz",
+      "en": "Could this be a sign of peace"
+    },
+    {
+      "tempo": 41.32,
+      "fr": "Ou bien le V de violence?",
+      "pt": "Ou o V de violência?",
+      "en": "Or the V for violence?"
+    },
+    {
+      "tempo": 43.15,
+      "fr": "Quelqu'un sait ce qu'il avance",
+      "pt": "Alguém sabe o que ele está dizendo?",
+      "en": "Does anyone know what he's saying?"
+    },
+    {
+      "tempo": 44.98,
+      "fr": "Ou ce qu'il fait? (Peace or violence)",
+      "pt": "Ou o que ele faz? (Paz ou violência)",
+      "en": "Or what he does? (Peace or violence)"
+    },
+    {
+      "tempo": 49.14,
+      "fr": "Peace or violence",
+      "pt": "Paz ou violência",
+      "en": "Peace or violence"
+    },
+    {
+      "tempo": 52.99,
+      "fr": "Peace or violence",
+      "pt": "Paz ou violência",
+      "en": "Peace or violence"
+    },
+    {
+      "tempo": 56.75,
+      "fr": "Peace or violence",
+      "pt": "Paz ou violência",
+      "en": "Peace or violence"
+    },
+    {
+      "tempo": 60.44,
+      "fr": "Peace or violence",
+      "pt": "Paz ou violência",
+      "en": "Peace or violence"
+    },
+    {
+      "tempo": 62.8,
+      "fr": "Qu'est-ce que j'en sais moi?",
+      "pt": "O que eu sei sobre isso?",
+      "en": "What do I know about it?"
+    },
+    {
+      "tempo": 64.3,
+      "fr": "Peace or violence",
+      "pt": "Paz ou violência",
+      "en": "Peace or violence"
+    },
+    {
+      "tempo": 66.66,
+      "fr": "Qu'est-ce que j'en sais moi?",
+      "pt": "O que eu sei sobre isso?",
+      "en": "What do I know about it?"
+    },
+    {
+      "tempo": 68.34,
+      "fr": "Peace or violence",
+      "pt": "Paz ou violência",
+      "en": "Peace or violence"
+    },
+    {
+      "tempo": 70.21,
+      "fr": "Qu'est-ce que j'en sais moi?",
+      "pt": "O que eu sei sobre isso?",
+      "en": "What do I know about it?"
+    },
+    {
+      "tempo": 71.74,
+      "fr": "Peace or violence",
+      "pt": "Paz ou violência",
+      "en": "Peace or violence"
+    },
+    {
+      "tempo": 74.07,
+      "fr": "Qu'est-ce que j'en sais moi?",
+      "pt": "O que eu sei sobre isso?",
+      "en": "What do I know about it?"
+    },
+    {
+      "tempo": 75.76,
+      "fr": "Peace or violence",
+      "pt": "Paz ou violência",
+      "en": "Peace or violence"
+    },
+    {
+      "tempo": 83.76,
+      "fr": "Et je me suis dit que c'était la même",
+      "pt": "E eu disse a mim mesmo que era a mesma coisa",
+      "en": "And I told myself it was the same"
+    },
+    {
+      "tempo": 85.7,
+      "fr": "Parce qu'il fallait me faire un idée",
+      "pt": "Porque eu tive que me decidir",
+      "en": "Because I had to make up my mind"
+    },
+    {
+      "tempo": 87.56,
+      "fr": "On m'a traité de pessimiste",
+      "pt": "Fui chamado de pessimista",
+      "en": "I was called a pessimist"
+    },
+    {
+      "tempo": 89.61,
+      "fr": "Avec des mots à me suicider (Peace or violence)",
+      "pt": "Com palavras para me matar (paz ou violência)",
+      "en": "With words to kill myself (Peace or violence)"
+    },
+    {
+      "tempo": 92.19,
+      "fr": "Et j'ai insisté",
+      "pt": "E eu insisti",
+      "en": "And I insisted"
+    },
+    {
+      "tempo": 93.56,
+      "fr": "Et encore j'insisterai",
+      "pt": "E mais uma vez vou insistir",
+      "en": "And again I will insist"
+    },
+    {
+      "tempo": 95.59,
+      "fr": "Mais apparemment, selon les grands",
+      "pt": "Mas aparentemente, de acordo com os grandes",
+      "en": "But apparently, according to the big guys"
+    },
+    {
+      "tempo": 97.58,
+      "fr": "C'est long à exprimer",
+      "pt": "Demora muito para expressar",
+      "en": "It takes a long time to express"
+    },
+    {
+      "tempo": 98.82,
+      "fr": "Ça prendra le temps qu'il faudra le temps",
+      "pt": "Vai demorar o tempo que for preciso",
+      "en": "It will take as long as it takes"
+    },
+    {
+      "tempo": 100.93,
+      "fr": "Mais finalement je le saurai",
+      "pt": "Mas eventualmente eu saberei",
+      "en": "But eventually I will know"
+    },
+    {
+      "tempo": 102.67,
+      "fr": "Dans cinq ans ou dix ans ou vingt ans",
+      "pt": "Em cinco anos ou dez anos ou vinte anos",
+      "en": "In five years or ten years or twenty years"
+    },
+    {
+      "tempo": 104.77,
+      "fr": "Mais j'espère avant de crever (Peace or violence)",
+      "pt": "Mas espero que antes de morrer (paz ou violência)",
+      "en": "But I hope before I die (Peace or violence)"
+    },
+    {
+      "tempo": 107.85,
+      "fr": "Qu'est-ce que j'en sais moi?",
+      "pt": "O que eu sei sobre isso?",
+      "en": "What do I know about it?"
+    },
+    {
+      "tempo": 110.36,
+      "fr": "Peace or violence",
+      "pt": "Paz ou violência",
+      "en": "Peace or violence"
+    },
+    {
+      "tempo": 112.12,
+      "fr": "Qu'est-ce que j'en sais moi?",
+      "pt": "O que eu sei sobre isso?",
+      "en": "What do I know about it?"
+    },
+    {
+      "tempo": 113.66,
+      "fr": "Peace or violence",
+      "pt": "Paz ou violência",
+      "en": "Peace or violence"
+    },
+    {
+      "tempo": 115.08,
+      "fr": "Serait-ce un signe de paix",
+      "pt": "Isso poderia ser um sinal de paz",
+      "en": "Could this be a sign of peace"
+    },
+    {
+      "tempo": 117.17,
+      "fr": "Ou bien le V de violence?",
+      "pt": "Ou o V de violência?",
+      "en": "Or the V for violence?"
+    },
+    {
+      "tempo": 118.95,
+      "fr": "Quelqu'un sait ce qu'il avance",
+      "pt": "Alguém sabe o que ele está dizendo?",
+      "en": "Does anyone know what he's saying?"
+    },
+    {
+      "tempo": 120.63,
+      "fr": "Ou ce qu'il fait?",
+      "pt": "Ou o que ele faz?",
+      "en": "Or what he does?"
+    },
+    {
+      "tempo": 122.45,
+      "fr": "Serait-ce un signe de paix",
+      "pt": "Isso poderia ser um sinal de paz",
+      "en": "Could this be a sign of peace"
+    },
+    {
+      "tempo": 124.51,
+      "fr": "Ou bien le V de violence?",
+      "pt": "Ou o V de violência?",
+      "en": "Or the V for violence?"
+    },
+    {
+      "tempo": 126.38,
+      "fr": "Quelqu'un sait ce qu'il avance",
+      "pt": "Alguém sabe o que ele está dizendo?",
+      "en": "Does anyone know what he's saying?"
+    },
+    {
+      "tempo": 128.34,
+      "fr": "Ou ce qu'il fait? (Peace or violence)",
+      "pt": "Ou o que ele faz? (Paz ou violência)",
+      "en": "Or what he does? (Peace or violence)"
+    },
+    {
+      "tempo": 132.69,
+      "fr": "Peace or violence",
+      "pt": "Paz ou violência",
+      "en": "Peace or violence"
+    },
+    {
+      "tempo": 136.34,
+      "fr": "Peace or violence",
+      "pt": "Paz ou violência",
+      "en": "Peace or violence"
+    },
+    {
+      "tempo": 140.28,
+      "fr": "Peace or violence",
+      "pt": "Paz ou violência",
+      "en": "Peace or violence"
+    },
+    {
+      "tempo": 144.01,
+      "fr": "Peace or violence",
+      "pt": "Paz ou violência",
+      "en": "Peace or violence"
+    },
+    {
+      "tempo": 147.86,
+      "fr": "Peace or violence",
+      "pt": "Paz ou violência",
+      "en": "Peace or violence"
+    },
+    {
+      "tempo": 151.55,
+      "fr": "Peace or violence",
+      "pt": "Paz ou violência",
+      "en": "Peace or violence"
+    },
+    {
+      "tempo": 155.36,
+      "fr": "Peace or violence",
+      "pt": "Paz ou violência",
+      "en": "Peace or violence"
+    },
+    {
+      "tempo": 159.13,
+      "fr": "Peace or violence",
+      "pt": "Paz ou violência",
+      "en": "Peace or violence"
+    },
+    {
+      "tempo": 162.85,
+      "fr": "Peace or violence",
+      "pt": "Paz ou violência",
+      "en": "Peace or violence"
+    },
+    {
+      "tempo": 166.63,
+      "fr": "Peace or violence",
+      "pt": "Paz ou violência",
+      "en": "Peace or violence"
+    },
+    {
+      "tempo": 170.52,
+      "fr": "Peace or violence",
+      "pt": "Paz ou violência",
+      "en": "Peace or violence"
+    },
+    {
+      "tempo": 174.14,
+      "fr": "Peace or violence",
+      "pt": "Paz ou violência",
+      "en": "Peace or violence"
+    }
+  ],
+  "vocabulario": {
+    "peace": {
+      "pt": "paz",
+      "en": "peace"
+    },
+    "or": {
+      "pt": "ouro",
+      "en": "gold"
+    },
+    "violence": {
+      "pt": "violência",
+      "en": "violence"
+    },
+    "j'ai": {
+      "pt": "Eu tenho",
+      "en": "I have"
+    },
+    "vu": {
+      "pt": "visto",
+      "en": "seen"
+    },
+    "des": {
+      "pt": "do",
+      "en": "of the"
+    },
+    "gens": {
+      "pt": "pessoas",
+      "en": "people"
+    },
+    "tendre": {
+      "pt": "macio",
+      "en": "tender"
+    },
+    "les": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "bras": {
+      "pt": "braço",
+      "en": "arm"
+    },
+    "et": {
+      "pt": "E",
+      "en": "And"
+    },
+    "leurs": {
+      "pt": "deles",
+      "en": "their"
+    },
+    "deux": {
+      "pt": "dois",
+      "en": "two"
+    },
+    "doigts": {
+      "pt": "dedos",
+      "en": "fingers"
+    },
+    "levés": {
+      "pt": "levantado",
+      "en": "lifted"
+    },
+    "majeurs": {
+      "pt": "principal",
+      "en": "major"
+    },
+    "index": {
+      "pt": "índice",
+      "en": "index"
+    },
+    "toujours": {
+      "pt": "sempre",
+      "en": "always"
+    },
+    "en": {
+      "pt": "em",
+      "en": "in"
+    },
+    "forme": {
+      "pt": "forma",
+      "en": "shape"
+    },
+    "de": {
+      "pt": "de",
+      "en": "of"
+    },
+    "v": {
+      "pt": "v",
+      "en": "v"
+    },
+    "donc": {
+      "pt": "ENTÃO",
+      "en": "SO"
+    },
+    "demandé": {
+      "pt": "solicitar",
+      "en": "request"
+    },
+    "ce": {
+      "pt": "Esse",
+      "en": "This"
+    },
+    "que": {
+      "pt": "que",
+      "en": "that"
+    },
+    "symbole": {
+      "pt": "símbolo",
+      "en": "symbol"
+    },
+    "pouvait": {
+      "pt": "poderia",
+      "en": "could"
+    },
+    "signifier": {
+      "pt": "significar",
+      "en": "mean"
+    },
+    "bien": {
+      "pt": "BOM",
+      "en": "GOOD"
+    },
+    "personne": {
+      "pt": "pessoa",
+      "en": "person"
+    },
+    "au": {
+      "pt": "No",
+      "en": "At"
+    },
+    "grand": {
+      "pt": "grande",
+      "en": "big"
+    },
+    "n'a": {
+      "pt": "n / D",
+      "en": "n / A"
+    },
+    "pu": {
+      "pt": "poderia",
+      "en": "could"
+    },
+    "me": {
+      "pt": "meu",
+      "en": "me"
+    },
+    "l'expliquer": {
+      "pt": "explique isso",
+      "en": "explain it"
+    },
+    "serait-ce": {
+      "pt": "seria",
+      "en": "would it be"
+    },
+    "un": {
+      "pt": "UM",
+      "en": "A"
+    },
+    "signe": {
+      "pt": "sinal",
+      "en": "sign"
+    },
+    "paix": {
+      "pt": "paz",
+      "en": "peace"
+    },
+    "ou": {
+      "pt": "Ou",
+      "en": "Or"
+    },
+    "le": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "quelqu'un": {
+      "pt": "alguém",
+      "en": "someone"
+    },
+    "sait": {
+      "pt": "sabe",
+      "en": "knows"
+    },
+    "qu'il": {
+      "pt": "que ele",
+      "en": "that he"
+    },
+    "avance": {
+      "pt": "avançar",
+      "en": "advance"
+    },
+    "fait": {
+      "pt": "fazer",
+      "en": "do"
+    },
+    "qu'est-ce": {
+      "pt": "quem é",
+      "en": "who is it"
+    },
+    "j'en": {
+      "pt": "Eu tenho",
+      "en": "I have"
+    },
+    "sais": {
+      "pt": "saber",
+      "en": "know"
+    },
+    "moi": {
+      "pt": "Meu",
+      "en": "Me"
+    },
+    "je": {
+      "pt": "EU",
+      "en": "I"
+    },
+    "suis": {
+      "pt": "sou",
+      "en": "am"
+    },
+    "dit": {
+      "pt": "disse",
+      "en": "said"
+    },
+    "c'était": {
+      "pt": "era",
+      "en": "it was"
+    },
+    "la": {
+      "pt": "lá",
+      "en": "there"
+    },
+    "même": {
+      "pt": "até",
+      "en": "even"
+    },
+    "parce": {
+      "pt": "porque",
+      "en": "because"
+    },
+    "fallait": {
+      "pt": "teve que",
+      "en": "had to"
+    },
+    "faire": {
+      "pt": "PENDÊNCIA",
+      "en": "TO DO"
+    },
+    "idée": {
+      "pt": "ideia",
+      "en": "idea"
+    },
+    "on": {
+      "pt": "nós",
+      "en": "we"
+    },
+    "m'a": {
+      "pt": "meu",
+      "en": "my"
+    },
+    "traité": {
+      "pt": "tratado",
+      "en": "treated"
+    },
+    "pessimiste": {
+      "pt": "pessimista",
+      "en": "pessimistic"
+    },
+    "avec": {
+      "pt": "com",
+      "en": "with"
+    },
+    "mots": {
+      "pt": "palavras",
+      "en": "words"
+    },
+    "à": {
+      "pt": "tem",
+      "en": "has"
+    },
+    "suicider": {
+      "pt": "cometer suicídio",
+      "en": "commit suicide"
+    },
+    "insisté": {
+      "pt": "insistiu",
+      "en": "insisted"
+    },
+    "encore": {
+      "pt": "De novo",
+      "en": "Again"
+    },
+    "j'insisterai": {
+      "pt": "eu vou insistir",
+      "en": "I will insist"
+    },
+    "mais": {
+      "pt": "mas",
+      "en": "but"
+    },
+    "apparemment": {
+      "pt": "aparentemente",
+      "en": "apparently"
+    },
+    "selon": {
+      "pt": "de acordo com",
+      "en": "according to"
+    },
+    "grands": {
+      "pt": "grande",
+      "en": "big"
+    },
+    "c'est": {
+      "pt": "Isso é",
+      "en": "It is"
+    },
+    "long": {
+      "pt": "longo",
+      "en": "long"
+    },
+    "exprimer": {
+      "pt": "expressar",
+      "en": "express"
+    },
+    "ça": {
+      "pt": "Que",
+      "en": "That"
+    },
+    "prendra": {
+      "pt": "vai levar",
+      "en": "will take"
+    },
+    "temps": {
+      "pt": "tempo",
+      "en": "time"
+    },
+    "faudra": {
+      "pt": "será necessário",
+      "en": "will be necessary"
+    },
+    "finalement": {
+      "pt": "Em última análise",
+      "en": "Ultimately"
+    },
+    "saurai": {
+      "pt": "saberá",
+      "en": "will know"
+    },
+    "dans": {
+      "pt": "Em",
+      "en": "In"
+    },
+    "cinq": {
+      "pt": "cinco",
+      "en": "five"
+    },
+    "ans": {
+      "pt": "anos",
+      "en": "years"
+    },
+    "dix": {
+      "pt": "dez",
+      "en": "ten"
+    },
+    "vingt": {
+      "pt": "vinte",
+      "en": "twenty"
+    },
+    "j'espère": {
+      "pt": "Espero",
+      "en": "I hope"
+    },
+    "avant": {
+      "pt": "Antes",
+      "en": "Before"
+    },
+    "crever": {
+      "pt": "morrer",
+      "en": "die"
+    }
+  },
+  "ordem": 52
+}

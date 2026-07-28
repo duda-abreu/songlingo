@@ -1,0 +1,892 @@
+{
+  "titulo": "J'entends",
+  "artista": "Angèle",
+  "arquivo_audio": "audio.mp3",
+  "linhas": [
+    {
+      "tempo": 10.53,
+      "fr": "Je n'entendrai plus le silence",
+      "pt": "Não ouvirei mais o silêncio",
+      "en": "I will no longer hear the silence"
+    },
+    {
+      "tempo": 13.47,
+      "fr": "Avant qu'il parte, j'en avais peur",
+      "pt": "Antes de ele partir, eu tinha medo dele",
+      "en": "Before he left, I was afraid of him"
+    },
+    {
+      "tempo": 16.56,
+      "fr": "Mais là il est absent et ça c'est pour toujours",
+      "pt": "Mas lá ele está ausente e isso é para sempre",
+      "en": "But there he is absent and that is forever"
+    },
+    {
+      "tempo": 22.69,
+      "fr": "Toujours ce même sifflement",
+      "pt": "Ainda o mesmo som de assobio",
+      "en": "Still the same whistling sound"
+    },
+    {
+      "tempo": 25.52,
+      "fr": "Et dans mes insomnies j'en pleure",
+      "pt": "E na minha insônia eu choro",
+      "en": "And in my insomnia I cry"
+    },
+    {
+      "tempo": 28.56,
+      "fr": "C'est comme un nouveau deuil à faire",
+      "pt": "É como um novo luto para fazer",
+      "en": "It's like a new mourning to do"
+    },
+    {
+      "tempo": 30.58,
+      "fr": "Celui du silence",
+      "pt": "Aquele do silêncio",
+      "en": "The one of silence"
+    },
+    {
+      "tempo": 36.35,
+      "fr": "Je rêve de pouvoir rêver",
+      "pt": "Eu sonho em poder sonhar",
+      "en": "I dream of being able to dream"
+    },
+    {
+      "tempo": 39.26,
+      "fr": "Je rêve de pouvoir rêver comme toi",
+      "pt": "Eu sonho em poder sonhar como você",
+      "en": "I dream of being able to dream like you"
+    },
+    {
+      "tempo": 42.2,
+      "fr": "L'œil se ferme mais pas l'oreille",
+      "pt": "O olho fecha, mas não o ouvido",
+      "en": "The eye closes but not the ear"
+    },
+    {
+      "tempo": 45.18,
+      "fr": "Elle m'empêche de rêver, aide-moi",
+      "pt": "Ela me impede de sonhar, me ajude",
+      "en": "She stops me from dreaming, help me"
+    },
+    {
+      "tempo": 48.24,
+      "fr": "Sans bruit, je n'entends que mon oreille",
+      "pt": "",
+      "en": "Without noise, I only hear my ear"
+    },
+    {
+      "tempo": 51.3,
+      "fr": "Et le silence rend plus fort mes acouphènes",
+      "pt": "E o silêncio faz meu zumbido ficar mais alto",
+      "en": "And the silence makes my tinnitus louder"
+    },
+    {
+      "tempo": 53.68,
+      "fr": "J'entends, je sens qu'je pars, j'me dis",
+      "pt": "Eu ouço, sinto que estou indo embora, digo para mim mesmo",
+      "en": "I hear, I feel that I'm leaving, I say to myself"
+    },
+    {
+      "tempo": 56.65,
+      "fr": "Encore lui, ce même bruit, j'en peux plus, il me tue",
+      "pt": "Ele de novo, esse mesmo barulho, não aguento mais, está me matando",
+      "en": "Him again, this same noise, I can't take it anymore, it's killing me"
+    },
+    {
+      "tempo": 59.53,
+      "fr": "J'entends, c'est un cauchemar, je pense",
+      "pt": "Eu ouvi, é um pesadelo, eu acho",
+      "en": "I hear, it's a nightmare, I think"
+    },
+    {
+      "tempo": 62.7,
+      "fr": "Ce même bruit, j'en peux plus, il me tue, encore lui",
+      "pt": "Esse mesmo barulho, não aguento mais, está me matando, ele de novo",
+      "en": "This same noise, I can't take it anymore, it's killing me, him again"
+    },
+    {
+      "tempo": 65.65,
+      "fr": "J'l'entends mais si j'en parle je flanche",
+      "pt": "Eu ouço, mas se falo sobre isso, estremeço",
+      "en": "I hear it but if I talk about it I flinch"
+    },
+    {
+      "tempo": 68.82,
+      "fr": "J'en peux plus, il me tue (ouais, ouais)",
+      "pt": "Eu não aguento mais, ele está me matando (sim, sim)",
+      "en": "I can't take it anymore, he's killing me (yeah, yeah)"
+    },
+    {
+      "tempo": 70.57,
+      "fr": "C'est de famille apparemment",
+      "pt": "Aparentemente é de família.",
+      "en": "It apparently runs in the family."
+    },
+    {
+      "tempo": 73.41,
+      "fr": "On préfère pas trop y penser",
+      "pt": "Preferimos não pensar muito nisso",
+      "en": "We prefer not to think about it too much"
+    },
+    {
+      "tempo": 76.76,
+      "fr": "Et vaut mieux d'ailleurs éviter trop d'en parler",
+      "pt": "E é melhor evitar falar muito sobre isso.",
+      "en": "And it’s better to avoid talking about it too much."
+    },
+    {
+      "tempo": 82.78,
+      "fr": "Car c'est en n'en parlant souvent",
+      "pt": "Porque é por não falar sobre isso com frequência",
+      "en": "Because it is by not talking about it often"
+    },
+    {
+      "tempo": 85.6,
+      "fr": "Qu'on le laissera exister",
+      "pt": "Que vamos deixar isso existir",
+      "en": "That we will let it exist"
+    },
+    {
+      "tempo": 88.58,
+      "fr": "Même si je sais que rien n'y fait",
+      "pt": "Mesmo sabendo que nada ajuda",
+      "en": "Even though I know nothing helps"
+    },
+    {
+      "tempo": 90.8,
+      "fr": "Il existe tout le temps",
+      "pt": "Existe o tempo todo",
+      "en": "It exists all the time"
+    },
+    {
+      "tempo": 96.34,
+      "fr": "Je rêve de pouvoir rêver",
+      "pt": "Eu sonho em poder sonhar",
+      "en": "I dream of being able to dream"
+    },
+    {
+      "tempo": 99.31,
+      "fr": "Je rêve de pouvoir rêver comme toi",
+      "pt": "Eu sonho em poder sonhar como você",
+      "en": "I dream of being able to dream like you"
+    },
+    {
+      "tempo": 102.22,
+      "fr": "L'œil se ferme mais pas l'oreille",
+      "pt": "O olho fecha, mas não o ouvido",
+      "en": "The eye closes but not the ear"
+    },
+    {
+      "tempo": 105.28,
+      "fr": "Elle m'empêche de rêver, aide-moi",
+      "pt": "Ela me impede de sonhar, me ajude",
+      "en": "She stops me from dreaming, help me"
+    },
+    {
+      "tempo": 108.31,
+      "fr": "Sans bruit, je n'entends que mon oreille",
+      "pt": "Sem barulho, só ouço meu ouvido",
+      "en": "Without noise, I only hear my ear"
+    },
+    {
+      "tempo": 111.35,
+      "fr": "Et le silence rend plus rare le sommeil",
+      "pt": "E o silêncio torna o sono mais raro",
+      "en": "And the silence makes sleep rarer"
+    },
+    {
+      "tempo": 113.56,
+      "fr": "J'entends, je sens qu'je pars, j'me dis",
+      "pt": "Eu ouço, sinto que estou indo embora, digo para mim mesmo",
+      "en": "I hear, I feel that I'm leaving, I say to myself"
+    },
+    {
+      "tempo": 116.75,
+      "fr": "Encore lui, ce même bruit, j'en peux plus, il me tue",
+      "pt": "Ele de novo, esse mesmo barulho, não aguento mais, está me matando",
+      "en": "Him again, this same noise, I can't take it anymore, it's killing me"
+    },
+    {
+      "tempo": 119.56,
+      "fr": "J'entends, c'est un cauchemar, je pense",
+      "pt": "Eu ouvi, é um pesadelo, eu acho",
+      "en": "I hear, it's a nightmare, I think"
+    },
+    {
+      "tempo": 122.78,
+      "fr": "Ce même bruit, j'en peux plus, il me tue, encore lui",
+      "pt": "Esse mesmo barulho, não aguento mais, está me matando, ele de novo",
+      "en": "This same noise, I can't take it anymore, it's killing me, him again"
+    },
+    {
+      "tempo": 125.62,
+      "fr": "J'l'entends mais si j'en parle je flanche",
+      "pt": "Eu ouço, mas se falo sobre isso, estremeço",
+      "en": "I hear it but if I talk about it I flinch"
+    },
+    {
+      "tempo": 128.82,
+      "fr": "J'en peux plus, il me tue",
+      "pt": "Eu não aguento mais, ele está me matando",
+      "en": "I can't take it anymore, he's killing me"
+    },
+    {
+      "tempo": 131.74,
+      "fr": "Jamais, jamais, jamais, jamais",
+      "pt": "Nunca, nunca, nunca, nunca",
+      "en": "Never, never, never, never"
+    },
+    {
+      "tempo": 136.89,
+      "fr": "Jamais pourtant j'aimerais, j'aimerais",
+      "pt": "No entanto, eu nunca gostaria, eu gostaria",
+      "en": "Yet I would never like, I would like"
+    },
+    {
+      "tempo": 139.83,
+      "fr": "J'aimerais tant qu'il s'arrête",
+      "pt": "Eu gostaria que isso parasse",
+      "en": "I wish it would stop"
+    },
+    {
+      "tempo": 144.3,
+      "fr": "J'ai essayé toutes les pierres mais rien n'y fait",
+      "pt": "Eu tentei todas as pedras, mas nada funcionou",
+      "en": "I tried all the stones but nothing worked"
+    },
+    {
+      "tempo": 147.33,
+      "fr": "J'ai essayé d'méditer, ça m'a frustré",
+      "pt": "Tentei meditar, isso me frustrou",
+      "en": "I tried to meditate, it frustrated me"
+    },
+    {
+      "tempo": 150.33,
+      "fr": "J'ai essayé d'en parler à mon frère mais ça m'a déprimé",
+      "pt": "Tentei conversar com meu irmão sobre isso, mas fiquei deprimido.",
+      "en": "I tried to talk to my brother about it but it made me depressed."
+    },
+    {
+      "tempo": 153.49,
+      "fr": "Lui il bédave beaucoup trop pour oublier (tout oublier)",
+      "pt": "Ele fala demais para esquecer (esquecer tudo)",
+      "en": "He talks too much to forget (forget everything)"
+    },
+    {
+      "tempo": 155.77,
+      "fr": "J'entends, je sens qu'je pars, j'me dis",
+      "pt": "Eu ouço, sinto que estou indo embora, digo para mim mesmo",
+      "en": "I hear, I feel that I'm leaving, I say to myself"
+    },
+    {
+      "tempo": 158.66,
+      "fr": "Encore lui, ce même bruit, j'en peux plus, il me tue",
+      "pt": "Ele de novo, esse mesmo barulho, não aguento mais, está me matando",
+      "en": "Him again, this same noise, I can't take it anymore, it's killing me"
+    },
+    {
+      "tempo": 161.59,
+      "fr": "J'entends, c'est un cauchemar, je pense",
+      "pt": "Eu ouvi, é um pesadelo, eu acho",
+      "en": "I hear, it's a nightmare, I think"
+    },
+    {
+      "tempo": 164.83,
+      "fr": "Ce même bruit, j'en peux plus, il me tue, encore lui",
+      "pt": "Esse mesmo barulho, não aguento mais, está me matando, ele de novo",
+      "en": "This same noise, I can't take it anymore, it's killing me, him again"
+    },
+    {
+      "tempo": 167.77,
+      "fr": "J'l'entends mais si j'en parle je flanche",
+      "pt": "Eu ouço, mas se falo sobre isso, estremeço",
+      "en": "I hear it but if I talk about it I flinch"
+    },
+    {
+      "tempo": 170.77,
+      "fr": "J'en peux plus, il me tue",
+      "pt": "Eu não aguento mais, ele está me matando",
+      "en": "I can't take it anymore, he's killing me"
+    },
+    {
+      "tempo": 172.85,
+      "fr": "Je sens qu'j'ai peur",
+      "pt": "Eu sinto que estou com medo",
+      "en": "I feel like I'm afraid"
+    },
+    {
+      "tempo": 175.94,
+      "fr": "Je sens qu'j'entends (encore lui, ce même bruit, j'en peux plus, il me tue)",
+      "pt": "Eu sinto que ouço (ele de novo, esse mesmo barulho, não aguento mais, está me matando)",
+      "en": "I feel that I hear (him again, this same noise, I can't take it anymore, it's killing me)"
+    },
+    {
+      "tempo": 178.96,
+      "fr": "C'est un cauchemar",
+      "pt": "É um pesadelo",
+      "en": "It's a nightmare"
+    },
+    {
+      "tempo": 181.84,
+      "fr": "Je pense, j'entends (ce même bruit, j'en peux plus, il me tue, encore lui)",
+      "pt": "Eu penso, eu ouço (esse mesmo barulho, não aguento mais, está me matando, ele de novo)",
+      "en": "I think, I hear (this same noise, I can't take it anymore, it's killing me, him again)"
+    },
+    {
+      "tempo": 184.9,
+      "fr": "Mais si j'en parle",
+      "pt": "Mas se eu falar sobre isso",
+      "en": "But if I talk about it"
+    },
+    {
+      "tempo": 188.77,
+      "fr": "J'l'entends",
+      "pt": "eu ouço isso",
+      "en": "I hear it"
+    },
+    {
+      "tempo": 191.67,
+      "fr": "J'entends, je sens qu'je pars, j'me dis",
+      "pt": "Eu ouço, sinto que estou indo embora, digo para mim mesmo",
+      "en": "I hear, I feel that I'm leaving, I say to myself"
+    },
+    {
+      "tempo": 194.71,
+      "fr": "Encore lui, ce même bruit, j'en peux plus, il me tue",
+      "pt": "Ele de novo, esse mesmo barulho, não aguento mais, está me matando",
+      "en": "Him again, this same noise, I can't take it anymore, it's killing me"
+    },
+    {
+      "tempo": 197.78,
+      "fr": "J'entends, c'est un cauchemar, je pense",
+      "pt": "Eu ouvi, é um pesadelo, eu acho",
+      "en": "I hear, it's a nightmare, I think"
+    },
+    {
+      "tempo": 200.85,
+      "fr": "Ce même bruit, j'en peux plus, il me tue, encore lui",
+      "pt": "Esse mesmo barulho, não aguento mais, está me matando, ele de novo",
+      "en": "This same noise, I can't take it anymore, it's killing me, him again"
+    },
+    {
+      "tempo": 203.71,
+      "fr": "J'l'entends mais si j'en parle je flanche",
+      "pt": "Eu ouço, mas se falo sobre isso, estremeço",
+      "en": "I hear it but if I talk about it I flinch"
+    },
+    {
+      "tempo": 206.63,
+      "fr": "J'en peux plus, il me tue",
+      "pt": "Eu não aguento mais, ele está me matando",
+      "en": "I can't take it anymore, he's killing me"
+    }
+  ],
+  "vocabulario": {
+    "je": {
+      "pt": "EU",
+      "en": "I"
+    },
+    "n'entendrai": {
+      "pt": "não vai ouvir",
+      "en": "will not hear"
+    },
+    "plus": {
+      "pt": "mais",
+      "en": "more"
+    },
+    "le": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "silence": {
+      "pt": "silêncio",
+      "en": "silence"
+    },
+    "avant": {
+      "pt": "Antes",
+      "en": "Before"
+    },
+    "qu'il": {
+      "pt": "que ele",
+      "en": "that he"
+    },
+    "parte": {
+      "pt": "folhas",
+      "en": "leaves"
+    },
+    "j'en": {
+      "pt": "Eu tenho",
+      "en": "I have"
+    },
+    "avais": {
+      "pt": "tive",
+      "en": "had"
+    },
+    "peur": {
+      "pt": "temer",
+      "en": "fear"
+    },
+    "mais": {
+      "pt": "mas",
+      "en": "but"
+    },
+    "là": {
+      "pt": "lá",
+      "en": "there"
+    },
+    "il": {
+      "pt": "ele",
+      "en": "he"
+    },
+    "est": {
+      "pt": "Leste",
+      "en": "East"
+    },
+    "absent": {
+      "pt": "ausente",
+      "en": "absent"
+    },
+    "et": {
+      "pt": "E",
+      "en": "And"
+    },
+    "ça": {
+      "pt": "Que",
+      "en": "That"
+    },
+    "c'est": {
+      "pt": "Isso é",
+      "en": "It is"
+    },
+    "pour": {
+      "pt": "Para",
+      "en": "For"
+    },
+    "toujours": {
+      "pt": "sempre",
+      "en": "always"
+    },
+    "ce": {
+      "pt": "Esse",
+      "en": "This"
+    },
+    "même": {
+      "pt": "até",
+      "en": "even"
+    },
+    "sifflement": {
+      "pt": "assobio",
+      "en": "whistling"
+    },
+    "dans": {
+      "pt": "Em",
+      "en": "In"
+    },
+    "mes": {
+      "pt": "meu",
+      "en": "my"
+    },
+    "insomnies": {
+      "pt": "insônia",
+      "en": "insomnia"
+    },
+    "pleure": {
+      "pt": "chorar",
+      "en": "cry"
+    },
+    "comme": {
+      "pt": "como",
+      "en": "as"
+    },
+    "un": {
+      "pt": "UM",
+      "en": "A"
+    },
+    "nouveau": {
+      "pt": "novo",
+      "en": "new"
+    },
+    "deuil": {
+      "pt": "pesar",
+      "en": "grief"
+    },
+    "à": {
+      "pt": "tem",
+      "en": "has"
+    },
+    "faire": {
+      "pt": "PENDÊNCIA",
+      "en": "TO DO"
+    },
+    "celui": {
+      "pt": "aquele",
+      "en": "the one"
+    },
+    "du": {
+      "pt": "de",
+      "en": "of"
+    },
+    "rêve": {
+      "pt": "sonhar",
+      "en": "dream"
+    },
+    "de": {
+      "pt": "de",
+      "en": "of"
+    },
+    "pouvoir": {
+      "pt": "poder",
+      "en": "power"
+    },
+    "rêver": {
+      "pt": "sonhar",
+      "en": "dream"
+    },
+    "toi": {
+      "pt": "Você",
+      "en": "You"
+    },
+    "l'œil": {
+      "pt": "o olho",
+      "en": "the eye"
+    },
+    "se": {
+      "pt": "se",
+      "en": "se"
+    },
+    "ferme": {
+      "pt": "fazenda",
+      "en": "farm"
+    },
+    "pas": {
+      "pt": "não",
+      "en": "not"
+    },
+    "l'oreille": {
+      "pt": "a orelha",
+      "en": "the ear"
+    },
+    "elle": {
+      "pt": "Ela",
+      "en": "She"
+    },
+    "m'empêche": {
+      "pt": "me impede",
+      "en": "prevents me"
+    },
+    "aide-moi": {
+      "pt": "me ajude",
+      "en": "help me"
+    },
+    "sans": {
+      "pt": "sem",
+      "en": "without"
+    },
+    "bruit": {
+      "pt": "barulho",
+      "en": "noise"
+    },
+    "n'entends": {
+      "pt": "não ouça",
+      "en": "don't hear"
+    },
+    "que": {
+      "pt": "que",
+      "en": "that"
+    },
+    "mon": {
+      "pt": "Meu",
+      "en": "My"
+    },
+    "oreille": {
+      "pt": "orelha",
+      "en": "ear"
+    },
+    "rend": {
+      "pt": "faz",
+      "en": "makes"
+    },
+    "fort": {
+      "pt": "forte",
+      "en": "strong"
+    },
+    "acouphènes": {
+      "pt": "zumbido",
+      "en": "tinnitus"
+    },
+    "j'entends": {
+      "pt": "eu ouço",
+      "en": "I hear"
+    },
+    "sens": {
+      "pt": "senso",
+      "en": "sense"
+    },
+    "qu'je": {
+      "pt": "que eu",
+      "en": "that I"
+    },
+    "pars": {
+      "pt": "deixar",
+      "en": "leave"
+    },
+    "j'me": {
+      "pt": "EU",
+      "en": "I"
+    },
+    "dis": {
+      "pt": "dizer",
+      "en": "say"
+    },
+    "encore": {
+      "pt": "De novo",
+      "en": "Again"
+    },
+    "lui": {
+      "pt": "ele",
+      "en": "him"
+    },
+    "peux": {
+      "pt": "pode",
+      "en": "can"
+    },
+    "me": {
+      "pt": "meu",
+      "en": "me"
+    },
+    "tue": {
+      "pt": "matar",
+      "en": "kill"
+    },
+    "cauchemar": {
+      "pt": "pesadelo",
+      "en": "nightmare"
+    },
+    "pense": {
+      "pt": "pensar",
+      "en": "think"
+    },
+    "j'l'entends": {
+      "pt": "eu ouço isso",
+      "en": "I hear it"
+    },
+    "si": {
+      "pt": "se",
+      "en": "if"
+    },
+    "parle": {
+      "pt": "falar",
+      "en": "speak"
+    },
+    "flanche": {
+      "pt": "recuar",
+      "en": "flinch"
+    },
+    "ouais": {
+      "pt": "Sim",
+      "en": "Yeah"
+    },
+    "famille": {
+      "pt": "família",
+      "en": "family"
+    },
+    "apparemment": {
+      "pt": "aparentemente",
+      "en": "apparently"
+    },
+    "on": {
+      "pt": "nós",
+      "en": "we"
+    },
+    "préfère": {
+      "pt": "favorito",
+      "en": "favorite"
+    },
+    "trop": {
+      "pt": "demais",
+      "en": "too much"
+    },
+    "y": {
+      "pt": "sim",
+      "en": "y"
+    },
+    "penser": {
+      "pt": "pensar",
+      "en": "think"
+    },
+    "vaut": {
+      "pt": "valor",
+      "en": "worth"
+    },
+    "mieux": {
+      "pt": "melhorar",
+      "en": "better"
+    },
+    "d'ailleurs": {
+      "pt": "Além do mais",
+      "en": "Besides"
+    },
+    "éviter": {
+      "pt": "evitar",
+      "en": "avoid"
+    },
+    "d'en": {
+      "pt": "de",
+      "en": "from"
+    },
+    "parler": {
+      "pt": "falar",
+      "en": "talk"
+    },
+    "car": {
+      "pt": "porque",
+      "en": "because"
+    },
+    "en": {
+      "pt": "em",
+      "en": "in"
+    },
+    "n'en": {
+      "pt": "não",
+      "en": "don't"
+    },
+    "parlant": {
+      "pt": "Falando",
+      "en": "speaking"
+    },
+    "souvent": {
+      "pt": "muitas vezes",
+      "en": "often"
+    },
+    "qu'on": {
+      "pt": "que nós",
+      "en": "that we"
+    },
+    "laissera": {
+      "pt": "vai embora",
+      "en": "will leave"
+    },
+    "exister": {
+      "pt": "existir",
+      "en": "exist"
+    },
+    "sais": {
+      "pt": "saber",
+      "en": "know"
+    },
+    "rien": {
+      "pt": "Nada",
+      "en": "Nothing"
+    },
+    "n'y": {
+      "pt": "não",
+      "en": "no"
+    },
+    "fait": {
+      "pt": "fazer",
+      "en": "do"
+    },
+    "existe": {
+      "pt": "existe",
+      "en": "exists"
+    },
+    "tout": {
+      "pt": "Todos",
+      "en": "All"
+    },
+    "temps": {
+      "pt": "tempo",
+      "en": "time"
+    },
+    "rare": {
+      "pt": "cru",
+      "en": "rare"
+    },
+    "sommeil": {
+      "pt": "dormir",
+      "en": "sleep"
+    },
+    "jamais": {
+      "pt": "Nunca",
+      "en": "Never"
+    },
+    "pourtant": {
+      "pt": "Ainda",
+      "en": "Yet"
+    },
+    "j'aimerais": {
+      "pt": "Gostaria",
+      "en": "I would like"
+    },
+    "tant": {
+      "pt": "muito",
+      "en": "so much"
+    },
+    "s'arrête": {
+      "pt": "para",
+      "en": "stops"
+    },
+    "j'ai": {
+      "pt": "Eu tenho",
+      "en": "I have"
+    },
+    "essayé": {
+      "pt": "tentar",
+      "en": "try"
+    },
+    "toutes": {
+      "pt": "todos",
+      "en": "all"
+    },
+    "les": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "pierres": {
+      "pt": "pedras",
+      "en": "stones"
+    },
+    "d'méditer": {
+      "pt": "meditar",
+      "en": "to meditate"
+    },
+    "m'a": {
+      "pt": "meu",
+      "en": "my"
+    },
+    "frustré": {
+      "pt": "frustrado",
+      "en": "frustrated"
+    },
+    "frère": {
+      "pt": "irmão",
+      "en": "brother"
+    },
+    "déprimé": {
+      "pt": "deprimido",
+      "en": "depressed"
+    },
+    "bédave": {
+      "pt": "bedave",
+      "en": "bedave"
+    },
+    "beaucoup": {
+      "pt": "bastante",
+      "en": "a lot"
+    },
+    "oublier": {
+      "pt": "esquecer",
+      "en": "forget"
+    },
+    "qu'j'ai": {
+      "pt": "que eu tenho",
+      "en": "that I have"
+    },
+    "qu'j'entends": {
+      "pt": "que eu ouço",
+      "en": "that I hear"
+    }
+  },
+  "ordem": 10
+}

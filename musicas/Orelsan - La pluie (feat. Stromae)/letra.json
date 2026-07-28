@@ -1,0 +1,944 @@
+{
+  "titulo": "La pluie (feat. Stromae)",
+  "artista": "Orelsan",
+  "arquivo_audio": "audio.mp3",
+  "linhas": [
+    {
+      "tempo": 6.13,
+      "fr": "J'viens d'la France où on danse la chenille",
+      "pt": "Eu venho da França, onde dançam a lagarta",
+      "en": "I come from France where they dance the caterpillar"
+    },
+    {
+      "tempo": 8.38,
+      "fr": "Où on prend plus de caisses que des crash tests dummies",
+      "pt": "Onde levamos mais caixas do que bonecos de teste de colisão",
+      "en": "Where we take more crates than crash test dummies"
+    },
+    {
+      "tempo": 10.94,
+      "fr": "J'ai des potes diplômés, d'autres qu'ont pas lu deux livres",
+      "pt": "Tenho amigos que se formaram, outros que não leram dois livros",
+      "en": "I have friends who have graduated, others who haven't read two books"
+    },
+    {
+      "tempo": 13.51,
+      "fr": "Qui sont sûrement sur un muret, dans les rues du centre-ville",
+      "pt": "Que certamente estão num muro baixo, nas ruas do centro da cidade",
+      "en": "Which are surely on a low wall, in the streets of the city center"
+    },
+    {
+      "tempo": 16.72,
+      "fr": "Mon père a gravi l'échelle pour devenir c'qu'il voulait être",
+      "pt": "Meu pai subiu a escada para se tornar o que ele queria ser",
+      "en": "My father climbed the ladder to become what he wanted to be"
+    },
+    {
+      "tempo": 19.33,
+      "fr": "Ma mère est la ménagère à qui les publicitaires veulent la mettre",
+      "pt": "Minha mãe é a dona de casa com quem os anunciantes querem que ela se pareça",
+      "en": "My mother is the housewife that advertisers want to make her look like"
+    },
+    {
+      "tempo": 22.58,
+      "fr": "J'connais la campagne et ses gros sabots",
+      "pt": "Conheço o campo e seus grandes tamancos",
+      "en": "I know the countryside and its big clogs"
+    },
+    {
+      "tempo": 24.68,
+      "fr": "Où ça vole pas haut, les ragots et les oiseaux",
+      "pt": "Onde não voa alto, fofocas e pássaros",
+      "en": "Where it doesn't fly high, gossip and birds"
+    },
+    {
+      "tempo": 27.25,
+      "fr": "Toujours autant d'pluie chez moi",
+      "pt": "Ainda chove muito em casa",
+      "en": "Still so much rain at home"
+    },
+    {
+      "tempo": 32.7,
+      "fr": "Toujours autant d'pluie chez moi",
+      "pt": "Ainda chove muito em casa",
+      "en": "Still so much rain at home"
+    },
+    {
+      "tempo": 37.94,
+      "fr": "Mais il fait quand même beau, il fait beau",
+      "pt": "Mas ainda é legal, é legal",
+      "en": "But it's still nice, it's nice"
+    },
+    {
+      "tempo": 41.37,
+      "fr": "Il fait beau, il fait beau",
+      "pt": "É legal, é legal",
+      "en": "It's nice, it's nice"
+    },
+    {
+      "tempo": 43.76,
+      "fr": "Chez moi, il fait beau, il fait beau",
+      "pt": "Em casa o tempo está bom, o tempo está bom",
+      "en": "At home, the weather is nice, the weather is nice"
+    },
+    {
+      "tempo": 46.96,
+      "fr": "Il fait beau, il fait beau",
+      "pt": "É legal, é legal",
+      "en": "It's nice, it's nice"
+    },
+    {
+      "tempo": 54.74,
+      "fr": "Chez moi, il fait beau",
+      "pt": "Em casa o tempo está bom",
+      "en": "At home, the weather is nice"
+    },
+    {
+      "tempo": 61.85,
+      "fr": "J'viens d'la terre du milieu où y a plein de petits vieux",
+      "pt": "Eu venho da terra média onde há muitos velhinhos",
+      "en": "I come from middle earth where there are lots of little old people"
+    },
+    {
+      "tempo": 64.65,
+      "fr": "Où l'chômage et la tisane forment un cercle vicieux",
+      "pt": "Onde o desemprego e o chá de ervas formam um círculo vicioso",
+      "en": "Where unemployment and herbal tea form a vicious circle"
+    },
+    {
+      "tempo": 67.2,
+      "fr": "Où on critique les invités qui viennent de partir",
+      "pt": "Onde criticamos os convidados que acabaram de sair",
+      "en": "Where we criticize the guests who have just left"
+    },
+    {
+      "tempo": 69.96,
+      "fr": "C'est pas qu'on est lent, c'est qu'on prend not' temps pour réfléchir",
+      "pt": "Não é que sejamos lentos, é que demoramos para pensar",
+      "en": "It's not that we're slow, it's that we take our time to think"
+    },
+    {
+      "tempo": 73.08,
+      "fr": "J'viens d'la classe moyenne, moyennement classe",
+      "pt": "Eu venho da classe média, classe moderada",
+      "en": "I come from the middle class, moderately class"
+    },
+    {
+      "tempo": 75.12,
+      "fr": "Où tout l'monde cherche une place, Julien Clerc dans l'monospace",
+      "pt": "Onde todos procuram um lugar, Julien Clerc na minivan",
+      "en": "Where everyone is looking for a place, Julien Clerc in the minivan"
+    },
+    {
+      "tempo": 77.98,
+      "fr": "J'freestylais dans ma tête sur le bruit des essuie-glaces",
+      "pt": "Eu estava fazendo freestyle mentalmente ao som dos limpadores de para-brisa",
+      "en": "I was freestyling in my head to the sound of the windshield wipers"
+    },
+    {
+      "tempo": 80.66,
+      "fr": "Y a la pluie en featuring dans toutes mes phrases",
+      "pt": "Há chuva aparecendo em todas as minhas frases",
+      "en": "There is rain featuring in all my sentences"
+    },
+    {
+      "tempo": 82.92,
+      "fr": "Toujours autant d'pluie chez moi",
+      "pt": "Ainda chove muito em casa",
+      "en": "Still so much rain at home"
+    },
+    {
+      "tempo": 88.23,
+      "fr": "Mais il fait quand même beau, il fait beau",
+      "pt": "Mas ainda é legal, é legal",
+      "en": "But it's still nice, it's nice"
+    },
+    {
+      "tempo": 91.61,
+      "fr": "Il fait beau, il fait beau",
+      "pt": "É legal, é legal",
+      "en": "It's nice, it's nice"
+    },
+    {
+      "tempo": 94.08,
+      "fr": "Chez moi, il fait beau, il fait beau",
+      "pt": "Em casa o tempo está bom, o tempo está bom",
+      "en": "At home, the weather is nice, the weather is nice"
+    },
+    {
+      "tempo": 97.2,
+      "fr": "Il fait beau, il fait beau",
+      "pt": "É legal, é legal",
+      "en": "It's nice, it's nice"
+    },
+    {
+      "tempo": 101.1,
+      "fr": "Chez moi, y a du soleil 40 jours par an",
+      "pt": "Onde eu moro há sol 40 dias por ano",
+      "en": "Where I live, there is sunshine 40 days a year"
+    },
+    {
+      "tempo": 103.69,
+      "fr": "Tu peux passer la plupart de l'année à l'attendre",
+      "pt": "Você pode passar a maior parte do ano esperando por isso",
+      "en": "You can spend most of the year waiting for it"
+    },
+    {
+      "tempo": 106.52,
+      "fr": "J'regardais par la fenêtre, enfermé dans ma chambre",
+      "pt": "Eu estava olhando pela janela, trancado no meu quarto",
+      "en": "I was looking out the window, locked in my room"
+    },
+    {
+      "tempo": 109.23,
+      "fr": "J'priais pour la fin d'l'averse et aller faire d'la rampe",
+      "pt": "Rezei para o fim do aguaceiro e para ir rastejando",
+      "en": "I prayed for the end of the downpour and to go crawling"
+    },
+    {
+      "tempo": 112.18,
+      "fr": "J'connais qu'le bruit d'la pluie, l'odeur du béton mouillé",
+      "pt": "Só conheço o som da chuva, o cheiro do concreto molhado",
+      "en": "I only know the sound of the rain, the smell of wet concrete"
+    },
+    {
+      "tempo": 114.75,
+      "fr": "Si j'suis parti, c'est parce que j'avais peur de rouiller",
+      "pt": "Se eu saí é porque tive medo de enferrujar",
+      "en": "If I left, it's because I was afraid of rusting"
+    },
+    {
+      "tempo": 117.44,
+      "fr": "Trempé, j'aurais jamais pensé",
+      "pt": "Encharcado, nunca pensei",
+      "en": "Soaked, I never thought"
+    },
+    {
+      "tempo": 119.5,
+      "fr": "Qu'le mauvais temps finirait par me manquer",
+      "pt": "Que o mau tempo acabaria sentindo minha falta",
+      "en": "That the bad weather would end up missing me"
+    },
+    {
+      "tempo": 121.99,
+      "fr": "Il fait quand même beau, il fait beau",
+      "pt": "Ainda é legal, é legal",
+      "en": "It's still nice, it's nice"
+    },
+    {
+      "tempo": 125.12,
+      "fr": "Il fait beau, il fait beau",
+      "pt": "É legal, é legal",
+      "en": "It's nice, it's nice"
+    },
+    {
+      "tempo": 127.49,
+      "fr": "Chez moi, il fait beau, il fait beau",
+      "pt": "Em casa o tempo está bom, o tempo está bom",
+      "en": "At home, the weather is nice, the weather is nice"
+    },
+    {
+      "tempo": 130.56,
+      "fr": "Il fait beau, il fait beau",
+      "pt": "É legal, é legal",
+      "en": "It's nice, it's nice"
+    },
+    {
+      "tempo": 132.93,
+      "fr": "Mais il fait quand même beau, il fait beau",
+      "pt": "Mas ainda é legal, é legal",
+      "en": "But it's still nice, it's nice"
+    },
+    {
+      "tempo": 136.12,
+      "fr": "Il fait beau, il fait beau",
+      "pt": "É legal, é legal",
+      "en": "It's nice, it's nice"
+    },
+    {
+      "tempo": 138.52,
+      "fr": "Chez moi, il fait beau, il fait beau",
+      "pt": "Em casa o tempo está bom, o tempo está bom",
+      "en": "At home, the weather is nice, the weather is nice"
+    },
+    {
+      "tempo": 141.69,
+      "fr": "Il fait beau, il fait beau",
+      "pt": "É legal, é legal",
+      "en": "It's nice, it's nice"
+    },
+    {
+      "tempo": 144.37,
+      "fr": "Toujours autant d'pluie chez moi",
+      "pt": "Ainda chove muito em casa",
+      "en": "Still so much rain at home"
+    },
+    {
+      "tempo": 149.96,
+      "fr": "Toujours autant d'pluie chez moi",
+      "pt": "Ainda chove muito em casa",
+      "en": "Still so much rain at home"
+    },
+    {
+      "tempo": 155.54,
+      "fr": "Toujours autant d'pluie chez moi",
+      "pt": "Ainda chove muito em casa",
+      "en": "Still so much rain at home"
+    },
+    {
+      "tempo": 161.01,
+      "fr": "Toujours autant d'pluie chez moi",
+      "pt": "Ainda chove muito em casa",
+      "en": "Still so much rain at home"
+    },
+    {
+      "tempo": 166.76,
+      "fr": "Toujours autant d'pluie chez moi",
+      "pt": "Ainda chove muito em casa",
+      "en": "Still so much rain at home"
+    }
+  ],
+  "vocabulario": {
+    "j'viens": {
+      "pt": "Estou chegando",
+      "en": "I'm coming"
+    },
+    "d'la": {
+      "pt": "do",
+      "en": "from the"
+    },
+    "france": {
+      "pt": "França",
+      "en": "France"
+    },
+    "où": {
+      "pt": "Ou",
+      "en": "Or"
+    },
+    "on": {
+      "pt": "nós",
+      "en": "we"
+    },
+    "danse": {
+      "pt": "dança",
+      "en": "dance"
+    },
+    "la": {
+      "pt": "lá",
+      "en": "there"
+    },
+    "chenille": {
+      "pt": "lagarta",
+      "en": "caterpillar"
+    },
+    "prend": {
+      "pt": "leva",
+      "en": "takes"
+    },
+    "plus": {
+      "pt": "mais",
+      "en": "more"
+    },
+    "de": {
+      "pt": "de",
+      "en": "of"
+    },
+    "caisses": {
+      "pt": "caixas",
+      "en": "crates"
+    },
+    "que": {
+      "pt": "que",
+      "en": "that"
+    },
+    "des": {
+      "pt": "do",
+      "en": "of the"
+    },
+    "crash": {
+      "pt": "colidir",
+      "en": "crash"
+    },
+    "tests": {
+      "pt": "testes",
+      "en": "tests"
+    },
+    "dummies": {
+      "pt": "manequins",
+      "en": "dummies"
+    },
+    "j'ai": {
+      "pt": "Eu tenho",
+      "en": "I have"
+    },
+    "potes": {
+      "pt": "amigos",
+      "en": "friends"
+    },
+    "diplômés": {
+      "pt": "graduados",
+      "en": "graduates"
+    },
+    "d'autres": {
+      "pt": "outros",
+      "en": "others"
+    },
+    "qu'ont": {
+      "pt": "o que eles têm",
+      "en": "what do they have"
+    },
+    "pas": {
+      "pt": "não",
+      "en": "not"
+    },
+    "lu": {
+      "pt": "ler",
+      "en": "read"
+    },
+    "deux": {
+      "pt": "dois",
+      "en": "two"
+    },
+    "livres": {
+      "pt": "livros",
+      "en": "books"
+    },
+    "qui": {
+      "pt": "Quem",
+      "en": "Who"
+    },
+    "sont": {
+      "pt": "são",
+      "en": "are"
+    },
+    "sûrement": {
+      "pt": "certamente",
+      "en": "certainly"
+    },
+    "sur": {
+      "pt": "sobre",
+      "en": "on"
+    },
+    "un": {
+      "pt": "UM",
+      "en": "A"
+    },
+    "muret": {
+      "pt": "muro baixo",
+      "en": "low wall"
+    },
+    "dans": {
+      "pt": "Em",
+      "en": "In"
+    },
+    "les": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "rues": {
+      "pt": "ruas",
+      "en": "streets"
+    },
+    "du": {
+      "pt": "de",
+      "en": "of"
+    },
+    "centre-ville": {
+      "pt": "centro da cidade",
+      "en": "city ​​center"
+    },
+    "mon": {
+      "pt": "Meu",
+      "en": "My"
+    },
+    "père": {
+      "pt": "pai",
+      "en": "father"
+    },
+    "a": {
+      "pt": "tem",
+      "en": "has"
+    },
+    "gravi": {
+      "pt": "escalou",
+      "en": "climbed"
+    },
+    "l'échelle": {
+      "pt": "a escala",
+      "en": "the scale"
+    },
+    "pour": {
+      "pt": "Para",
+      "en": "For"
+    },
+    "devenir": {
+      "pt": "tornar-se",
+      "en": "become"
+    },
+    "c'qu'il": {
+      "pt": "o que ele",
+      "en": "what he"
+    },
+    "voulait": {
+      "pt": "desejado",
+      "en": "wanted"
+    },
+    "être": {
+      "pt": "ser",
+      "en": "be"
+    },
+    "ma": {
+      "pt": "meu",
+      "en": "my"
+    },
+    "mère": {
+      "pt": "mãe",
+      "en": "mother"
+    },
+    "est": {
+      "pt": "Leste",
+      "en": "East"
+    },
+    "ménagère": {
+      "pt": "dona de casa",
+      "en": "housewife"
+    },
+    "à": {
+      "pt": "tem",
+      "en": "has"
+    },
+    "publicitaires": {
+      "pt": "anúncio",
+      "en": "advertising"
+    },
+    "veulent": {
+      "pt": "querer",
+      "en": "want"
+    },
+    "mettre": {
+      "pt": "colocar",
+      "en": "put"
+    },
+    "j'connais": {
+      "pt": "Eu sei",
+      "en": "I know"
+    },
+    "campagne": {
+      "pt": "campanha",
+      "en": "campaign"
+    },
+    "et": {
+      "pt": "E",
+      "en": "And"
+    },
+    "ses": {
+      "pt": "dele",
+      "en": "his"
+    },
+    "gros": {
+      "pt": "gordo",
+      "en": "fat"
+    },
+    "sabots": {
+      "pt": "tamancos",
+      "en": "clogs"
+    },
+    "ça": {
+      "pt": "Que",
+      "en": "That"
+    },
+    "vole": {
+      "pt": "roubado",
+      "en": "stolen"
+    },
+    "haut": {
+      "pt": "alto",
+      "en": "high"
+    },
+    "ragots": {
+      "pt": "fofoca",
+      "en": "gossip"
+    },
+    "oiseaux": {
+      "pt": "pássaros",
+      "en": "birds"
+    },
+    "toujours": {
+      "pt": "sempre",
+      "en": "always"
+    },
+    "autant": {
+      "pt": "tanto",
+      "en": "as much"
+    },
+    "d'pluie": {
+      "pt": "chuva",
+      "en": "rain"
+    },
+    "chez": {
+      "pt": "na casa de",
+      "en": "at the house of"
+    },
+    "moi": {
+      "pt": "Meu",
+      "en": "Me"
+    },
+    "mais": {
+      "pt": "mas",
+      "en": "but"
+    },
+    "il": {
+      "pt": "ele",
+      "en": "he"
+    },
+    "fait": {
+      "pt": "fazer",
+      "en": "do"
+    },
+    "quand": {
+      "pt": "Quando",
+      "en": "When"
+    },
+    "même": {
+      "pt": "até",
+      "en": "even"
+    },
+    "beau": {
+      "pt": "lindo",
+      "en": "beautiful"
+    },
+    "terre": {
+      "pt": "terra",
+      "en": "earth"
+    },
+    "milieu": {
+      "pt": "médio",
+      "en": "medium"
+    },
+    "y": {
+      "pt": "sim",
+      "en": "y"
+    },
+    "plein": {
+      "pt": "completo",
+      "en": "full"
+    },
+    "petits": {
+      "pt": "pequeno",
+      "en": "small"
+    },
+    "vieux": {
+      "pt": "velho",
+      "en": "old"
+    },
+    "l'chômage": {
+      "pt": "desemprego",
+      "en": "unemployment"
+    },
+    "tisane": {
+      "pt": "chá de ervas",
+      "en": "herbal tea"
+    },
+    "forment": {
+      "pt": "forma",
+      "en": "form"
+    },
+    "cercle": {
+      "pt": "círculo",
+      "en": "circle"
+    },
+    "vicieux": {
+      "pt": "vicioso",
+      "en": "vicious"
+    },
+    "critique": {
+      "pt": "crítico",
+      "en": "critical"
+    },
+    "invités": {
+      "pt": "convidados",
+      "en": "guests"
+    },
+    "viennent": {
+      "pt": "vir",
+      "en": "come"
+    },
+    "partir": {
+      "pt": "deixar",
+      "en": "leave"
+    },
+    "c'est": {
+      "pt": "Isso é",
+      "en": "It is"
+    },
+    "qu'on": {
+      "pt": "que nós",
+      "en": "that we"
+    },
+    "lent": {
+      "pt": "lento",
+      "en": "slow"
+    },
+    "not": {
+      "pt": "não",
+      "en": "not"
+    },
+    "temps": {
+      "pt": "tempo",
+      "en": "time"
+    },
+    "réfléchir": {
+      "pt": "refletir sobre",
+      "en": "to reflect on"
+    },
+    "classe": {
+      "pt": "aula",
+      "en": "class"
+    },
+    "moyenne": {
+      "pt": "média",
+      "en": "average"
+    },
+    "moyennement": {
+      "pt": "moderadamente",
+      "en": "moderately"
+    },
+    "tout": {
+      "pt": "Todos",
+      "en": "All"
+    },
+    "l'monde": {
+      "pt": "o mundo",
+      "en": "the world"
+    },
+    "cherche": {
+      "pt": "procurar",
+      "en": "look for"
+    },
+    "une": {
+      "pt": "um",
+      "en": "a"
+    },
+    "place": {
+      "pt": "lugar",
+      "en": "place"
+    },
+    "julien": {
+      "pt": "Juliano",
+      "en": "Julian"
+    },
+    "clerc": {
+      "pt": "clérigo",
+      "en": "cleric"
+    },
+    "l'monospace": {
+      "pt": "a minivan",
+      "en": "the minivan"
+    },
+    "j'freestylais": {
+      "pt": "Eu fiz freestyle",
+      "en": "I freestyled"
+    },
+    "tête": {
+      "pt": "cabeça",
+      "en": "head"
+    },
+    "le": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "bruit": {
+      "pt": "barulho",
+      "en": "noise"
+    },
+    "essuie-glaces": {
+      "pt": "limpadores de pára-brisa",
+      "en": "windshield wipers"
+    },
+    "pluie": {
+      "pt": "chuva",
+      "en": "rain"
+    },
+    "en": {
+      "pt": "em",
+      "en": "in"
+    },
+    "featuring": {
+      "pt": "apresentando",
+      "en": "featuring"
+    },
+    "toutes": {
+      "pt": "todos",
+      "en": "all"
+    },
+    "mes": {
+      "pt": "meu",
+      "en": "my"
+    },
+    "phrases": {
+      "pt": "sentenças",
+      "en": "sentences"
+    },
+    "soleil": {
+      "pt": "sol",
+      "en": "sun"
+    },
+    "40": {
+      "pt": "40",
+      "en": "40"
+    },
+    "jours": {
+      "pt": "dias",
+      "en": "days"
+    },
+    "par": {
+      "pt": "por",
+      "en": "by"
+    },
+    "an": {
+      "pt": "ano",
+      "en": "year"
+    },
+    "tu": {
+      "pt": "você",
+      "en": "you"
+    },
+    "peux": {
+      "pt": "pode",
+      "en": "can"
+    },
+    "passer": {
+      "pt": "passar",
+      "en": "pass"
+    },
+    "plupart": {
+      "pt": "maioria",
+      "en": "most"
+    },
+    "l'année": {
+      "pt": "o ano",
+      "en": "the year"
+    },
+    "l'attendre": {
+      "pt": "espere por isso",
+      "en": "wait for it"
+    },
+    "j'regardais": {
+      "pt": "eu olhei",
+      "en": "I looked"
+    },
+    "fenêtre": {
+      "pt": "janela",
+      "en": "window"
+    },
+    "enfermé": {
+      "pt": "trancado",
+      "en": "locked up"
+    },
+    "chambre": {
+      "pt": "quarto",
+      "en": "bedroom"
+    },
+    "j'priais": {
+      "pt": "eu orei",
+      "en": "I prayed"
+    },
+    "fin": {
+      "pt": "FIM",
+      "en": "END"
+    },
+    "d'l'averse": {
+      "pt": "da chuva torrencial",
+      "en": "from the downpour"
+    },
+    "aller": {
+      "pt": "ir",
+      "en": "go"
+    },
+    "faire": {
+      "pt": "PENDÊNCIA",
+      "en": "TO DO"
+    },
+    "rampe": {
+      "pt": "rampa",
+      "en": "ramp"
+    },
+    "qu'le": {
+      "pt": "que o",
+      "en": "that the"
+    },
+    "l'odeur": {
+      "pt": "o cheiro",
+      "en": "the smell"
+    },
+    "béton": {
+      "pt": "concreto",
+      "en": "concrete"
+    },
+    "mouillé": {
+      "pt": "molhado",
+      "en": "wet"
+    },
+    "si": {
+      "pt": "se",
+      "en": "if"
+    },
+    "j'suis": {
+      "pt": "Eu sou",
+      "en": "I am"
+    },
+    "parti": {
+      "pt": "festa",
+      "en": "party"
+    },
+    "parce": {
+      "pt": "porque",
+      "en": "because"
+    },
+    "j'avais": {
+      "pt": "Eu tive",
+      "en": "I had"
+    },
+    "peur": {
+      "pt": "temer",
+      "en": "fear"
+    },
+    "rouiller": {
+      "pt": "ferrugem",
+      "en": "rust"
+    },
+    "trempé": {
+      "pt": "encharcado",
+      "en": "soaked"
+    },
+    "j'aurais": {
+      "pt": "Eu teria",
+      "en": "I would have"
+    },
+    "jamais": {
+      "pt": "Nunca",
+      "en": "Never"
+    },
+    "pensé": {
+      "pt": "pensar",
+      "en": "think"
+    },
+    "mauvais": {
+      "pt": "ruim",
+      "en": "bad"
+    },
+    "finirait": {
+      "pt": "acabaria",
+      "en": "would end"
+    },
+    "me": {
+      "pt": "meu",
+      "en": "me"
+    },
+    "manquer": {
+      "pt": "perder",
+      "en": "miss"
+    }
+  },
+  "ordem": 35
+}

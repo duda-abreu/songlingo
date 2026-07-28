@@ -1,0 +1,676 @@
+{
+  "titulo": "Plus de sens",
+  "artista": "Angèle",
+  "arquivo_audio": "audio.mp3",
+  "linhas": [
+    {
+      "tempo": 8.94,
+      "fr": "Comme la météo en novembre",
+      "pt": "Como o clima em novembro",
+      "en": "Like the weather in November"
+    },
+    {
+      "tempo": 13.08,
+      "fr": "Comme une étincelle dans une pompe à essence",
+      "pt": "Como uma faísca em uma bomba de gasolina",
+      "en": "Like a spark in a gas pump"
+    },
+    {
+      "tempo": 17.15,
+      "fr": "Comme un acouphène en silence",
+      "pt": "Como zumbido em silêncio",
+      "en": "Like tinnitus in silence"
+    },
+    {
+      "tempo": 21.14,
+      "fr": "Rien n'a plus de sens",
+      "pt": "Nada mais faz sentido",
+      "en": "Nothing makes sense anymore"
+    },
+    {
+      "tempo": 25.29,
+      "fr": "Comme le mauvais temps en vacances",
+      "pt": "Como o mau tempo nas férias",
+      "en": "Like bad weather on vacation"
+    },
+    {
+      "tempo": 29.39,
+      "fr": "Comme le verre de trop qui rend indécent",
+      "pt": "Como muitas bebidas que te deixam indecente",
+      "en": "Like one too many drinks that makes you indecent"
+    },
+    {
+      "tempo": 33.65,
+      "fr": "Comme la fin du monde qui attend",
+      "pt": "Como o fim do mundo espera",
+      "en": "Like the end of the world awaits"
+    },
+    {
+      "tempo": 37.74,
+      "fr": "Rien n'a plus de sens",
+      "pt": "Nada mais faz sentido",
+      "en": "Nothing makes sense anymore"
+    },
+    {
+      "tempo": 41.71,
+      "fr": "Et j'ai essayé de tenir",
+      "pt": "E eu tentei segurar",
+      "en": "And I tried to hold on"
+    },
+    {
+      "tempo": 45.73,
+      "fr": "Oublier que j'ai peur de l'avenir",
+      "pt": "Esqueça que tenho medo do futuro",
+      "en": "Forget that I'm afraid of the future"
+    },
+    {
+      "tempo": 49.66,
+      "fr": "C'est pas toujours parfait",
+      "pt": "Nem sempre é perfeito",
+      "en": "It's not always perfect"
+    },
+    {
+      "tempo": 51.85,
+      "fr": "J'ai parfois des regrets",
+      "pt": "Às vezes eu me arrependo",
+      "en": "I sometimes have regrets"
+    },
+    {
+      "tempo": 53.75,
+      "fr": "Quand tout est à l'arrêt",
+      "pt": "Quando tudo está parado",
+      "en": "When everything is at a standstill"
+    },
+    {
+      "tempo": 58.1,
+      "fr": "Et je ne vais pas vous mentir",
+      "pt": "E eu não vou mentir para você",
+      "en": "And I'm not going to lie to you"
+    },
+    {
+      "tempo": 61.96,
+      "fr": "La vie sans vous est triste à mourir",
+      "pt": "A vida sem você é triste até a morte",
+      "en": "Life without you is sad to death"
+    },
+    {
+      "tempo": 66.0,
+      "fr": "Ce que je dis est vrai",
+      "pt": "O que eu digo é verdade",
+      "en": "What I say is true"
+    },
+    {
+      "tempo": 68.09,
+      "fr": "Et si on le pouvait",
+      "pt": "E se pudéssemos",
+      "en": "And if we could"
+    },
+    {
+      "tempo": 70.26,
+      "fr": "On se retrouverait",
+      "pt": "Nós nos encontraríamos novamente",
+      "en": "We would meet again"
+    },
+    {
+      "tempo": 74.58,
+      "fr": "Comme un con qui dit ce qu'il pense",
+      "pt": "Como um idiota que diz o que pensa",
+      "en": "Like an idiot who says what he thinks"
+    },
+    {
+      "tempo": 78.67,
+      "fr": "Comme penser à nous deux quand elle me manque",
+      "pt": "Como pensar em nós dois quando sinto falta dela",
+      "en": "Like thinking of the two of us when I miss her"
+    },
+    {
+      "tempo": 82.62,
+      "fr": "Comme à la fin d'une romance",
+      "pt": "Como o fim de um romance",
+      "en": "Like the end of a romance"
+    },
+    {
+      "tempo": 86.82,
+      "fr": "Rien n'a plus de sens",
+      "pt": "Nada mais faz sentido",
+      "en": "Nothing makes sense anymore"
+    },
+    {
+      "tempo": 91.17,
+      "fr": "Et j'ai essayé de tenir",
+      "pt": "E eu tentei segurar",
+      "en": "And I tried to hold on"
+    },
+    {
+      "tempo": 94.96,
+      "fr": "Oublier que j'ai peur de l'avenir",
+      "pt": "Esqueça que tenho medo do futuro",
+      "en": "Forget that I'm afraid of the future"
+    },
+    {
+      "tempo": 98.94,
+      "fr": "C'est pas toujours parfait",
+      "pt": "Nem sempre é perfeito",
+      "en": "It's not always perfect"
+    },
+    {
+      "tempo": 100.86,
+      "fr": "J'ai parfois des regrets",
+      "pt": "Às vezes eu me arrependo",
+      "en": "I sometimes have regrets"
+    },
+    {
+      "tempo": 102.91,
+      "fr": "Quand tout est à l'arrêt",
+      "pt": "Quando tudo está parado",
+      "en": "When everything is at a standstill"
+    },
+    {
+      "tempo": 107.46,
+      "fr": "Et je ne vais pas vous mentir",
+      "pt": "E eu não vou mentir para você",
+      "en": "And I'm not going to lie to you"
+    },
+    {
+      "tempo": 111.18,
+      "fr": "La vie sans vous est triste à mourir",
+      "pt": "A vida sem você é triste até a morte",
+      "en": "Life without you is sad to death"
+    },
+    {
+      "tempo": 115.36,
+      "fr": "Ce que je dis est vrai",
+      "pt": "O que eu digo é verdade",
+      "en": "What I say is true"
+    },
+    {
+      "tempo": 117.25,
+      "fr": "Et si on le pouvait",
+      "pt": "E se pudéssemos",
+      "en": "And if we could"
+    },
+    {
+      "tempo": 119.43,
+      "fr": "On se retrouverait",
+      "pt": "Nós nos encontraríamos novamente",
+      "en": "We would meet again"
+    },
+    {
+      "tempo": 123.94,
+      "fr": "Quand on pourra fêter en grand",
+      "pt": "Quando podemos comemorar em grande",
+      "en": "When we can celebrate big"
+    },
+    {
+      "tempo": 127.8,
+      "fr": "Quand on aura retrouvé l'important",
+      "pt": "Quando tivermos encontrado o importante",
+      "en": "When we have found the important"
+    },
+    {
+      "tempo": 131.99,
+      "fr": "Quand ce sera fini d'attendre",
+      "pt": "Quando a espera acabar",
+      "en": "When the waiting is over"
+    },
+    {
+      "tempo": 136.14,
+      "fr": "Tout prendra du sens",
+      "pt": "Tudo fará sentido",
+      "en": "Everything will make sense"
+    },
+    {
+      "tempo": 140.39,
+      "fr": "Et j'ai essayé de tenir",
+      "pt": "E eu tentei segurar",
+      "en": "And I tried to hold on"
+    },
+    {
+      "tempo": 144.03,
+      "fr": "Oublier que j'ai peur de l'avenir",
+      "pt": "Esqueça que tenho medo do futuro",
+      "en": "Forget that I'm afraid of the future"
+    },
+    {
+      "tempo": 148.18,
+      "fr": "C'est pas toujours parfait",
+      "pt": "Nem sempre é perfeito",
+      "en": "It's not always perfect"
+    },
+    {
+      "tempo": 150.11,
+      "fr": "J'ai parfois des regrets",
+      "pt": "Às vezes eu me arrependo",
+      "en": "I sometimes have regrets"
+    },
+    {
+      "tempo": 152.16,
+      "fr": "Quand tout est à l'arrêt",
+      "pt": "Quando tudo está parado",
+      "en": "When everything is at a standstill"
+    },
+    {
+      "tempo": 172.95,
+      "fr": "Et j'ai essayé de tenir",
+      "pt": "E eu tentei segurar",
+      "en": "And I tried to hold on"
+    },
+    {
+      "tempo": 176.86,
+      "fr": "Oublier que j'ai peur de l'avenir",
+      "pt": "Esqueça que tenho medo do futuro",
+      "en": "Forget that I'm afraid of the future"
+    },
+    {
+      "tempo": 180.92,
+      "fr": "C'est pas toujours parfait",
+      "pt": "Nem sempre é perfeito",
+      "en": "It's not always perfect"
+    },
+    {
+      "tempo": 182.95,
+      "fr": "J'ai parfois des regrets",
+      "pt": "Às vezes eu me arrependo",
+      "en": "I sometimes have regrets"
+    },
+    {
+      "tempo": 184.93,
+      "fr": "Quand tout est à l'arrêt",
+      "pt": "Quando tudo está parado",
+      "en": "When everything is at a standstill"
+    },
+    {
+      "tempo": 189.42,
+      "fr": "Et je ne vais pas vous mentir",
+      "pt": "E eu não vou mentir para você",
+      "en": "And I'm not going to lie to you"
+    },
+    {
+      "tempo": 193.34,
+      "fr": "La vie sans vous est triste à mourir",
+      "pt": "A vida sem você é triste até a morte",
+      "en": "Life without you is sad to death"
+    },
+    {
+      "tempo": 197.2,
+      "fr": "Ce que je dis est vrai",
+      "pt": "O que eu digo é verdade",
+      "en": "What I say is true"
+    },
+    {
+      "tempo": 199.4,
+      "fr": "Et si on le pouvait",
+      "pt": "E se pudéssemos",
+      "en": "And if we could"
+    },
+    {
+      "tempo": 201.31,
+      "fr": "On se retrouverait",
+      "pt": "Nós nos encontraríamos novamente",
+      "en": "We would meet again"
+    }
+  ],
+  "vocabulario": {
+    "comme": {
+      "pt": "como",
+      "en": "as"
+    },
+    "la": {
+      "pt": "lá",
+      "en": "there"
+    },
+    "météo": {
+      "pt": "boletim meteorológico",
+      "en": "weather report"
+    },
+    "en": {
+      "pt": "em",
+      "en": "in"
+    },
+    "novembre": {
+      "pt": "novembro",
+      "en": "november"
+    },
+    "une": {
+      "pt": "um",
+      "en": "a"
+    },
+    "étincelle": {
+      "pt": "fagulha",
+      "en": "spark"
+    },
+    "dans": {
+      "pt": "Em",
+      "en": "In"
+    },
+    "pompe": {
+      "pt": "bombear",
+      "en": "pump"
+    },
+    "à": {
+      "pt": "tem",
+      "en": "has"
+    },
+    "essence": {
+      "pt": "essência",
+      "en": "essence"
+    },
+    "un": {
+      "pt": "UM",
+      "en": "A"
+    },
+    "acouphène": {
+      "pt": "zumbido",
+      "en": "tinnitus"
+    },
+    "silence": {
+      "pt": "silêncio",
+      "en": "silence"
+    },
+    "rien": {
+      "pt": "Nada",
+      "en": "Nothing"
+    },
+    "n'a": {
+      "pt": "n / D",
+      "en": "n / A"
+    },
+    "plus": {
+      "pt": "mais",
+      "en": "more"
+    },
+    "de": {
+      "pt": "de",
+      "en": "of"
+    },
+    "sens": {
+      "pt": "senso",
+      "en": "sense"
+    },
+    "le": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "mauvais": {
+      "pt": "ruim",
+      "en": "bad"
+    },
+    "temps": {
+      "pt": "tempo",
+      "en": "time"
+    },
+    "vacances": {
+      "pt": "férias",
+      "en": "vacation"
+    },
+    "verre": {
+      "pt": "vidro",
+      "en": "glass"
+    },
+    "trop": {
+      "pt": "demais",
+      "en": "too much"
+    },
+    "qui": {
+      "pt": "Quem",
+      "en": "Who"
+    },
+    "rend": {
+      "pt": "faz",
+      "en": "makes"
+    },
+    "indécent": {
+      "pt": "indecente",
+      "en": "indecent"
+    },
+    "fin": {
+      "pt": "FIM",
+      "en": "END"
+    },
+    "du": {
+      "pt": "de",
+      "en": "of"
+    },
+    "monde": {
+      "pt": "mundo",
+      "en": "world"
+    },
+    "attend": {
+      "pt": "espere",
+      "en": "wait"
+    },
+    "et": {
+      "pt": "E",
+      "en": "And"
+    },
+    "j'ai": {
+      "pt": "Eu tenho",
+      "en": "I have"
+    },
+    "essayé": {
+      "pt": "tentar",
+      "en": "try"
+    },
+    "tenir": {
+      "pt": "segurar",
+      "en": "hold"
+    },
+    "oublier": {
+      "pt": "esquecer",
+      "en": "forget"
+    },
+    "que": {
+      "pt": "que",
+      "en": "that"
+    },
+    "peur": {
+      "pt": "temer",
+      "en": "fear"
+    },
+    "l'avenir": {
+      "pt": "o futuro",
+      "en": "the future"
+    },
+    "c'est": {
+      "pt": "Isso é",
+      "en": "It is"
+    },
+    "pas": {
+      "pt": "não",
+      "en": "not"
+    },
+    "toujours": {
+      "pt": "sempre",
+      "en": "always"
+    },
+    "parfait": {
+      "pt": "Perfeito",
+      "en": "Perfect"
+    },
+    "parfois": {
+      "pt": "Às vezes",
+      "en": "Sometimes"
+    },
+    "des": {
+      "pt": "do",
+      "en": "of the"
+    },
+    "regrets": {
+      "pt": "lamenta",
+      "en": "regrets"
+    },
+    "quand": {
+      "pt": "Quando",
+      "en": "When"
+    },
+    "tout": {
+      "pt": "Todos",
+      "en": "All"
+    },
+    "est": {
+      "pt": "Leste",
+      "en": "East"
+    },
+    "l'arrêt": {
+      "pt": "a parada",
+      "en": "the stop"
+    },
+    "je": {
+      "pt": "EU",
+      "en": "I"
+    },
+    "ne": {
+      "pt": "nascer",
+      "en": "born"
+    },
+    "vais": {
+      "pt": "ir",
+      "en": "go"
+    },
+    "vous": {
+      "pt": "VOCÊ",
+      "en": "YOU"
+    },
+    "mentir": {
+      "pt": "mentira",
+      "en": "lie"
+    },
+    "vie": {
+      "pt": "vida",
+      "en": "life"
+    },
+    "sans": {
+      "pt": "sem",
+      "en": "without"
+    },
+    "triste": {
+      "pt": "triste",
+      "en": "sad"
+    },
+    "mourir": {
+      "pt": "morrer",
+      "en": "die"
+    },
+    "ce": {
+      "pt": "Esse",
+      "en": "This"
+    },
+    "dis": {
+      "pt": "dizer",
+      "en": "say"
+    },
+    "vrai": {
+      "pt": "verdadeiro",
+      "en": "TRUE"
+    },
+    "si": {
+      "pt": "se",
+      "en": "if"
+    },
+    "on": {
+      "pt": "nós",
+      "en": "we"
+    },
+    "pouvait": {
+      "pt": "poderia",
+      "en": "could"
+    },
+    "se": {
+      "pt": "se",
+      "en": "se"
+    },
+    "retrouverait": {
+      "pt": "encontraria",
+      "en": "would find"
+    },
+    "con": {
+      "pt": "idiota",
+      "en": "idiot"
+    },
+    "dit": {
+      "pt": "disse",
+      "en": "said"
+    },
+    "qu'il": {
+      "pt": "que ele",
+      "en": "that he"
+    },
+    "pense": {
+      "pt": "pensar",
+      "en": "think"
+    },
+    "penser": {
+      "pt": "pensar",
+      "en": "think"
+    },
+    "nous": {
+      "pt": "Nós",
+      "en": "We"
+    },
+    "deux": {
+      "pt": "dois",
+      "en": "two"
+    },
+    "elle": {
+      "pt": "Ela",
+      "en": "She"
+    },
+    "me": {
+      "pt": "meu",
+      "en": "me"
+    },
+    "manque": {
+      "pt": "falta",
+      "en": "lack"
+    },
+    "d'une": {
+      "pt": "de um",
+      "en": "of a"
+    },
+    "romance": {
+      "pt": "romance",
+      "en": "romance"
+    },
+    "pourra": {
+      "pt": "será capaz de",
+      "en": "will be able to"
+    },
+    "fêter": {
+      "pt": "comemorar",
+      "en": "celebrate"
+    },
+    "grand": {
+      "pt": "grande",
+      "en": "big"
+    },
+    "aura": {
+      "pt": "terá",
+      "en": "will have"
+    },
+    "retrouvé": {
+      "pt": "encontrado",
+      "en": "found"
+    },
+    "l'important": {
+      "pt": "o importante",
+      "en": "the important"
+    },
+    "sera": {
+      "pt": "vai ser",
+      "en": "will be"
+    },
+    "fini": {
+      "pt": "finalizado",
+      "en": "finished"
+    },
+    "d'attendre": {
+      "pt": "esperar",
+      "en": "to wait"
+    },
+    "prendra": {
+      "pt": "vai levar",
+      "en": "will take"
+    }
+  },
+  "ordem": 17
+}

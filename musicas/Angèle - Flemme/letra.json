@@ -1,0 +1,652 @@
+{
+  "titulo": "Flemme",
+  "artista": "Angèle",
+  "arquivo_audio": "audio.mp3",
+  "linhas": [
+    {
+      "tempo": 9.28,
+      "fr": "Une soirée pluvieuse, encore la flemme de bouger",
+      "pt": "Uma noite chuvosa, ainda com preguiça de se mover",
+      "en": "A rainy evening, still too lazy to move"
+    },
+    {
+      "tempo": 14.51,
+      "fr": "La flemme de bouger",
+      "pt": "Preguiça de se mover",
+      "en": "Lazy to move"
+    },
+    {
+      "tempo": 16.84,
+      "fr": "Ambiance canapé, télé jusque tard, voilà",
+      "pt": "Ambiente de sofá, TV até tarde, é isso",
+      "en": "Couch atmosphere, TV until late, that’s it"
+    },
+    {
+      "tempo": 21.12,
+      "fr": "J'suis dans un mauvais mood, on m'attend quelque part",
+      "pt": "Estou de mau humor, alguém está me esperando em algum lugar",
+      "en": "I'm in a bad mood, someone's waiting for me somewhere"
+    },
+    {
+      "tempo": 26.31,
+      "fr": "Les rues s'allument, les gens sortent comme hier",
+      "pt": "As ruas se iluminam, as pessoas saem como ontem",
+      "en": "The streets light up, people go out like yesterday"
+    },
+    {
+      "tempo": 34.76,
+      "fr": "Les filles sont belles sous ce ciel couvert",
+      "pt": "As meninas são lindas sob esse céu nublado",
+      "en": "The girls are beautiful under this overcast sky"
+    },
+    {
+      "tempo": 43.06,
+      "fr": "Who the hell do you think you are?",
+      "pt": "Quem diabos você pensa que é?",
+      "en": "Who the hell do you think you are?"
+    },
+    {
+      "tempo": 45.95,
+      "fr": "Stayin' in bed instead of going out",
+      "pt": "Ficar na cama em vez de sair",
+      "en": "Stayin' in bed instead of going out"
+    },
+    {
+      "tempo": 51.51,
+      "fr": "Who the hell do you think you are?",
+      "pt": "Quem diabos você pensa que é?",
+      "en": "Who the hell do you think you are?"
+    },
+    {
+      "tempo": 54.37,
+      "fr": "Stayin' in bed instead of standing right",
+      "pt": "Ficar na cama em vez de ficar em pé",
+      "en": "Stayin' in bed instead of standing right"
+    },
+    {
+      "tempo": 59.82,
+      "fr": "Sortir c'est pour les nuls, d'toutes façon j'ai pas la thune",
+      "pt": "Sair é para perdedores, eu não tenho dinheiro mesmo",
+      "en": "Going out is for losers, I don't have the money anyway"
+    },
+    {
+      "tempo": 64.39,
+      "fr": "Je reste avec moi même et j'ai la flemme",
+      "pt": "Eu fico comigo mesmo e sou preguiçoso",
+      "en": "I stay with myself and I'm lazy"
+    },
+    {
+      "tempo": 68.74,
+      "fr": "Sortir c'est pour les nuls, d'toutes façon j'ai pas la thune",
+      "pt": "Sair é para perdedores, eu não tenho dinheiro mesmo",
+      "en": "Going out is for losers, I don't have the money anyway"
+    },
+    {
+      "tempo": 72.92,
+      "fr": "Je reste avec moi même et j'ai la flemme",
+      "pt": "Eu fico comigo mesmo e sou preguiçoso",
+      "en": "I stay with myself and I'm lazy"
+    },
+    {
+      "tempo": 78.27,
+      "fr": "Laissez-moi tranquille",
+      "pt": "Deixe-me em paz",
+      "en": "Leave me alone"
+    },
+    {
+      "tempo": 80.29,
+      "fr": "Ce soir, la flemme d'éviter les mauvais regards",
+      "pt": "Esta noite, com preguiça de evitar olhares feios",
+      "en": "Tonight, lazy to avoid bad looks"
+    },
+    {
+      "tempo": 85.7,
+      "fr": "Team jogging dans l'appart'",
+      "pt": "Equipe correndo no apartamento",
+      "en": "Team jogging in the apartment"
+    },
+    {
+      "tempo": 87.22,
+      "fr": "Sans perdre mon portable, ma dignité, mes clés",
+      "pt": "Sem perder meu celular, minha dignidade, minhas chaves",
+      "en": "Without losing my cell phone, my dignity, my keys"
+    },
+    {
+      "tempo": 90.02,
+      "fr": "J'suis dans un mauvais mood, je répondrai plus tard",
+      "pt": "Estou de mau humor, responderei mais tarde",
+      "en": "I'm in a bad mood, I'll reply later"
+    },
+    {
+      "tempo": 95.02,
+      "fr": "Paris s'allume, ce qui m'manque c'est Bruxelles",
+      "pt": "Paris se ilumina, o que sinto falta é Bruxelas",
+      "en": "Paris lights up, what I miss is Brussels"
+    },
+    {
+      "tempo": 103.5,
+      "fr": "Y'a toute la fame, encore plus la flemme",
+      "pt": "Tem toda a fama, ainda mais preguiça",
+      "en": "There's all the fame, even more laziness"
+    },
+    {
+      "tempo": 111.69,
+      "fr": "Who the hell do you think you are?",
+      "pt": "Quem diabos você pensa que é?",
+      "en": "Who the hell do you think you are?"
+    },
+    {
+      "tempo": 114.66,
+      "fr": "Stayin' in bed instead of going out",
+      "pt": "Ficar na cama em vez de sair",
+      "en": "Stayin' in bed instead of going out"
+    },
+    {
+      "tempo": 120.36,
+      "fr": "Who the hell do you think you are?",
+      "pt": "Quem diabos você pensa que é?",
+      "en": "Who the hell do you think you are?"
+    },
+    {
+      "tempo": 123.34,
+      "fr": "Stayin' in bed instead of standing right",
+      "pt": "Ficar na cama em vez de ficar em pé",
+      "en": "Stayin' in bed instead of standing right"
+    },
+    {
+      "tempo": 128.92,
+      "fr": "Sortir c'est pour les nuls, d'toutes façon j'ai pas la thune",
+      "pt": "Sair é para perdedores, eu não tenho dinheiro mesmo",
+      "en": "Going out is for losers, I don't have the money anyway"
+    },
+    {
+      "tempo": 133.17,
+      "fr": "Je reste avec moi même et j'ai la flemme",
+      "pt": "Eu fico comigo mesmo e sou preguiçoso",
+      "en": "I stay with myself and I'm lazy"
+    },
+    {
+      "tempo": 137.42,
+      "fr": "Sortir c'est pour les nuls, d'toutes façon j'ai pas la thune",
+      "pt": "Sair é para perdedores, eu não tenho dinheiro mesmo",
+      "en": "Going out is for losers, I don't have the money anyway"
+    },
+    {
+      "tempo": 141.22,
+      "fr": "Je reste avec moi même et j'ai la flemme",
+      "pt": "Eu fico comigo mesmo e sou preguiçoso",
+      "en": "I stay with myself and I'm lazy"
+    },
+    {
+      "tempo": 146.94,
+      "fr": "Paris s'allume, ce qui m'manque c'est Bruxelles",
+      "pt": "Paris se ilumina, o que sinto falta é Bruxelas",
+      "en": "Paris lights up, what I miss is Brussels"
+    },
+    {
+      "tempo": 155.75,
+      "fr": "Y'a toute la fame, encore plus la flemme",
+      "pt": "Tem toda a fama, ainda mais preguiça",
+      "en": "There's all the fame, even more laziness"
+    },
+    {
+      "tempo": 163.31,
+      "fr": "Who the hell do you think you are?",
+      "pt": "Quem diabos você pensa que é?",
+      "en": "Who the hell do you think you are?"
+    },
+    {
+      "tempo": 166.15,
+      "fr": "Stayin' in bed instead of going out",
+      "pt": "Ficar na cama em vez de sair",
+      "en": "Stayin' in bed instead of going out"
+    },
+    {
+      "tempo": 171.78,
+      "fr": "Who the hell do you think you are?",
+      "pt": "Quem diabos você pensa que é?",
+      "en": "Who the hell do you think you are?"
+    },
+    {
+      "tempo": 174.73,
+      "fr": "Layin' in bed instead of standing proud",
+      "pt": "Deitado na cama em vez de ficar orgulhoso",
+      "en": "Layin' in bed instead of standing proud"
+    },
+    {
+      "tempo": 197.66,
+      "fr": "Sortir c'est pour les nuls, d'toutes façon j'ai pas la thune",
+      "pt": "Sair é para perdedores, eu não tenho dinheiro mesmo",
+      "en": "Going out is for losers, I don't have the money anyway"
+    },
+    {
+      "tempo": 201.85,
+      "fr": "Je reste avec moi même et j'ai la flemme",
+      "pt": "Eu fico comigo mesmo e sou preguiçoso",
+      "en": "I stay with myself and I'm lazy"
+    },
+    {
+      "tempo": 206.19,
+      "fr": "Sortir c'est pour les nuls, d'toutes façon j'ai pas la thune",
+      "pt": "Sair é para perdedores, eu não tenho dinheiro mesmo",
+      "en": "Going out is for losers, I don't have the money anyway"
+    },
+    {
+      "tempo": 210.52,
+      "fr": "Je reste avec moi même et j'ai la flemme",
+      "pt": "Eu fico comigo mesmo e sou preguiçoso",
+      "en": "I stay with myself and I'm lazy"
+    },
+    {
+      "tempo": 214.36,
+      "fr": "Et j'ai la flemme, et j'ai la flemme",
+      "pt": "E eu sou preguiçoso e sou preguiçoso",
+      "en": "And I'm lazy, and I'm lazy"
+    },
+    {
+      "tempo": 219.17,
+      "fr": "Je reste avec moi même et j'ai la flemme",
+      "pt": "Eu fico comigo mesmo e sou preguiçoso",
+      "en": "I stay with myself and I'm lazy"
+    },
+    {
+      "tempo": 223.25,
+      "fr": "Et j'ai la flemme, et j'ai la flemme",
+      "pt": "E eu sou preguiçoso e sou preguiçoso",
+      "en": "And I'm lazy, and I'm lazy"
+    },
+    {
+      "tempo": 228.06,
+      "fr": "Je reste avec moi même et j'ai la flemme",
+      "pt": "Eu fico comigo mesmo e sou preguiçoso",
+      "en": "I stay with myself and I'm lazy"
+    }
+  ],
+  "vocabulario": {
+    "une": {
+      "pt": "um",
+      "en": "a"
+    },
+    "soirée": {
+      "pt": "noite",
+      "en": "evening"
+    },
+    "pluvieuse": {
+      "pt": "chuvoso",
+      "en": "rainy"
+    },
+    "encore": {
+      "pt": "De novo",
+      "en": "Again"
+    },
+    "la": {
+      "pt": "lá",
+      "en": "there"
+    },
+    "flemme": {
+      "pt": "preguiça",
+      "en": "laziness"
+    },
+    "de": {
+      "pt": "de",
+      "en": "of"
+    },
+    "bouger": {
+      "pt": "mover",
+      "en": "to move"
+    },
+    "ambiance": {
+      "pt": "atmosfera",
+      "en": "atmosphere"
+    },
+    "canapé": {
+      "pt": "sofá",
+      "en": "couch"
+    },
+    "télé": {
+      "pt": "TV",
+      "en": "TV"
+    },
+    "jusque": {
+      "pt": "até",
+      "en": "until"
+    },
+    "tard": {
+      "pt": "tarde",
+      "en": "late"
+    },
+    "voilà": {
+      "pt": "Lá",
+      "en": "There"
+    },
+    "j'suis": {
+      "pt": "Eu sou",
+      "en": "I am"
+    },
+    "dans": {
+      "pt": "Em",
+      "en": "In"
+    },
+    "un": {
+      "pt": "UM",
+      "en": "A"
+    },
+    "mauvais": {
+      "pt": "ruim",
+      "en": "bad"
+    },
+    "mood": {
+      "pt": "humor",
+      "en": "mood"
+    },
+    "on": {
+      "pt": "nós",
+      "en": "we"
+    },
+    "m'attend": {
+      "pt": "esperando por mim",
+      "en": "waiting for me"
+    },
+    "quelque": {
+      "pt": "alguns",
+      "en": "some"
+    },
+    "part": {
+      "pt": "folhas",
+      "en": "leaves"
+    },
+    "les": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "rues": {
+      "pt": "ruas",
+      "en": "streets"
+    },
+    "s'allument": {
+      "pt": "acender",
+      "en": "light up"
+    },
+    "gens": {
+      "pt": "pessoas",
+      "en": "people"
+    },
+    "sortent": {
+      "pt": "sair",
+      "en": "go out"
+    },
+    "comme": {
+      "pt": "como",
+      "en": "as"
+    },
+    "hier": {
+      "pt": "ontem",
+      "en": "yesterday"
+    },
+    "filles": {
+      "pt": "garotas",
+      "en": "girls"
+    },
+    "sont": {
+      "pt": "são",
+      "en": "are"
+    },
+    "belles": {
+      "pt": "lindo",
+      "en": "beautiful"
+    },
+    "sous": {
+      "pt": "abaixo",
+      "en": "below"
+    },
+    "ce": {
+      "pt": "Esse",
+      "en": "This"
+    },
+    "ciel": {
+      "pt": "céu",
+      "en": "sky"
+    },
+    "couvert": {
+      "pt": "abordado",
+      "en": "covered"
+    },
+    "who": {
+      "pt": "Quem",
+      "en": "who"
+    },
+    "the": {
+      "pt": "chá",
+      "en": "tea"
+    },
+    "hell": {
+      "pt": "inferno",
+      "en": "hell"
+    },
+    "do": {
+      "pt": "fazer",
+      "en": "do"
+    },
+    "you": {
+      "pt": "você",
+      "en": "you"
+    },
+    "think": {
+      "pt": "pensar",
+      "en": "think"
+    },
+    "are": {
+      "pt": "são",
+      "en": "are"
+    },
+    "stayin": {
+      "pt": "ficar",
+      "en": "stayin"
+    },
+    "in": {
+      "pt": "em",
+      "en": "in"
+    },
+    "bed": {
+      "pt": "cama",
+      "en": "bed"
+    },
+    "instead": {
+      "pt": "em vez de",
+      "en": "instead"
+    },
+    "of": {
+      "pt": "de",
+      "en": "of"
+    },
+    "going": {
+      "pt": "indo",
+      "en": "going"
+    },
+    "out": {
+      "pt": "fora",
+      "en": "out"
+    },
+    "standing": {
+      "pt": "de pé",
+      "en": "standing"
+    },
+    "right": {
+      "pt": "certo",
+      "en": "right"
+    },
+    "sortir": {
+      "pt": "sair",
+      "en": "to go out"
+    },
+    "c'est": {
+      "pt": "Isso é",
+      "en": "It is"
+    },
+    "pour": {
+      "pt": "Para",
+      "en": "For"
+    },
+    "nuls": {
+      "pt": "nulo",
+      "en": "null"
+    },
+    "d'toutes": {
+      "pt": "de tudo",
+      "en": "of all"
+    },
+    "façon": {
+      "pt": "caminho",
+      "en": "way"
+    },
+    "j'ai": {
+      "pt": "Eu tenho",
+      "en": "I have"
+    },
+    "pas": {
+      "pt": "não",
+      "en": "not"
+    },
+    "thune": {
+      "pt": "dinheiro",
+      "en": "money"
+    },
+    "je": {
+      "pt": "EU",
+      "en": "I"
+    },
+    "reste": {
+      "pt": "ficar",
+      "en": "stay"
+    },
+    "avec": {
+      "pt": "com",
+      "en": "with"
+    },
+    "moi": {
+      "pt": "Meu",
+      "en": "Me"
+    },
+    "même": {
+      "pt": "até",
+      "en": "even"
+    },
+    "et": {
+      "pt": "E",
+      "en": "And"
+    },
+    "laissez-moi": {
+      "pt": "deixe-me",
+      "en": "leave me"
+    },
+    "tranquille": {
+      "pt": "calma",
+      "en": "calm"
+    },
+    "soir": {
+      "pt": "noite",
+      "en": "evening"
+    },
+    "d'éviter": {
+      "pt": "evitar",
+      "en": "to avoid"
+    },
+    "regards": {
+      "pt": "visual",
+      "en": "looks"
+    },
+    "team": {
+      "pt": "equipe",
+      "en": "team"
+    },
+    "jogging": {
+      "pt": "corrida",
+      "en": "jogging"
+    },
+    "l'appart": {
+      "pt": "o apartamento",
+      "en": "the apartment"
+    },
+    "sans": {
+      "pt": "sem",
+      "en": "without"
+    },
+    "perdre": {
+      "pt": "perder",
+      "en": "lose"
+    },
+    "mon": {
+      "pt": "Meu",
+      "en": "My"
+    },
+    "portable": {
+      "pt": "portátil",
+      "en": "portable"
+    },
+    "ma": {
+      "pt": "meu",
+      "en": "my"
+    },
+    "dignité": {
+      "pt": "dignidade",
+      "en": "dignity"
+    },
+    "mes": {
+      "pt": "meu",
+      "en": "my"
+    },
+    "clés": {
+      "pt": "chaves",
+      "en": "keys"
+    },
+    "répondrai": {
+      "pt": "vai responder",
+      "en": "will answer"
+    },
+    "plus": {
+      "pt": "mais",
+      "en": "more"
+    },
+    "paris": {
+      "pt": "Paris",
+      "en": "Paris"
+    },
+    "s'allume": {
+      "pt": "acende",
+      "en": "lights up"
+    },
+    "qui": {
+      "pt": "Quem",
+      "en": "Who"
+    },
+    "m'manque": {
+      "pt": "Eu sinto falta de",
+      "en": "I miss"
+    },
+    "bruxelles": {
+      "pt": "Bruxelas",
+      "en": "Brussels"
+    },
+    "y'a": {
+      "pt": "há",
+      "en": "there is"
+    },
+    "toute": {
+      "pt": "todos",
+      "en": "all"
+    },
+    "fame": {
+      "pt": "famoso",
+      "en": "famous"
+    },
+    "layin": {
+      "pt": "deitado",
+      "en": "layin"
+    },
+    "proud": {
+      "pt": "orgulhoso",
+      "en": "proud"
+    }
+  },
+  "ordem": 7
+}

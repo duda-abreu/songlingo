@@ -1,0 +1,940 @@
+{
+  "titulo": "Te Quiero",
+  "artista": "Stromae",
+  "arquivo_audio": "audio.mp3",
+  "linhas": [
+    {
+      "tempo": 8.37,
+      "fr": "Un jour j'l'ai vu, j'ai tout d'suite su que",
+      "pt": "",
+      "en": "One day I saw him, I immediately knew that"
+    },
+    {
+      "tempo": 11.95,
+      "fr": "Qu'on allait devoir faire ces jeux absurdes",
+      "pt": "Que teríamos que jogar esses jogos absurdos",
+      "en": ""
+    },
+    {
+      "tempo": 16.22,
+      "fr": "Bijoux, bisous et tralalas, mots doux et coups bas",
+      "pt": "Joias, beijos e travessuras, palavras doces e golpes baixos",
+      "en": "Jewelry, kisses and shenanigans, sweet words and low blows"
+    },
+    {
+      "tempo": 20.21,
+      "fr": "Insultes, coups, et cætera, et cætera",
+      "pt": "Insultos, golpes, etc., etc.",
+      "en": "Insults, blows, et cetera, et cetera"
+    },
+    {
+      "tempo": 24.05,
+      "fr": "Non, pas les miens mais les siens oui",
+      "pt": "Não, não meu, mas sim dele",
+      "en": "No, not mine but his yes"
+    },
+    {
+      "tempo": 27.81,
+      "fr": "Notre enfant deviendra aussi l'sien ensuite",
+      "pt": "Nosso filho também se tornará seu mais tarde",
+      "en": "Our child will also become his later"
+    },
+    {
+      "tempo": 31.87,
+      "fr": "Enfin c'est l'juge qui insistera j'imagine",
+      "pt": "Finalmente é o juiz quem vai insistir, imagino",
+      "en": "Finally it is the judge who will insist I imagine"
+    },
+    {
+      "tempo": 34.62,
+      "fr": "Imagine-moi la télé sous l'bras, et mes jeans sales et puis tout ça",
+      "pt": "Imagine eu com a TV debaixo do braço, e meu jeans sujo e tudo mais",
+      "en": "Imagine me with the TV under my arm, and my dirty jeans and all that"
+    },
+    {
+      "tempo": 39.46,
+      "fr": "Je l'aime à mort mais pour la vie",
+      "pt": "Eu o amo até a morte, mas para o resto da vida",
+      "en": "I love him to death but for life"
+    },
+    {
+      "tempo": 42.38,
+      "fr": "On s'dira \"oui\", à la vie, à la mort",
+      "pt": "Diremos “sim” à vida e à morte",
+      "en": "We will say “yes” to life and death"
+    },
+    {
+      "tempo": 45.79,
+      "fr": "Et même en changeant d'avis",
+      "pt": "E até mesmo mudando de idéia",
+      "en": "And even changing your mind"
+    },
+    {
+      "tempo": 47.77,
+      "fr": "Même en sachant qu'on a tort",
+      "pt": "Mesmo sabendo que estamos errados",
+      "en": "Even knowing we're wrong"
+    },
+    {
+      "tempo": 49.7,
+      "fr": "On ne changera pas la vie",
+      "pt": "Não vamos mudar a vida",
+      "en": "We won't change life"
+    },
+    {
+      "tempo": 51.13,
+      "fr": "Donc comme tout l'monde j'vais en souffrir jusqu'à la mort",
+      "pt": "Então, como todo mundo, vou sofrer até a morte",
+      "en": "So like everyone else I'm going to suffer until death"
+    },
+    {
+      "tempo": 54.11,
+      "fr": "(Te quiero) J'voudrais être son ombre",
+      "pt": "(Te quiero) Eu gostaria de ser a sombra dele",
+      "en": "(Te quiero) I would like to be his shadow"
+    },
+    {
+      "tempo": 56.91,
+      "fr": "Mais je la déteste",
+      "pt": "Mas eu a odeio",
+      "en": "But I hate her"
+    },
+    {
+      "tempo": 58.28,
+      "fr": "(Te quiero) Même au bout du monde",
+      "pt": "(Te quiero) Mesmo no fim do mundo",
+      "en": "(Te quiero) Even at the end of the world"
+    },
+    {
+      "tempo": 60.9,
+      "fr": "Et bien, qu'elle y reste",
+      "pt": "Bem, deixe-a ficar lá",
+      "en": "Well, let her stay there"
+    },
+    {
+      "tempo": 61.95,
+      "fr": "(Te quiero) Oui je l'aimais tellement",
+      "pt": "(Te quiero) Sim, eu o amava tanto",
+      "en": "(Te quiero) Yes I loved him so much"
+    },
+    {
+      "tempo": 64.76,
+      "fr": "Que je l'aime encore",
+      "pt": "Que eu ainda o amo",
+      "en": "That I still love him"
+    },
+    {
+      "tempo": 65.55,
+      "fr": "(Te-te quiero) Je n'aurai pas l'choix, non",
+      "pt": "(Te-te quiero) não terei escolha, não",
+      "en": "(Te-te quiero) I won't have a choice, no"
+    },
+    {
+      "tempo": 68.75,
+      "fr": "Jusqu'à la mort",
+      "pt": "Até a morte",
+      "en": "Until death"
+    },
+    {
+      "tempo": 69.98,
+      "fr": "(Te quiero)",
+      "pt": "(Te quero)",
+      "en": "(Te quiero)"
+    },
+    {
+      "tempo": 73.82,
+      "fr": "(Te quiero) Jusqu'à la mort",
+      "pt": "(Te quiero) Até a morte",
+      "en": "(Te quiero) Until death"
+    },
+    {
+      "tempo": 77.42,
+      "fr": "(Te-te quiero)",
+      "pt": "(Te-te quero)",
+      "en": "(Te-te quiero)"
+    },
+    {
+      "tempo": 81.23,
+      "fr": "(Te-te quiero)",
+      "pt": "(Te-te quero)",
+      "en": "(Te-te quiero)"
+    },
+    {
+      "tempo": 85.38,
+      "fr": "(Te quiero)",
+      "pt": "(Te quero)",
+      "en": "(Te quiero)"
+    },
+    {
+      "tempo": 86.43,
+      "fr": "Un jour j'la reverrai, je l'saurai tout d'suite",
+      "pt": "Um dia eu a verei novamente, saberei imediatamente",
+      "en": "One day I'll see her again, I'll know right away"
+    },
+    {
+      "tempo": 90.3,
+      "fr": "Que ce sera repartit pour un tour de piste",
+      "pt": "Que estará de volta para uma volta",
+      "en": "That it will be back for a lap"
+    },
+    {
+      "tempo": 94.22,
+      "fr": "Un monde de plus, un nouveau juge, et puis leurs odeurs de pisse",
+      "pt": "Mais um mundo, um novo juiz, e então o cheiro de mijo deles",
+      "en": "One more world, a new judge, and then their piss smell"
+    },
+    {
+      "tempo": 97.93,
+      "fr": "Ça deviendra juste une fois de plus répétitif",
+      "pt": "Vai ficar repetitivo de novo",
+      "en": "It'll just get repetitive again"
+    },
+    {
+      "tempo": 102.18,
+      "fr": "Imagine moi dans mes vieux jeans",
+      "pt": "Imagine-me com meu jeans velho",
+      "en": "Imagine me in my old jeans"
+    },
+    {
+      "tempo": 105.87,
+      "fr": "Mais cette fois-là, sans domicile",
+      "pt": "Mas desta vez, sem casa",
+      "en": "But this time, without a home"
+    },
+    {
+      "tempo": 109.85,
+      "fr": "Le moral bas, en haut d'un pont, d'une falaise ou d'un building",
+      "pt": "Moral baixo, no topo de uma ponte, penhasco ou edifício",
+      "en": "Low morale, on top of a bridge, a cliff or a building"
+    },
+    {
+      "tempo": 114.19,
+      "fr": "J'aurai l'air d'un con quand j'sauterai dans le vide",
+      "pt": "Vou parecer um idiota quando pular no vazio",
+      "en": "I'll look like an idiot when I jump into the void"
+    },
+    {
+      "tempo": 117.73,
+      "fr": "Je l'aime à mort, je l'aime à mort",
+      "pt": "Eu o amo até a morte, eu o amo até a morte",
+      "en": "I love him to death, I love him to death"
+    },
+    {
+      "tempo": 120.67,
+      "fr": "Je l'aime à mort, je l'aime à mort, je l'aime à mort",
+      "pt": "Eu o amo até a morte, eu o amo até a morte, eu o amo até a morte",
+      "en": "I love him to death, I love him to death, I love him to death"
+    },
+    {
+      "tempo": 124.56,
+      "fr": "Je l'aime à mort, je l'aime à mort, je l'aime à mort",
+      "pt": "Eu o amo até a morte, eu o amo até a morte, eu o amo até a morte",
+      "en": "I love him to death, I love him to death, I love him to death"
+    },
+    {
+      "tempo": 128.45,
+      "fr": "Je l'aime à mort, je l'aime à mort, je l'aime à mort",
+      "pt": "Eu o amo até a morte, eu o amo até a morte, eu o amo até a morte",
+      "en": "I love him to death, I love him to death, I love him to death"
+    },
+    {
+      "tempo": 133.14,
+      "fr": "Je l'aime à mort mais pour la vie",
+      "pt": "Eu o amo até a morte, mas para o resto da vida",
+      "en": "I love him to death but for life"
+    },
+    {
+      "tempo": 136.05,
+      "fr": "On s'dira \"oui\", à la vie, à la mort",
+      "pt": "Diremos “sim” à vida e à morte",
+      "en": "We will say “yes” to life and death"
+    },
+    {
+      "tempo": 139.54,
+      "fr": "Et même en changeant d'avis",
+      "pt": "E até mesmo mudando de idéia",
+      "en": "And even changing your mind"
+    },
+    {
+      "tempo": 141.4,
+      "fr": "Même en sachant qu'on a tort",
+      "pt": "Mesmo sabendo que estamos errados",
+      "en": "Even knowing we're wrong"
+    },
+    {
+      "tempo": 143.47,
+      "fr": "On ne changera pas la vie donc comme tout l'monde j'vais en souffrir",
+      "pt": "Não vamos mudar a vida, então, como todo mundo, vou sofrer",
+      "en": "We won't change life so like everyone else I will suffer"
+    },
+    {
+      "tempo": 146.88,
+      "fr": "Jusqu'à la mort",
+      "pt": "Até a morte",
+      "en": "Until death"
+    },
+    {
+      "tempo": 148.01,
+      "fr": "(Te quiero) J'voudrais être son ombre",
+      "pt": "(Te quiero) Eu gostaria de ser a sombra dele",
+      "en": "(Te quiero) I would like to be his shadow"
+    },
+    {
+      "tempo": 150.78,
+      "fr": "Mais je la déteste",
+      "pt": "Mas eu a odeio",
+      "en": "But I hate her"
+    },
+    {
+      "tempo": 151.85,
+      "fr": "(Te quiero) Même au bout du monde",
+      "pt": "(Te quiero) Mesmo no fim do mundo",
+      "en": "(Te quiero) Even at the end of the world"
+    },
+    {
+      "tempo": 154.51,
+      "fr": "Et bien, qu'elle y reste",
+      "pt": "Bem, deixe-a ficar lá",
+      "en": "Well, let her stay there"
+    },
+    {
+      "tempo": 155.53,
+      "fr": "(Te-te quiero) Oui je l'aimais tellement",
+      "pt": "(Te-te quiero) Sim, eu o amava tanto",
+      "en": "(Te-te quiero) Yes I loved him so much"
+    },
+    {
+      "tempo": 158.41,
+      "fr": "Que je l'aime encore",
+      "pt": "Que eu ainda o amo",
+      "en": "That I still love him"
+    },
+    {
+      "tempo": 159.47,
+      "fr": "(Te-te quiero) Je n'aurai pas l'choix, non",
+      "pt": "(Te-te quiero) não terei escolha, não",
+      "en": "(Te-te quiero) I won't have a choice, no"
+    },
+    {
+      "tempo": 162.49,
+      "fr": "Jusqu'à la mort",
+      "pt": "Até a morte",
+      "en": "Until death"
+    },
+    {
+      "tempo": 163.59,
+      "fr": "(Te quiero)",
+      "pt": "(Te quero)",
+      "en": "(Te quiero)"
+    },
+    {
+      "tempo": 167.59,
+      "fr": "(Te quiero) Jusqu'à la mort",
+      "pt": "(Te quiero) Até a morte",
+      "en": "(Te quiero) Until death"
+    },
+    {
+      "tempo": 171.02,
+      "fr": "(Te-te quiero)",
+      "pt": "(Te-te quero)",
+      "en": "(Te-te quiero)"
+    },
+    {
+      "tempo": 174.83,
+      "fr": "(Te-te quiero)",
+      "pt": "(Te-te quero)",
+      "en": "(Te-te quiero)"
+    },
+    {
+      "tempo": 179.98,
+      "fr": "Je l'aime à mort, je l'aime à mort",
+      "pt": "Eu o amo até a morte, eu o amo até a morte",
+      "en": "I love him to death, I love him to death"
+    },
+    {
+      "tempo": 182.85,
+      "fr": "Je l'aime à mort, je l'aime à mort, je l'aime à mort",
+      "pt": "Eu o amo até a morte, eu o amo até a morte, eu o amo até a morte",
+      "en": "I love him to death, I love him to death, I love him to death"
+    },
+    {
+      "tempo": 186.74,
+      "fr": "Je l'aime à mort",
+      "pt": "Eu o amo até a morte",
+      "en": "I love him to death"
+    },
+    {
+      "tempo": 194.6,
+      "fr": "Je l'aime à mort",
+      "pt": "Eu o amo até a morte",
+      "en": "I love him to death"
+    }
+  ],
+  "vocabulario": {
+    "un": {
+      "pt": "UM",
+      "en": "A"
+    },
+    "jour": {
+      "pt": "dia",
+      "en": "day"
+    },
+    "j'l'ai": {
+      "pt": "eu tenho isso",
+      "en": "I have it"
+    },
+    "vu": {
+      "pt": "visto",
+      "en": "seen"
+    },
+    "j'ai": {
+      "pt": "Eu tenho",
+      "en": "I have"
+    },
+    "tout": {
+      "pt": "Todos",
+      "en": "All"
+    },
+    "d'suite": {
+      "pt": "imediatamente",
+      "en": "immediately"
+    },
+    "su": {
+      "pt": "saber",
+      "en": "know"
+    },
+    "que": {
+      "pt": "que",
+      "en": "that"
+    },
+    "qu'on": {
+      "pt": "que nós",
+      "en": "that we"
+    },
+    "allait": {
+      "pt": "estava indo",
+      "en": "was going"
+    },
+    "devoir": {
+      "pt": "obrigação",
+      "en": "duty"
+    },
+    "faire": {
+      "pt": "PENDÊNCIA",
+      "en": "TO DO"
+    },
+    "ces": {
+      "pt": "esses",
+      "en": "these"
+    },
+    "jeux": {
+      "pt": "jogos",
+      "en": "games"
+    },
+    "absurdes": {
+      "pt": "absurdo",
+      "en": "absurd"
+    },
+    "bijoux": {
+      "pt": "joia",
+      "en": "jewelry"
+    },
+    "bisous": {
+      "pt": "Beijos",
+      "en": "Kisses"
+    },
+    "et": {
+      "pt": "E",
+      "en": "And"
+    },
+    "tralalas": {
+      "pt": "travessuras",
+      "en": "shenanigans"
+    },
+    "mots": {
+      "pt": "palavras",
+      "en": "words"
+    },
+    "doux": {
+      "pt": "macio",
+      "en": "soft"
+    },
+    "coups": {
+      "pt": "golpes",
+      "en": "blows"
+    },
+    "bas": {
+      "pt": "abaixo",
+      "en": "down"
+    },
+    "insultes": {
+      "pt": "insultos",
+      "en": "insults"
+    },
+    "cætera": {
+      "pt": "etc.",
+      "en": "etc."
+    },
+    "non": {
+      "pt": "Não",
+      "en": "No"
+    },
+    "pas": {
+      "pt": "não",
+      "en": "not"
+    },
+    "les": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "miens": {
+      "pt": "meu",
+      "en": "mine"
+    },
+    "mais": {
+      "pt": "mas",
+      "en": "but"
+    },
+    "siens": {
+      "pt": "dele",
+      "en": "his"
+    },
+    "oui": {
+      "pt": "Sim",
+      "en": "Yes"
+    },
+    "notre": {
+      "pt": "NOSSO",
+      "en": "OUR"
+    },
+    "enfant": {
+      "pt": "criança",
+      "en": "child"
+    },
+    "deviendra": {
+      "pt": "se tornará",
+      "en": "will become"
+    },
+    "aussi": {
+      "pt": "Também",
+      "en": "Also"
+    },
+    "l'sien": {
+      "pt": "dele",
+      "en": "his"
+    },
+    "ensuite": {
+      "pt": "Próximo",
+      "en": "Next"
+    },
+    "enfin": {
+      "pt": "Finalmente",
+      "en": "Finally"
+    },
+    "c'est": {
+      "pt": "Isso é",
+      "en": "It is"
+    },
+    "l'juge": {
+      "pt": "o juiz",
+      "en": "the judge"
+    },
+    "qui": {
+      "pt": "Quem",
+      "en": "Who"
+    },
+    "insistera": {
+      "pt": "vai insistir",
+      "en": "will insist"
+    },
+    "j'imagine": {
+      "pt": "eu imagino",
+      "en": "I imagine"
+    },
+    "imagine-moi": {
+      "pt": "imagine eu",
+      "en": "imagine me"
+    },
+    "la": {
+      "pt": "lá",
+      "en": "there"
+    },
+    "télé": {
+      "pt": "TV",
+      "en": "TV"
+    },
+    "sous": {
+      "pt": "abaixo",
+      "en": "below"
+    },
+    "l'bras": {
+      "pt": "o braço",
+      "en": "the arm"
+    },
+    "mes": {
+      "pt": "meu",
+      "en": "my"
+    },
+    "jeans": {
+      "pt": "jeans",
+      "en": "jeans"
+    },
+    "sales": {
+      "pt": "sujo",
+      "en": "dirty"
+    },
+    "puis": {
+      "pt": "Então",
+      "en": "Then"
+    },
+    "ça": {
+      "pt": "Que",
+      "en": "That"
+    },
+    "je": {
+      "pt": "EU",
+      "en": "I"
+    },
+    "l'aime": {
+      "pt": "amo ele",
+      "en": "love him"
+    },
+    "à": {
+      "pt": "tem",
+      "en": "has"
+    },
+    "mort": {
+      "pt": "morto",
+      "en": "dead"
+    },
+    "pour": {
+      "pt": "Para",
+      "en": "For"
+    },
+    "vie": {
+      "pt": "vida",
+      "en": "life"
+    },
+    "on": {
+      "pt": "nós",
+      "en": "we"
+    },
+    "s'dira": {
+      "pt": "dirá",
+      "en": "will say"
+    },
+    "même": {
+      "pt": "até",
+      "en": "even"
+    },
+    "en": {
+      "pt": "em",
+      "en": "in"
+    },
+    "changeant": {
+      "pt": "mudando",
+      "en": "changing"
+    },
+    "d'avis": {
+      "pt": "de opinião",
+      "en": "of opinion"
+    },
+    "sachant": {
+      "pt": "sabendo",
+      "en": "knowing"
+    },
+    "a": {
+      "pt": "tem",
+      "en": "has"
+    },
+    "tort": {
+      "pt": "errado",
+      "en": "wrong"
+    },
+    "ne": {
+      "pt": "nascer",
+      "en": "born"
+    },
+    "changera": {
+      "pt": "vai mudar",
+      "en": "will change"
+    },
+    "donc": {
+      "pt": "ENTÃO",
+      "en": "SO"
+    },
+    "comme": {
+      "pt": "como",
+      "en": "as"
+    },
+    "l'monde": {
+      "pt": "o mundo",
+      "en": "the world"
+    },
+    "j'vais": {
+      "pt": "eu vou",
+      "en": "I'm going"
+    },
+    "souffrir": {
+      "pt": "sofrer",
+      "en": "suffer"
+    },
+    "jusqu'à": {
+      "pt": "até",
+      "en": "until"
+    },
+    "te": {
+      "pt": "você",
+      "en": "you"
+    },
+    "quiero": {
+      "pt": "quiero",
+      "en": "quiero"
+    },
+    "j'voudrais": {
+      "pt": "Gostaria",
+      "en": "I would like"
+    },
+    "être": {
+      "pt": "ser",
+      "en": "be"
+    },
+    "son": {
+      "pt": "dela",
+      "en": "her"
+    },
+    "ombre": {
+      "pt": "sombra",
+      "en": "shadow"
+    },
+    "déteste": {
+      "pt": "odiado",
+      "en": "hated"
+    },
+    "au": {
+      "pt": "No",
+      "en": "At"
+    },
+    "bout": {
+      "pt": "fim",
+      "en": "end"
+    },
+    "du": {
+      "pt": "de",
+      "en": "of"
+    },
+    "monde": {
+      "pt": "mundo",
+      "en": "world"
+    },
+    "bien": {
+      "pt": "BOM",
+      "en": "GOOD"
+    },
+    "qu'elle": {
+      "pt": "o que",
+      "en": "what"
+    },
+    "y": {
+      "pt": "sim",
+      "en": "y"
+    },
+    "reste": {
+      "pt": "ficar",
+      "en": "stay"
+    },
+    "l'aimais": {
+      "pt": "o amava",
+      "en": "loved him"
+    },
+    "tellement": {
+      "pt": "tal",
+      "en": "such"
+    },
+    "encore": {
+      "pt": "De novo",
+      "en": "Again"
+    },
+    "te-te": {
+      "pt": "cabeça",
+      "en": "head"
+    },
+    "n'aurai": {
+      "pt": "não terá",
+      "en": "will not have"
+    },
+    "l'choix": {
+      "pt": "a escolha",
+      "en": "the choice"
+    },
+    "j'la": {
+      "pt": "EU",
+      "en": "I"
+    },
+    "reverrai": {
+      "pt": "veremos novamente",
+      "en": "will see again"
+    },
+    "l'saurai": {
+      "pt": "saberá",
+      "en": "will know"
+    },
+    "ce": {
+      "pt": "Esse",
+      "en": "This"
+    },
+    "sera": {
+      "pt": "vai ser",
+      "en": "will be"
+    },
+    "repartit": {
+      "pt": "esquerda",
+      "en": "left"
+    },
+    "tour": {
+      "pt": "redondo",
+      "en": "round"
+    },
+    "de": {
+      "pt": "de",
+      "en": "of"
+    },
+    "piste": {
+      "pt": "acompanhar",
+      "en": "track"
+    },
+    "plus": {
+      "pt": "mais",
+      "en": "more"
+    },
+    "nouveau": {
+      "pt": "novo",
+      "en": "new"
+    },
+    "juge": {
+      "pt": "juiz",
+      "en": "judge"
+    },
+    "leurs": {
+      "pt": "deles",
+      "en": "their"
+    },
+    "odeurs": {
+      "pt": "cheira",
+      "en": "smells"
+    },
+    "pisse": {
+      "pt": "mijo",
+      "en": "piss"
+    },
+    "juste": {
+      "pt": "apenas",
+      "en": "just"
+    },
+    "une": {
+      "pt": "um",
+      "en": "a"
+    },
+    "fois": {
+      "pt": "vezes",
+      "en": "times"
+    },
+    "répétitif": {
+      "pt": "repetitivo",
+      "en": "repetitive"
+    },
+    "imagine": {
+      "pt": "imaginar",
+      "en": "imagine"
+    },
+    "moi": {
+      "pt": "Meu",
+      "en": "Me"
+    },
+    "dans": {
+      "pt": "Em",
+      "en": "In"
+    },
+    "vieux": {
+      "pt": "velho",
+      "en": "old"
+    },
+    "cette": {
+      "pt": "esse",
+      "en": "this"
+    },
+    "fois-là": {
+      "pt": "daquela vez",
+      "en": "that time"
+    },
+    "sans": {
+      "pt": "sem",
+      "en": "without"
+    },
+    "domicile": {
+      "pt": "residência",
+      "en": "residence"
+    },
+    "le": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "moral": {
+      "pt": "moral",
+      "en": "moral"
+    },
+    "haut": {
+      "pt": "alto",
+      "en": "high"
+    },
+    "d'un": {
+      "pt": "de um",
+      "en": "of a"
+    },
+    "pont": {
+      "pt": "ponte",
+      "en": "bridge"
+    },
+    "d'une": {
+      "pt": "de um",
+      "en": "of a"
+    },
+    "falaise": {
+      "pt": "penhasco",
+      "en": "cliff"
+    },
+    "ou": {
+      "pt": "Ou",
+      "en": "Or"
+    },
+    "building": {
+      "pt": "prédio",
+      "en": "building"
+    },
+    "j'aurai": {
+      "pt": "eu terei",
+      "en": "I will have"
+    },
+    "l'air": {
+      "pt": "o ar",
+      "en": "the air"
+    },
+    "con": {
+      "pt": "idiota",
+      "en": "idiot"
+    },
+    "quand": {
+      "pt": "Quando",
+      "en": "When"
+    },
+    "j'sauterai": {
+      "pt": "eu vou pular",
+      "en": "I will jump"
+    },
+    "vide": {
+      "pt": "vazio",
+      "en": "empty"
+    }
+  },
+  "ordem": 56
+}

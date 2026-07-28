@@ -1,0 +1,748 @@
+{
+  "titulo": "Bienvenue Chez Moi",
+  "artista": "Stromae",
+  "arquivo_audio": "audio.mp3",
+  "linhas": [
+    {
+      "tempo": 0.46,
+      "fr": "Bienvenue chez moi",
+      "pt": "Bem-vindo à minha casa",
+      "en": "Welcome to my home"
+    },
+    {
+      "tempo": 9.06,
+      "fr": "Ces quatre murs en plastique",
+      "pt": "Estas quatro paredes de plástico",
+      "en": "These four plastic walls"
+    },
+    {
+      "tempo": 11.58,
+      "fr": "Sont peints de papier et de tas de Bic",
+      "pt": "São pintados com papel e pilhas de Bic",
+      "en": "Are painted with paper and piles of Bic"
+    },
+    {
+      "tempo": 13.33,
+      "fr": "Des tas de feuilles à moitié mortes",
+      "pt": "Pilhas de folhas meio mortas",
+      "en": "Piles of half-dead leaves"
+    },
+    {
+      "tempo": 15.52,
+      "fr": "À moitié bourges ou à moitié fortes",
+      "pt": "Meio burguês ou meio forte",
+      "en": "Half bourgeois or half strong"
+    },
+    {
+      "tempo": 17.34,
+      "fr": "Un jour vertes, un jour brunes",
+      "pt": "Um dia verde, um dia marrom",
+      "en": "One day green, one day brown"
+    },
+    {
+      "tempo": 19.68,
+      "fr": "Noires, jaunes, rouges et un jour plumes",
+      "pt": "Penas pretas, amarelas, vermelhas e de um dia",
+      "en": "Black, yellow, red and one day feathers"
+    },
+    {
+      "tempo": 21.03,
+      "fr": "D'humeur légère, d'humeur profonde",
+      "pt": "De bom humor, de bom humor",
+      "en": "In a light mood, in a deep mood"
+    },
+    {
+      "tempo": 23.3,
+      "fr": "D'humeur amère",
+      "pt": "De mau humor",
+      "en": "In a bitter mood"
+    },
+    {
+      "tempo": 24.33,
+      "fr": "Bienvenue chez moi",
+      "pt": "Bem-vindo à minha casa",
+      "en": "Welcome to my home"
+    },
+    {
+      "tempo": 25.64,
+      "fr": "D'humeur vénère, d'humeur sainte",
+      "pt": "Num clima de adoração, num clima santo",
+      "en": "In a worshipful mood, in a holy mood"
+    },
+    {
+      "tempo": 27.69,
+      "fr": "Mais aussi vraies donc vulgaires",
+      "pt": "Mas também verdadeiro e, portanto, vulgar",
+      "en": "But also true and therefore vulgar"
+    },
+    {
+      "tempo": 29.08,
+      "fr": "À la fois brutes, à la fois pures",
+      "pt": "Tanto cru quanto puro",
+      "en": "Both raw and pure"
+    },
+    {
+      "tempo": 32.66,
+      "fr": "À la fois laxistes, à la fois dures",
+      "pt": "Relaxado e resistente",
+      "en": "Both lax and tough"
+    },
+    {
+      "tempo": 34.39,
+      "fr": "À la fois basses, à la fois hautes",
+      "pt": "Baixo e alto ao mesmo tempo",
+      "en": "Both low and high at the same time"
+    },
+    {
+      "tempo": 36.14,
+      "fr": "À la fois douce et à la voie rauque",
+      "pt": "Voz suave e rouca",
+      "en": "Both soft and hoarse in voice"
+    },
+    {
+      "tempo": 38.77,
+      "fr": "À la fois Jazz, à la fois Rock, ou Électro",
+      "pt": "Ao mesmo tempo Jazz, ao mesmo tempo Rock ou Electro",
+      "en": "At the same time Jazz, at the same time Rock, or Electro"
+    },
+    {
+      "tempo": 42.17,
+      "fr": "Bienvenue chez moi",
+      "pt": "Bem-vindo à minha casa",
+      "en": "Welcome to my home"
+    },
+    {
+      "tempo": 44.05,
+      "fr": "Bienvenue chez moi",
+      "pt": "Bem-vindo à minha casa",
+      "en": "Welcome to my home"
+    },
+    {
+      "tempo": 49.34,
+      "fr": "Bienvenue chez moi",
+      "pt": "Bem-vindo à minha casa",
+      "en": "Welcome to my home"
+    },
+    {
+      "tempo": 54.45,
+      "fr": "Bienvenue chez moi, chez moi, chez moi",
+      "pt": "Bem-vindo à minha casa, minha casa, minha casa",
+      "en": "Welcome to my home, my home, my home"
+    },
+    {
+      "tempo": 59.05,
+      "fr": "Bienvenue chez moi",
+      "pt": "Bem-vindo à minha casa",
+      "en": "Welcome to my home"
+    },
+    {
+      "tempo": 63.3,
+      "fr": "Bienvenue chez moi",
+      "pt": "Bem-vindo à minha casa",
+      "en": "Welcome to my home"
+    },
+    {
+      "tempo": 71.86,
+      "fr": "Bienvenue chez moi",
+      "pt": "Bem-vindo à minha casa",
+      "en": "Welcome to my home"
+    },
+    {
+      "tempo": 78.47,
+      "fr": "Dans mes quatre murs, y'a des tas de choses",
+      "pt": "Nas minhas quatro paredes há muitas coisas",
+      "en": "In my four walls, there are lots of things"
+    },
+    {
+      "tempo": 80.22,
+      "fr": "Peu de livres mais des tas de proses",
+      "pt": "Poucos livros, mas pilhas de prosa",
+      "en": "Few books but piles of prose"
+    },
+    {
+      "tempo": 81.69,
+      "fr": "Trop de pensées pour si peu d'écrits",
+      "pt": "Muitos pensamentos para tão pouco escrever",
+      "en": "Too many thoughts for so little writing"
+    },
+    {
+      "tempo": 83.36,
+      "fr": "Et si peu de pays pour tellement de roses",
+      "pt": "E tão poucos países para tantas rosas",
+      "en": "And so few countries for so many roses"
+    },
+    {
+      "tempo": 85.72,
+      "fr": "Y'a des sales jaunes, des sales noirs",
+      "pt": "Existem amarelos sujos, pretos sujos",
+      "en": "There are dirty yellow ones, dirty black ones"
+    },
+    {
+      "tempo": 88.24,
+      "fr": "Des sales rouges et des sales blancs",
+      "pt": "Vermelhos sujos e brancos sujos",
+      "en": "Dirty reds and dirty whites"
+    },
+    {
+      "tempo": 90.02,
+      "fr": "Il y a surtout que de gros bâtards devenus rouge-sang",
+      "pt": "Acima de tudo, existem apenas grandes bastardos que ficaram vermelhos como sangue",
+      "en": "Above all, there are only big bastards who have turned blood red"
+    },
+    {
+      "tempo": 93.07,
+      "fr": "Bienvenue chez moi",
+      "pt": "Bem-vindo à minha casa",
+      "en": "Welcome to my home"
+    },
+    {
+      "tempo": 95.69,
+      "fr": "Comme moi, comme toi, comme nous",
+      "pt": "Como eu, como você, como nós",
+      "en": "Like me, like you, like us"
+    },
+    {
+      "tempo": 96.99,
+      "fr": "Des hommes-chiens devenus hommes-loups",
+      "pt": "Homens-cachorros se tornam homens-lobos",
+      "en": "Dogmen become wolfmen"
+    },
+    {
+      "tempo": 98.8,
+      "fr": "Des femmes-hyènes, voulant être belles",
+      "pt": "Mulheres hienas, querendo ser lindas",
+      "en": "Hyena women, wanting to be beautiful"
+    },
+    {
+      "tempo": 100.42,
+      "fr": "Et encore plus superbes à se rendre fous",
+      "pt": "E ainda mais soberbo para deixar um ao outro louco",
+      "en": "And even more superb to drive each other crazy"
+    },
+    {
+      "tempo": 102.74,
+      "fr": "À se rendre folles, à se rendre connes",
+      "pt": "Para deixar um ao outro louco, para deixar um ao outro estúpido",
+      "en": "To make each other crazy, to make each other stupid"
+    },
+    {
+      "tempo": 104.89,
+      "fr": "À se vendre bonnes, à faire toutes comme",
+      "pt": "Vender-se bem, fazer tudo como",
+      "en": "To sell oneself good, to do everything as"
+    },
+    {
+      "tempo": 107.26,
+      "fr": "Et ces imbéciles, et bien cours toujours",
+      "pt": "E esses imbecis, ainda corremos",
+      "en": "And these imbeciles, well still run"
+    },
+    {
+      "tempo": 109.75,
+      "fr": "Et c'est ça l'amour",
+      "pt": "E isso é amor",
+      "en": "And that's love"
+    },
+    {
+      "tempo": 111.9,
+      "fr": "Bienvenue chez moi",
+      "pt": "Bem-vindo à minha casa",
+      "en": "Welcome to my home"
+    },
+    {
+      "tempo": 114.4,
+      "fr": "Bienvenue chez moi",
+      "pt": "Bem-vindo à minha casa",
+      "en": "Welcome to my home"
+    },
+    {
+      "tempo": 119.12,
+      "fr": "Bienvenue chez moi",
+      "pt": "Bem-vindo à minha casa",
+      "en": "Welcome to my home"
+    },
+    {
+      "tempo": 122.59,
+      "fr": "Bienvenue chez moi, chez moi, chez moi",
+      "pt": "Bem-vindo à minha casa, minha casa, minha casa",
+      "en": "Welcome to my home, my home, my home"
+    },
+    {
+      "tempo": 127.56,
+      "fr": "Bienvenue chez moi",
+      "pt": "Bem-vindo à minha casa",
+      "en": "Welcome to my home"
+    },
+    {
+      "tempo": 131.53,
+      "fr": "Bienvenue chez moi",
+      "pt": "Bem-vindo à minha casa",
+      "en": "Welcome to my home"
+    },
+    {
+      "tempo": 140.52,
+      "fr": "Bienvenue chez moi",
+      "pt": "Bem-vindo à minha casa",
+      "en": "Welcome to my home"
+    },
+    {
+      "tempo": 152.72,
+      "fr": "Bienvenue chez moi",
+      "pt": "Bem-vindo à minha casa",
+      "en": "Welcome to my home"
+    },
+    {
+      "tempo": 157.9,
+      "fr": "Bienvenue chez moi",
+      "pt": "Bem-vindo à minha casa",
+      "en": "Welcome to my home"
+    }
+  ],
+  "vocabulario": {
+    "bienvenue": {
+      "pt": "Bem-vindo",
+      "en": "Welcome"
+    },
+    "chez": {
+      "pt": "na casa de",
+      "en": "at the house of"
+    },
+    "moi": {
+      "pt": "Meu",
+      "en": "Me"
+    },
+    "ces": {
+      "pt": "esses",
+      "en": "these"
+    },
+    "quatre": {
+      "pt": "quatro",
+      "en": "four"
+    },
+    "murs": {
+      "pt": "paredes",
+      "en": "walls"
+    },
+    "en": {
+      "pt": "em",
+      "en": "in"
+    },
+    "plastique": {
+      "pt": "plástico",
+      "en": "plastic"
+    },
+    "sont": {
+      "pt": "são",
+      "en": "are"
+    },
+    "peints": {
+      "pt": "pintado",
+      "en": "painted"
+    },
+    "de": {
+      "pt": "de",
+      "en": "of"
+    },
+    "papier": {
+      "pt": "papel",
+      "en": "paper"
+    },
+    "et": {
+      "pt": "E",
+      "en": "And"
+    },
+    "tas": {
+      "pt": "amontoar",
+      "en": "heap"
+    },
+    "bic": {
+      "pt": "bic",
+      "en": "bic"
+    },
+    "des": {
+      "pt": "do",
+      "en": "of the"
+    },
+    "feuilles": {
+      "pt": "folhas",
+      "en": "leaves"
+    },
+    "à": {
+      "pt": "tem",
+      "en": "has"
+    },
+    "moitié": {
+      "pt": "metade",
+      "en": "half"
+    },
+    "mortes": {
+      "pt": "morto",
+      "en": "dead"
+    },
+    "bourges": {
+      "pt": "Burges",
+      "en": "bourges"
+    },
+    "ou": {
+      "pt": "Ou",
+      "en": "Or"
+    },
+    "fortes": {
+      "pt": "forte",
+      "en": "strong"
+    },
+    "un": {
+      "pt": "UM",
+      "en": "A"
+    },
+    "jour": {
+      "pt": "dia",
+      "en": "day"
+    },
+    "vertes": {
+      "pt": "verde",
+      "en": "green"
+    },
+    "brunes": {
+      "pt": "morenas",
+      "en": "brunettes"
+    },
+    "noires": {
+      "pt": "preto",
+      "en": "black"
+    },
+    "jaunes": {
+      "pt": "amarelo",
+      "en": "yellow"
+    },
+    "rouges": {
+      "pt": "vermelho",
+      "en": "red"
+    },
+    "plumes": {
+      "pt": "penas",
+      "en": "feathers"
+    },
+    "d'humeur": {
+      "pt": "de bom humor",
+      "en": "in the mood"
+    },
+    "légère": {
+      "pt": "luz",
+      "en": "light"
+    },
+    "profonde": {
+      "pt": "profundo",
+      "en": "deep"
+    },
+    "amère": {
+      "pt": "amargo",
+      "en": "bitter"
+    },
+    "vénère": {
+      "pt": "adorar",
+      "en": "worship"
+    },
+    "sainte": {
+      "pt": "sagrado",
+      "en": "holy"
+    },
+    "mais": {
+      "pt": "mas",
+      "en": "but"
+    },
+    "aussi": {
+      "pt": "Também",
+      "en": "Also"
+    },
+    "vraies": {
+      "pt": "verdadeiro",
+      "en": "true"
+    },
+    "donc": {
+      "pt": "ENTÃO",
+      "en": "SO"
+    },
+    "vulgaires": {
+      "pt": "vulgar",
+      "en": "vulgar"
+    },
+    "la": {
+      "pt": "lá",
+      "en": "there"
+    },
+    "fois": {
+      "pt": "vezes",
+      "en": "times"
+    },
+    "brutes": {
+      "pt": "cru",
+      "en": "raw"
+    },
+    "pures": {
+      "pt": "puro",
+      "en": "pure"
+    },
+    "laxistes": {
+      "pt": "relaxado",
+      "en": "lax"
+    },
+    "dures": {
+      "pt": "duro",
+      "en": "hard"
+    },
+    "basses": {
+      "pt": "baixo",
+      "en": "bass"
+    },
+    "hautes": {
+      "pt": "alto",
+      "en": "high"
+    },
+    "douce": {
+      "pt": "gentil",
+      "en": "gentle"
+    },
+    "voie": {
+      "pt": "caminho",
+      "en": "way"
+    },
+    "rauque": {
+      "pt": "rouco",
+      "en": "hoarse"
+    },
+    "jazz": {
+      "pt": "jazz",
+      "en": "jazz"
+    },
+    "rock": {
+      "pt": "pedra",
+      "en": "rock"
+    },
+    "électro": {
+      "pt": "eletro",
+      "en": "electro"
+    },
+    "dans": {
+      "pt": "Em",
+      "en": "In"
+    },
+    "mes": {
+      "pt": "meu",
+      "en": "my"
+    },
+    "y'a": {
+      "pt": "há",
+      "en": "there is"
+    },
+    "choses": {
+      "pt": "coisas",
+      "en": "things"
+    },
+    "peu": {
+      "pt": "pequeno",
+      "en": "little"
+    },
+    "livres": {
+      "pt": "livros",
+      "en": "books"
+    },
+    "proses": {
+      "pt": "prosa",
+      "en": "prose"
+    },
+    "trop": {
+      "pt": "demais",
+      "en": "too much"
+    },
+    "pensées": {
+      "pt": "pensamentos",
+      "en": "thoughts"
+    },
+    "pour": {
+      "pt": "Para",
+      "en": "For"
+    },
+    "si": {
+      "pt": "se",
+      "en": "if"
+    },
+    "d'écrits": {
+      "pt": "de escritos",
+      "en": "of writings"
+    },
+    "pays": {
+      "pt": "país",
+      "en": "country"
+    },
+    "tellement": {
+      "pt": "tal",
+      "en": "such"
+    },
+    "roses": {
+      "pt": "rosas",
+      "en": "roses"
+    },
+    "sales": {
+      "pt": "sujo",
+      "en": "dirty"
+    },
+    "noirs": {
+      "pt": "preto",
+      "en": "black"
+    },
+    "blancs": {
+      "pt": "brancos",
+      "en": "whites"
+    },
+    "il": {
+      "pt": "ele",
+      "en": "he"
+    },
+    "y": {
+      "pt": "sim",
+      "en": "y"
+    },
+    "a": {
+      "pt": "tem",
+      "en": "has"
+    },
+    "surtout": {
+      "pt": "Sobretudo",
+      "en": "Above all"
+    },
+    "que": {
+      "pt": "que",
+      "en": "that"
+    },
+    "gros": {
+      "pt": "gordo",
+      "en": "fat"
+    },
+    "bâtards": {
+      "pt": "bastardos",
+      "en": "bastards"
+    },
+    "devenus": {
+      "pt": "tornar-se",
+      "en": "become"
+    },
+    "rouge-sang": {
+      "pt": "vermelho sangue",
+      "en": "blood-red"
+    },
+    "comme": {
+      "pt": "como",
+      "en": "as"
+    },
+    "toi": {
+      "pt": "Você",
+      "en": "You"
+    },
+    "nous": {
+      "pt": "Nós",
+      "en": "We"
+    },
+    "hommes-chiens": {
+      "pt": "homens-cachorros",
+      "en": "dog men"
+    },
+    "hommes-loups": {
+      "pt": "homens-lobos",
+      "en": "wolfmen"
+    },
+    "femmes-hyènes": {
+      "pt": "mulheres hienas",
+      "en": "hyena women"
+    },
+    "voulant": {
+      "pt": "querendo",
+      "en": "wanting"
+    },
+    "être": {
+      "pt": "ser",
+      "en": "be"
+    },
+    "belles": {
+      "pt": "lindo",
+      "en": "beautiful"
+    },
+    "encore": {
+      "pt": "De novo",
+      "en": "Again"
+    },
+    "plus": {
+      "pt": "mais",
+      "en": "more"
+    },
+    "superbes": {
+      "pt": "soberbo",
+      "en": "superb"
+    },
+    "se": {
+      "pt": "se",
+      "en": "se"
+    },
+    "rendre": {
+      "pt": "retribuir",
+      "en": "give back"
+    },
+    "fous": {
+      "pt": "louco",
+      "en": "crazy"
+    },
+    "folles": {
+      "pt": "louco",
+      "en": "crazy"
+    },
+    "connes": {
+      "pt": "bocetas",
+      "en": "cunts"
+    },
+    "vendre": {
+      "pt": "vender",
+      "en": "sell"
+    },
+    "bonnes": {
+      "pt": "bom",
+      "en": "good"
+    },
+    "faire": {
+      "pt": "PENDÊNCIA",
+      "en": "TO DO"
+    },
+    "toutes": {
+      "pt": "todos",
+      "en": "all"
+    },
+    "imbéciles": {
+      "pt": "tolos",
+      "en": "fools"
+    },
+    "bien": {
+      "pt": "BOM",
+      "en": "GOOD"
+    },
+    "cours": {
+      "pt": "curso",
+      "en": "course"
+    },
+    "toujours": {
+      "pt": "sempre",
+      "en": "always"
+    },
+    "c'est": {
+      "pt": "Isso é",
+      "en": "It is"
+    },
+    "ça": {
+      "pt": "Que",
+      "en": "That"
+    },
+    "l'amour": {
+      "pt": "amor",
+      "en": "love"
+    }
+  },
+  "ordem": 41
+}

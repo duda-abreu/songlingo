@@ -1,0 +1,886 @@
+{
+  "titulo": "C’est que du bonheur",
+  "artista": "Stromae",
+  "arquivo_audio": "audio.mp3",
+  "linhas": [
+    {
+      "tempo": 1.48,
+      "fr": "J't'ai donné la vie, toi t'as sauvé la mienne",
+      "pt": "Eu te dei sua vida, você salvou a minha",
+      "en": "I gave you your life, you saved mine"
+    },
+    {
+      "tempo": 5.07,
+      "fr": "S'tu savais comme je t'aime",
+      "pt": "Se você soubesse o quanto eu te amo",
+      "en": "If you knew how much I love you"
+    },
+    {
+      "tempo": 6.64,
+      "fr": "J'ai jamais tant aimé, j'te connais à peine",
+      "pt": "Nunca amei tanto, mal te conheço",
+      "en": "I've never loved so much, I barely know you"
+    },
+    {
+      "tempo": 10.07,
+      "fr": "Faut une première à tout",
+      "pt": "Você precisa de uma novidade para tudo",
+      "en": "You need a first for everything"
+    },
+    {
+      "tempo": 11.45,
+      "fr": "Et merci d'avoir détruit l'corps de maman",
+      "pt": "E obrigado por destruir o corpo da mãe",
+      "en": "And thank you for destroying mom's body"
+    },
+    {
+      "tempo": 13.84,
+      "fr": "Elle s'aimait pas beaucoup mais c'est pire qu'avant",
+      "pt": "Ela não gostava muito de si mesma, mas está pior do que antes",
+      "en": "She didn't like herself very much but it's worse than before"
+    },
+    {
+      "tempo": 16.3,
+      "fr": "On a le temps de le faire qu'une seule fois par an",
+      "pt": "Só temos tempo para fazer isso uma vez por ano",
+      "en": "We only have time to do it once a year"
+    },
+    {
+      "tempo": 19.06,
+      "fr": "Oh! comme c'est beau le métier de parents",
+      "pt": "Oh! como é lindo ser pai",
+      "en": "Oh! how beautiful it is to be a parent"
+    },
+    {
+      "tempo": 21.31,
+      "fr": "Tu verras, c'est qu'du bonheur",
+      "pt": "Você verá, é só felicidade",
+      "en": "You'll see, it's just happiness"
+    },
+    {
+      "tempo": 23.57,
+      "fr": "Tu verras, c'est d'la joie",
+      "pt": "Você verá, é alegria",
+      "en": "You'll see, it's joy"
+    },
+    {
+      "tempo": 26.03,
+      "fr": "Y a les couches et les odeurs",
+      "pt": "Tem fraldas e cheiros",
+      "en": "There are diapers and smells"
+    },
+    {
+      "tempo": 28.48,
+      "fr": "Y a lеs vomis, les cacas et puis tout l'restе",
+      "pt": "Tem vômito, cocô e tudo mais",
+      "en": "There's vomit, poop and then everything else"
+    },
+    {
+      "tempo": 31.01,
+      "fr": "Tu verras, c'est qu'du bonheur",
+      "pt": "Você verá, é só felicidade",
+      "en": "You'll see, it's just happiness"
+    },
+    {
+      "tempo": 33.34,
+      "fr": "Tu verras, c'est d'la joie",
+      "pt": "Você verá, é alegria",
+      "en": "You'll see, it's joy"
+    },
+    {
+      "tempo": 35.82,
+      "fr": "Y a les couches et les odeurs",
+      "pt": "Tem fraldas e cheiros",
+      "en": "There are diapers and smells"
+    },
+    {
+      "tempo": 38.21,
+      "fr": "Y a les vomis, les cacas et puis tout l'reste",
+      "pt": "Tem vômito, cocô e tudo mais",
+      "en": "There's vomit, poop and then everything else"
+    },
+    {
+      "tempo": 41.16,
+      "fr": "Tout d'abord tu m'idéalises",
+      "pt": "Primeiro de tudo você me idealiza",
+      "en": "First of all you idealize me"
+    },
+    {
+      "tempo": 43.67,
+      "fr": "Avant que tu me méprises",
+      "pt": "Antes que você me despreze",
+      "en": "Before you despise me"
+    },
+    {
+      "tempo": 45.85,
+      "fr": "Ok d'accord, tu piqueras des crises",
+      "pt": "Ok, tudo bem, você vai ter acessos de raiva",
+      "en": "Okay fine, you'll throw tantrums"
+    },
+    {
+      "tempo": 48.41,
+      "fr": "Ensuite ben, tu feras tes valises",
+      "pt": "Então, bem, você vai fazer as malas",
+      "en": "Then well, you will pack your bags"
+    },
+    {
+      "tempo": 50.77,
+      "fr": "Et puis bon débarras, bon débarras",
+      "pt": "E então boa viagem, boa viagem",
+      "en": "And then good riddance, good riddance"
+    },
+    {
+      "tempo": 53.32,
+      "fr": "Bon débarras, tu diras: c'est pas grave",
+      "pt": "Boa viagem, você dirá: não importa",
+      "en": "Good riddance, you will say: it doesn't matter"
+    },
+    {
+      "tempo": 55.59,
+      "fr": "Ouais mais tu débarrasses, tu débarrasses",
+      "pt": "Sim, mas você sai, você sai",
+      "en": "Yeah but you clear out, you clear out"
+    },
+    {
+      "tempo": 58.33,
+      "fr": "Tu débarrasses, j'ai dit: prends toutes tes crasses",
+      "pt": "Você se livra disso, eu disse: tire toda a sua sujeira",
+      "en": "You get rid of it, I said: take all your dirt"
+    },
+    {
+      "tempo": 60.42,
+      "fr": "Allez-y, faites des gosses",
+      "pt": "Vá em frente, tenha filhos",
+      "en": "Go ahead, have kids"
+    },
+    {
+      "tempo": 65.27,
+      "fr": "Allez-y, faites des gosses",
+      "pt": "Vá em frente, tenha filhos",
+      "en": "Go ahead, have kids"
+    },
+    {
+      "tempo": 70.09,
+      "fr": "Tu verras, c'est qu'du bonheur",
+      "pt": "Você verá, é só felicidade",
+      "en": "You'll see, it's just happiness"
+    },
+    {
+      "tempo": 72.6,
+      "fr": "Tu verras, c'est d'la joie",
+      "pt": "Você verá, é alegria",
+      "en": "You'll see, it's joy"
+    },
+    {
+      "tempo": 75.01,
+      "fr": "Les pleurs et les sauts d'humeur",
+      "pt": "Choro e mudanças de humor",
+      "en": "Crying and mood swings"
+    },
+    {
+      "tempo": 77.43,
+      "fr": "Et puis tu défieras papa et puis tout l'reste",
+      "pt": "E então você desafiará o papai e todo o resto",
+      "en": "And then you will challenge daddy and then everything else"
+    },
+    {
+      "tempo": 80.12,
+      "fr": "Tu verras, c'est qu'du bonheur",
+      "pt": "Você verá, é só felicidade",
+      "en": "You'll see, it's just happiness"
+    },
+    {
+      "tempo": 84.7,
+      "fr": "Tu verras, c'est d'la joie",
+      "pt": "Você verá, é alegria",
+      "en": "You'll see, it's joy"
+    },
+    {
+      "tempo": 89.89,
+      "fr": "Et puis pour de vrai tu t'en iras",
+      "pt": "E então de verdade você irá embora",
+      "en": "And then for real you will go away"
+    },
+    {
+      "tempo": 92.46,
+      "fr": "Mais s'il te plait n'nous abandonne pas",
+      "pt": "Mas por favor não nos abandone",
+      "en": "But please don't abandon us"
+    },
+    {
+      "tempo": 94.76,
+      "fr": "Non mais oui je sais, ton amour viendra",
+      "pt": "Não, mas sim, eu sei, seu amor virá",
+      "en": "No but yes I know, your love will come"
+    },
+    {
+      "tempo": 97.14,
+      "fr": "Quand il s'ra l'temps de les faire, toi aussi t'en auras",
+      "pt": "Quando chegar a hora de fazê-los, você também terá alguns",
+      "en": "When it's time to make them, you will have some too"
+    },
+    {
+      "tempo": 99.51,
+      "fr": "Et tu verras, c'est qu'du bonheur",
+      "pt": "E você verá, é só felicidade",
+      "en": "And you'll see, it's just happiness"
+    },
+    {
+      "tempo": 101.97,
+      "fr": "Tu verras, c'est d'la joie",
+      "pt": "Você verá, é alegria",
+      "en": "You'll see, it's joy"
+    },
+    {
+      "tempo": 104.31,
+      "fr": "Y a les couches, y a les odeurs",
+      "pt": "Tem fraldas, tem cheiros",
+      "en": "There are diapers, there are smells"
+    },
+    {
+      "tempo": 106.82,
+      "fr": "Y a les pipis, les cacas et puis tout l'reste",
+      "pt": "Tem xixi, cocô e tudo mais",
+      "en": "There are pees, poops and then everything else"
+    },
+    {
+      "tempo": 109.54,
+      "fr": "Puis y aura Papy et y aura Mamy",
+      "pt": "Depois haverá o vovô e haverá a mamãe",
+      "en": "Then there will be Grandpa and there will be Mamy"
+    },
+    {
+      "tempo": 111.74,
+      "fr": "Si on est en vie, on gardera le p'tit",
+      "pt": "Se estivermos vivos, ficaremos com o pequenino",
+      "en": "If we're alive, we'll keep the little one"
+    },
+    {
+      "tempo": 114.31,
+      "fr": "Puis on f'ra caca, puis on f'ra pipi",
+      "pt": "Então fazemos cocô, depois fazemos xixi",
+      "en": "Then we poop, then we pee"
+    },
+    {
+      "tempo": 117.05,
+      "fr": "Rira bien ça t'arrivera aussi",
+      "pt": "Ria bem, isso vai acontecer com você também",
+      "en": "Laugh well, it will happen to you too"
+    },
+    {
+      "tempo": 119.28,
+      "fr": "Tu verras, c'est qu'du bonheur",
+      "pt": "Você verá, é só felicidade",
+      "en": "You'll see, it's just happiness"
+    },
+    {
+      "tempo": 121.63,
+      "fr": "Tu verras, c'est d'la joie",
+      "pt": "Você verá, é alegria",
+      "en": "You'll see, it's joy"
+    },
+    {
+      "tempo": 124.06,
+      "fr": "Y a les couches, y a les odeurs",
+      "pt": "Tem fraldas, tem cheiros",
+      "en": "There are diapers, there are smells"
+    },
+    {
+      "tempo": 126.45,
+      "fr": "Y a les vomis les cacas et puis tout l'reste",
+      "pt": "Tem vômito, cocô e tudo mais",
+      "en": "There is vomit, poop and then everything else"
+    },
+    {
+      "tempo": 138.79,
+      "fr": "Tu verras, c'est qu'du bonheur",
+      "pt": "Você verá, é só felicidade",
+      "en": "You'll see, it's just happiness"
+    },
+    {
+      "tempo": 141.12,
+      "fr": "Tu verras, c'est d'la joie",
+      "pt": "Você verá, é alegria",
+      "en": "You'll see, it's joy"
+    },
+    {
+      "tempo": 143.66,
+      "fr": "Y a les couches, y a les odeurs",
+      "pt": "Tem fraldas, tem cheiros",
+      "en": "There are diapers, there are smells"
+    },
+    {
+      "tempo": 146.07,
+      "fr": "Y a les vomis les cacas et puis tout l'reste",
+      "pt": "Tem vômito, cocô e tudo mais",
+      "en": "There is vomit, poop and then everything else"
+    }
+  ],
+  "vocabulario": {
+    "j't'ai": {
+      "pt": "eu tenho você",
+      "en": "I have you"
+    },
+    "donné": {
+      "pt": "dado",
+      "en": "given"
+    },
+    "la": {
+      "pt": "lá",
+      "en": "there"
+    },
+    "vie": {
+      "pt": "vida",
+      "en": "life"
+    },
+    "toi": {
+      "pt": "Você",
+      "en": "You"
+    },
+    "t'as": {
+      "pt": "você tem",
+      "en": "you have"
+    },
+    "sauvé": {
+      "pt": "salvo",
+      "en": "saved"
+    },
+    "mienne": {
+      "pt": "meu",
+      "en": "mine"
+    },
+    "s'tu": {
+      "pt": "se você",
+      "en": "if you"
+    },
+    "savais": {
+      "pt": "sabia",
+      "en": "knew"
+    },
+    "comme": {
+      "pt": "como",
+      "en": "as"
+    },
+    "je": {
+      "pt": "EU",
+      "en": "I"
+    },
+    "t'aime": {
+      "pt": "amo você",
+      "en": "love you"
+    },
+    "j'ai": {
+      "pt": "Eu tenho",
+      "en": "I have"
+    },
+    "jamais": {
+      "pt": "Nunca",
+      "en": "Never"
+    },
+    "tant": {
+      "pt": "muito",
+      "en": "so much"
+    },
+    "aimé": {
+      "pt": "amor",
+      "en": "love"
+    },
+    "j'te": {
+      "pt": "EU",
+      "en": "I"
+    },
+    "connais": {
+      "pt": "saber",
+      "en": "know"
+    },
+    "à": {
+      "pt": "tem",
+      "en": "has"
+    },
+    "peine": {
+      "pt": "pena",
+      "en": "penalty"
+    },
+    "faut": {
+      "pt": "deve",
+      "en": "must"
+    },
+    "une": {
+      "pt": "um",
+      "en": "a"
+    },
+    "première": {
+      "pt": "primeiro",
+      "en": "first"
+    },
+    "tout": {
+      "pt": "Todos",
+      "en": "All"
+    },
+    "et": {
+      "pt": "E",
+      "en": "And"
+    },
+    "merci": {
+      "pt": "OBRIGADO",
+      "en": "THANKS"
+    },
+    "d'avoir": {
+      "pt": "ter",
+      "en": "to have"
+    },
+    "détruit": {
+      "pt": "destruído",
+      "en": "destroyed"
+    },
+    "l'corps": {
+      "pt": "o corpo",
+      "en": "the body"
+    },
+    "de": {
+      "pt": "de",
+      "en": "of"
+    },
+    "maman": {
+      "pt": "Mãe",
+      "en": "Mom"
+    },
+    "elle": {
+      "pt": "Ela",
+      "en": "She"
+    },
+    "s'aimait": {
+      "pt": "amávamos um ao outro",
+      "en": "loved each other"
+    },
+    "pas": {
+      "pt": "não",
+      "en": "not"
+    },
+    "beaucoup": {
+      "pt": "bastante",
+      "en": "a lot"
+    },
+    "mais": {
+      "pt": "mas",
+      "en": "but"
+    },
+    "c'est": {
+      "pt": "Isso é",
+      "en": "It is"
+    },
+    "pire": {
+      "pt": "pior",
+      "en": "worse"
+    },
+    "qu'avant": {
+      "pt": "do que antes",
+      "en": "than before"
+    },
+    "on": {
+      "pt": "nós",
+      "en": "we"
+    },
+    "a": {
+      "pt": "tem",
+      "en": "has"
+    },
+    "le": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "temps": {
+      "pt": "tempo",
+      "en": "time"
+    },
+    "faire": {
+      "pt": "PENDÊNCIA",
+      "en": "TO DO"
+    },
+    "qu'une": {
+      "pt": "Aquele",
+      "en": "that one"
+    },
+    "seule": {
+      "pt": "sozinho",
+      "en": "alone"
+    },
+    "fois": {
+      "pt": "vezes",
+      "en": "times"
+    },
+    "par": {
+      "pt": "por",
+      "en": "by"
+    },
+    "an": {
+      "pt": "ano",
+      "en": "year"
+    },
+    "oh": {
+      "pt": "Oh",
+      "en": "Oh"
+    },
+    "beau": {
+      "pt": "lindo",
+      "en": "beautiful"
+    },
+    "métier": {
+      "pt": "trabalho",
+      "en": "job"
+    },
+    "parents": {
+      "pt": "pais",
+      "en": "parents"
+    },
+    "tu": {
+      "pt": "você",
+      "en": "you"
+    },
+    "verras": {
+      "pt": "vai ver",
+      "en": "will see"
+    },
+    "qu'du": {
+      "pt": "que",
+      "en": "that"
+    },
+    "bonheur": {
+      "pt": "felicidade",
+      "en": "happiness"
+    },
+    "d'la": {
+      "pt": "do",
+      "en": "from the"
+    },
+    "joie": {
+      "pt": "alegria",
+      "en": "joy"
+    },
+    "y": {
+      "pt": "sim",
+      "en": "y"
+    },
+    "les": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "couches": {
+      "pt": "fraldas",
+      "en": "diapers"
+    },
+    "odeurs": {
+      "pt": "cheira",
+      "en": "smells"
+    },
+    "lеs": {
+      "pt": "eles",
+      "en": "them"
+    },
+    "vomis": {
+      "pt": "vomitar",
+      "en": "vomit"
+    },
+    "cacas": {
+      "pt": "cocô",
+      "en": "poop"
+    },
+    "puis": {
+      "pt": "Então",
+      "en": "Then"
+    },
+    "l'restе": {
+      "pt": "o resto",
+      "en": "the rest"
+    },
+    "l'reste": {
+      "pt": "o resto",
+      "en": "the rest"
+    },
+    "d'abord": {
+      "pt": "Em primeiro lugar",
+      "en": "First of all"
+    },
+    "m'idéalises": {
+      "pt": "idealize-me",
+      "en": "idealize me"
+    },
+    "avant": {
+      "pt": "Antes",
+      "en": "Before"
+    },
+    "que": {
+      "pt": "que",
+      "en": "that"
+    },
+    "me": {
+      "pt": "meu",
+      "en": "me"
+    },
+    "méprises": {
+      "pt": "mal-entendidos",
+      "en": "misunderstandings"
+    },
+    "ok": {
+      "pt": "OK",
+      "en": "ok"
+    },
+    "d'accord": {
+      "pt": "Tudo bem",
+      "en": "All right"
+    },
+    "piqueras": {
+      "pt": "piqueras",
+      "en": "piqueras"
+    },
+    "des": {
+      "pt": "do",
+      "en": "of the"
+    },
+    "crises": {
+      "pt": "crises",
+      "en": "crises"
+    },
+    "ensuite": {
+      "pt": "Próximo",
+      "en": "Next"
+    },
+    "ben": {
+      "pt": "bem",
+      "en": "well"
+    },
+    "feras": {
+      "pt": "vai fazer",
+      "en": "will do"
+    },
+    "tes": {
+      "pt": "seu",
+      "en": "your"
+    },
+    "valises": {
+      "pt": "malas",
+      "en": "suitcases"
+    },
+    "bon": {
+      "pt": "Bom",
+      "en": "Good"
+    },
+    "débarras": {
+      "pt": "liberação",
+      "en": "clearance"
+    },
+    "diras": {
+      "pt": "dirá",
+      "en": "will say"
+    },
+    "grave": {
+      "pt": "forte",
+      "en": "severe"
+    },
+    "ouais": {
+      "pt": "Sim",
+      "en": "Yeah"
+    },
+    "débarrasses": {
+      "pt": "folgas",
+      "en": "clearances"
+    },
+    "dit": {
+      "pt": "disse",
+      "en": "said"
+    },
+    "prends": {
+      "pt": "pegar",
+      "en": "take"
+    },
+    "toutes": {
+      "pt": "todos",
+      "en": "all"
+    },
+    "crasses": {
+      "pt": "sujeira",
+      "en": "filth"
+    },
+    "allez-y": {
+      "pt": "Vá em frente",
+      "en": "Go for it"
+    },
+    "faites": {
+      "pt": "fazer",
+      "en": "do"
+    },
+    "gosses": {
+      "pt": "crianças",
+      "en": "kids"
+    },
+    "pleurs": {
+      "pt": "lágrimas",
+      "en": "tears"
+    },
+    "sauts": {
+      "pt": "salta",
+      "en": "jumps"
+    },
+    "d'humeur": {
+      "pt": "de bom humor",
+      "en": "in the mood"
+    },
+    "défieras": {
+      "pt": "desafiará",
+      "en": "will challenge"
+    },
+    "papa": {
+      "pt": "pai",
+      "en": "dad"
+    },
+    "pour": {
+      "pt": "Para",
+      "en": "For"
+    },
+    "vrai": {
+      "pt": "verdadeiro",
+      "en": "TRUE"
+    },
+    "t'en": {
+      "pt": "não se preocupe",
+      "en": "don't worry"
+    },
+    "iras": {
+      "pt": "irá",
+      "en": "will go"
+    },
+    "s'il": {
+      "pt": "se ele",
+      "en": "if he"
+    },
+    "te": {
+      "pt": "você",
+      "en": "you"
+    },
+    "plait": {
+      "pt": "por favor",
+      "en": "please"
+    },
+    "n'nous": {
+      "pt": "não é?",
+      "en": "don't we"
+    },
+    "abandonne": {
+      "pt": "abandonado",
+      "en": "abandoned"
+    },
+    "non": {
+      "pt": "Não",
+      "en": ""
+    },
+    "oui": {
+      "pt": "Sim",
+      "en": "Yes"
+    },
+    "sais": {
+      "pt": "saber",
+      "en": "know"
+    },
+    "ton": {
+      "pt": "seu",
+      "en": "your"
+    },
+    "amour": {
+      "pt": "amor",
+      "en": "love"
+    },
+    "viendra": {
+      "pt": "",
+      "en": "will come"
+    },
+    "quand": {
+      "pt": "Quando",
+      "en": "When"
+    },
+    "il": {
+      "pt": "ele",
+      "en": "he"
+    },
+    "s'ra": {
+      "pt": "s'ra",
+      "en": "s'ra"
+    },
+    "l'temps": {
+      "pt": "tempo",
+      "en": ""
+    },
+    "aussi": {
+      "pt": "Também",
+      "en": "Also"
+    },
+    "auras": {
+      "pt": "terá",
+      "en": "will have"
+    },
+    "pipis": {
+      "pt": "urina",
+      "en": "pee"
+    },
+    "aura": {
+      "pt": "terá",
+      "en": "will have"
+    },
+    "papy": {
+      "pt": "vovô",
+      "en": "grandpa"
+    },
+    "mamy": {
+      "pt": "avó",
+      "en": "grandma"
+    },
+    "si": {
+      "pt": "se",
+      "en": "if"
+    },
+    "est": {
+      "pt": "Leste",
+      "en": "East"
+    },
+    "en": {
+      "pt": "em",
+      "en": "in"
+    },
+    "gardera": {
+      "pt": "vai manter",
+      "en": "will keep"
+    },
+    "p'tit": {
+      "pt": "pequeno",
+      "en": "little"
+    },
+    "f'ra": {
+      "pt": "F'ra",
+      "en": "f'ra"
+    },
+    "caca": {
+      "pt": "pooh",
+      "en": "pooh"
+    },
+    "pipi": {
+      "pt": "urina",
+      "en": "pee"
+    },
+    "rira": {
+      "pt": "vai rir",
+      "en": "will laugh"
+    },
+    "bien": {
+      "pt": "BOM",
+      "en": "GOOD"
+    },
+    "ça": {
+      "pt": "Que",
+      "en": "That"
+    },
+    "t'arrivera": {
+      "pt": "vai acontecer com você",
+      "en": "will happen to you"
+    }
+  },
+  "ordem": 43
+}

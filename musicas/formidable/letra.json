@@ -1,0 +1,888 @@
+{
+  "titulo": "Formidable",
+  "artista": "Stromae",
+  "arquivo_audio": "audio.mp3",
+  "linhas": [
+    {
+      "tempo": 5.48,
+      "fr": "Formidable, formidable",
+      "pt": "Fantástico, fantástico",
+      "en": "Terrific, terrific"
+    },
+    {
+      "tempo": 9.86,
+      "fr": "Tu étais formidable, j'étais fort minable",
+      "pt": "Você foi maravilhoso, eu fui muito patético",
+      "en": "You were wonderful, I was very pathetic"
+    },
+    {
+      "tempo": 17.52,
+      "fr": "Nous étions formidables",
+      "pt": "Nós éramos ótimos",
+      "en": "We were great"
+    },
+    {
+      "tempo": 21.11,
+      "fr": "Formidable",
+      "pt": "Tremendo",
+      "en": "Tremendous"
+    },
+    {
+      "tempo": 23.32,
+      "fr": "Tu étais formidable, j'étais fort minable",
+      "pt": "Você foi maravilhoso, eu fui muito patético",
+      "en": "You were wonderful, I was very pathetic"
+    },
+    {
+      "tempo": 29.89,
+      "fr": "Nous étions formidables",
+      "pt": "Nós éramos ótimos",
+      "en": "We were great"
+    },
+    {
+      "tempo": 33.87,
+      "fr": "Oh, Bébé, oups, Mademoiselle",
+      "pt": "Oh, querido, opa, senhorita",
+      "en": "Oh, Baby, oops, Miss"
+    },
+    {
+      "tempo": 36.15,
+      "fr": "J'vais pas vous draguer, promis juré",
+      "pt": "Eu não vou flertar com você, eu juro",
+      "en": "I'm not going to flirt with you, I swear"
+    },
+    {
+      "tempo": 38.84,
+      "fr": "J'suis célibataire, depuis hier, putain",
+      "pt": "Estou solteiro desde ontem",
+      "en": "I'm single since damn yesterday"
+    },
+    {
+      "tempo": 43.51,
+      "fr": "J'peux pas faire d'enfant et bon, c'est pas...",
+      "pt": "Não posso ter filhos e bem, não é...",
+      "en": "I can't have children and well, it's not..."
+    },
+    {
+      "tempo": 45.45,
+      "fr": "Hé, reviens, cinq minutes quoi, j't'ai pas insultée",
+      "pt": "Ei, volte, cinco minutos, eu não te insultei",
+      "en": "Hey, come back, five minutes, I didn't insult you"
+    },
+    {
+      "tempo": 49.9,
+      "fr": "J'suis poli, courtois, et un peu fort bourré",
+      "pt": "Sou educado, cortês e um pouco bêbado",
+      "en": "I'm polite, courteous, and a little drunk"
+    },
+    {
+      "tempo": 52.78,
+      "fr": "Mais pour les mecs comme moi",
+      "pt": "Mas para caras como eu",
+      "en": "But for guys like me"
+    },
+    {
+      "tempo": 54.96,
+      "fr": "Vous avez autre chose à faire, hein",
+      "pt": "Você tem outra coisa para fazer, hein",
+      "en": "You have something else to do, eh"
+    },
+    {
+      "tempo": 57.08,
+      "fr": "M'auriez vu hier",
+      "pt": "Teria me visto ontem",
+      "en": "Would have seen me yesterday"
+    },
+    {
+      "tempo": 58.64,
+      "fr": "J'étais formidable, formidable",
+      "pt": "Eu estava ótimo, ótimo",
+      "en": "I was great, great"
+    },
+    {
+      "tempo": 64.88,
+      "fr": "Tu étais formidable, j'étais fort minable",
+      "pt": "Você foi maravilhoso, eu fui muito patético",
+      "en": "You were wonderful, I was very pathetic"
+    },
+    {
+      "tempo": 69.82,
+      "fr": "Nous étions formidables",
+      "pt": "Nós éramos ótimos",
+      "en": "We were great"
+    },
+    {
+      "tempo": 74.65,
+      "fr": "Formidable",
+      "pt": "Tremendo",
+      "en": "Tremendous"
+    },
+    {
+      "tempo": 78.46,
+      "fr": "Tu étais formidable, j'étais fort minable",
+      "pt": "Você foi maravilhoso, eu fui muito patético",
+      "en": "You were wonderful, I was very pathetic"
+    },
+    {
+      "tempo": 83.11,
+      "fr": "Nous étions formidables",
+      "pt": "Nós éramos ótimos",
+      "en": "We were great"
+    },
+    {
+      "tempo": 85.85,
+      "fr": "Oh, tu t'es regardé? Tu t'crois beau",
+      "pt": "Ah, você olhou para si mesmo? Você se acha linda",
+      "en": "Oh, did you look at yourself? You think you're beautiful"
+    },
+    {
+      "tempo": 89.75,
+      "fr": "Parce que tu t'es marié? Mais c'est qu'un anneau",
+      "pt": "Porque você se casou? Mas é apenas um anel",
+      "en": "Because you got married? But it's just a ring"
+    },
+    {
+      "tempo": 93.13,
+      "fr": "Mec, t'emballes pas",
+      "pt": "Cara, não se empolgue",
+      "en": "Dude, don't get carried away"
+    },
+    {
+      "tempo": 95.28,
+      "fr": "Elle va t'larguer comme elles le font chaque fois",
+      "pt": "Ela vai terminar com você como eles fazem sempre",
+      "en": "She's going to dump you like they do every time"
+    },
+    {
+      "tempo": 98.64,
+      "fr": "Et puis l'autre fille, tu lui en as parlé?",
+      "pt": "E aí a outra garota, você conversou com ela sobre isso?",
+      "en": "And then the other girl, did you talk to her about it?"
+    },
+    {
+      "tempo": 102.09,
+      "fr": "S'tu veux j'lui dis, comme ça c'est réglé",
+      "pt": "Se você quiser eu conto para ele, assim está resolvido",
+      "en": "If you want I'll tell him, like that it's settled"
+    },
+    {
+      "tempo": 104.02,
+      "fr": "Et au petit aussi, enfin si vous en avez",
+      "pt": "E o pequenino também, bem, se você tiver algum",
+      "en": "And the little one too, well if you have any"
+    },
+    {
+      "tempo": 108.64,
+      "fr": "Attends trois ans, sept ans et là vous verrez",
+      "pt": "Espere três anos, sete anos e então você verá",
+      "en": "Wait three years, seven years and then you will see"
+    },
+    {
+      "tempo": 111.68,
+      "fr": "Si c'est formidable, formidable",
+      "pt": "Se for ótimo, ótimo",
+      "en": "If it's great, great"
+    },
+    {
+      "tempo": 118.15,
+      "fr": "Tu étais formidable, j'étais fort minable",
+      "pt": "Você foi maravilhoso, eu fui muito patético",
+      "en": "You were wonderful, I was very pathetic"
+    },
+    {
+      "tempo": 123.13,
+      "fr": "Nous étions formidables",
+      "pt": "Nós éramos ótimos",
+      "en": "We were great"
+    },
+    {
+      "tempo": 123.73,
+      "fr": "Formidable",
+      "pt": "Tremendo",
+      "en": "Tremendous"
+    },
+    {
+      "tempo": 131.88,
+      "fr": "Tu étais formidable, j'étais fort minable",
+      "pt": "Você foi maravilhoso, eu fui muito patético",
+      "en": "You were wonderful, I was very pathetic"
+    },
+    {
+      "tempo": 136.55,
+      "fr": "Nous étions formidables",
+      "pt": "Nós éramos ótimos",
+      "en": "We were great"
+    },
+    {
+      "tempo": 137.25,
+      "fr": "Hé petite, oh pardon, petit",
+      "pt": "Ei, pequenino, oh, desculpe, pequenino",
+      "en": "Hey little one, oh sorry, little one"
+    },
+    {
+      "tempo": 143.57,
+      "fr": "Tu sais dans la vie, y a ni méchants ni gentils",
+      "pt": "Você sabe que na vida não existem pessoas boas nem más",
+      "en": "You know in life, there are neither bad nor good people"
+    },
+    {
+      "tempo": 146.12,
+      "fr": "Si Maman est chiante",
+      "pt": "Se mamãe é chata",
+      "en": "If Mom is boring"
+    },
+    {
+      "tempo": 148.12,
+      "fr": "C'est qu'elle a peur d'être mamie",
+      "pt": "É porque ela tem medo de ser avó",
+      "en": "It's because she's afraid of being a grandmother"
+    },
+    {
+      "tempo": 149.71,
+      "fr": "Si Papa trompe Maman",
+      "pt": "Se o papai trai a mamãe",
+      "en": "If Dad cheats on Mom"
+    },
+    {
+      "tempo": 151.54,
+      "fr": "C'est parce que Maman vieillit, tiens",
+      "pt": "É porque mamãe está ficando velha, bem",
+      "en": "It's because Mom is getting old, well"
+    },
+    {
+      "tempo": 153.66,
+      "fr": "Pourquoi t'es tout rouge? Ben reviens gamin",
+      "pt": "Por que você está todo vermelho? Bem, volte garoto",
+      "en": "Why are you all red? Well come back kid"
+    },
+    {
+      "tempo": 156.62,
+      "fr": "Et qu'est-ce que vous avez tous",
+      "pt": "E o que todos vocês têm",
+      "en": "And what do you all have"
+    },
+    {
+      "tempo": 158.22,
+      "fr": "À me regarder comme un singe, vous?",
+      "pt": "Olhando para mim como um macaco, você?",
+      "en": "Looking at me like a monkey, you?"
+    },
+    {
+      "tempo": 160.33,
+      "fr": "Ah oui, vous êtes saints, vous",
+      "pt": "Ah sim, você é santo, você",
+      "en": "Ah yes, you are holy, you"
+    },
+    {
+      "tempo": 162.01,
+      "fr": "Bande de macaques",
+      "pt": "Gangue de macacos",
+      "en": "Gang of macaques"
+    },
+    {
+      "tempo": 163.18,
+      "fr": "Donnez-moi un bébé singe",
+      "pt": "Dê-me um bebê macaco",
+      "en": "Give me a baby monkey"
+    },
+    {
+      "tempo": 164.92,
+      "fr": "Il sera formidable, formidable",
+      "pt": "Ele vai ser ótimo, ótimo",
+      "en": "He will be great, great"
+    },
+    {
+      "tempo": 171.83,
+      "fr": "Tu étais formidable, j'étais fort minable",
+      "pt": "Você foi maravilhoso, eu fui muito patético",
+      "en": "You were wonderful, I was very pathetic"
+    },
+    {
+      "tempo": 174.73,
+      "fr": "Nous étions formidables",
+      "pt": "Nós éramos ótimos",
+      "en": "We were great"
+    },
+    {
+      "tempo": 181.18,
+      "fr": "Formidable",
+      "pt": "Tremendo",
+      "en": "Tremendous"
+    },
+    {
+      "tempo": 184.85,
+      "fr": "Tu étais formidable, j'étais fort minable",
+      "pt": "Você foi maravilhoso, eu fui muito patético",
+      "en": "You were wonderful, I was very pathetic"
+    },
+    {
+      "tempo": 189.89,
+      "fr": "Nous étions formidables",
+      "pt": "Nós éramos ótimos",
+      "en": "We were great"
+    }
+  ],
+  "vocabulario": {
+    "formidable": {
+      "pt": "tremendo",
+      "en": "tremendous"
+    },
+    "tu": {
+      "pt": "você",
+      "en": "you"
+    },
+    "étais": {
+      "pt": "era",
+      "en": "was"
+    },
+    "j'étais": {
+      "pt": "Eu era",
+      "en": "I was"
+    },
+    "fort": {
+      "pt": "forte",
+      "en": "strong"
+    },
+    "minable": {
+      "pt": "gasto",
+      "en": "shabby"
+    },
+    "nous": {
+      "pt": "Nós",
+      "en": "We"
+    },
+    "étions": {
+      "pt": "eram",
+      "en": "were"
+    },
+    "formidables": {
+      "pt": "ótimo",
+      "en": "great"
+    },
+    "oh": {
+      "pt": "Oh",
+      "en": "Oh"
+    },
+    "bébé": {
+      "pt": "bebê",
+      "en": "baby"
+    },
+    "oups": {
+      "pt": "opa",
+      "en": "oops"
+    },
+    "mademoiselle": {
+      "pt": "perder",
+      "en": "miss"
+    },
+    "j'vais": {
+      "pt": "eu vou",
+      "en": "I'm going"
+    },
+    "pas": {
+      "pt": "não",
+      "en": "not"
+    },
+    "vous": {
+      "pt": "VOCÊ",
+      "en": "YOU"
+    },
+    "draguer": {
+      "pt": "dragar",
+      "en": "to dredge"
+    },
+    "promis": {
+      "pt": "prometido",
+      "en": "promised"
+    },
+    "juré": {
+      "pt": "juramentado",
+      "en": "sworn"
+    },
+    "j'suis": {
+      "pt": "Eu sou",
+      "en": "I am"
+    },
+    "célibataire": {
+      "pt": "Solteiro",
+      "en": "Single"
+    },
+    "depuis": {
+      "pt": "Desde",
+      "en": "Since"
+    },
+    "hier": {
+      "pt": "ontem",
+      "en": "yesterday"
+    },
+    "putain": {
+      "pt": "droga",
+      "en": "damn"
+    },
+    "j'peux": {
+      "pt": "Eu posso",
+      "en": "I can"
+    },
+    "faire": {
+      "pt": "PENDÊNCIA",
+      "en": "TO DO"
+    },
+    "d'enfant": {
+      "pt": "criança",
+      "en": "child"
+    },
+    "et": {
+      "pt": "E",
+      "en": "And"
+    },
+    "bon": {
+      "pt": "Bom",
+      "en": "Good"
+    },
+    "c'est": {
+      "pt": "Isso é",
+      "en": "It is"
+    },
+    "hé": {
+      "pt": "Ei",
+      "en": "Hey"
+    },
+    "reviens": {
+      "pt": "voltar",
+      "en": "come back"
+    },
+    "cinq": {
+      "pt": "cinco",
+      "en": "five"
+    },
+    "minutes": {
+      "pt": "minutos",
+      "en": "minutes"
+    },
+    "quoi": {
+      "pt": "O que",
+      "en": "What"
+    },
+    "j't'ai": {
+      "pt": "eu tenho você",
+      "en": "I have you"
+    },
+    "insultée": {
+      "pt": "insultado",
+      "en": "insulted"
+    },
+    "poli": {
+      "pt": "educado",
+      "en": "polite"
+    },
+    "courtois": {
+      "pt": "cortês",
+      "en": "courteous"
+    },
+    "un": {
+      "pt": "UM",
+      "en": "A"
+    },
+    "peu": {
+      "pt": "pequeno",
+      "en": "little"
+    },
+    "bourré": {
+      "pt": "recheado",
+      "en": "stuffed"
+    },
+    "mais": {
+      "pt": "mas",
+      "en": "but"
+    },
+    "pour": {
+      "pt": "Para",
+      "en": "For"
+    },
+    "les": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "mecs": {
+      "pt": "pessoal",
+      "en": "guys"
+    },
+    "comme": {
+      "pt": "como",
+      "en": "as"
+    },
+    "moi": {
+      "pt": "Meu",
+      "en": "Me"
+    },
+    "avez": {
+      "pt": "ter",
+      "en": "have"
+    },
+    "autre": {
+      "pt": "outro",
+      "en": "other"
+    },
+    "chose": {
+      "pt": "coisa",
+      "en": "thing"
+    },
+    "à": {
+      "pt": "tem",
+      "en": "has"
+    },
+    "hein": {
+      "pt": "Eh",
+      "en": "eh"
+    },
+    "m'auriez": {
+      "pt": "me teria",
+      "en": "would have me"
+    },
+    "vu": {
+      "pt": "visto",
+      "en": "seen"
+    },
+    "t'es": {
+      "pt": "seu",
+      "en": "your"
+    },
+    "regardé": {
+      "pt": "olhe",
+      "en": "look at"
+    },
+    "t'crois": {
+      "pt": "você acredita",
+      "en": "you believe"
+    },
+    "beau": {
+      "pt": "lindo",
+      "en": "beautiful"
+    },
+    "parce": {
+      "pt": "porque",
+      "en": "because"
+    },
+    "que": {
+      "pt": "que",
+      "en": "that"
+    },
+    "marié": {
+      "pt": "casado",
+      "en": "married"
+    },
+    "qu'un": {
+      "pt": "Aquele",
+      "en": "that one"
+    },
+    "anneau": {
+      "pt": "anel",
+      "en": "ring"
+    },
+    "mec": {
+      "pt": "cara",
+      "en": "dude"
+    },
+    "t'emballes": {
+      "pt": "deixe-se levar",
+      "en": "get carried away"
+    },
+    "elle": {
+      "pt": "Ela",
+      "en": "She"
+    },
+    "va": {
+      "pt": "ir",
+      "en": "go"
+    },
+    "t'larguer": {
+      "pt": "largar você",
+      "en": "dump you"
+    },
+    "elles": {
+      "pt": "eles",
+      "en": "they"
+    },
+    "le": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "font": {
+      "pt": "fazer",
+      "en": "make"
+    },
+    "chaque": {
+      "pt": "cada",
+      "en": "each"
+    },
+    "fois": {
+      "pt": "vezes",
+      "en": "times"
+    },
+    "puis": {
+      "pt": "Então",
+      "en": "Then"
+    },
+    "l'autre": {
+      "pt": "o outro",
+      "en": "the other"
+    },
+    "fille": {
+      "pt": "garota",
+      "en": "girl"
+    },
+    "lui": {
+      "pt": "ele",
+      "en": "him"
+    },
+    "en": {
+      "pt": "em",
+      "en": "in"
+    },
+    "as": {
+      "pt": "ás",
+      "en": "ace"
+    },
+    "parlé": {
+      "pt": "falar",
+      "en": "speak"
+    },
+    "s'tu": {
+      "pt": "se você",
+      "en": "if you"
+    },
+    "veux": {
+      "pt": "querer",
+      "en": "want"
+    },
+    "j'lui": {
+      "pt": "eu ele",
+      "en": "I him"
+    },
+    "dis": {
+      "pt": "dizer",
+      "en": "say"
+    },
+    "ça": {
+      "pt": "Que",
+      "en": "That"
+    },
+    "réglé": {
+      "pt": "governante",
+      "en": "ruler"
+    },
+    "au": {
+      "pt": "No",
+      "en": "At"
+    },
+    "petit": {
+      "pt": "pequeno",
+      "en": "little"
+    },
+    "aussi": {
+      "pt": "Também",
+      "en": "Also"
+    },
+    "enfin": {
+      "pt": "Finalmente",
+      "en": "Finally"
+    },
+    "si": {
+      "pt": "se",
+      "en": "if"
+    },
+    "attends": {
+      "pt": "espere",
+      "en": "wait"
+    },
+    "trois": {
+      "pt": "três",
+      "en": "three"
+    },
+    "ans": {
+      "pt": "anos",
+      "en": "years"
+    },
+    "sept": {
+      "pt": "Sete",
+      "en": "seven"
+    },
+    "là": {
+      "pt": "lá",
+      "en": "there"
+    },
+    "verrez": {
+      "pt": "ver",
+      "en": "see"
+    },
+    "petite": {
+      "pt": "pequeno",
+      "en": "small"
+    },
+    "pardon": {
+      "pt": "perdão",
+      "en": "pardon"
+    },
+    "sais": {
+      "pt": "saber",
+      "en": "know"
+    },
+    "dans": {
+      "pt": "Em",
+      "en": "In"
+    },
+    "la": {
+      "pt": "lá",
+      "en": "there"
+    },
+    "vie": {
+      "pt": "vida",
+      "en": "life"
+    },
+    "y": {
+      "pt": "sim",
+      "en": "y"
+    },
+    "a": {
+      "pt": "tem",
+      "en": "has"
+    },
+    "ni": {
+      "pt": "nenhum",
+      "en": "neither"
+    },
+    "méchants": {
+      "pt": "bandidos",
+      "en": "bad guys"
+    },
+    "gentils": {
+      "pt": "legal",
+      "en": "nice"
+    },
+    "maman": {
+      "pt": "Mãe",
+      "en": "Mom"
+    },
+    "est": {
+      "pt": "Leste",
+      "en": "East"
+    },
+    "chiante": {
+      "pt": "tedioso",
+      "en": "annoying"
+    },
+    "qu'elle": {
+      "pt": "o que",
+      "en": "what"
+    },
+    "peur": {
+      "pt": "temer",
+      "en": "fear"
+    },
+    "d'être": {
+      "pt": "ser",
+      "en": "to be"
+    },
+    "mamie": {
+      "pt": "avó",
+      "en": "granny"
+    },
+    "papa": {
+      "pt": "pai",
+      "en": "dad"
+    },
+    "trompe": {
+      "pt": "engana",
+      "en": "deceives"
+    },
+    "vieillit": {
+      "pt": "envelhece",
+      "en": "gets old"
+    },
+    "tiens": {
+      "pt": "segurar",
+      "en": "hold"
+    },
+    "pourquoi": {
+      "pt": "Por que",
+      "en": "Why"
+    },
+    "tout": {
+      "pt": "Todos",
+      "en": "All"
+    },
+    "rouge": {
+      "pt": "vermelho",
+      "en": "red"
+    },
+    "ben": {
+      "pt": "bem",
+      "en": "well"
+    },
+    "gamin": {
+      "pt": "criança",
+      "en": "kid"
+    },
+    "qu'est-ce": {
+      "pt": "quem é",
+      "en": "who is it"
+    },
+    "tous": {
+      "pt": "todos",
+      "en": "all"
+    },
+    "me": {
+      "pt": "meu",
+      "en": "me"
+    },
+    "regarder": {
+      "pt": "olhar",
+      "en": "look"
+    },
+    "singe": {
+      "pt": "macaco",
+      "en": "monkey"
+    },
+    "ah": {
+      "pt": "oh",
+      "en": "oh"
+    },
+    "oui": {
+      "pt": "Sim",
+      "en": "Yes"
+    },
+    "êtes": {
+      "pt": "são",
+      "en": "are"
+    },
+    "saints": {
+      "pt": "santos",
+      "en": "saints"
+    },
+    "bande": {
+      "pt": "banda",
+      "en": "band"
+    },
+    "de": {
+      "pt": "de",
+      "en": "of"
+    },
+    "macaques": {
+      "pt": "macacos",
+      "en": "macaques"
+    },
+    "donnez-moi": {
+      "pt": "me dê",
+      "en": "give me"
+    },
+    "il": {
+      "pt": "ele",
+      "en": "he"
+    },
+    "sera": {
+      "pt": "vai ser",
+      "en": "will be"
+    }
+  },
+  "ordem": 29
+}

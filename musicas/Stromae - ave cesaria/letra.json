@@ -1,0 +1,956 @@
+{
+  "titulo": "ave cesaria",
+  "artista": "Stromae",
+  "arquivo_audio": "audio.mp3",
+  "linhas": [
+    {
+      "tempo": 6.61,
+      "fr": "(On y va?)",
+      "pt": "(Lá vamos nós?)",
+      "en": "(Here we go?)"
+    },
+    {
+      "tempo": 7.78,
+      "fr": "Si, Noah",
+      "pt": "Sim, Noé",
+      "en": "Yes, Noah"
+    },
+    {
+      "tempo": 16.69,
+      "fr": "(Evora, Evora) (oh-hé)",
+      "pt": "(Évora, Évora) (oh-ei)",
+      "en": "(Evora, Evora) (oh-hey)"
+    },
+    {
+      "tempo": 20.95,
+      "fr": "(Evora, Evora) (oh-hé, oh-hé)",
+      "pt": "(Évora, Évora) (oh-ei, oh-ei)",
+      "en": "(Evora, Evora) (oh-hey, oh-hey)"
+    },
+    {
+      "tempo": 25.24,
+      "fr": "(Evora, Evora)",
+      "pt": "(Évora, Évora)",
+      "en": "(Evora, Evora)"
+    },
+    {
+      "tempo": 29.39,
+      "fr": "(Evora, Evora)",
+      "pt": "(Évora, Évora)",
+      "en": "(Evora, Evora)"
+    },
+    {
+      "tempo": 33.74,
+      "fr": "Les effluves de rhum dans ta voix me font tourner la tête",
+      "pt": "O cheiro de rum na sua voz faz minha cabeça girar",
+      "en": "The scent of rum in your voice makes my head spin"
+    },
+    {
+      "tempo": 38.02,
+      "fr": "Tu me fais danser du bout des doigts, comme tes cigarettes",
+      "pt": "Você me faz dançar com as pontas dos dedos, como seus cigarros",
+      "en": "You make me dance with your fingertips, like your cigarettes"
+    },
+    {
+      "tempo": 42.4,
+      "fr": "Immobile, comme à ton habitude, mais es-tu devenue muette?",
+      "pt": "Imóvel, como sempre, mas você ficou mudo?",
+      "en": "Immobile, as usual, but have you become mute?"
+    },
+    {
+      "tempo": 46.35,
+      "fr": "Ou est-ce à cause des kilomètres que tu n'me réponds plus?",
+      "pt": "Ou é por causa dos quilômetros que você não me responde mais?",
+      "en": "Or is it because of the miles that you no longer answer me?"
+    },
+    {
+      "tempo": 50.72,
+      "fr": "(Evora, Evora) tu ne m'aimes plus ou quoi?",
+      "pt": "(Évora, Évora) você não me ama mais ou o quê?",
+      "en": "(Evora, Evora) you don't love me anymore or what?"
+    },
+    {
+      "tempo": 54.82,
+      "fr": "(Evora, Evora) après tant d'années",
+      "pt": "(Évora, Évora) depois de tantos anos",
+      "en": "(Evora, Evora) after so many years"
+    },
+    {
+      "tempo": 59.24,
+      "fr": "(Evora, Evora) une de perdue, c'est ça?",
+      "pt": "(Évora, Évora) um perdeu, né?",
+      "en": "(Evora, Evora) one lost, right?"
+    },
+    {
+      "tempo": 63.58,
+      "fr": "(Evora, Evora) je te retrouverai, c'est sûr",
+      "pt": "(Évora, Évora) Vou te encontrar de novo, isso é certo",
+      "en": "(Evora, Evora) I will find you again, that's for sure"
+    },
+    {
+      "tempo": 67.74,
+      "fr": "(Evora, Evora) c'est sûr, c-c'est sûr",
+      "pt": "(Évora, Évora) é certo, é certo",
+      "en": "(Evora, Evora) it's sure, it's sure"
+    },
+    {
+      "tempo": 70.68,
+      "fr": "C'est sûr, c'est sûr",
+      "pt": "É certo, é certo",
+      "en": "It's sure, it's sure"
+    },
+    {
+      "tempo": 72.04,
+      "fr": "(Evora, Evora) c-c'est sûr, c-c'est sûr",
+      "pt": "(Évora, Évora) é certo, é certo",
+      "en": "(Evora, Evora) it's sure, it's sure"
+    },
+    {
+      "tempo": 74.75,
+      "fr": "C'est sûr",
+      "pt": "É certo",
+      "en": "It's sure"
+    },
+    {
+      "tempo": 76.3,
+      "fr": "Souviens-toi de la première fois où nos regards s'étaient croisés",
+      "pt": "Lembre-se da primeira vez que nossos olhos se encontraram",
+      "en": "Remember the first time our eyes met"
+    },
+    {
+      "tempo": 80.9,
+      "fr": "Même que ton œil disait \"merde\" à l'autre, surtout à moi",
+      "pt": "Mesmo que seu olho tenha dito \"merda\" para o outro, principalmente para mim",
+      "en": "Even though your eye said \"shit\" to the other, especially to me"
+    },
+    {
+      "tempo": 84.66,
+      "fr": "Mais pourquoi moi, alors que les autres te trouvaient bien trop laide?",
+      "pt": "Mas por que eu, quando os outros te acharam muito feio?",
+      "en": "But why me, when the others found you too ugly?"
+    },
+    {
+      "tempo": 88.75,
+      "fr": "Peut-être que moi je suis trop bête, mais je sais t'écouter (ha-ha)",
+      "pt": "Talvez eu seja muito estúpido, mas sei ouvir você (ha-ha)",
+      "en": "Maybe I'm too stupid, but I know how to listen to you (ha-ha)"
+    },
+    {
+      "tempo": 93.12,
+      "fr": "(Evora, Evora) tu ne m'aimes plus ou quoi?",
+      "pt": "(Évora, Évora) você não me ama mais ou o quê?",
+      "en": "(Evora, Evora) you don't love me anymore or what?"
+    },
+    {
+      "tempo": 97.53,
+      "fr": "(Evora, Evora) après tant d'années",
+      "pt": "(Évora, Évora) depois de tantos anos",
+      "en": "(Evora, Evora) after so many years"
+    },
+    {
+      "tempo": 101.56,
+      "fr": "(Evora, Evora) une de perdue, c'est ça?",
+      "pt": "(Évora, Évora) um perdeu, né?",
+      "en": "(Evora, Evora) one lost, right?"
+    },
+    {
+      "tempo": 105.95,
+      "fr": "(Evora, Evora) je te retrouverai, c'est sûr",
+      "pt": "(Évora, Évora) Vou te encontrar de novo, isso é certo",
+      "en": "(Evora, Evora) I will find you again, that's for sure"
+    },
+    {
+      "tempo": 110.15,
+      "fr": "(Evora, Evora) c'est sûr, c-c'est sûr",
+      "pt": "(Évora, Évora) é certo, é certo",
+      "en": "(Evora, Evora) it's sure, it's sure"
+    },
+    {
+      "tempo": 112.81,
+      "fr": "C'est sûr, c'est sûr",
+      "pt": "É certo, é certo",
+      "en": "It's sure, it's sure"
+    },
+    {
+      "tempo": 114.57,
+      "fr": "(Evora, Evora) c-c'est sûr, c-c'est sûr",
+      "pt": "(Évora, Évora) é certo, é certo",
+      "en": "(Evora, Evora) it's sure, it's sure"
+    },
+    {
+      "tempo": 117.21,
+      "fr": "C'est sûr",
+      "pt": "É certo",
+      "en": "It's sure"
+    },
+    {
+      "tempo": 118.8,
+      "fr": "(Evora, Evora)",
+      "pt": "(Évora, Évora)",
+      "en": "(Evora, Evora)"
+    },
+    {
+      "tempo": 122.97,
+      "fr": "(Evora, Evora)",
+      "pt": "(Évora, Évora)",
+      "en": "(Evora, Evora)"
+    },
+    {
+      "tempo": 127.38,
+      "fr": "(Ave) Cesaria, chapeau pour la route à pieds",
+      "pt": "(Ave) Cesária, chapéu para a estrada a pé",
+      "en": "(Ave) Cesaria, hat for the road on foot"
+    },
+    {
+      "tempo": 131.98,
+      "fr": "Nue est, et nue était, diva aux pieds nus restera",
+      "pt": "Nua é, e nua estava, diva descalça vai ficar",
+      "en": "Naked is, and naked was, barefoot diva will remain"
+    },
+    {
+      "tempo": 135.82,
+      "fr": "Et (à vie) Cesaria, et à la mort aussi",
+      "pt": "E (para a vida) Cesária, e na morte também",
+      "en": "And (for life) Cesaria, and in death too"
+    },
+    {
+      "tempo": 139.93,
+      "fr": "Obrigado, tu embrigadas des millions de soldats dans ta patrie",
+      "pt": "",
+      "en": "Obrigado, you recruited millions of soldiers in your homeland"
+    },
+    {
+      "tempo": 144.08,
+      "fr": "Donc garde (à vous) Cesaria, tu nous as tous quand même bien eus",
+      "pt": "Então tome cuidado (consigo mesmo) Cesária, você ainda nos deixou bem",
+      "en": "So watch out (to yourself) Cesaria, you still got us all well"
+    },
+    {
+      "tempo": 148.67,
+      "fr": "Ah, tout l'monde te croyait disparue, mais tu es revenue",
+      "pt": "Ah, todo mundo pensou que você desapareceu, mas você voltou",
+      "en": "Ah, everyone thought you disappeared, but you came back"
+    },
+    {
+      "tempo": 152.84,
+      "fr": "(Sacrée) Cesaria, quelle belle leçon d'humilité",
+      "pt": "(Sagrada) Cesária, que linda lição de humildade",
+      "en": "(Sacred) Cesaria, what a beautiful lesson in humility"
+    },
+    {
+      "tempo": 157.47,
+      "fr": "Malgré toutes ces bouteilles de rhum, tous les chemins mènent à la dignité",
+      "pt": "Apesar de todas essas garrafas de rum, todos os caminhos levam à dignidade",
+      "en": "Despite all these bottles of rum, all roads lead to dignity"
+    },
+    {
+      "tempo": 161.22,
+      "fr": "(Evora, Evora) tu ne m'aimes plus ou quoi?",
+      "pt": "(Évora, Évora) você não me ama mais ou o quê?",
+      "en": "(Evora, Evora) you don't love me anymore or what?"
+    },
+    {
+      "tempo": 165.36,
+      "fr": "(Evora, Evora) après tant d'années",
+      "pt": "(Évora, Évora) depois de tantos anos",
+      "en": "(Evora, Evora) after so many years"
+    },
+    {
+      "tempo": 169.48,
+      "fr": "(Evora, Evora) une de perdue, c'est ça?",
+      "pt": "(Évora, Évora) um perdeu, né?",
+      "en": "(Evora, Evora) one lost, right?"
+    },
+    {
+      "tempo": 173.86,
+      "fr": "(Evora, Evora) je te retrouverai, c'est sûr",
+      "pt": "(Évora, Évora) Vou te encontrar de novo, isso é certo",
+      "en": "(Evora, Evora) I will find you again, that's for sure"
+    },
+    {
+      "tempo": 178.05,
+      "fr": "(Evora, Evora) c'est sûr, c-c'est sûr",
+      "pt": "(Évora, Évora) é certo, é certo",
+      "en": "(Evora, Evora) it's sure, it's sure"
+    },
+    {
+      "tempo": 181.04,
+      "fr": "C'est sûr, c'est sûr",
+      "pt": "É certo, é certo",
+      "en": "It's sure, it's sure"
+    },
+    {
+      "tempo": 182.44,
+      "fr": "(Evora, Evora) c-c'est sûr, c-c'est sûr",
+      "pt": "(Évora, Évora) é certo, é certo",
+      "en": "(Evora, Evora) it's sure, it's sure"
+    },
+    {
+      "tempo": 185.4,
+      "fr": "C'est sûr",
+      "pt": "É certo",
+      "en": "It's sure"
+    },
+    {
+      "tempo": 186.58,
+      "fr": "(Evora, Evora)",
+      "pt": "(Évora, Évora)",
+      "en": "(Evora, Evora)"
+    },
+    {
+      "tempo": 190.85,
+      "fr": "(Evora, Evora)",
+      "pt": "(Évora, Évora)",
+      "en": "(Evora, Evora)"
+    },
+    {
+      "tempo": 195.4,
+      "fr": "Oh que sodade, sodade de minha Cesaria",
+      "pt": "Ah, aquele refrigerante, refrigerante da minha Cesária",
+      "en": "Oh that soda, soda of minha Cesaria"
+    },
+    {
+      "tempo": 199.44,
+      "fr": "Oh que sodade, sodade de minha Cesaria",
+      "pt": "Ah, aquele refrigerante, refrigerante da minha Cesária",
+      "en": "Oh that soda, soda of minha Cesaria"
+    },
+    {
+      "tempo": 203.88,
+      "fr": "Oh que sodade, sodade de minha Cesaria",
+      "pt": "Ah, aquele refrigerante, refrigerante da minha Cesária",
+      "en": "Oh that soda, soda of minha Cesaria"
+    },
+    {
+      "tempo": 207.92,
+      "fr": "Oh que sodade, sodade de minha Cesaria",
+      "pt": "Ah, aquele refrigerante, refrigerante da minha Cesária",
+      "en": "Oh that soda, soda of minha Cesaria"
+    },
+    {
+      "tempo": 212.37,
+      "fr": "Oh que sodade, sodade de minha Cesaria",
+      "pt": "Ah, aquele refrigerante, refrigerante da minha Cesária",
+      "en": "Oh that soda, soda of minha Cesaria"
+    },
+    {
+      "tempo": 216.75,
+      "fr": "Oh que sodade, sodade de minha Cesaria",
+      "pt": "Ah, aquele refrigerante, refrigerante da minha Cesária",
+      "en": "Oh that soda, soda of minha Cesaria"
+    },
+    {
+      "tempo": 220.87,
+      "fr": "Oh que sodade, sodade de minha Cesaria",
+      "pt": "Ah, aquele refrigerante, refrigerante da minha Cesária",
+      "en": "Oh that soda, soda of minha Cesaria"
+    },
+    {
+      "tempo": 225.22,
+      "fr": "Oh que sodade, sodade de minha Cesaria",
+      "pt": "Ah, aquele refrigerante, refrigerante da minha Cesária",
+      "en": "Oh that soda, soda of minha Cesaria"
+    },
+    {
+      "tempo": 229.46,
+      "fr": "Oh que sodade",
+      "pt": "Ah, aquele refrigerante",
+      "en": "Oh that soda"
+    },
+    {
+      "tempo": 233.54,
+      "fr": "Oh que sodade",
+      "pt": "Ah, aquele refrigerante",
+      "en": "Oh that soda"
+    },
+    {
+      "tempo": 237.93,
+      "fr": "Oh que sodade",
+      "pt": "Ah, aquele refrigerante",
+      "en": "Oh that soda"
+    },
+    {
+      "tempo": 242.14,
+      "fr": "Oh que sodade",
+      "pt": "Ah, aquele refrigerante",
+      "en": "Oh that soda"
+    },
+    {
+      "tempo": 244.3,
+      "fr": "(Wouh, hein?)",
+      "pt": "(Uau, hein?)",
+      "en": "(Wow, huh?)"
+    }
+  ],
+  "vocabulario": {
+    "on": {
+      "pt": "nós",
+      "en": "we"
+    },
+    "y": {
+      "pt": "sim",
+      "en": "y"
+    },
+    "va": {
+      "pt": "ir",
+      "en": "go"
+    },
+    "si": {
+      "pt": "se",
+      "en": "if"
+    },
+    "noah": {
+      "pt": "Noé",
+      "en": "noah"
+    },
+    "evora": {
+      "pt": "Évora",
+      "en": "evora"
+    },
+    "oh-hé": {
+      "pt": "ah, ei",
+      "en": "oh-hey"
+    },
+    "les": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "effluves": {
+      "pt": "aromas",
+      "en": "scents"
+    },
+    "de": {
+      "pt": "de",
+      "en": "of"
+    },
+    "rhum": {
+      "pt": "rum",
+      "en": "rum"
+    },
+    "dans": {
+      "pt": "Em",
+      "en": "In"
+    },
+    "ta": {
+      "pt": "seu",
+      "en": "your"
+    },
+    "voix": {
+      "pt": "voz",
+      "en": "voice"
+    },
+    "me": {
+      "pt": "meu",
+      "en": "me"
+    },
+    "font": {
+      "pt": "fazer",
+      "en": "make"
+    },
+    "tourner": {
+      "pt": "vez",
+      "en": "turn"
+    },
+    "la": {
+      "pt": "lá",
+      "en": "there"
+    },
+    "tête": {
+      "pt": "cabeça",
+      "en": "head"
+    },
+    "tu": {
+      "pt": "você",
+      "en": "you"
+    },
+    "fais": {
+      "pt": "fazer",
+      "en": "do"
+    },
+    "danser": {
+      "pt": "dançar",
+      "en": "to dance"
+    },
+    "du": {
+      "pt": "de",
+      "en": "of"
+    },
+    "bout": {
+      "pt": "fim",
+      "en": "end"
+    },
+    "des": {
+      "pt": "do",
+      "en": "of the"
+    },
+    "doigts": {
+      "pt": "dedos",
+      "en": "fingers"
+    },
+    "comme": {
+      "pt": "como",
+      "en": "as"
+    },
+    "tes": {
+      "pt": "seu",
+      "en": "your"
+    },
+    "cigarettes": {
+      "pt": "cigarros",
+      "en": "cigarettes"
+    },
+    "immobile": {
+      "pt": "imóvel",
+      "en": "motionless"
+    },
+    "à": {
+      "pt": "tem",
+      "en": "has"
+    },
+    "ton": {
+      "pt": "seu",
+      "en": "your"
+    },
+    "habitude": {
+      "pt": "hábito",
+      "en": "habit"
+    },
+    "mais": {
+      "pt": "mas",
+      "en": "but"
+    },
+    "es-tu": {
+      "pt": "você é",
+      "en": "are you"
+    },
+    "devenue": {
+      "pt": "tornar-se",
+      "en": "become"
+    },
+    "muette": {
+      "pt": "mudo",
+      "en": "mute"
+    },
+    "ou": {
+      "pt": "Ou",
+      "en": "Or"
+    },
+    "est-ce": {
+      "pt": "é isto",
+      "en": "is this"
+    },
+    "cause": {
+      "pt": "causa",
+      "en": "cause"
+    },
+    "kilomètres": {
+      "pt": "quilômetros",
+      "en": "kilometers"
+    },
+    "que": {
+      "pt": "que",
+      "en": "that"
+    },
+    "n'me": {
+      "pt": "não eu",
+      "en": "don't me"
+    },
+    "réponds": {
+      "pt": "responder",
+      "en": "answer"
+    },
+    "plus": {
+      "pt": "mais",
+      "en": "more"
+    },
+    "ne": {
+      "pt": "nascer",
+      "en": "born"
+    },
+    "m'aimes": {
+      "pt": "me ame",
+      "en": "love me"
+    },
+    "quoi": {
+      "pt": "O que",
+      "en": "What"
+    },
+    "après": {
+      "pt": "Depois",
+      "en": "After"
+    },
+    "tant": {
+      "pt": "muito",
+      "en": "so much"
+    },
+    "d'années": {
+      "pt": "de anos",
+      "en": "of years"
+    },
+    "une": {
+      "pt": "um",
+      "en": "a"
+    },
+    "perdue": {
+      "pt": "perdido",
+      "en": "lost"
+    },
+    "c'est": {
+      "pt": "Isso é",
+      "en": "It is"
+    },
+    "ça": {
+      "pt": "Que",
+      "en": "That"
+    },
+    "je": {
+      "pt": "EU",
+      "en": "I"
+    },
+    "te": {
+      "pt": "você",
+      "en": "you"
+    },
+    "retrouverai": {
+      "pt": "vai encontrar",
+      "en": "will find"
+    },
+    "sûr": {
+      "pt": "sobre",
+      "en": "on"
+    },
+    "c-c'est": {
+      "pt": "isso é",
+      "en": "this is"
+    },
+    "souviens-toi": {
+      "pt": "lembrar",
+      "en": "remember"
+    },
+    "première": {
+      "pt": "primeiro",
+      "en": "first"
+    },
+    "fois": {
+      "pt": "vezes",
+      "en": "times"
+    },
+    "où": {
+      "pt": "Ou",
+      "en": "Or"
+    },
+    "nos": {
+      "pt": "nosso",
+      "en": "our"
+    },
+    "regards": {
+      "pt": "visual",
+      "en": "looks"
+    },
+    "s'étaient": {
+      "pt": "eram",
+      "en": "were"
+    },
+    "croisés": {
+      "pt": "cruzados",
+      "en": "crusaders"
+    },
+    "même": {
+      "pt": "até",
+      "en": "even"
+    },
+    "œil": {
+      "pt": "olho",
+      "en": "eye"
+    },
+    "disait": {
+      "pt": "disse",
+      "en": "said"
+    },
+    "merde": {
+      "pt": "merda",
+      "en": "shit"
+    },
+    "l'autre": {
+      "pt": "o outro",
+      "en": "the other"
+    },
+    "surtout": {
+      "pt": "Sobretudo",
+      "en": "Above all"
+    },
+    "moi": {
+      "pt": "Meu",
+      "en": "Me"
+    },
+    "pourquoi": {
+      "pt": "Por que",
+      "en": "Why"
+    },
+    "alors": {
+      "pt": "ENTÃO",
+      "en": "SO"
+    },
+    "autres": {
+      "pt": "outros",
+      "en": "others"
+    },
+    "trouvaient": {
+      "pt": "encontrado",
+      "en": "found"
+    },
+    "bien": {
+      "pt": "BOM",
+      "en": "GOOD"
+    },
+    "trop": {
+      "pt": "demais",
+      "en": "too much"
+    },
+    "laide": {
+      "pt": "feio",
+      "en": "ugly"
+    },
+    "peut-être": {
+      "pt": "talvez",
+      "en": "maybe"
+    },
+    "suis": {
+      "pt": "sou",
+      "en": "am"
+    },
+    "bête": {
+      "pt": "besta",
+      "en": "beast"
+    },
+    "sais": {
+      "pt": "saber",
+      "en": "know"
+    },
+    "t'écouter": {
+      "pt": "ouvir você",
+      "en": "listen to you"
+    },
+    "ha-ha": {
+      "pt": "ha-ha",
+      "en": "ha-ha"
+    },
+    "ave": {
+      "pt": "com",
+      "en": "with"
+    },
+    "cesaria": {
+      "pt": "cesária",
+      "en": "cesaria"
+    },
+    "chapeau": {
+      "pt": "chapéu",
+      "en": "hat"
+    },
+    "pour": {
+      "pt": "Para",
+      "en": "For"
+    },
+    "route": {
+      "pt": "estrada",
+      "en": "road"
+    },
+    "pieds": {
+      "pt": "pés",
+      "en": "feet"
+    },
+    "nue": {
+      "pt": "nu",
+      "en": "naked"
+    },
+    "est": {
+      "pt": "Leste",
+      "en": "East"
+    },
+    "et": {
+      "pt": "E",
+      "en": "And"
+    },
+    "était": {
+      "pt": "era",
+      "en": "was"
+    },
+    "diva": {
+      "pt": "divã",
+      "en": "diva"
+    },
+    "aux": {
+      "pt": "para",
+      "en": "to"
+    },
+    "nus": {
+      "pt": "nu",
+      "en": "naked"
+    },
+    "restera": {
+      "pt": "permanecerá",
+      "en": "will remain"
+    },
+    "vie": {
+      "pt": "vida",
+      "en": "life"
+    },
+    "mort": {
+      "pt": "morto",
+      "en": "dead"
+    },
+    "aussi": {
+      "pt": "Também",
+      "en": "Also"
+    },
+    "obrigado": {
+      "pt": "obrigado",
+      "en": "obrigado"
+    },
+    "embrigadas": {
+      "pt": "embrigadas",
+      "en": "embrigadas"
+    },
+    "millions": {
+      "pt": "milhões",
+      "en": "millions"
+    },
+    "soldats": {
+      "pt": "soldados",
+      "en": "soldiers"
+    },
+    "patrie": {
+      "pt": "país",
+      "en": "country"
+    },
+    "donc": {
+      "pt": "ENTÃO",
+      "en": "SO"
+    },
+    "garde": {
+      "pt": "guarda",
+      "en": "guard"
+    },
+    "vous": {
+      "pt": "VOCÊ",
+      "en": "YOU"
+    },
+    "nous": {
+      "pt": "Nós",
+      "en": "We"
+    },
+    "as": {
+      "pt": "ás",
+      "en": "ace"
+    },
+    "tous": {
+      "pt": "todos",
+      "en": "all"
+    },
+    "quand": {
+      "pt": "Quando",
+      "en": "When"
+    },
+    "eus": {
+      "pt": "tive",
+      "en": "had"
+    },
+    "ah": {
+      "pt": "oh",
+      "en": "oh"
+    },
+    "tout": {
+      "pt": "Todos",
+      "en": "All"
+    },
+    "l'monde": {
+      "pt": "o mundo",
+      "en": "the world"
+    },
+    "croyait": {
+      "pt": "acreditava",
+      "en": "believed"
+    },
+    "disparue": {
+      "pt": "desaparecido",
+      "en": "disappeared"
+    },
+    "es": {
+      "pt": "são",
+      "en": "are"
+    },
+    "revenue": {
+      "pt": "renda",
+      "en": "income"
+    },
+    "sacrée": {
+      "pt": "sagrado",
+      "en": "sacred"
+    },
+    "quelle": {
+      "pt": "o que",
+      "en": "what"
+    },
+    "belle": {
+      "pt": "lindo",
+      "en": "beautiful"
+    },
+    "leçon": {
+      "pt": "lição",
+      "en": "lesson"
+    },
+    "d'humilité": {
+      "pt": "de humildade",
+      "en": "of humility"
+    },
+    "malgré": {
+      "pt": "apesar de",
+      "en": "despite"
+    },
+    "toutes": {
+      "pt": "todos",
+      "en": "all"
+    },
+    "ces": {
+      "pt": "esses",
+      "en": "these"
+    },
+    "bouteilles": {
+      "pt": "garrafas",
+      "en": "bottles"
+    },
+    "chemins": {
+      "pt": "caminhos",
+      "en": "paths"
+    },
+    "mènent": {
+      "pt": "liderar",
+      "en": "lead"
+    },
+    "dignité": {
+      "pt": "dignidade",
+      "en": "dignity"
+    },
+    "oh": {
+      "pt": "Oh",
+      "en": "Oh"
+    },
+    "sodade": {
+      "pt": "refrigerante",
+      "en": "soda"
+    },
+    "minha": {
+      "pt": "minha",
+      "en": "minha"
+    },
+    "wouh": {
+      "pt": "uau",
+      "en": "wow"
+    },
+    "hein": {
+      "pt": "Eh",
+      "en": "eh"
+    }
+  },
+  "ordem": 40
+}

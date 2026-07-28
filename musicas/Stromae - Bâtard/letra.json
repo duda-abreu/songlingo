@@ -1,0 +1,816 @@
+{
+  "titulo": "Bâtard",
+  "artista": "Stromae",
+  "arquivo_audio": "audio.mp3",
+  "linhas": [
+    {
+      "tempo": 1.57,
+      "fr": "Ni l'un ni l'autre, je suis, j'étais et resterai moi",
+      "pt": "Nem um nem outro, eu sou, fui e continuarei sendo eu",
+      "en": "Neither one nor the other, I am, I was and will remain me"
+    },
+    {
+      "tempo": 7.81,
+      "fr": "Ni l'un ni l'autre, je suis, j'étais et resterai moi",
+      "pt": "Nem um nem outro, eu sou, fui e continuarei sendo eu",
+      "en": "Neither one nor the other, I am, I was and will remain me"
+    },
+    {
+      "tempo": 11.53,
+      "fr": "Ni l'un ni l'autre, je suis, j'étais et resterai moi",
+      "pt": "Nem um nem outro, eu sou, fui e continuarei sendo eu",
+      "en": "Neither one nor the other, I am, I was and will remain me"
+    },
+    {
+      "tempo": 15.21,
+      "fr": "Ni l'un ni l'autre, je suis, j'étais et resterai moi",
+      "pt": "Nem um nem outro, eu sou, fui e continuarei sendo eu",
+      "en": "Neither one nor the other, I am, I was and will remain me"
+    },
+    {
+      "tempo": 19.22,
+      "fr": "Ni l'un ni l'autre, je suis, j'étais et resterai moi",
+      "pt": "Nem um nem outro, eu sou, fui e continuarei sendo eu",
+      "en": "Neither one nor the other, I am, I was and will remain me"
+    },
+    {
+      "tempo": 22.68,
+      "fr": "T'es de droite ou t'es de gauche? T'es beauf ou bobo de Paris?",
+      "pt": "Você está à direita ou à esquerda? Você é um beauf ou um bobo de Paris?",
+      "en": "Are you on the right or are you on the left? Are you a beauf or a bobo from Paris?"
+    },
+    {
+      "tempo": 26.51,
+      "fr": "Sois t'es l'un ou soit t'es l'autre, t'es un homme ou bien tu péris",
+      "pt": "Ou você é um ou você é o outro, você é homem ou morre",
+      "en": "Either you are one or you are the other, you are a man or you perish"
+    },
+    {
+      "tempo": 30.35,
+      "fr": "Cultrice ou patéticienne, féministe ou la ferme",
+      "pt": "Cultista ou patético, feminista ou da fazenda",
+      "en": "Cultist or patetician, feminist or the farm"
+    },
+    {
+      "tempo": 34.16,
+      "fr": "Sois t'es macho, soit homo, mais t'es phobe ou sexuel",
+      "pt": "Ou você é machista ou gay, mas é fóbico ou sexual",
+      "en": "Either you're macho, or you're gay, but you're phobic or sexual"
+    },
+    {
+      "tempo": 37.85,
+      "fr": "Mécréant ou terroriste, t'es veuch ou bien t'es barbu",
+      "pt": "Descrente ou terrorista, você é viúvo ou barbudo",
+      "en": "Disbeliever or terrorist, you are widowed or you are bearded"
+    },
+    {
+      "tempo": 41.65,
+      "fr": "Conspirationniste, illuminati, mythomaniste ou vendu?",
+      "pt": "Conspiracionista, illuminati, mitomanista ou esgotado?",
+      "en": "Conspiracyist, illuminati, mythomanist or sold out?"
+    },
+    {
+      "tempo": 45.39,
+      "fr": "Rien du tout, ou tout tout de suite, du tout au tout, indécis",
+      "pt": "Nada, ou tudo de imediato, completamente indeciso",
+      "en": "Nothing at all, or everything right away, completely undecided"
+    },
+    {
+      "tempo": 49.22,
+      "fr": "Han, tu changes d'avis imbécile? Mais t'es Hutu ou Tutsi?",
+      "pt": "Han, você está mudando de ideia, imbecil? Mas você é hutu ou tutsi?",
+      "en": "Han, are you changing your mind imbecile? But are you Hutu or Tutsi?"
+    },
+    {
+      "tempo": 53.32,
+      "fr": "Flamand ou Wallon? Bras ballants ou bras longs?",
+      "pt": "Flamengo ou Valão? Braços balançando ou braços longos?",
+      "en": "Flemish or Walloon? Swinging arms or long arms?"
+    },
+    {
+      "tempo": 57.04,
+      "fr": "Finalement t'es raciste, mais t'es blanc ou bien t'es marron, hein?",
+      "pt": "No final das contas você é racista, mas é branco ou pardo, certo?",
+      "en": "Ultimately you're racist, but you're white or you're brown, right?"
+    },
+    {
+      "tempo": 61.39,
+      "fr": "Ni l'un, ni l'autre",
+      "pt": "Nem um nem outro",
+      "en": "Neither one nor the other"
+    },
+    {
+      "tempo": 63.83,
+      "fr": "Bâtard, tu es, tu l'étais, et tu le restes!",
+      "pt": "Bastardo, você é, você foi e permanece!",
+      "en": "Bastard, you are, you were, and you remain!"
+    },
+    {
+      "tempo": 68.71,
+      "fr": "Ni l'un ni l'autre, je suis, j'étais et resterai moi",
+      "pt": "Nem um nem outro, eu sou, fui e continuarei sendo eu",
+      "en": "Neither one nor the other, I am, I was and will remain me"
+    },
+    {
+      "tempo": 72.42,
+      "fr": "Ni l'un ni l'autre, je suis, j'étais et resterai moi",
+      "pt": "Nem um nem outro, eu sou, fui e continuarei sendo eu",
+      "en": "Neither one nor the other, I am, I was and will remain me"
+    },
+    {
+      "tempo": 76.33,
+      "fr": "Ni l'un ni l'autre, je suis, j'étais et resterai moi",
+      "pt": "Nem um nem outro, eu sou, fui e continuarei sendo eu",
+      "en": "Neither one nor the other, I am, I was and will remain me"
+    },
+    {
+      "tempo": 80.19,
+      "fr": "Ni l'un ni l'autre, je suis, j'étais et resterai moi",
+      "pt": "Nem um nem outro, eu sou, fui e continuarei sendo eu",
+      "en": "Neither one nor the other, I am, I was and will remain me"
+    },
+    {
+      "tempo": 83.77,
+      "fr": "Han, pardon, Monsieur ne prend pas parti",
+      "pt": "Han, desculpe, senhor não está tomando partido",
+      "en": "Han, sorry, sir is not taking sides"
+    },
+    {
+      "tempo": 87.46,
+      "fr": "Monsieur n'est même pas raciste, vu que Monsieur n'a pas de racines",
+      "pt": "O senhor nem é racista, já que o senhor não tem raízes",
+      "en": "Mister is not even racist, since Mister has no roots"
+    },
+    {
+      "tempo": 91.09,
+      "fr": "D'ailleurs Monsieur a un ami noir, et même un ami Aryen",
+      "pt": "Além disso, Monsieur tem um amigo negro, e até um amigo ariano",
+      "en": "Besides, Monsieur has a black friend, and even an Aryan friend"
+    },
+    {
+      "tempo": 95.13,
+      "fr": "Monsieur est mieux que tout ça, d'ailleurs tout ça, bah ça ne sert à rien",
+      "pt": "Monsieur é melhor que tudo isso, além de tudo isso, bem, é inútil",
+      "en": "Monsieur is better than all that, besides all that, well it's useless"
+    },
+    {
+      "tempo": 98.87,
+      "fr": "Et mieux vaut ne rien faire que de faire mal",
+      "pt": "E é melhor não fazer nada do que machucar",
+      "en": "And it's better to do nothing than to hurt"
+    },
+    {
+      "tempo": 100.56,
+      "fr": "Les mains dans la merde ou bien dans les annales",
+      "pt": "Mãos na merda ou nos anais",
+      "en": "Hands in the shit or in the annals"
+    },
+    {
+      "tempo": 102.56,
+      "fr": "Trou du cul ou bien nombril du monde",
+      "pt": "Idiota ou umbigo do mundo",
+      "en": "Asshole or navel of the world"
+    },
+    {
+      "tempo": 104.43,
+      "fr": "Monsieur se la pète plus haut que son trou d'balle",
+      "pt": "Monsieur se mostra mais alto que seu cu",
+      "en": "Monsieur shows off higher than his asshole"
+    },
+    {
+      "tempo": 106.56,
+      "fr": "Surtout pas d'coups de gueule, faut être calme, hein",
+      "pt": "Acima de tudo, sem desabafos, tem que ter calma, hein",
+      "en": "Above all, no rants, you have to be calm, eh"
+    },
+    {
+      "tempo": 108.85,
+      "fr": "Faut être doux, faut être câlin",
+      "pt": "Você tem que ser gentil, você tem que ser carinhoso",
+      "en": "You have to be gentle, you have to be cuddly"
+    },
+    {
+      "tempo": 110.61,
+      "fr": "Faut être dans l'coup, faut être branchouille",
+      "pt": "Você tem que estar por dentro, você tem que estar na moda",
+      "en": "You have to be in the know, you have to be trendy"
+    },
+    {
+      "tempo": 112.66,
+      "fr": "Pour être bien vu partout, hein",
+      "pt": "Para ser bem visto em todos os lugares, hein",
+      "en": "To be well seen everywhere, eh"
+    },
+    {
+      "tempo": 114.97,
+      "fr": "Ni l'un, ni l'autre",
+      "pt": "Nem um nem outro",
+      "en": "Neither one nor the other"
+    },
+    {
+      "tempo": 117.31,
+      "fr": "Bâtard, tu es, tu l'étais, et tu le restes!",
+      "pt": "Bastardo, você é, você foi e permanece!",
+      "en": "Bastard, you are, you were, and you remain!"
+    },
+    {
+      "tempo": 122.09,
+      "fr": "Ni l'un ni l'autre, je suis, j'étais et resterai moi",
+      "pt": "Nem um nem outro, eu sou, fui e continuarei sendo eu",
+      "en": "Neither one nor the other, I am, I was and will remain me"
+    },
+    {
+      "tempo": 126.05,
+      "fr": "Ni l'un ni l'autre, je suis, j'étais et resterai moi",
+      "pt": "Nem um nem outro, eu sou, fui e continuarei sendo eu",
+      "en": "Neither one nor the other, I am, I was and will remain me"
+    },
+    {
+      "tempo": 129.72,
+      "fr": "Ni l'un ni l'autre, je suis, j'étais et resterai moi",
+      "pt": "Nem um nem outro, eu sou, fui e continuarei sendo eu",
+      "en": "Neither one nor the other, I am, I was and will remain me"
+    },
+    {
+      "tempo": 133.43,
+      "fr": "Ni l'un ni l'autre, je suis, j'étais et resterai moi",
+      "pt": "Nem um nem outro, eu sou, fui e continuarei sendo eu",
+      "en": "Neither one nor the other, I am, I was and will remain me"
+    },
+    {
+      "tempo": 152.71,
+      "fr": "Ni l'un, ni l'autre",
+      "pt": "Nem um nem outro",
+      "en": "Neither one nor the other"
+    },
+    {
+      "tempo": 155.47,
+      "fr": "Bâtard, tu es, tu l'étais, et tu le restes!",
+      "pt": "Bastardo, você é, você foi e permanece!",
+      "en": "Bastard, you are, you were, and you remain!"
+    },
+    {
+      "tempo": 160.09,
+      "fr": "Ni l'un, ni l'autre",
+      "pt": "Nem um nem outro",
+      "en": "Neither one nor the other"
+    },
+    {
+      "tempo": 163.19,
+      "fr": "Bâtard, tu es, tu l'étais, et tu le restes!",
+      "pt": "Bastardo, você é, você foi e permanece!",
+      "en": "Bastard, you are, you were, and you remain!"
+    },
+    {
+      "tempo": 167.89,
+      "fr": "Ni l'un ni l'autre, je suis, j'étais et resterai moi",
+      "pt": "Nem um nem outro, eu sou, fui e continuarei sendo eu",
+      "en": "Neither one nor the other, I am, I was and will remain me"
+    },
+    {
+      "tempo": 171.52,
+      "fr": "Ni l'un ni l'autre, je suis, j'étais et resterai moi",
+      "pt": "Nem um nem outro, eu sou, fui e continuarei sendo eu",
+      "en": "Neither one nor the other, I am, I was and will remain me"
+    },
+    {
+      "tempo": 175.34,
+      "fr": "Ni l'un ni l'autre, je suis, j'étais et resterai moi",
+      "pt": "Nem um nem outro, eu sou, fui e continuarei sendo eu",
+      "en": "Neither one nor the other, I am, I was and will remain me"
+    },
+    {
+      "tempo": 179.29,
+      "fr": "Ni l'un ni l'autre, je suis, j'étais et resterai moi",
+      "pt": "Nem um nem outro, eu sou, fui e continuarei sendo eu",
+      "en": "Neither one nor the other, I am, I was and will remain me"
+    },
+    {
+      "tempo": 183.06,
+      "fr": "Ni l'un ni l'autre, je suis, j'étais et resterai moi",
+      "pt": "Nem um nem outro, eu sou, fui e continuarei sendo eu",
+      "en": "Neither one nor the other, I am, I was and will remain me"
+    },
+    {
+      "tempo": 186.85,
+      "fr": "Ni l'un ni l'autre, je suis, j'étais et resterai moi",
+      "pt": "Nem um nem outro, eu sou, fui e continuarei sendo eu",
+      "en": "Neither one nor the other, I am, I was and will remain me"
+    },
+    {
+      "tempo": 190.51,
+      "fr": "Ni l'un ni l'autre, je suis, j'étais et resterai moi",
+      "pt": "Nem um nem outro, eu sou, fui e continuarei sendo eu",
+      "en": "Neither one nor the other, I am, I was and will remain me"
+    },
+    {
+      "tempo": 194.5,
+      "fr": "Ni l'un ni l'autre, je suis, j'étais et resterai moi",
+      "pt": "Nem um nem outro, eu sou, fui e continuarei sendo eu",
+      "en": "Neither one nor the other, I am, I was and will remain me"
+    },
+    {
+      "tempo": 198.03,
+      "fr": "Ni l'un ni l'autre, je suis, j'étais et resterai moi",
+      "pt": "Nem um nem outro, eu sou, fui e continuarei sendo eu",
+      "en": "Neither one nor the other, I am, I was and will remain me"
+    },
+    {
+      "tempo": 202.29,
+      "fr": "Ni l'un ni l'autre, je suis, j'étais et resterai moi",
+      "pt": "Nem um nem outro, eu sou, fui e continuarei sendo eu",
+      "en": "Neither one nor the other, I am, I was and will remain me"
+    }
+  ],
+  "vocabulario": {
+    "ni": {
+      "pt": "nenhum",
+      "en": "neither"
+    },
+    "l'un": {
+      "pt": "seg",
+      "en": "mon"
+    },
+    "l'autre": {
+      "pt": "o outro",
+      "en": "the other"
+    },
+    "je": {
+      "pt": "EU",
+      "en": "I"
+    },
+    "suis": {
+      "pt": "sou",
+      "en": "am"
+    },
+    "j'étais": {
+      "pt": "Eu era",
+      "en": "I was"
+    },
+    "et": {
+      "pt": "E",
+      "en": "And"
+    },
+    "resterai": {
+      "pt": "vai ficar",
+      "en": "will stay"
+    },
+    "moi": {
+      "pt": "Meu",
+      "en": "Me"
+    },
+    "t'es": {
+      "pt": "seu",
+      "en": "your"
+    },
+    "de": {
+      "pt": "de",
+      "en": "of"
+    },
+    "droite": {
+      "pt": "CERTO",
+      "en": "RIGHT"
+    },
+    "ou": {
+      "pt": "Ou",
+      "en": "Or"
+    },
+    "gauche": {
+      "pt": "ESQUERDA",
+      "en": "LEFT"
+    },
+    "beauf": {
+      "pt": "lindo",
+      "en": "beauf"
+    },
+    "bobo": {
+      "pt": "bobo",
+      "en": "bobo"
+    },
+    "paris": {
+      "pt": "Paris",
+      "en": "Paris"
+    },
+    "sois": {
+      "pt": "ser",
+      "en": "be"
+    },
+    "soit": {
+      "pt": "qualquer",
+      "en": "either"
+    },
+    "un": {
+      "pt": "UM",
+      "en": "A"
+    },
+    "homme": {
+      "pt": "homem",
+      "en": "man"
+    },
+    "bien": {
+      "pt": "BOM",
+      "en": "GOOD"
+    },
+    "tu": {
+      "pt": "você",
+      "en": "you"
+    },
+    "péris": {
+      "pt": "morreu",
+      "en": "perished"
+    },
+    "cultrice": {
+      "pt": "Cultista",
+      "en": "Cultist"
+    },
+    "patéticienne": {
+      "pt": "patético",
+      "en": "patetician"
+    },
+    "féministe": {
+      "pt": "feminista",
+      "en": "feminist"
+    },
+    "la": {
+      "pt": "lá",
+      "en": "there"
+    },
+    "ferme": {
+      "pt": "fazenda",
+      "en": "farm"
+    },
+    "macho": {
+      "pt": "macho",
+      "en": "macho"
+    },
+    "homo": {
+      "pt": "homo",
+      "en": "homo"
+    },
+    "mais": {
+      "pt": "mas",
+      "en": "but"
+    },
+    "phobe": {
+      "pt": "fóbico",
+      "en": "phobic"
+    },
+    "sexuel": {
+      "pt": "sexual",
+      "en": "sexual"
+    },
+    "mécréant": {
+      "pt": "descrente",
+      "en": "disbeliever"
+    },
+    "terroriste": {
+      "pt": "terrorista",
+      "en": "terrorist"
+    },
+    "veuch": {
+      "pt": "sim",
+      "en": "veuch"
+    },
+    "barbu": {
+      "pt": "barbudo",
+      "en": "bearded"
+    },
+    "conspirationniste": {
+      "pt": "teórico da conspiração",
+      "en": "conspiracy theorist"
+    },
+    "illuminati": {
+      "pt": "Illuminati",
+      "en": "illuminati"
+    },
+    "mythomaniste": {
+      "pt": "mitomanista",
+      "en": "mythomanist"
+    },
+    "vendu": {
+      "pt": "vendido",
+      "en": "sold"
+    },
+    "rien": {
+      "pt": "Nada",
+      "en": "Nothing"
+    },
+    "du": {
+      "pt": "de",
+      "en": "of"
+    },
+    "tout": {
+      "pt": "Todos",
+      "en": "All"
+    },
+    "suite": {
+      "pt": "seguindo",
+      "en": "following"
+    },
+    "au": {
+      "pt": "No",
+      "en": "At"
+    },
+    "indécis": {
+      "pt": "indeciso",
+      "en": "undecided"
+    },
+    "han": {
+      "pt": "Han",
+      "en": "han"
+    },
+    "changes": {
+      "pt": "mudanças",
+      "en": "changes"
+    },
+    "d'avis": {
+      "pt": "de opinião",
+      "en": "of opinion"
+    },
+    "imbécile": {
+      "pt": "imbecil",
+      "en": "imbecile"
+    },
+    "hutu": {
+      "pt": "Hutus",
+      "en": "Hutu"
+    },
+    "tutsi": {
+      "pt": "tutsi",
+      "en": "tutsi"
+    },
+    "flamand": {
+      "pt": "flamengo",
+      "en": "Flemish"
+    },
+    "wallon": {
+      "pt": "valão",
+      "en": "Walloon"
+    },
+    "bras": {
+      "pt": "braço",
+      "en": "arm"
+    },
+    "ballants": {
+      "pt": "pendurado",
+      "en": "dangling"
+    },
+    "longs": {
+      "pt": "longo",
+      "en": "long"
+    },
+    "finalement": {
+      "pt": "Em última análise",
+      "en": "Ultimately"
+    },
+    "raciste": {
+      "pt": "racista",
+      "en": "racist"
+    },
+    "blanc": {
+      "pt": "branco",
+      "en": "white"
+    },
+    "marron": {
+      "pt": "marrom",
+      "en": "brown"
+    },
+    "hein": {
+      "pt": "Eh",
+      "en": "eh"
+    },
+    "bâtard": {
+      "pt": "Desgraçado",
+      "en": "bastard"
+    },
+    "es": {
+      "pt": "são",
+      "en": "are"
+    },
+    "l'étais": {
+      "pt": "era",
+      "en": "was"
+    },
+    "le": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "restes": {
+      "pt": "restos",
+      "en": "remains"
+    },
+    "pardon": {
+      "pt": "perdão",
+      "en": "pardon"
+    },
+    "monsieur": {
+      "pt": "Senhor",
+      "en": "Sir"
+    },
+    "ne": {
+      "pt": "nascer",
+      "en": "born"
+    },
+    "prend": {
+      "pt": "leva",
+      "en": "takes"
+    },
+    "pas": {
+      "pt": "não",
+      "en": "not"
+    },
+    "parti": {
+      "pt": "festa",
+      "en": "party"
+    },
+    "n'est": {
+      "pt": "não é",
+      "en": "is not"
+    },
+    "même": {
+      "pt": "até",
+      "en": "even"
+    },
+    "vu": {
+      "pt": "visto",
+      "en": "seen"
+    },
+    "que": {
+      "pt": "que",
+      "en": "that"
+    },
+    "n'a": {
+      "pt": "n / D",
+      "en": "n / A"
+    },
+    "racines": {
+      "pt": "raízes",
+      "en": "roots"
+    },
+    "d'ailleurs": {
+      "pt": "Além do mais",
+      "en": "Besides"
+    },
+    "a": {
+      "pt": "tem",
+      "en": "has"
+    },
+    "ami": {
+      "pt": "amigo",
+      "en": "friend"
+    },
+    "noir": {
+      "pt": "preto",
+      "en": "black"
+    },
+    "aryen": {
+      "pt": "Ariano",
+      "en": "Aryan"
+    },
+    "est": {
+      "pt": "Leste",
+      "en": "East"
+    },
+    "mieux": {
+      "pt": "melhorar",
+      "en": "better"
+    },
+    "ça": {
+      "pt": "Que",
+      "en": "That"
+    },
+    "bah": {
+      "pt": "Bem",
+      "en": "Well"
+    },
+    "sert": {
+      "pt": "serve",
+      "en": "serves"
+    },
+    "à": {
+      "pt": "tem",
+      "en": "has"
+    },
+    "vaut": {
+      "pt": "valor",
+      "en": "worth"
+    },
+    "faire": {
+      "pt": "PENDÊNCIA",
+      "en": "TO DO"
+    },
+    "mal": {
+      "pt": "errado",
+      "en": "wrong"
+    },
+    "les": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "mains": {
+      "pt": "mãos",
+      "en": "hands"
+    },
+    "dans": {
+      "pt": "Em",
+      "en": "In"
+    },
+    "merde": {
+      "pt": "merda",
+      "en": "shit"
+    },
+    "annales": {
+      "pt": "anais",
+      "en": "annals"
+    },
+    "trou": {
+      "pt": "buraco",
+      "en": "hole"
+    },
+    "cul": {
+      "pt": "bunda",
+      "en": "ass"
+    },
+    "nombril": {
+      "pt": "umbigo",
+      "en": "navel"
+    },
+    "monde": {
+      "pt": "mundo",
+      "en": "world"
+    },
+    "se": {
+      "pt": "se",
+      "en": "se"
+    },
+    "pète": {
+      "pt": "peidar",
+      "en": "fart"
+    },
+    "plus": {
+      "pt": "mais",
+      "en": "more"
+    },
+    "haut": {
+      "pt": "alto",
+      "en": "high"
+    },
+    "son": {
+      "pt": "dela",
+      "en": "her"
+    },
+    "d'balle": {
+      "pt": "bola",
+      "en": "ball"
+    },
+    "surtout": {
+      "pt": "Sobretudo",
+      "en": "Above all"
+    },
+    "d'coups": {
+      "pt": "de golpes",
+      "en": "of blows"
+    },
+    "gueule": {
+      "pt": "boca",
+      "en": "mouth"
+    },
+    "faut": {
+      "pt": "deve",
+      "en": "must"
+    },
+    "être": {
+      "pt": "ser",
+      "en": "be"
+    },
+    "calme": {
+      "pt": "calma",
+      "en": "calm"
+    },
+    "doux": {
+      "pt": "macio",
+      "en": "soft"
+    },
+    "câlin": {
+      "pt": "fofinho",
+      "en": "cuddly"
+    },
+    "l'coup": {
+      "pt": "o golpe",
+      "en": "the blow"
+    },
+    "branchouille": {
+      "pt": "branchouille",
+      "en": "branchouille"
+    },
+    "pour": {
+      "pt": "Para",
+      "en": "For"
+    },
+    "partout": {
+      "pt": "em todos os lugares",
+      "en": "everywhere"
+    }
+  },
+  "ordem": 42
+}

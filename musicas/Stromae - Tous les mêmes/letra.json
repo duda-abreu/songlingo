@@ -1,0 +1,774 @@
+{
+  "titulo": "Tous les mêmes",
+  "artista": "Stromae",
+  "arquivo_audio": "audio.mp3",
+  "linhas": [
+    {
+      "tempo": 9.11,
+      "fr": "Vous les hommes vous êtes tous les mêmes",
+      "pt": "Vocês homens são todos iguais",
+      "en": "You men are all the same"
+    },
+    {
+      "tempo": 12.52,
+      "fr": "Macho mais cheap, bande de mauviettes infidèles",
+      "pt": "Macho, mas barato, bando de fracos infiéis",
+      "en": "Macho but cheap, bunch of unfaithful wimps"
+    },
+    {
+      "tempo": 16.98,
+      "fr": "Si prévisibles, non je ne suis pas certaine, que-que-que tu l'mérites",
+      "pt": "Tão previsível, não, não tenho certeza, você merece",
+      "en": "So predictable, no I'm not sure, you deserve it"
+    },
+    {
+      "tempo": 22.61,
+      "fr": "Z'avez d'la chance qu'on vous aime",
+      "pt": "Você tem sorte que nós amamos você",
+      "en": "You're lucky that we love you"
+    },
+    {
+      "tempo": 25.95,
+      "fr": "Dis-moi \"merci\"",
+      "pt": "Diga-me \"obrigado\"",
+      "en": "Tell me \"thank you\""
+    },
+    {
+      "tempo": 27.25,
+      "fr": "Rendez-vous, rendez-vous, rendez-vous au prochain règlement",
+      "pt": "Até mais, até mais, até o próximo assentamento",
+      "en": "See you, see you, see you at the next settlement"
+    },
+    {
+      "tempo": 31.45,
+      "fr": "Rendez-vous, rendez-vous, rendez-vous sûrement aux prochaines règles",
+      "pt": "Até a próxima menstruação",
+      "en": "See you, see you, see you surely until the next period"
+    },
+    {
+      "tempo": 44.76,
+      "fr": "Cette fois c'était la dernière, tu peux croire que c'est qu'une crise",
+      "pt": "Desta vez foi a última, você acredita que é apenas uma crise",
+      "en": "This time was the last, can you believe it's just a crisis"
+    },
+    {
+      "tempo": 48.78,
+      "fr": "Mate une dernière fois mon derrière, il est à côté de mes valises",
+      "pt": "Olhe para o meu traseiro uma última vez, está ao lado das minhas malas",
+      "en": "Look at my behind one last time, it's next to my suitcases"
+    },
+    {
+      "tempo": 53.33,
+      "fr": "Tu diras au revoir à ta mère, elle qui t'idéalise",
+      "pt": "Você vai se despedir da sua mãe, aquela que te idealiza",
+      "en": "You will say goodbye to your mother, she who idealizes you"
+    },
+    {
+      "tempo": 57.53,
+      "fr": "Tu n'vois même pas tout c'que tu perds avec une autre ce serait pire",
+      "pt": "Você nem vê tudo o que perde com outra pessoa, seria pior",
+      "en": "You don't even see everything you lose with someone else it would be worse"
+    },
+    {
+      "tempo": 62.14,
+      "fr": "Quoi toi aussi tu veux finir maintenant? C'est l'monde à l'envers",
+      "pt": "O que você também quer terminar agora? É o mundo de cabeça para baixo",
+      "en": "What do you also want to finish now? It's the world upside down"
+    },
+    {
+      "tempo": 66.28,
+      "fr": "Moi, je l'disais pour t'faire réagir seulement, toi t'y pensais",
+      "pt": "Eu, eu disse isso só para fazer você reagir, você pensou sobre isso",
+      "en": "Me, I said it just to make you react, you thought about it"
+    },
+    {
+      "tempo": 70.53,
+      "fr": "Rendez-vous, rendez-vous, rendez-vous au prochain règlement",
+      "pt": "Até mais, até mais, até o próximo assentamento",
+      "en": "See you, see you, see you at the next settlement"
+    },
+    {
+      "tempo": 75.1,
+      "fr": "Rendez-vous, rendez-vous, rendez-vous sûrement aux prochaines règles",
+      "pt": "Até a próxima menstruação",
+      "en": "See you, see you, see you surely until the next period"
+    },
+    {
+      "tempo": 97.02,
+      "fr": "Facile à dire, je suis gnangnan",
+      "pt": "Fácil de dizer, sou estúpido",
+      "en": "Easy to say, I'm stupid"
+    },
+    {
+      "tempo": 99.44,
+      "fr": "Et que j'aime trop les bla-bla-bla, mais non, non, non, c'est important",
+      "pt": "E que eu gosto demais de bla-bla-bla, mas não, não, não, é importante",
+      "en": "And that I like bla-bla-bla too much, but no, no, no, it's important"
+    },
+    {
+      "tempo": 103.69,
+      "fr": "Ce que t'appelles les ragnagnas, tu sais la vie, c'est des enfants",
+      "pt": "O que você chama de ragnagnas, você conhece a vida, são crianças",
+      "en": "What you call ragnagnas, you know life, it's children"
+    },
+    {
+      "tempo": 107.77,
+      "fr": "Mais comme toujours, c'est pas l'bon moment",
+      "pt": "Mas como sempre, não é o momento certo",
+      "en": "But as always, it's not the right time"
+    },
+    {
+      "tempo": 110.06,
+      "fr": "Ah oui pour les faire là, tu es présent, mais pour les élever y aura qu'des absents",
+      "pt": "Ah sim, para fazê-los chegar lá, você está presente, mas para criá-los só haverá os ausentes",
+      "en": "Ah yes to make them there, you are present, but to raise them there will only be those absent"
+    },
+    {
+      "tempo": 114.9,
+      "fr": "Lorsque je n'serais plus belle ou du moins au naturel",
+      "pt": "Quando eu não sou mais bonita ou pelo menos natural",
+      "en": "When I am no longer beautiful or at least natural"
+    },
+    {
+      "tempo": 119.03,
+      "fr": "Arrête je sais que tu mens, il n'y a que Kate Moss qui est éternelle",
+      "pt": "Pare, eu sei que você está mentindo, só Kate Moss é eterna",
+      "en": "Stop I know you're lying, only Kate Moss is eternal"
+    },
+    {
+      "tempo": 123.07,
+      "fr": "Moche ou bête (c'est jamais bon)",
+      "pt": "Feio ou estúpido (nunca é bom)",
+      "en": "Ugly or stupid (it's never good)"
+    },
+    {
+      "tempo": 125.27,
+      "fr": "Bête ou belle (c'est jamais bon)",
+      "pt": "Besta ou bela (nunca é bom)",
+      "en": "Beast or beauty (it's never good)"
+    },
+    {
+      "tempo": 127.66,
+      "fr": "Belle ou moi (c'est jamais bon)",
+      "pt": "Belle ou eu (nunca é bom)",
+      "en": "Belle or me (it's never good)"
+    },
+    {
+      "tempo": 129.54,
+      "fr": "Moi ou elle (c'est jamais bon)",
+      "pt": "Eu ou ela (nunca é bom)",
+      "en": "Me or her (it's never good)"
+    },
+    {
+      "tempo": 131.65,
+      "fr": "Rendez-vous, rendez-vous, rendez-vous au prochain règlement",
+      "pt": "Até mais, até mais, até o próximo assentamento",
+      "en": "See you, see you, see you at the next settlement"
+    },
+    {
+      "tempo": 136.15,
+      "fr": "Rendez-vous, rendez-vous, rendez-vous sûrement aux prochaines règles",
+      "pt": "Até a próxima menstruação",
+      "en": "See you, see you, see you surely until the next period"
+    },
+    {
+      "tempo": 175.41,
+      "fr": "Tous les mêmes, tous les mêmes, tous les mêmes et y'en a marre",
+      "pt": "Mesmo assim, mesmo assim, mesmo assim e estamos cansados ​​disso",
+      "en": "All the same, all the same, all the same and we're tired of it"
+    },
+    {
+      "tempo": 179.87,
+      "fr": "Tous les mêmes, tous les mêmes, tous les mêmes et y'en a marre",
+      "pt": "Mesmo assim, mesmo assim, mesmo assim e estamos cansados ​​disso",
+      "en": "All the same, all the same, all the same and we're tired of it"
+    },
+    {
+      "tempo": 184.17,
+      "fr": "Tous les mêmes, tous les mêmes, tous les mêmes et y'en a marre",
+      "pt": "Mesmo assim, mesmo assim, mesmo assim e estamos cansados ​​disso",
+      "en": "All the same, all the same, all the same and we're tired of it"
+    },
+    {
+      "tempo": 188.52,
+      "fr": "Tous les mêmes, tous les mêmes, tous les mêmes",
+      "pt": "Tudo igual, tudo igual, tudo igual",
+      "en": "All the same, all the same, all the same"
+    }
+  ],
+  "vocabulario": {
+    "vous": {
+      "pt": "VOCÊ",
+      "en": "YOU"
+    },
+    "les": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "hommes": {
+      "pt": "homens",
+      "en": "men"
+    },
+    "êtes": {
+      "pt": "são",
+      "en": "are"
+    },
+    "tous": {
+      "pt": "todos",
+      "en": "all"
+    },
+    "mêmes": {
+      "pt": "mesmo",
+      "en": "same"
+    },
+    "macho": {
+      "pt": "macho",
+      "en": "macho"
+    },
+    "mais": {
+      "pt": "mas",
+      "en": "but"
+    },
+    "cheap": {
+      "pt": "barato",
+      "en": "cheap"
+    },
+    "bande": {
+      "pt": "banda",
+      "en": "band"
+    },
+    "de": {
+      "pt": "de",
+      "en": "of"
+    },
+    "mauviettes": {
+      "pt": "fracos",
+      "en": "wimps"
+    },
+    "infidèles": {
+      "pt": "infiel",
+      "en": "unfaithful"
+    },
+    "si": {
+      "pt": "se",
+      "en": "if"
+    },
+    "prévisibles": {
+      "pt": "previsível",
+      "en": "predictable"
+    },
+    "non": {
+      "pt": "Não",
+      "en": "sim"
+    },
+    "je": {
+      "pt": "EU",
+      "en": "I"
+    },
+    "ne": {
+      "pt": "nascer",
+      "en": "born"
+    },
+    "suis": {
+      "pt": "sou",
+      "en": "am"
+    },
+    "pas": {
+      "pt": "não",
+      "en": "not"
+    },
+    "certaine": {
+      "pt": "certo",
+      "en": "certain"
+    },
+    "que-que-que": {
+      "pt": "o que-o que-o que",
+      "en": "what-what-what"
+    },
+    "tu": {
+      "pt": "você",
+      "en": "you"
+    },
+    "l'mérites": {
+      "pt": "os méritos",
+      "en": "the merits"
+    },
+    "z'avez": {
+      "pt": "você tem",
+      "en": "you have"
+    },
+    "d'la": {
+      "pt": "do",
+      "en": "from the"
+    },
+    "chance": {
+      "pt": "chance",
+      "en": "chance"
+    },
+    "qu'on": {
+      "pt": "que nós",
+      "en": "that we"
+    },
+    "aime": {
+      "pt": "amor",
+      "en": "love"
+    },
+    "dis-moi": {
+      "pt": "Diga-me",
+      "en": "Tell me"
+    },
+    "merci": {
+      "pt": "OBRIGADO",
+      "en": "THANKS"
+    },
+    "rendez-vous": {
+      "pt": "encontro",
+      "en": "appointment"
+    },
+    "au": {
+      "pt": "No",
+      "en": "At"
+    },
+    "prochain": {
+      "pt": "próximo",
+      "en": "next"
+    },
+    "règlement": {
+      "pt": "regulamento",
+      "en": "regulation"
+    },
+    "sûrement": {
+      "pt": "certamente",
+      "en": "certainly"
+    },
+    "aux": {
+      "pt": "para",
+      "en": "to"
+    },
+    "prochaines": {
+      "pt": "próximo",
+      "en": "next"
+    },
+    "règles": {
+      "pt": "regras",
+      "en": "rules"
+    },
+    "cette": {
+      "pt": "esse",
+      "en": "this"
+    },
+    "fois": {
+      "pt": "vezes",
+      "en": "times"
+    },
+    "c'était": {
+      "pt": "era",
+      "en": "it was"
+    },
+    "la": {
+      "pt": "lá",
+      "en": "there"
+    },
+    "dernière": {
+      "pt": "durar",
+      "en": "last"
+    },
+    "peux": {
+      "pt": "pode",
+      "en": "can"
+    },
+    "croire": {
+      "pt": "acreditar",
+      "en": "believe"
+    },
+    "que": {
+      "pt": "que",
+      "en": "that"
+    },
+    "c'est": {
+      "pt": "Isso é",
+      "en": "It is"
+    },
+    "qu'une": {
+      "pt": "Aquele",
+      "en": "that one"
+    },
+    "crise": {
+      "pt": "crise",
+      "en": "crisis"
+    },
+    "mate": {
+      "pt": "fosco",
+      "en": "matte"
+    },
+    "une": {
+      "pt": "um",
+      "en": "a"
+    },
+    "mon": {
+      "pt": "Meu",
+      "en": "My"
+    },
+    "derrière": {
+      "pt": "atrás",
+      "en": "behind"
+    },
+    "il": {
+      "pt": "ele",
+      "en": "he"
+    },
+    "est": {
+      "pt": "Leste",
+      "en": "East"
+    },
+    "à": {
+      "pt": "tem",
+      "en": "has"
+    },
+    "côté": {
+      "pt": "lado",
+      "en": "side"
+    },
+    "mes": {
+      "pt": "meu",
+      "en": "my"
+    },
+    "valises": {
+      "pt": "malas",
+      "en": "suitcases"
+    },
+    "diras": {
+      "pt": "dirá",
+      "en": "will say"
+    },
+    "revoir": {
+      "pt": "adeus",
+      "en": "goodbye"
+    },
+    "ta": {
+      "pt": "seu",
+      "en": "your"
+    },
+    "mère": {
+      "pt": "mãe",
+      "en": "mother"
+    },
+    "elle": {
+      "pt": "Ela",
+      "en": "She"
+    },
+    "qui": {
+      "pt": "Quem",
+      "en": "Who"
+    },
+    "t'idéalise": {
+      "pt": "idealizar você",
+      "en": "idealize you"
+    },
+    "n'vois": {
+      "pt": "não vejo",
+      "en": "don't see"
+    },
+    "même": {
+      "pt": "até",
+      "en": "even"
+    },
+    "tout": {
+      "pt": "Todos",
+      "en": "All"
+    },
+    "c'que": {
+      "pt": "o que",
+      "en": "what"
+    },
+    "perds": {
+      "pt": "perder",
+      "en": "lose"
+    },
+    "avec": {
+      "pt": "com",
+      "en": "with"
+    },
+    "autre": {
+      "pt": "outro",
+      "en": "other"
+    },
+    "ce": {
+      "pt": "Esse",
+      "en": "This"
+    },
+    "serait": {
+      "pt": "seria",
+      "en": "would be"
+    },
+    "pire": {
+      "pt": "pior",
+      "en": "worse"
+    },
+    "quoi": {
+      "pt": "O que",
+      "en": "What"
+    },
+    "toi": {
+      "pt": "Você",
+      "en": "You"
+    },
+    "aussi": {
+      "pt": "Também",
+      "en": "Also"
+    },
+    "veux": {
+      "pt": "querer",
+      "en": "want"
+    },
+    "finir": {
+      "pt": "terminar",
+      "en": "finish"
+    },
+    "maintenant": {
+      "pt": "AGORA",
+      "en": "NOW"
+    },
+    "l'monde": {
+      "pt": "o mundo",
+      "en": "the world"
+    },
+    "l'envers": {
+      "pt": "o inverso",
+      "en": "the reverse"
+    },
+    "moi": {
+      "pt": "Meu",
+      "en": "eu"
+    },
+    "l'disais": {
+      "pt": "eu disse isso",
+      "en": "I said it"
+    },
+    "pour": {
+      "pt": "Para",
+      "en": "For"
+    },
+    "t'faire": {
+      "pt": "você",
+      "en": "do you"
+    },
+    "réagir": {
+      "pt": "reagir",
+      "en": "react"
+    },
+    "seulement": {
+      "pt": "apenas",
+      "en": "only"
+    },
+    "t'y": {
+      "pt": "aí está",
+      "en": "there you go"
+    },
+    "pensais": {
+      "pt": "pensamento",
+      "en": "thought"
+    },
+    "facile": {
+      "pt": "fácil",
+      "en": "easy"
+    },
+    "dire": {
+      "pt": "dizer",
+      "en": "say"
+    },
+    "gnangnan": {
+      "pt": "gnangnan",
+      "en": "gnangnan"
+    },
+    "et": {
+      "pt": "E",
+      "en": "And"
+    },
+    "j'aime": {
+      "pt": "Eu gosto",
+      "en": "I like"
+    },
+    "trop": {
+      "pt": "demais",
+      "en": "too much"
+    },
+    "bla-bla-bla": {
+      "pt": "blá, blá, blá",
+      "en": "blah blah blah"
+    },
+    "important": {
+      "pt": "importante",
+      "en": "important"
+    },
+    "t'appelles": {
+      "pt": "você liga",
+      "en": "you call"
+    },
+    "ragnagnas": {
+      "pt": "ragnagnas",
+      "en": "ragnagnas"
+    },
+    "sais": {
+      "pt": "saber",
+      "en": "know"
+    },
+    "vie": {
+      "pt": "vida",
+      "en": "life"
+    },
+    "des": {
+      "pt": "do",
+      "en": "of the"
+    },
+    "enfants": {
+      "pt": "crianças",
+      "en": "children"
+    },
+    "comme": {
+      "pt": "como",
+      "en": "as"
+    },
+    "toujours": {
+      "pt": "sempre",
+      "en": "always"
+    },
+    "l'bon": {
+      "pt": "o bom",
+      "en": "the good"
+    },
+    "moment": {
+      "pt": "momento",
+      "en": "moment"
+    },
+    "ah": {
+      "pt": "oh",
+      "en": "oh"
+    },
+    "oui": {
+      "pt": "Sim",
+      "en": "Yes"
+    },
+    "faire": {
+      "pt": "PENDÊNCIA",
+      "en": "TO DO"
+    },
+    "là": {
+      "pt": "lá",
+      "en": "there"
+    },
+    "es": {
+      "pt": "são",
+      "en": "are"
+    },
+    "présent": {
+      "pt": "aqui",
+      "en": "here"
+    },
+    "élever": {
+      "pt": "elevação",
+      "en": "raise"
+    },
+    "y": {
+      "pt": "sim",
+      "en": "y"
+    },
+    "aura": {
+      "pt": "terá",
+      "en": "will have"
+    },
+    "qu'des": {
+      "pt": "que",
+      "en": "that"
+    },
+    "absents": {
+      "pt": "ausente",
+      "en": "absent"
+    },
+    "lorsque": {
+      "pt": "quando",
+      "en": "when"
+    },
+    "n'serais": {
+      "pt": "não seria",
+      "en": "wouldn't be"
+    },
+    "plus": {
+      "pt": "mais",
+      "en": "more"
+    },
+    "belle": {
+      "pt": "lindo",
+      "en": "beautiful"
+    },
+    "ou": {
+      "pt": "Ou",
+      "en": "Or"
+    },
+    "du": {
+      "pt": "de",
+      "en": "of"
+    },
+    "moins": {
+      "pt": "menos",
+      "en": "less"
+    },
+    "naturel": {
+      "pt": "natural",
+      "en": "natural"
+    },
+    "arrête": {
+      "pt": "parar",
+      "en": "stop"
+    },
+    "mens": {
+      "pt": "masculino",
+      "en": "mens"
+    },
+    "n'y": {
+      "pt": "não",
+      "en": "no"
+    },
+    "a": {
+      "pt": "tem",
+      "en": "has"
+    },
+    "kate": {
+      "pt": "Kate",
+      "en": "kate"
+    },
+    "moss": {
+      "pt": "musgo",
+      "en": "moss"
+    },
+    "éternelle": {
+      "pt": "eterno",
+      "en": "eternal"
+    },
+    "moche": {
+      "pt": "feio",
+      "en": "ugly"
+    },
+    "bête": {
+      "pt": "besta",
+      "en": "beast"
+    },
+    "jamais": {
+      "pt": "Nunca",
+      "en": "Never"
+    },
+    "bon": {
+      "pt": "Bom",
+      "en": "Good"
+    },
+    "y'en": {
+      "pt": "iene",
+      "en": "yen"
+    },
+    "marre": {
+      "pt": "cheio",
+      "en": "fed up"
+    }
+  },
+  "ordem": 57
+}

@@ -1,0 +1,792 @@
+{
+  "titulo": "J'ai vu",
+  "artista": "Roméo Elvis",
+  "arquivo_audio": "audio.mp3",
+  "linhas": [
+    {
+      "tempo": 53.03,
+      "fr": "J'suis posé dans un canap' roule hashish",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 55.35,
+      "fr": "Télé full H.D, tout le monde est assis",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 58.23,
+      "fr": "J'regarde la télé et j'me rends compte que la vie ça file",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 61.29,
+      "fr": "Un jour j'aurai des gosses faudra protéger ma fille (sa fille)",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 64.59,
+      "fr": "Ma sœur a mis sa voix sur la prod' ça me calme",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 68.99,
+      "fr": "Papa écoute le son avec le sourire",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 71.46,
+      "fr": "Maman écoute le son avec le casque et le mal s'évapore",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 85.27,
+      "fr": "Ça n'en vaut pas la peine, non",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 87.94,
+      "fr": "Il faudra s'y faire",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 90.65,
+      "fr": "Ça n'en vaut pas la peine",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 93.24,
+      "fr": "Non, il faudra s'y faire",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 95.83,
+      "fr": "J'ai, j'ai vu dans ma tête",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 106.07,
+      "fr": "Qu'on allait se fâcher",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 108.69,
+      "fr": "Qu'on allait se lâcher tout en laissant faire",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 111.4,
+      "fr": "Ce qu'on voulait pourtant cacher",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 113.84,
+      "fr": "Chérie s'il fallait se taire alors j'ai vraiment tout gâché",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 117.2,
+      "fr": "J'ai-j'aimerai que tu cèdes",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 127.38,
+      "fr": "À mes propositions, éloignons-nous d'ici",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 130.37,
+      "fr": "Prends ça comme une mission, devenons invisibles",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 132.88,
+      "fr": "Je lui ai dit \"à tout à l'heure\"",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 135.18,
+      "fr": "Il a pris ça comme un missile",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 139.33,
+      "fr": "J'écris des chansons sur des histoires inexistantes",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 141.71,
+      "fr": "Certaines arrivent à se reconnaître quand je parle cœur",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 144.53,
+      "fr": "J'ai un peu morflé, ma vie sentimentale est morte hier",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 147.5,
+      "fr": "Quand j'ai décidé de la poser sur \"Morale 2\"",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 154.92,
+      "fr": "La vie est douce, la pente est raide et parfois glissante",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 157.83,
+      "fr": "Certains arrivent à s'élever comme de la vapeur",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 160.75,
+      "fr": "J'ai un peu morflé mais pas de quoi en faire un film",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 163.35,
+      "fr": "J'suis dégoûté mais très loin d'être anéanti",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 170.61,
+      "fr": "J'ai, j'ai vu dans ma tête",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 180.97,
+      "fr": "Qu'on allait se fâcher",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 183.48,
+      "fr": "Qu'on allait se lâcher tout en laissant faire",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 186.16,
+      "fr": "Ce qu'on voulait pourtant cacher",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 188.59,
+      "fr": "Chérie, s'il fallait se taire alors j'ai vraiment tout gâché",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 191.88,
+      "fr": "J'ai-j'aimerai que tu cèdes",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 202.06,
+      "fr": "À mes propositions, éloignons-nous d'ici",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 205.09,
+      "fr": "Prends ça comme une mission, devenons invisibles",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 207.54,
+      "fr": "Je lui ai dit \"à tout à l'heure\"",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 209.72,
+      "fr": "Elle a pris ça comme un missile",
+      "pt": "",
+      "en": ""
+    }
+  ],
+  "vocabulario": {
+    "j'suis": {
+      "pt": "",
+      "en": ""
+    },
+    "posé": {
+      "pt": "",
+      "en": ""
+    },
+    "dans": {
+      "pt": "",
+      "en": ""
+    },
+    "un": {
+      "pt": "",
+      "en": ""
+    },
+    "canap": {
+      "pt": "",
+      "en": ""
+    },
+    "roule": {
+      "pt": "",
+      "en": ""
+    },
+    "hashish": {
+      "pt": "",
+      "en": ""
+    },
+    "télé": {
+      "pt": "",
+      "en": ""
+    },
+    "full": {
+      "pt": "",
+      "en": ""
+    },
+    "h.d": {
+      "pt": "",
+      "en": ""
+    },
+    "tout": {
+      "pt": "",
+      "en": ""
+    },
+    "le": {
+      "pt": "",
+      "en": ""
+    },
+    "monde": {
+      "pt": "",
+      "en": ""
+    },
+    "est": {
+      "pt": "",
+      "en": ""
+    },
+    "assis": {
+      "pt": "",
+      "en": ""
+    },
+    "j'regarde": {
+      "pt": "",
+      "en": ""
+    },
+    "la": {
+      "pt": "",
+      "en": ""
+    },
+    "et": {
+      "pt": "",
+      "en": ""
+    },
+    "j'me": {
+      "pt": "",
+      "en": ""
+    },
+    "rends": {
+      "pt": "",
+      "en": ""
+    },
+    "compte": {
+      "pt": "",
+      "en": ""
+    },
+    "que": {
+      "pt": "",
+      "en": ""
+    },
+    "vie": {
+      "pt": "",
+      "en": ""
+    },
+    "ça": {
+      "pt": "",
+      "en": ""
+    },
+    "file": {
+      "pt": "",
+      "en": ""
+    },
+    "jour": {
+      "pt": "",
+      "en": ""
+    },
+    "j'aurai": {
+      "pt": "",
+      "en": ""
+    },
+    "des": {
+      "pt": "",
+      "en": ""
+    },
+    "gosses": {
+      "pt": "",
+      "en": ""
+    },
+    "faudra": {
+      "pt": "",
+      "en": ""
+    },
+    "protéger": {
+      "pt": "",
+      "en": ""
+    },
+    "ma": {
+      "pt": "",
+      "en": ""
+    },
+    "fille": {
+      "pt": "",
+      "en": ""
+    },
+    "sa": {
+      "pt": "",
+      "en": ""
+    },
+    "sœur": {
+      "pt": "",
+      "en": ""
+    },
+    "a": {
+      "pt": "",
+      "en": ""
+    },
+    "mis": {
+      "pt": "",
+      "en": ""
+    },
+    "voix": {
+      "pt": "",
+      "en": ""
+    },
+    "sur": {
+      "pt": "",
+      "en": ""
+    },
+    "prod": {
+      "pt": "",
+      "en": ""
+    },
+    "me": {
+      "pt": "",
+      "en": ""
+    },
+    "calme": {
+      "pt": "",
+      "en": ""
+    },
+    "papa": {
+      "pt": "",
+      "en": ""
+    },
+    "écoute": {
+      "pt": "",
+      "en": ""
+    },
+    "son": {
+      "pt": "",
+      "en": ""
+    },
+    "avec": {
+      "pt": "",
+      "en": ""
+    },
+    "sourire": {
+      "pt": "",
+      "en": ""
+    },
+    "maman": {
+      "pt": "",
+      "en": ""
+    },
+    "casque": {
+      "pt": "",
+      "en": ""
+    },
+    "mal": {
+      "pt": "",
+      "en": ""
+    },
+    "s'évapore": {
+      "pt": "",
+      "en": ""
+    },
+    "n'en": {
+      "pt": "",
+      "en": ""
+    },
+    "vaut": {
+      "pt": "",
+      "en": ""
+    },
+    "pas": {
+      "pt": "",
+      "en": ""
+    },
+    "peine": {
+      "pt": "",
+      "en": ""
+    },
+    "non": {
+      "pt": "",
+      "en": ""
+    },
+    "il": {
+      "pt": "",
+      "en": ""
+    },
+    "s'y": {
+      "pt": "",
+      "en": ""
+    },
+    "faire": {
+      "pt": "",
+      "en": ""
+    },
+    "j'ai": {
+      "pt": "",
+      "en": ""
+    },
+    "vu": {
+      "pt": "",
+      "en": ""
+    },
+    "tête": {
+      "pt": "",
+      "en": ""
+    },
+    "qu'on": {
+      "pt": "",
+      "en": ""
+    },
+    "allait": {
+      "pt": "",
+      "en": ""
+    },
+    "se": {
+      "pt": "",
+      "en": ""
+    },
+    "fâcher": {
+      "pt": "",
+      "en": ""
+    },
+    "lâcher": {
+      "pt": "",
+      "en": ""
+    },
+    "en": {
+      "pt": "",
+      "en": ""
+    },
+    "laissant": {
+      "pt": "",
+      "en": ""
+    },
+    "ce": {
+      "pt": "",
+      "en": ""
+    },
+    "voulait": {
+      "pt": "",
+      "en": ""
+    },
+    "pourtant": {
+      "pt": "",
+      "en": ""
+    },
+    "cacher": {
+      "pt": "",
+      "en": ""
+    },
+    "chérie": {
+      "pt": "",
+      "en": ""
+    },
+    "s'il": {
+      "pt": "",
+      "en": ""
+    },
+    "fallait": {
+      "pt": "",
+      "en": ""
+    },
+    "taire": {
+      "pt": "",
+      "en": ""
+    },
+    "alors": {
+      "pt": "",
+      "en": ""
+    },
+    "vraiment": {
+      "pt": "",
+      "en": ""
+    },
+    "gâché": {
+      "pt": "",
+      "en": ""
+    },
+    "j'ai-j'aimerai": {
+      "pt": "",
+      "en": ""
+    },
+    "tu": {
+      "pt": "",
+      "en": ""
+    },
+    "cèdes": {
+      "pt": "",
+      "en": ""
+    },
+    "à": {
+      "pt": "",
+      "en": ""
+    },
+    "mes": {
+      "pt": "",
+      "en": ""
+    },
+    "propositions": {
+      "pt": "",
+      "en": ""
+    },
+    "éloignons-nous": {
+      "pt": "",
+      "en": ""
+    },
+    "d'ici": {
+      "pt": "",
+      "en": ""
+    },
+    "prends": {
+      "pt": "",
+      "en": ""
+    },
+    "comme": {
+      "pt": "",
+      "en": ""
+    },
+    "une": {
+      "pt": "",
+      "en": ""
+    },
+    "mission": {
+      "pt": "",
+      "en": ""
+    },
+    "devenons": {
+      "pt": "",
+      "en": ""
+    },
+    "invisibles": {
+      "pt": "",
+      "en": ""
+    },
+    "je": {
+      "pt": "",
+      "en": ""
+    },
+    "lui": {
+      "pt": "",
+      "en": ""
+    },
+    "ai": {
+      "pt": "",
+      "en": ""
+    },
+    "dit": {
+      "pt": "",
+      "en": ""
+    },
+    "l'heure": {
+      "pt": "",
+      "en": ""
+    },
+    "pris": {
+      "pt": "",
+      "en": ""
+    },
+    "missile": {
+      "pt": "",
+      "en": ""
+    },
+    "j'écris": {
+      "pt": "",
+      "en": ""
+    },
+    "chansons": {
+      "pt": "",
+      "en": ""
+    },
+    "histoires": {
+      "pt": "",
+      "en": ""
+    },
+    "inexistantes": {
+      "pt": "",
+      "en": ""
+    },
+    "certaines": {
+      "pt": "",
+      "en": ""
+    },
+    "arrivent": {
+      "pt": "",
+      "en": ""
+    },
+    "reconnaître": {
+      "pt": "",
+      "en": ""
+    },
+    "quand": {
+      "pt": "",
+      "en": ""
+    },
+    "parle": {
+      "pt": "",
+      "en": ""
+    },
+    "cœur": {
+      "pt": "",
+      "en": ""
+    },
+    "peu": {
+      "pt": "",
+      "en": ""
+    },
+    "morflé": {
+      "pt": "",
+      "en": ""
+    },
+    "sentimentale": {
+      "pt": "",
+      "en": ""
+    },
+    "morte": {
+      "pt": "",
+      "en": ""
+    },
+    "hier": {
+      "pt": "",
+      "en": ""
+    },
+    "décidé": {
+      "pt": "",
+      "en": ""
+    },
+    "de": {
+      "pt": "",
+      "en": ""
+    },
+    "poser": {
+      "pt": "",
+      "en": ""
+    },
+    "morale": {
+      "pt": "",
+      "en": ""
+    },
+    "douce": {
+      "pt": "",
+      "en": ""
+    },
+    "pente": {
+      "pt": "",
+      "en": ""
+    },
+    "raide": {
+      "pt": "",
+      "en": ""
+    },
+    "parfois": {
+      "pt": "",
+      "en": ""
+    },
+    "glissante": {
+      "pt": "",
+      "en": ""
+    },
+    "certains": {
+      "pt": "",
+      "en": ""
+    },
+    "s'élever": {
+      "pt": "",
+      "en": ""
+    },
+    "vapeur": {
+      "pt": "",
+      "en": ""
+    },
+    "mais": {
+      "pt": "",
+      "en": ""
+    },
+    "quoi": {
+      "pt": "",
+      "en": ""
+    },
+    "film": {
+      "pt": "",
+      "en": ""
+    },
+    "dégoûté": {
+      "pt": "",
+      "en": ""
+    },
+    "très": {
+      "pt": "",
+      "en": ""
+    },
+    "loin": {
+      "pt": "",
+      "en": ""
+    },
+    "d'être": {
+      "pt": "",
+      "en": ""
+    },
+    "anéanti": {
+      "pt": "",
+      "en": ""
+    },
+    "elle": {
+      "pt": "",
+      "en": ""
+    }
+  },
+  "ordem": 38
+}

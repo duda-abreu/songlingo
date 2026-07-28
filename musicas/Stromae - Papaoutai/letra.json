@@ -1,0 +1,984 @@
+{
+  "titulo": "Papaoutai",
+  "artista": "Stromae",
+  "arquivo_audio": "audio.mp3",
+  "linhas": [
+    {
+      "tempo": 15.07,
+      "fr": "Dites-moi d'où il vient",
+      "pt": "Diga-me de onde vem",
+      "en": "Tell me where it comes from"
+    },
+    {
+      "tempo": 16.79,
+      "fr": "Enfin je saurai où je vais",
+      "pt": "Finalmente saberei para onde estou indo",
+      "en": "Finally I'll know where I'm going"
+    },
+    {
+      "tempo": 18.6,
+      "fr": "Maman dit que lorsqu'on cherche bien",
+      "pt": "Mamãe diz que quando você olha bem",
+      "en": "Mom says that when you look hard"
+    },
+    {
+      "tempo": 20.71,
+      "fr": "On finit toujours par trouver",
+      "pt": "Sempre acabamos encontrando",
+      "en": "We always end up finding"
+    },
+    {
+      "tempo": 22.82,
+      "fr": "Elle dit qu'il n'est jamais très loin",
+      "pt": "Ela diz que ele nunca está longe",
+      "en": "She says he's never far away"
+    },
+    {
+      "tempo": 24.92,
+      "fr": "Qu'il part très souvent travailler",
+      "pt": "Que ele vai trabalhar com muita frequência",
+      "en": "That he goes to work very often"
+    },
+    {
+      "tempo": 26.8,
+      "fr": "Maman dit \"travailler, c'est bien\"",
+      "pt": "Mamãe diz “trabalhar é bom”",
+      "en": "Mom says “working is good”"
+    },
+    {
+      "tempo": 28.89,
+      "fr": "Bien mieux qu'être mal accompagné",
+      "pt": "Muito melhor do que estar mal acompanhado",
+      "en": "Much better than being poorly accompanied"
+    },
+    {
+      "tempo": 31.06,
+      "fr": "Pas vrai?",
+      "pt": "Não é verdade?",
+      "en": "Not true?"
+    },
+    {
+      "tempo": 31.76,
+      "fr": "Où est ton papa?",
+      "pt": "Onde está seu pai?",
+      "en": "Where is your daddy?"
+    },
+    {
+      "tempo": 33.54,
+      "fr": "Dis-moi, où est ton papa?",
+      "pt": "Diga-me, onde está seu pai?",
+      "en": "Tell me, where is your daddy?"
+    },
+    {
+      "tempo": 35.61,
+      "fr": "Sans même devoir lui parler",
+      "pt": "Sem nem precisar falar com ele",
+      "en": "Without even having to talk to him"
+    },
+    {
+      "tempo": 37.77,
+      "fr": "Il sait ce qui ne va pas",
+      "pt": "Ele sabe o que há de errado",
+      "en": "He knows what's wrong"
+    },
+    {
+      "tempo": 39.52,
+      "fr": "Ah, sacré papa",
+      "pt": "Ah, santo papai",
+      "en": "Ah, holy daddy"
+    },
+    {
+      "tempo": 41.92,
+      "fr": "Dis-moi, où es-tu caché?",
+      "pt": "Diga-me, onde você está se escondendo?",
+      "en": "Tell me, where are you hiding?"
+    },
+    {
+      "tempo": 43.54,
+      "fr": "Ça doit faire au moins mille fois que j'ai",
+      "pt": "Deve ter sido pelo menos mil vezes que eu",
+      "en": "It must have been at least a thousand times that I"
+    },
+    {
+      "tempo": 46.44,
+      "fr": "Compté mes doigts",
+      "pt": "Contei meus dedos",
+      "en": "Counted my fingers"
+    },
+    {
+      "tempo": 47.51,
+      "fr": "Hey",
+      "pt": "Ei",
+      "en": "Hey"
+    },
+    {
+      "tempo": 48.65,
+      "fr": "Où t'es, papaoutai?",
+      "pt": "Onde você está, papaoutai?",
+      "en": "Where are you, papaoutai?"
+    },
+    {
+      "tempo": 50.78,
+      "fr": "Où t'es, papaoutai?",
+      "pt": "Onde você está, papaoutai?",
+      "en": "Where are you, papaoutai?"
+    },
+    {
+      "tempo": 52.73,
+      "fr": "Où t'es, papaoutai?",
+      "pt": "Onde você está, papaoutai?",
+      "en": "Where are you, papaoutai?"
+    },
+    {
+      "tempo": 54.36,
+      "fr": "Où t'es, où t'es où, papaoutai?",
+      "pt": "Onde você está, onde você está, papaoutai?",
+      "en": "Where are you, where are you, papaoutai?"
+    },
+    {
+      "tempo": 56.95,
+      "fr": "Où t'es, papaoutai?",
+      "pt": "Onde você está, papaoutai?",
+      "en": "Where are you, papaoutai?"
+    },
+    {
+      "tempo": 58.99,
+      "fr": "Où t'es, papaoutai?",
+      "pt": "Onde você está, papaoutai?",
+      "en": "Where are you, papaoutai?"
+    },
+    {
+      "tempo": 60.92,
+      "fr": "Où t'es, papaoutai?",
+      "pt": "Onde você está, papaoutai?",
+      "en": "Where are you, papaoutai?"
+    },
+    {
+      "tempo": 62.66,
+      "fr": "Où t'es, où t'es où, papaoutai?",
+      "pt": "Onde você está, onde você está, papaoutai?",
+      "en": "Where are you, where are you, papaoutai?"
+    },
+    {
+      "tempo": 65.07,
+      "fr": "(Où t'es, où t'es, où t'es, où t'es, où t'es?)",
+      "pt": "(Onde você está, onde você está, onde você está, onde você está, onde você está?)",
+      "en": "(Where are you, where are you, where are you, where are you, where are you?)"
+    },
+    {
+      "tempo": 72.56,
+      "fr": "(Où t'es, où t'es, où t'es, où t'es, où t'es?)",
+      "pt": "(Onde você está, onde você está, onde você está, onde você está, onde você está?)",
+      "en": "(Where are you, where are you, where are you, where are you, where are you?)"
+    },
+    {
+      "tempo": 81.16,
+      "fr": "Quoi? Qu'on y croie ou pas",
+      "pt": "O que? Quer acreditemos ou não",
+      "en": "What? Whether we believe it or not"
+    },
+    {
+      "tempo": 82.8,
+      "fr": "Y aura bien un jour où on n'y croira plus",
+      "pt": "Haverá um dia em que não acreditaremos mais nisso",
+      "en": "There will be a day when we will no longer believe in it"
+    },
+    {
+      "tempo": 85.27,
+      "fr": "Un jour ou l'autre on sera tous papa",
+      "pt": "Um dia ou outro seremos todos pais",
+      "en": "One day or another we will all be dads"
+    },
+    {
+      "tempo": 87.23,
+      "fr": "Et d'un jour à l'autre on aura disparu",
+      "pt": "E de um dia para o outro iremos embora",
+      "en": "And from one day to the next we will be gone"
+    },
+    {
+      "tempo": 89.4,
+      "fr": "Serons-nous détestables?",
+      "pt": "Seremos odiosos?",
+      "en": "Will we be hateful?"
+    },
+    {
+      "tempo": 91.47,
+      "fr": "Serons-nous admirables?",
+      "pt": "Seremos admiráveis?",
+      "en": "Will we be admirable?"
+    },
+    {
+      "tempo": 93.35,
+      "fr": "Des géniteurs ou des génies?",
+      "pt": "Progenitores ou gênios?",
+      "en": "Progenitors or geniuses?"
+    },
+    {
+      "tempo": 95.02,
+      "fr": "Dites-nous qui donne naissance aux irresponsables?",
+      "pt": "Diga-nos quem dá à luz pessoas irresponsáveis?",
+      "en": "Tell us who gives birth to irresponsible people?"
+    },
+    {
+      "tempo": 97.8,
+      "fr": "Ah, dites-nous qui?",
+      "pt": "Ah, diga-nos quem?",
+      "en": "Ah, tell us who?"
+    },
+    {
+      "tempo": 99.35,
+      "fr": "Tiens, tout le monde sait comment on fait des bébés",
+      "pt": "Ei, todo mundo sabe como os bebês são feitos",
+      "en": "Hey, everyone knows how babies are made"
+    },
+    {
+      "tempo": 101.71,
+      "fr": "Mais personne sait comment on fait des papas",
+      "pt": "Mas ninguém sabe como os pais são feitos",
+      "en": "But no one knows how dads are made"
+    },
+    {
+      "tempo": 103.77,
+      "fr": "Monsieur je-sais-tout en aurait hérité, c'est ça",
+      "pt": "O senhor sabe-tudo teria herdado, é isso",
+      "en": "Mr. know-it-all would have inherited it, that's it"
+    },
+    {
+      "tempo": 106.31,
+      "fr": "Faut l'sucer d'son pouce ou quoi?",
+      "pt": "Você deveria chupar com o polegar ou o quê?",
+      "en": "Should you suck it with your thumb or what?"
+    },
+    {
+      "tempo": 108.06,
+      "fr": "Dites-nous où c'est caché, ça doit",
+      "pt": "Diga-nos onde está escondido, deve",
+      "en": "Tell us where it's hidden, it must"
+    },
+    {
+      "tempo": 110.48,
+      "fr": "Faire au moins mille fois qu'on a",
+      "pt": "Faça pelo menos mil vezes o que fizemos",
+      "en": "Do at least a thousand times that we have"
+    },
+    {
+      "tempo": 112.79,
+      "fr": "Bouffé nos doigts",
+      "pt": "Coma nossos dedos",
+      "en": "Eat our fingers"
+    },
+    {
+      "tempo": 113.87,
+      "fr": "Hey",
+      "pt": "Ei",
+      "en": "Hey"
+    },
+    {
+      "tempo": 114.8,
+      "fr": "Où t'es, papaoutai?",
+      "pt": "Onde você está, papaoutai?",
+      "en": "Where are you, papaoutai?"
+    },
+    {
+      "tempo": 117.03,
+      "fr": "Où t'es, papaoutai?",
+      "pt": "Onde você está, papaoutai?",
+      "en": "Where are you, papaoutai?"
+    },
+    {
+      "tempo": 119.01,
+      "fr": "Où t'es, papaoutai?",
+      "pt": "Onde você está, papaoutai?",
+      "en": "Where are you, papaoutai?"
+    },
+    {
+      "tempo": 120.51,
+      "fr": "Où t'es, où t'es où, papaoutai?",
+      "pt": "Onde você está, onde você está, papaoutai?",
+      "en": "Where are you, where are you, papaoutai?"
+    },
+    {
+      "tempo": 123.18,
+      "fr": "Où t'es, papaoutai?",
+      "pt": "Onde você está, papaoutai?",
+      "en": "Where are you, papaoutai?"
+    },
+    {
+      "tempo": 125.2,
+      "fr": "Où t'es, papaoutai?",
+      "pt": "Onde você está, papaoutai?",
+      "en": "Where are you, papaoutai?"
+    },
+    {
+      "tempo": 127.25,
+      "fr": "Où t'es, papaoutai?",
+      "pt": "Onde você está, papaoutai?",
+      "en": "Where are you, papaoutai?"
+    },
+    {
+      "tempo": 128.85,
+      "fr": "Où t'es, où t'es où, papaoutai?",
+      "pt": "Onde você está, onde você está, papaoutai?",
+      "en": "Where are you, where are you, papaoutai?"
+    },
+    {
+      "tempo": 131.55,
+      "fr": "(Où t'es, où t'es, où t'es, où t'es, où t'es?)",
+      "pt": "(Onde você está, onde você está, onde você está, onde você está, onde você está?)",
+      "en": "(Where are you, where are you, where are you, where are you, where are you?)"
+    },
+    {
+      "tempo": 138.55,
+      "fr": "(Où t'es, où t'es, où t'es, où t'es, où t'es?)",
+      "pt": "(Onde você está, onde você está, onde você está, onde você está, onde você está?)",
+      "en": "(Where are you, where are you, where are you, where are you, where are you?)"
+    },
+    {
+      "tempo": 147.78,
+      "fr": "Où est ton papa?",
+      "pt": "Onde está seu pai?",
+      "en": "Where is your daddy?"
+    },
+    {
+      "tempo": 149.52,
+      "fr": "Dis-moi, où est ton papa?",
+      "pt": "Diga-me, onde está seu pai?",
+      "en": "Tell me, where is your daddy?"
+    },
+    {
+      "tempo": 151.42,
+      "fr": "Sans même devoir lui parler",
+      "pt": "Sem nem precisar falar com ele",
+      "en": "Without even having to talk to him"
+    },
+    {
+      "tempo": 153.53,
+      "fr": "Il sait ce qui ne va pas",
+      "pt": "Ele sabe o que há de errado",
+      "en": "He knows what's wrong"
+    },
+    {
+      "tempo": 155.78,
+      "fr": "Ah, sacré papa",
+      "pt": "Ah, santo papai",
+      "en": "Ah, holy daddy"
+    },
+    {
+      "tempo": 157.83,
+      "fr": "Dis-moi, où es-tu caché?",
+      "pt": "Diga-me, onde você está se escondendo?",
+      "en": "Tell me, where are you hiding?"
+    },
+    {
+      "tempo": 159.2,
+      "fr": "Ça doit faire au moins mille fois que j'ai",
+      "pt": "Deve ter sido pelo menos mil vezes que eu",
+      "en": "It must have been at least a thousand times that I"
+    },
+    {
+      "tempo": 162.22,
+      "fr": "Compté mes doigts",
+      "pt": "",
+      "en": "Counted my fingers"
+    },
+    {
+      "tempo": 163.44,
+      "fr": "Hey",
+      "pt": "Ei",
+      "en": "Hey"
+    },
+    {
+      "tempo": 164.48,
+      "fr": "Où est ton papa?",
+      "pt": "Onde está seu pai?",
+      "en": "Where is your daddy?"
+    },
+    {
+      "tempo": 166.07,
+      "fr": "Dis-moi, où est ton papa?",
+      "pt": "Diga-me, onde está seu pai?",
+      "en": "Tell me, where is your daddy?"
+    },
+    {
+      "tempo": 168.05,
+      "fr": "Sans même devoir lui parler",
+      "pt": "Sem nem precisar falar com ele",
+      "en": "Without even having to talk to him"
+    },
+    {
+      "tempo": 170.19,
+      "fr": "Il sait ce qui ne va pas",
+      "pt": "Ele sabe o que há de errado",
+      "en": "He knows what's wrong"
+    },
+    {
+      "tempo": 172.53,
+      "fr": "Ah, sacré papa",
+      "pt": "Ah, santo papai",
+      "en": "Ah, holy daddy"
+    },
+    {
+      "tempo": 174.47,
+      "fr": "Dis-moi, où es-tu caché?",
+      "pt": "Diga-me, onde você está se escondendo?",
+      "en": "Tell me, where are you hiding?"
+    },
+    {
+      "tempo": 175.76,
+      "fr": "Ça doit faire au moins mille fois que j'ai",
+      "pt": "Deve ter sido pelo menos mil vezes que eu",
+      "en": "It must have been at least a thousand times that I"
+    },
+    {
+      "tempo": 178.65,
+      "fr": "Compté mes doigts",
+      "pt": "Contei meus dedos",
+      "en": "Counted my fingers"
+    },
+    {
+      "tempo": 179.93,
+      "fr": "Hey",
+      "pt": "Ei",
+      "en": "Hey"
+    },
+    {
+      "tempo": 180.95,
+      "fr": "Où t'es, papaoutai?",
+      "pt": "Onde você está, papaoutai?",
+      "en": "Where are you, papaoutai?"
+    },
+    {
+      "tempo": 183.14,
+      "fr": "Où t'es, papaoutai?",
+      "pt": "Onde você está, papaoutai?",
+      "en": "Where are you, papaoutai?"
+    },
+    {
+      "tempo": 185.2,
+      "fr": "Où t'es, papaoutai?",
+      "pt": "Onde você está, papaoutai?",
+      "en": "Where are you, papaoutai?"
+    },
+    {
+      "tempo": 186.76,
+      "fr": "Où t'es, où t'es où, papaoutai?",
+      "pt": "Onde você está, onde você está, papaoutai?",
+      "en": "Where are you, where are you, papaoutai?"
+    },
+    {
+      "tempo": 189.37,
+      "fr": "Où t'es, papaoutai?",
+      "pt": "Onde você está, papaoutai?",
+      "en": "Where are you, papaoutai?"
+    },
+    {
+      "tempo": 191.41,
+      "fr": "Où t'es, papaoutai?",
+      "pt": "Onde você está, papaoutai?",
+      "en": "Where are you, papaoutai?"
+    },
+    {
+      "tempo": 193.58,
+      "fr": "Où t'es, papaoutai?",
+      "pt": "Onde você está, papaoutai?",
+      "en": "Where are you, papaoutai?"
+    },
+    {
+      "tempo": 195.05,
+      "fr": "Où t'es, où t'es où, papaoutai?",
+      "pt": "Onde você está, onde você está, papaoutai?",
+      "en": "Where are you, where are you, papaoutai?"
+    },
+    {
+      "tempo": 197.81,
+      "fr": "(Où t'es, où t'es, où t'es, où t'es, où t'es?)",
+      "pt": "(Onde você está, onde você está, onde você está, onde você está, onde você está?)",
+      "en": "(Where are you, where are you, where are you, where are you, where are you?)"
+    },
+    {
+      "tempo": 205.03,
+      "fr": "(Où t'es, où t'es, où t'es, où t'es, où t'es?)",
+      "pt": "(Onde você está, onde você está, onde você está, onde você está, onde você está?)",
+      "en": "(Where are you, where are you, where are you, where are you, where are you?)"
+    }
+  ],
+  "vocabulario": {
+    "dites-moi": {
+      "pt": "diga-me",
+      "en": "tell me"
+    },
+    "d'où": {
+      "pt": "por isso",
+      "en": "hence"
+    },
+    "il": {
+      "pt": "ele",
+      "en": "he"
+    },
+    "vient": {
+      "pt": "vir",
+      "en": "come"
+    },
+    "enfin": {
+      "pt": "Finalmente",
+      "en": "Finally"
+    },
+    "je": {
+      "pt": "EU",
+      "en": "I"
+    },
+    "saurai": {
+      "pt": "saberá",
+      "en": "will know"
+    },
+    "où": {
+      "pt": "Ou",
+      "en": "Or"
+    },
+    "vais": {
+      "pt": "ir",
+      "en": "go"
+    },
+    "maman": {
+      "pt": "Mãe",
+      "en": "Mom"
+    },
+    "dit": {
+      "pt": "disse",
+      "en": "said"
+    },
+    "que": {
+      "pt": "que",
+      "en": "that"
+    },
+    "lorsqu'on": {
+      "pt": "quando nós",
+      "en": "when we"
+    },
+    "cherche": {
+      "pt": "procurar",
+      "en": "look for"
+    },
+    "bien": {
+      "pt": "BOM",
+      "en": "GOOD"
+    },
+    "on": {
+      "pt": "nós",
+      "en": "we"
+    },
+    "finit": {
+      "pt": "termina",
+      "en": "ends"
+    },
+    "toujours": {
+      "pt": "sempre",
+      "en": "always"
+    },
+    "par": {
+      "pt": "por",
+      "en": "by"
+    },
+    "trouver": {
+      "pt": "encontrar",
+      "en": "find"
+    },
+    "elle": {
+      "pt": "Ela",
+      "en": "She"
+    },
+    "qu'il": {
+      "pt": "que ele",
+      "en": "that he"
+    },
+    "n'est": {
+      "pt": "não é",
+      "en": "is not"
+    },
+    "jamais": {
+      "pt": "Nunca",
+      "en": "Never"
+    },
+    "très": {
+      "pt": "muito",
+      "en": "very"
+    },
+    "loin": {
+      "pt": "distante",
+      "en": "far"
+    },
+    "part": {
+      "pt": "folhas",
+      "en": "leaves"
+    },
+    "souvent": {
+      "pt": "muitas vezes",
+      "en": "often"
+    },
+    "travailler": {
+      "pt": "trabalhar",
+      "en": "to work"
+    },
+    "c'est": {
+      "pt": "Isso é",
+      "en": "It is"
+    },
+    "mieux": {
+      "pt": "melhorar",
+      "en": "better"
+    },
+    "qu'être": {
+      "pt": "o que ser",
+      "en": "what to be"
+    },
+    "mal": {
+      "pt": "errado",
+      "en": "wrong"
+    },
+    "accompagné": {
+      "pt": "acompanhado",
+      "en": "accompanied"
+    },
+    "pas": {
+      "pt": "não",
+      "en": "not"
+    },
+    "vrai": {
+      "pt": "verdadeiro",
+      "en": "TRUE"
+    },
+    "est": {
+      "pt": "Leste",
+      "en": "East"
+    },
+    "ton": {
+      "pt": "seu",
+      "en": "your"
+    },
+    "papa": {
+      "pt": "pai",
+      "en": "dad"
+    },
+    "dis-moi": {
+      "pt": "Diga-me",
+      "en": "Tell me"
+    },
+    "sans": {
+      "pt": "sem",
+      "en": "without"
+    },
+    "même": {
+      "pt": "até",
+      "en": "even"
+    },
+    "devoir": {
+      "pt": "obrigação",
+      "en": "duty"
+    },
+    "lui": {
+      "pt": "ele",
+      "en": "him"
+    },
+    "parler": {
+      "pt": "falar",
+      "en": "talk"
+    },
+    "sait": {
+      "pt": "sabe",
+      "en": "knows"
+    },
+    "ce": {
+      "pt": "Esse",
+      "en": "This"
+    },
+    "qui": {
+      "pt": "Quem",
+      "en": "Who"
+    },
+    "ne": {
+      "pt": "nascer",
+      "en": "born"
+    },
+    "va": {
+      "pt": "ir",
+      "en": "go"
+    },
+    "ah": {
+      "pt": "oh",
+      "en": "oh"
+    },
+    "sacré": {
+      "pt": "sagrado",
+      "en": "sacred"
+    },
+    "es-tu": {
+      "pt": "você é",
+      "en": "are you"
+    },
+    "caché": {
+      "pt": "escondido",
+      "en": "hidden"
+    },
+    "ça": {
+      "pt": "Que",
+      "en": "That"
+    },
+    "doit": {
+      "pt": "deve",
+      "en": "must"
+    },
+    "faire": {
+      "pt": "PENDÊNCIA",
+      "en": "TO DO"
+    },
+    "au": {
+      "pt": "No",
+      "en": "At"
+    },
+    "moins": {
+      "pt": "menos",
+      "en": "less"
+    },
+    "mille": {
+      "pt": "mil",
+      "en": "thousand"
+    },
+    "fois": {
+      "pt": "vezes",
+      "en": "times"
+    },
+    "j'ai": {
+      "pt": "Eu tenho",
+      "en": "I have"
+    },
+    "compté": {
+      "pt": "conta",
+      "en": "account"
+    },
+    "mes": {
+      "pt": "meu",
+      "en": "my"
+    },
+    "doigts": {
+      "pt": "dedos",
+      "en": "fingers"
+    },
+    "hey": {
+      "pt": "ei",
+      "en": "hey"
+    },
+    "t'es": {
+      "pt": "seu",
+      "en": "your"
+    },
+    "papaoutai": {
+      "pt": "papaoutai",
+      "en": "papaoutai"
+    },
+    "quoi": {
+      "pt": "O que",
+      "en": "What"
+    },
+    "qu'on": {
+      "pt": "que nós",
+      "en": "that we"
+    },
+    "y": {
+      "pt": "sim",
+      "en": "y"
+    },
+    "croie": {
+      "pt": "acreditar",
+      "en": "believe"
+    },
+    "ou": {
+      "pt": "Ou",
+      "en": "Or"
+    },
+    "aura": {
+      "pt": "terá",
+      "en": "will have"
+    },
+    "un": {
+      "pt": "UM",
+      "en": "A"
+    },
+    "jour": {
+      "pt": "dia",
+      "en": "day"
+    },
+    "n'y": {
+      "pt": "não",
+      "en": ""
+    },
+    "croira": {
+      "pt": "",
+      "en": ""
+    },
+    "plus": {
+      "pt": "",
+      "en": "more"
+    },
+    "l'autre": {
+      "pt": "o outro",
+      "en": "the other"
+    },
+    "sera": {
+      "pt": "",
+      "en": ""
+    },
+    "tous": {
+      "pt": "",
+      "en": "all"
+    },
+    "et": {
+      "pt": "E",
+      "en": "And"
+    },
+    "d'un": {
+      "pt": "de um",
+      "en": "of a"
+    },
+    "à": {
+      "pt": "tem",
+      "en": "has"
+    },
+    "disparu": {
+      "pt": "",
+      "en": "disappeared"
+    },
+    "serons-nous": {
+      "pt": "seremos nós",
+      "en": ""
+    },
+    "détestables": {
+      "pt": "detestável",
+      "en": "detestable"
+    },
+    "admirables": {
+      "pt": "admirável",
+      "en": "admirable"
+    },
+    "des": {
+      "pt": "do",
+      "en": "of the"
+    },
+    "géniteurs": {
+      "pt": "reprodutor",
+      "en": "broodstock"
+    },
+    "génies": {
+      "pt": "gênios",
+      "en": "geniuses"
+    },
+    "dites-nous": {
+      "pt": "diga-nos",
+      "en": "tell us"
+    },
+    "donne": {
+      "pt": "dado",
+      "en": "given"
+    },
+    "naissance": {
+      "pt": "aniversário",
+      "en": "birth"
+    },
+    "aux": {
+      "pt": "para",
+      "en": "to"
+    },
+    "irresponsables": {
+      "pt": "irresponsável",
+      "en": "irresponsible"
+    },
+    "tiens": {
+      "pt": "segurar",
+      "en": "hold"
+    },
+    "tout": {
+      "pt": "Todos",
+      "en": "All"
+    },
+    "le": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "monde": {
+      "pt": "mundo",
+      "en": "world"
+    },
+    "comment": {
+      "pt": "como",
+      "en": "how"
+    },
+    "fait": {
+      "pt": "fazer",
+      "en": "do"
+    },
+    "bébés": {
+      "pt": "bebês",
+      "en": "babies"
+    },
+    "mais": {
+      "pt": "mas",
+      "en": "but"
+    },
+    "personne": {
+      "pt": "pessoa",
+      "en": "person"
+    },
+    "papas": {
+      "pt": "pais",
+      "en": "dads"
+    },
+    "monsieur": {
+      "pt": "Senhor",
+      "en": "Sir"
+    },
+    "je-sais-tout": {
+      "pt": "sabe-tudo",
+      "en": "know-it-all"
+    },
+    "en": {
+      "pt": "em",
+      "en": "in"
+    },
+    "aurait": {
+      "pt": "teria",
+      "en": "would have"
+    },
+    "hérité": {
+      "pt": "herdado",
+      "en": "inherited"
+    },
+    "faut": {
+      "pt": "deve",
+      "en": "must"
+    },
+    "l'sucer": {
+      "pt": "chupe",
+      "en": "suck it"
+    },
+    "d'son": {
+      "pt": "dele",
+      "en": "of his"
+    },
+    "pouce": {
+      "pt": "dedão",
+      "en": "thumb"
+    },
+    "a": {
+      "pt": "tem",
+      "en": "has"
+    },
+    "bouffé": {
+      "pt": "comida",
+      "en": "food"
+    },
+    "nos": {
+      "pt": "nosso",
+      "en": "our"
+    }
+  },
+  "ordem": 51
+}

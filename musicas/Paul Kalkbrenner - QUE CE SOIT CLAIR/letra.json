@@ -1,0 +1,402 @@
+{
+  "titulo": "QUE CE SOIT CLAIR",
+  "artista": "Paul Kalkbrenner",
+  "arquivo_audio": "audio.mp3",
+  "linhas": [
+    {
+      "tempo": 22.38,
+      "fr": "Que ce soit clair, oui",
+      "pt": "Deixe ficar claro, sim",
+      "en": "Let it be clear, yes"
+    },
+    {
+      "tempo": 23.74,
+      "fr": "Un peu comme un fou, j'l'aime",
+      "pt": "Um pouco louco, eu adoro isso",
+      "en": "A bit like crazy, I love it"
+    },
+    {
+      "tempo": 25.41,
+      "fr": "Soit trop belle ou pas assez",
+      "pt": "Ou muito bonito ou não o suficiente",
+      "en": "Either too beautiful or not enough"
+    },
+    {
+      "tempo": 27.17,
+      "fr": "Oui, mais j'm'en fous, j'l'aime",
+      "pt": "Sim, mas eu não me importo, eu o amo",
+      "en": "Yes, but I don't care, I love him"
+    },
+    {
+      "tempo": 29.32,
+      "fr": "Tel ou tel a dit ceci",
+      "pt": "Fulano de tal disse isso",
+      "en": "So and so said this"
+    },
+    {
+      "tempo": 31.02,
+      "fr": "Ouais, mais j'm'en fous, j'l'aime",
+      "pt": "Sim, mas eu não me importo, eu o amo",
+      "en": "Yeah, but I don't care, I love him"
+    },
+    {
+      "tempo": 33.24,
+      "fr": "Qu'elle soit Belge, Américaine",
+      "pt": "Seja ela belga ou americana",
+      "en": "Whether she is Belgian or American"
+    },
+    {
+      "tempo": 34.66,
+      "fr": "Ou qu'elle soit Roumaine",
+      "pt": "Ou que ela é romena",
+      "en": "Or that she is Romanian"
+    },
+    {
+      "tempo": 36.27,
+      "fr": "Même si notre amour gêne",
+      "pt": "Mesmo que nosso amor atrapalhe",
+      "en": "Even if our love gets in the way"
+    },
+    {
+      "tempo": 38.09,
+      "fr": "Un peu comme un fou, j'l'aime",
+      "pt": "Um pouco louco, eu adoro isso",
+      "en": "A bit like crazy, I love it"
+    },
+    {
+      "tempo": 40.38,
+      "fr": "Soit trop belle ou pas assez",
+      "pt": "Ou muito bonito ou não o suficiente",
+      "en": "Either too beautiful or not enough"
+    },
+    {
+      "tempo": 41.82,
+      "fr": "Oui, mais j'm'en fous, j'l'aime",
+      "pt": "Sim, mas eu não me importo, eu o amo",
+      "en": "Yes, but I don't care, I love him"
+    },
+    {
+      "tempo": 44.22,
+      "fr": "Tel ou tel a dit ceci",
+      "pt": "Fulano de tal disse isso",
+      "en": "So and so said this"
+    },
+    {
+      "tempo": 45.68,
+      "fr": "Ouais, mais j'm'en fous, j'l'aime",
+      "pt": "Sim, mas eu não me importo, eu o amo",
+      "en": "Yeah, but I don't care, I love him"
+    },
+    {
+      "tempo": 47.88,
+      "fr": "Qu'elle soit Belge, Américaine",
+      "pt": "Seja ela belga ou americana",
+      "en": "Whether she is Belgian or American"
+    },
+    {
+      "tempo": 49.3,
+      "fr": "Ou qu'elle soit Roumaine",
+      "pt": "Ou que ela é romena",
+      "en": "Or that she is Romanian"
+    },
+    {
+      "tempo": 51.1,
+      "fr": "Même si notre amour gêne",
+      "pt": "Mesmo que nosso amor atrapalhe",
+      "en": "Even if our love gets in the way"
+    },
+    {
+      "tempo": 79.46,
+      "fr": "Même si notre amour gêne",
+      "pt": "Mesmo que nosso amor atrapalhe",
+      "en": "Even if our love gets in the way"
+    },
+    {
+      "tempo": 80.54,
+      "fr": "Un peu comme un fou, j'l'aime",
+      "pt": "Um pouco louco, eu adoro isso",
+      "en": "A bit like crazy, I love it"
+    },
+    {
+      "tempo": 111.07,
+      "fr": "Que ce soit clair, oui",
+      "pt": "Deixe ficar claro, sim",
+      "en": "Let it be clear, yes"
+    },
+    {
+      "tempo": 111.82,
+      "fr": "Un peu comme un fou, j'l'aime",
+      "pt": "Um pouco louco, eu adoro isso",
+      "en": "A bit like crazy, I love it"
+    },
+    {
+      "tempo": 114.16,
+      "fr": "Soit trop belle ou pas assez",
+      "pt": "Ou muito bonito ou não o suficiente",
+      "en": "Either too beautiful or not enough"
+    },
+    {
+      "tempo": 115.46,
+      "fr": "Oui, mais j'm'en fous, j'l'aime",
+      "pt": "Sim, mas eu não me importo, eu o amo",
+      "en": "Yes, but I don't care, I love him"
+    },
+    {
+      "tempo": 117.78,
+      "fr": "Tel ou tel a dit ceci",
+      "pt": "Fulano de tal disse isso",
+      "en": "So and so said this"
+    },
+    {
+      "tempo": 119.58,
+      "fr": "Ouais, mais j'm'en fous, j'l'aime",
+      "pt": "Sim, mas eu não me importo, eu o amo",
+      "en": "Yeah, but I don't care, I love him"
+    },
+    {
+      "tempo": 121.56,
+      "fr": "Qu'elle soit Belge, Américaine",
+      "pt": "Seja ela belga ou americana",
+      "en": "Whether she is Belgian or American"
+    },
+    {
+      "tempo": 123.07,
+      "fr": "Ou qu'elle soit Roumaine",
+      "pt": "Ou que ela é romena",
+      "en": "Or that she is Romanian"
+    },
+    {
+      "tempo": 124.77,
+      "fr": "Même si notre amour gêne",
+      "pt": "Mesmo que nosso amor atrapalhe",
+      "en": "Even if our love gets in the way"
+    },
+    {
+      "tempo": 126.93,
+      "fr": "Un peu comme un fou, j'l'aime",
+      "pt": "Um pouco louco, eu adoro isso",
+      "en": "A bit like crazy, I love it"
+    },
+    {
+      "tempo": 128.61,
+      "fr": "Soit trop belle ou pas assez",
+      "pt": "Ou muito bonito ou não o suficiente",
+      "en": "Either too beautiful or not enough"
+    },
+    {
+      "tempo": 130.36,
+      "fr": "Oui, mais j'm'en fous, j'l'aime",
+      "pt": "Sim, mas eu não me importo, eu o amo",
+      "en": "Yes, but I don't care, I love him"
+    },
+    {
+      "tempo": 132.24,
+      "fr": "Tel ou tel a dit ceci",
+      "pt": "Fulano de tal disse isso",
+      "en": "So and so said this"
+    },
+    {
+      "tempo": 134.08,
+      "fr": "Ouais, mais j'm'en fous, j'l'aime",
+      "pt": "Sim, mas eu não me importo, eu o amo",
+      "en": "Yeah, but I don't care, I love him"
+    },
+    {
+      "tempo": 136.26,
+      "fr": "Qu'elle soit Belge, Américaine",
+      "pt": "Seja ela belga ou americana",
+      "en": "Whether she is Belgian or American"
+    },
+    {
+      "tempo": 137.79,
+      "fr": "Ou qu'elle soit Roumaine",
+      "pt": "Ou que ela é romena",
+      "en": "Or that she is Romanian"
+    },
+    {
+      "tempo": 139.83,
+      "fr": "Même si notre amour gêne",
+      "pt": "Mesmo que nosso amor atrapalhe",
+      "en": "Even if our love gets in the way"
+    },
+    {
+      "tempo": 140.89,
+      "fr": "Un peu comme un fou, j'l'aime",
+      "pt": "Um pouco louco, eu adoro isso",
+      "en": "A bit like crazy, I love it"
+    },
+    {
+      "tempo": 143.24,
+      "fr": "Soit trop belle ou pas assez",
+      "pt": "Ou muito bonito ou não o suficiente",
+      "en": "Either too beautiful or not enough"
+    },
+    {
+      "tempo": 145.19,
+      "fr": "Oui, mais j'm'en fous, j'l'aime",
+      "pt": "Sim, mas eu não me importo, eu o amo",
+      "en": "Yes, but I don't care, I love him"
+    },
+    {
+      "tempo": 147.15,
+      "fr": "Tel ou tel a dit ceci",
+      "pt": "Fulano de tal disse isso",
+      "en": "So and so said this"
+    },
+    {
+      "tempo": 148.84,
+      "fr": "Ouais, mais j'm'en fous, j'l'aime",
+      "pt": "Sim, mas eu não me importo, eu o amo",
+      "en": "Yeah, but I don't care, I love him"
+    },
+    {
+      "tempo": 150.98,
+      "fr": "Qu'elle soit Belge, Américaine",
+      "pt": "Seja ela belga ou americana",
+      "en": "Whether she is Belgian or American"
+    },
+    {
+      "tempo": 152.58,
+      "fr": "Ou qu'elle soit Roumaine",
+      "pt": "Ou que ela é romena",
+      "en": "Or that she is Romanian"
+    },
+    {
+      "tempo": 154.46,
+      "fr": "Même si notre amour gêne",
+      "pt": "Mesmo que nosso amor atrapalhe",
+      "en": "Even if our love gets in the way"
+    }
+  ],
+  "vocabulario": {
+    "que": {
+      "pt": "que",
+      "en": "that"
+    },
+    "ce": {
+      "pt": "Esse",
+      "en": "This"
+    },
+    "soit": {
+      "pt": "qualquer",
+      "en": "either"
+    },
+    "clair": {
+      "pt": "claro",
+      "en": "clear"
+    },
+    "oui": {
+      "pt": "Sim",
+      "en": "Yes"
+    },
+    "un": {
+      "pt": "UM",
+      "en": "A"
+    },
+    "peu": {
+      "pt": "pequeno",
+      "en": "little"
+    },
+    "comme": {
+      "pt": "como",
+      "en": "as"
+    },
+    "fou": {
+      "pt": "louco",
+      "en": "mad"
+    },
+    "j'l'aime": {
+      "pt": "Eu amo isso",
+      "en": "I love it"
+    },
+    "trop": {
+      "pt": "demais",
+      "en": "too much"
+    },
+    "belle": {
+      "pt": "lindo",
+      "en": "beautiful"
+    },
+    "ou": {
+      "pt": "Ou",
+      "en": "Or"
+    },
+    "pas": {
+      "pt": "não",
+      "en": "not"
+    },
+    "assez": {
+      "pt": "suficiente",
+      "en": "enough"
+    },
+    "mais": {
+      "pt": "mas",
+      "en": "but"
+    },
+    "j'm'en": {
+      "pt": "terminei",
+      "en": "I'm done"
+    },
+    "fous": {
+      "pt": "louco",
+      "en": "crazy"
+    },
+    "tel": {
+      "pt": "tal",
+      "en": "such"
+    },
+    "a": {
+      "pt": "tem",
+      "en": "has"
+    },
+    "dit": {
+      "pt": "disse",
+      "en": "said"
+    },
+    "ceci": {
+      "pt": "esse",
+      "en": "this"
+    },
+    "ouais": {
+      "pt": "Sim",
+      "en": "Yeah"
+    },
+    "qu'elle": {
+      "pt": "o que",
+      "en": "what"
+    },
+    "belge": {
+      "pt": "Belga",
+      "en": "Belgian"
+    },
+    "américaine": {
+      "pt": "americano",
+      "en": "American"
+    },
+    "roumaine": {
+      "pt": "romeno",
+      "en": "Romanian"
+    },
+    "même": {
+      "pt": "até",
+      "en": "even"
+    },
+    "si": {
+      "pt": "se",
+      "en": "if"
+    },
+    "notre": {
+      "pt": "NOSSO",
+      "en": "OUR"
+    },
+    "amour": {
+      "pt": "amor",
+      "en": "love"
+    },
+    "gêne": {
+      "pt": "envergonhado",
+      "en": "embarrassed"
+    }
+  },
+  "ordem": 36
+}

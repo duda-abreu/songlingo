@@ -1,0 +1,562 @@
+{
+  "titulo": "Sunflower",
+  "artista": "Tamino",
+  "arquivo_audio": "audio.mp3",
+  "linhas": [
+    {
+      "tempo": 26.0,
+      "fr": "Down by the banks a sunflower blooms",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 31.25,
+      "fr": "Reaching into the clouds",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 37.9,
+      "fr": "Ever young and ever growing",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 43.89,
+      "fr": "Defying the hardest winds' blowing",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 50.09,
+      "fr": "Time and again I have drawn her",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 54.99,
+      "fr": "Ever since she was a golden-haired girl",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 62.72,
+      "fr": "Taken up by devotion",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 69.1,
+      "fr": "I still hear her sing by the ocean",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 76.85,
+      "fr": "Oh, baby, don't you notice me, notice me?",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 89.47,
+      "fr": "So ready to lose everything",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 96.93,
+      "fr": "Everything for your love",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 115.36,
+      "fr": "Every day I'm getting closer to you",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 121.39,
+      "fr": "But you never answer my song",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 127.85,
+      "fr": "I know love does not come easy",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 133.89,
+      "fr": "Oh, there must be someone who hears me",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 142.09,
+      "fr": "Oh, baby, don't you notice me, notice me?",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 154.0,
+      "fr": "So ready to lose everything, everything",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 166.63,
+      "fr": "Oh, baby, don't you notice me, notice me?",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 178.84,
+      "fr": "So ready to lose everything",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 186.79,
+      "fr": "Everything for your love",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 198.42,
+      "fr": "For your love",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 204.2,
+      "fr": "Your love",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 224.0,
+      "fr": "Now I water the ground in which she stands",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 229.67,
+      "fr": "And shield her from every storm",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 235.86,
+      "fr": "For if I don't we might go under",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 242.3,
+      "fr": "Forever bound asunder",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 248.63,
+      "fr": "No God above who will wonder",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 254.1,
+      "fr": "What about us",
+      "pt": "",
+      "en": ""
+    }
+  ],
+  "vocabulario": {
+    "down": {
+      "pt": "",
+      "en": ""
+    },
+    "by": {
+      "pt": "",
+      "en": ""
+    },
+    "the": {
+      "pt": "",
+      "en": ""
+    },
+    "banks": {
+      "pt": "",
+      "en": ""
+    },
+    "a": {
+      "pt": "",
+      "en": ""
+    },
+    "sunflower": {
+      "pt": "",
+      "en": ""
+    },
+    "blooms": {
+      "pt": "",
+      "en": ""
+    },
+    "reaching": {
+      "pt": "",
+      "en": ""
+    },
+    "into": {
+      "pt": "",
+      "en": ""
+    },
+    "clouds": {
+      "pt": "",
+      "en": ""
+    },
+    "ever": {
+      "pt": "",
+      "en": ""
+    },
+    "young": {
+      "pt": "",
+      "en": ""
+    },
+    "and": {
+      "pt": "",
+      "en": ""
+    },
+    "growing": {
+      "pt": "",
+      "en": ""
+    },
+    "defying": {
+      "pt": "",
+      "en": ""
+    },
+    "hardest": {
+      "pt": "",
+      "en": ""
+    },
+    "winds": {
+      "pt": "",
+      "en": ""
+    },
+    "blowing": {
+      "pt": "",
+      "en": ""
+    },
+    "time": {
+      "pt": "",
+      "en": ""
+    },
+    "again": {
+      "pt": "",
+      "en": ""
+    },
+    "i": {
+      "pt": "",
+      "en": ""
+    },
+    "have": {
+      "pt": "",
+      "en": ""
+    },
+    "drawn": {
+      "pt": "",
+      "en": ""
+    },
+    "her": {
+      "pt": "",
+      "en": ""
+    },
+    "since": {
+      "pt": "",
+      "en": ""
+    },
+    "she": {
+      "pt": "",
+      "en": ""
+    },
+    "was": {
+      "pt": "",
+      "en": ""
+    },
+    "golden-haired": {
+      "pt": "",
+      "en": ""
+    },
+    "girl": {
+      "pt": "",
+      "en": ""
+    },
+    "taken": {
+      "pt": "",
+      "en": ""
+    },
+    "up": {
+      "pt": "",
+      "en": ""
+    },
+    "devotion": {
+      "pt": "",
+      "en": ""
+    },
+    "still": {
+      "pt": "",
+      "en": ""
+    },
+    "hear": {
+      "pt": "",
+      "en": ""
+    },
+    "sing": {
+      "pt": "",
+      "en": ""
+    },
+    "ocean": {
+      "pt": "",
+      "en": ""
+    },
+    "oh": {
+      "pt": "",
+      "en": ""
+    },
+    "baby": {
+      "pt": "",
+      "en": ""
+    },
+    "don't": {
+      "pt": "",
+      "en": ""
+    },
+    "you": {
+      "pt": "",
+      "en": ""
+    },
+    "notice": {
+      "pt": "",
+      "en": ""
+    },
+    "me": {
+      "pt": "",
+      "en": ""
+    },
+    "so": {
+      "pt": "",
+      "en": ""
+    },
+    "ready": {
+      "pt": "",
+      "en": ""
+    },
+    "to": {
+      "pt": "",
+      "en": ""
+    },
+    "lose": {
+      "pt": "",
+      "en": ""
+    },
+    "everything": {
+      "pt": "",
+      "en": ""
+    },
+    "for": {
+      "pt": "",
+      "en": ""
+    },
+    "your": {
+      "pt": "",
+      "en": ""
+    },
+    "love": {
+      "pt": "",
+      "en": ""
+    },
+    "every": {
+      "pt": "",
+      "en": ""
+    },
+    "day": {
+      "pt": "",
+      "en": ""
+    },
+    "i'm": {
+      "pt": "",
+      "en": ""
+    },
+    "getting": {
+      "pt": "",
+      "en": ""
+    },
+    "closer": {
+      "pt": "",
+      "en": ""
+    },
+    "but": {
+      "pt": "",
+      "en": ""
+    },
+    "never": {
+      "pt": "",
+      "en": ""
+    },
+    "answer": {
+      "pt": "",
+      "en": ""
+    },
+    "my": {
+      "pt": "",
+      "en": ""
+    },
+    "song": {
+      "pt": "",
+      "en": ""
+    },
+    "know": {
+      "pt": "",
+      "en": ""
+    },
+    "does": {
+      "pt": "",
+      "en": ""
+    },
+    "not": {
+      "pt": "",
+      "en": ""
+    },
+    "come": {
+      "pt": "",
+      "en": ""
+    },
+    "easy": {
+      "pt": "",
+      "en": ""
+    },
+    "there": {
+      "pt": "",
+      "en": ""
+    },
+    "must": {
+      "pt": "",
+      "en": ""
+    },
+    "be": {
+      "pt": "",
+      "en": ""
+    },
+    "someone": {
+      "pt": "",
+      "en": ""
+    },
+    "who": {
+      "pt": "",
+      "en": ""
+    },
+    "hears": {
+      "pt": "",
+      "en": ""
+    },
+    "now": {
+      "pt": "",
+      "en": ""
+    },
+    "water": {
+      "pt": "",
+      "en": ""
+    },
+    "ground": {
+      "pt": "",
+      "en": ""
+    },
+    "in": {
+      "pt": "",
+      "en": ""
+    },
+    "which": {
+      "pt": "",
+      "en": ""
+    },
+    "stands": {
+      "pt": "",
+      "en": ""
+    },
+    "shield": {
+      "pt": "",
+      "en": ""
+    },
+    "from": {
+      "pt": "",
+      "en": ""
+    },
+    "storm": {
+      "pt": "",
+      "en": ""
+    },
+    "if": {
+      "pt": "",
+      "en": ""
+    },
+    "we": {
+      "pt": "",
+      "en": ""
+    },
+    "might": {
+      "pt": "",
+      "en": ""
+    },
+    "go": {
+      "pt": "",
+      "en": ""
+    },
+    "under": {
+      "pt": "",
+      "en": ""
+    },
+    "forever": {
+      "pt": "",
+      "en": ""
+    },
+    "bound": {
+      "pt": "",
+      "en": ""
+    },
+    "asunder": {
+      "pt": "",
+      "en": ""
+    },
+    "no": {
+      "pt": "",
+      "en": ""
+    },
+    "god": {
+      "pt": "",
+      "en": ""
+    },
+    "above": {
+      "pt": "",
+      "en": ""
+    },
+    "will": {
+      "pt": "",
+      "en": ""
+    },
+    "wonder": {
+      "pt": "",
+      "en": ""
+    },
+    "what": {
+      "pt": "",
+      "en": ""
+    },
+    "about": {
+      "pt": "",
+      "en": ""
+    },
+    "us": {
+      "pt": "",
+      "en": ""
+    }
+  },
+  "ordem": 61
+}

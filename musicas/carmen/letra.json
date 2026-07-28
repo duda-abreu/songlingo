@@ -1,0 +1,828 @@
+{
+  "titulo": "Carmen",
+  "artista": "Stromae",
+  "arquivo_audio": "audio.mp3",
+  "linhas": [
+    {
+      "tempo": 9.53,
+      "fr": "On est bleu de lui seulement pour 48 heures",
+      "pt": "Só ficamos tristes por causa dele por 48 horas",
+      "en": "We're only blue about him for 48 hours"
+    },
+    {
+      "tempo": 12.66,
+      "fr": "D'abord on s'affillie, ensuite on se follow",
+      "pt": "Primeiro nos afiliamos, depois seguimos uns aos outros",
+      "en": "First we affiliate, then we follow each other"
+    },
+    {
+      "tempo": 15.9,
+      "fr": "On en devient fêlé et on finit solo",
+      "pt": "Ficamos bravos e acabamos sozinhos",
+      "en": "We get mad and end up alone"
+    },
+    {
+      "tempo": 19.08,
+      "fr": "Prends garde à toi",
+      "pt": "Tomar cuidado",
+      "en": "Take care"
+    },
+    {
+      "tempo": 20.38,
+      "fr": "Et à tous ceux qui vous like",
+      "pt": "E para todos que gostam de você",
+      "en": "And to everyone who likes you"
+    },
+    {
+      "tempo": 21.91,
+      "fr": "Et les sourires en plastique sont souvent des coups d'hashtag",
+      "pt": "E os sorrisos de plástico são muitas vezes fotos de hashtag",
+      "en": "And the plastic smiles are often hashtag shots"
+    },
+    {
+      "tempo": 25.27,
+      "fr": "Prends garde à toi",
+      "pt": "Tomar cuidado",
+      "en": "Take care"
+    },
+    {
+      "tempo": 26.7,
+      "fr": "Ah les amis, les potes ou les followers",
+      "pt": "Ah amigos, amigas ou seguidores",
+      "en": "Ah friends, friends or followers"
+    },
+    {
+      "tempo": 29.35,
+      "fr": "Vous faites erreur, vous avez juste la cote",
+      "pt": "Você está errado, você é apenas popular",
+      "en": "You are wrong, you are just popular"
+    },
+    {
+      "tempo": 31.64,
+      "fr": "Prends garde à toi",
+      "pt": "Tomar cuidado",
+      "en": "Take care"
+    },
+    {
+      "tempo": 33.95,
+      "fr": "Si tu t'aimes",
+      "pt": "Se você se ama",
+      "en": "If you love yourself"
+    },
+    {
+      "tempo": 35.07,
+      "fr": "Garde à moi",
+      "pt": "Mantenha-me",
+      "en": "Keep me"
+    },
+    {
+      "tempo": 37.07,
+      "fr": "Si je m'aime",
+      "pt": "Se eu me amo",
+      "en": "If I love myself"
+    },
+    {
+      "tempo": 38.34,
+      "fr": "Garde à nous",
+      "pt": "Cuidado com a gente",
+      "en": "Watch out for us"
+    },
+    {
+      "tempo": 39.87,
+      "fr": "Garde à eux",
+      "pt": "Cuidado com eles",
+      "en": "Watch out for them"
+    },
+    {
+      "tempo": 41.77,
+      "fr": "Garde à vous",
+      "pt": "Tomar cuidado",
+      "en": "Take care"
+    },
+    {
+      "tempo": 42.58,
+      "fr": "Et puis chacun pour soi",
+      "pt": "E então cada um por si",
+      "en": "And then everyone for themselves"
+    },
+    {
+      "tempo": 44.23,
+      "fr": "Et c'est comme ça qu'on s'aime, s'aime, s'aime, s'aime",
+      "pt": "E é assim que nos amamos, nos amamos, nos amamos, nos amamos",
+      "en": "And that's how we love each other, love each other, love each other, love each other"
+    },
+    {
+      "tempo": 47.83,
+      "fr": "Comme ça consomme-somme-somme-somme",
+      "pt": "Como se consumisse soma-soma-soma",
+      "en": "Like it consumes-sum-sum-sum"
+    },
+    {
+      "tempo": 50.78,
+      "fr": "Et c'est comme ça qu'on s'aime, s'aime, s'aime, s'aime",
+      "pt": "E é assim que nos amamos, nos amamos, nos amamos, nos amamos",
+      "en": "And that's how we love each other, love each other, love each other, love each other"
+    },
+    {
+      "tempo": 54.36,
+      "fr": "Comme ça consomme-somme-somme-somme",
+      "pt": "Como se consumisse soma-soma-soma",
+      "en": "Like it consumes-sum-sum-sum"
+    },
+    {
+      "tempo": 57.22,
+      "fr": "Et c'est comme ça qu'on s'aime, s'aime, s'aime, s'aime",
+      "pt": "E é assim que nos amamos, nos amamos, nos amamos, nos amamos",
+      "en": "And that's how we love each other, love each other, love each other, love each other"
+    },
+    {
+      "tempo": 60.57,
+      "fr": "Comme ça consomme-somme-somme-somme",
+      "pt": "Como se consumisse soma-soma-soma",
+      "en": "Like it consumes-sum-sum-sum"
+    },
+    {
+      "tempo": 63.82,
+      "fr": "Et c'est comme ça qu'on s'aime, s'aime, s'aime, s'aime",
+      "pt": "E é assim que nos amamos, nos amamos, nos amamos, nos amamos",
+      "en": "And that's how we love each other, love each other, love each other, love each other"
+    },
+    {
+      "tempo": 66.96,
+      "fr": "Comme ça consomme-somme-somme-somme",
+      "pt": "Como se consumisse soma-soma-soma",
+      "en": "Like it consumes-sum-sum-sum"
+    },
+    {
+      "tempo": 73.6,
+      "fr": "L'amour est enfant de la consommation",
+      "pt": "O amor é filho do consumo",
+      "en": "Love is the child of consumption"
+    },
+    {
+      "tempo": 76.47,
+      "fr": "Il voudra toujours, toujours, toujours plus de choix",
+      "pt": "Ele sempre, sempre, sempre vai querer mais opções",
+      "en": "He will always, always, always want more choices"
+    },
+    {
+      "tempo": 79.84,
+      "fr": "Voulez, voulez-vous des sentiments tombés du camion",
+      "pt": "Quer, você quer sentimentos que caíram do caminhão",
+      "en": "Want, do you want feelings that fell off the truck"
+    },
+    {
+      "tempo": 83.16,
+      "fr": "L'offre et la demande pour unique et seule loi?",
+      "pt": "Oferta e procura por uma única lei?",
+      "en": "Supply and demand for one and only law?"
+    },
+    {
+      "tempo": 86.26,
+      "fr": "Prends garde à toi",
+      "pt": "Tomar cuidado",
+      "en": "Take care"
+    },
+    {
+      "tempo": 87.51,
+      "fr": "Mais j'en connais déjà les dangers, moi",
+      "pt": "Mas eu já conheço os perigos",
+      "en": "But I already know the dangers"
+    },
+    {
+      "tempo": 89.39,
+      "fr": "J'ai gardé mon ticket et s'il faut je vais l'échanger, moi",
+      "pt": "Guardei meu ingresso e se necessário irei trocá-lo.",
+      "en": "I kept my ticket and if necessary I will exchange it."
+    },
+    {
+      "tempo": 92.73,
+      "fr": "Prends garde à toi",
+      "pt": "Tomar cuidado",
+      "en": "Take care"
+    },
+    {
+      "tempo": 94.02,
+      "fr": "Et s'il le faut j'irai me venger, moi",
+      "pt": "E se necessário eu irei e me vingarei",
+      "en": "And if necessary I will go and take revenge"
+    },
+    {
+      "tempo": 96.07,
+      "fr": "Cet oiseau de malheur je le met en cage, je le fais chanter moi",
+      "pt": "Coloquei esse pássaro da desgraça em uma gaiola, faço ele cantar para mim",
+      "en": "I put this bird of misfortune in a cage, I make it sing to me"
+    },
+    {
+      "tempo": 99.12,
+      "fr": "Prends garde à toi",
+      "pt": "Tomar cuidado",
+      "en": "Take care"
+    },
+    {
+      "tempo": 100.93,
+      "fr": "Si tu t'aimes",
+      "pt": "Se você se ama",
+      "en": "If you love yourself"
+    },
+    {
+      "tempo": 102.44,
+      "fr": "Garde à moi",
+      "pt": "Mantenha-me",
+      "en": "Keep me"
+    },
+    {
+      "tempo": 104.23,
+      "fr": "Si je m'aime",
+      "pt": "Se eu me amo",
+      "en": "If I love myself"
+    },
+    {
+      "tempo": 105.59,
+      "fr": "Garde à nous",
+      "pt": "Cuidado com a gente",
+      "en": "Watch out for us"
+    },
+    {
+      "tempo": 107.19,
+      "fr": "Garde à eux",
+      "pt": "Cuidado com eles",
+      "en": "Watch out for them"
+    },
+    {
+      "tempo": 108.99,
+      "fr": "Garde à vous",
+      "pt": "Tomar cuidado",
+      "en": "Take care"
+    },
+    {
+      "tempo": 109.96,
+      "fr": "Et puis chacun pour soi",
+      "pt": "E então cada um por si",
+      "en": "And then everyone for themselves"
+    },
+    {
+      "tempo": 111.56,
+      "fr": "Et c'est comme ça qu'on s'aime, s'aime, s'aime, s'aime",
+      "pt": "E é assim que nos amamos, nos amamos, nos amamos, nos amamos",
+      "en": "And that's how we love each other, love each other, love each other, love each other"
+    },
+    {
+      "tempo": 114.83,
+      "fr": "Comme ça consomme-somme-somme-somme",
+      "pt": "Como se consumisse soma-soma-soma",
+      "en": "Like it consumes-sum-sum-sum"
+    },
+    {
+      "tempo": 117.94,
+      "fr": "Et c'est comme ça qu'on s'aime, s'aime, s'aime, s'aime",
+      "pt": "E é assim que nos amamos, nos amamos, nos amamos, nos amamos",
+      "en": "And that's how we love each other, love each other, love each other, love each other"
+    },
+    {
+      "tempo": 121.24,
+      "fr": "Comme ça consomme-somme-somme-somme",
+      "pt": "Como se consumisse soma-soma-soma",
+      "en": "Like it consumes-sum-sum-sum"
+    },
+    {
+      "tempo": 124.32,
+      "fr": "Et c'est comme ça qu'on s'aime, s'aime, s'aime, s'aime",
+      "pt": "E é assim que nos amamos, nos amamos, nos amamos, nos amamos",
+      "en": "And that's how we love each other, love each other, love each other, love each other"
+    },
+    {
+      "tempo": 127.77,
+      "fr": "Comme ça consomme-somme-somme-somme",
+      "pt": "Como se consumisse soma-soma-soma",
+      "en": "Like it consumes-sum-sum-sum"
+    },
+    {
+      "tempo": 130.88,
+      "fr": "Et c'est comme ça qu'on s'aime, s'aime, s'aime, s'aime",
+      "pt": "E é assim que nos amamos, nos amamos, nos amamos, nos amamos",
+      "en": "And that's how we love each other, love each other, love each other, love each other"
+    },
+    {
+      "tempo": 134.11,
+      "fr": "Comme ça consomme-somme-somme-somme",
+      "pt": "Como se consumisse soma-soma-soma",
+      "en": "Like it consumes-sum-sum-sum"
+    },
+    {
+      "tempo": 137.34,
+      "fr": "Un jour t'achètes",
+      "pt": "Um dia você compra",
+      "en": "One day you buy"
+    },
+    {
+      "tempo": 139.0,
+      "fr": "Un jour tu aimes",
+      "pt": "Um dia você ama",
+      "en": "One day you love"
+    },
+    {
+      "tempo": 140.87,
+      "fr": "Un jour tu jettes",
+      "pt": "Um dia você joga fora",
+      "en": "One day you throw away"
+    },
+    {
+      "tempo": 141.97,
+      "fr": "Mais un jour tu payes",
+      "pt": "Mas um dia você paga",
+      "en": "But one day you pay"
+    },
+    {
+      "tempo": 143.98,
+      "fr": "Un jour tu verras, on s'aimera",
+      "pt": "Um dia você verá, nós nos amaremos",
+      "en": "One day you will see, we will love each other"
+    },
+    {
+      "tempo": 147.37,
+      "fr": "Mais avant on crèvera tous comme des rats",
+      "pt": "Mas primeiro morreremos todos como ratos",
+      "en": "But first we will all die like rats"
+    }
+  ],
+  "vocabulario": {
+    "on": {
+      "pt": "nós",
+      "en": "we"
+    },
+    "est": {
+      "pt": "Leste",
+      "en": "East"
+    },
+    "bleu": {
+      "pt": "azul",
+      "en": "blue"
+    },
+    "de": {
+      "pt": "de",
+      "en": "of"
+    },
+    "lui": {
+      "pt": "ele",
+      "en": "him"
+    },
+    "seulement": {
+      "pt": "apenas",
+      "en": "only"
+    },
+    "pour": {
+      "pt": "Para",
+      "en": "For"
+    },
+    "48": {
+      "pt": "48",
+      "en": "48"
+    },
+    "heures": {
+      "pt": "horas",
+      "en": "hours"
+    },
+    "d'abord": {
+      "pt": "Em primeiro lugar",
+      "en": "First of all"
+    },
+    "s'affillie": {
+      "pt": "afiliados",
+      "en": "affiliates"
+    },
+    "ensuite": {
+      "pt": "Próximo",
+      "en": "Next"
+    },
+    "se": {
+      "pt": "se",
+      "en": "se"
+    },
+    "follow": {
+      "pt": "seguir",
+      "en": "follow"
+    },
+    "en": {
+      "pt": "em",
+      "en": "in"
+    },
+    "devient": {
+      "pt": "torna-se",
+      "en": "becomes"
+    },
+    "fêlé": {
+      "pt": "rachado",
+      "en": "cracked"
+    },
+    "et": {
+      "pt": "E",
+      "en": "And"
+    },
+    "finit": {
+      "pt": "termina",
+      "en": "ends"
+    },
+    "solo": {
+      "pt": "solo",
+      "en": "solo"
+    },
+    "prends": {
+      "pt": "pegar",
+      "en": "take"
+    },
+    "garde": {
+      "pt": "guarda",
+      "en": "guard"
+    },
+    "à": {
+      "pt": "tem",
+      "en": "has"
+    },
+    "toi": {
+      "pt": "Você",
+      "en": "You"
+    },
+    "tous": {
+      "pt": "todos",
+      "en": "all"
+    },
+    "ceux": {
+      "pt": "aqueles",
+      "en": "those"
+    },
+    "qui": {
+      "pt": "Quem",
+      "en": "Who"
+    },
+    "vous": {
+      "pt": "VOCÊ",
+      "en": "YOU"
+    },
+    "like": {
+      "pt": "como",
+      "en": "like"
+    },
+    "les": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "sourires": {
+      "pt": "sorri",
+      "en": "smiles"
+    },
+    "plastique": {
+      "pt": "plástico",
+      "en": "plastic"
+    },
+    "sont": {
+      "pt": "são",
+      "en": "are"
+    },
+    "souvent": {
+      "pt": "muitas vezes",
+      "en": "often"
+    },
+    "des": {
+      "pt": "do",
+      "en": "of the"
+    },
+    "coups": {
+      "pt": "golpes",
+      "en": "blows"
+    },
+    "d'hashtag": {
+      "pt": "hashtag",
+      "en": "hashtag"
+    },
+    "ah": {
+      "pt": "oh",
+      "en": "oh"
+    },
+    "amis": {
+      "pt": "amigos",
+      "en": "friends"
+    },
+    "potes": {
+      "pt": "amigos",
+      "en": "friends"
+    },
+    "ou": {
+      "pt": "Ou",
+      "en": "Or"
+    },
+    "followers": {
+      "pt": "seguidores",
+      "en": "followers"
+    },
+    "faites": {
+      "pt": "fazer",
+      "en": "do"
+    },
+    "erreur": {
+      "pt": "erro",
+      "en": "error"
+    },
+    "avez": {
+      "pt": "ter",
+      "en": "have"
+    },
+    "juste": {
+      "pt": "apenas",
+      "en": "just"
+    },
+    "la": {
+      "pt": "lá",
+      "en": "there"
+    },
+    "cote": {
+      "pt": "lado",
+      "en": "side"
+    },
+    "si": {
+      "pt": "se",
+      "en": "if"
+    },
+    "tu": {
+      "pt": "você",
+      "en": "you"
+    },
+    "t'aimes": {
+      "pt": "você ama",
+      "en": "you love"
+    },
+    "moi": {
+      "pt": "Meu",
+      "en": "Me"
+    },
+    "je": {
+      "pt": "EU",
+      "en": "I"
+    },
+    "m'aime": {
+      "pt": "me ame",
+      "en": "love me"
+    },
+    "nous": {
+      "pt": "Nós",
+      "en": "We"
+    },
+    "eux": {
+      "pt": "eles",
+      "en": "them"
+    },
+    "puis": {
+      "pt": "Então",
+      "en": "Then"
+    },
+    "chacun": {
+      "pt": "cada",
+      "en": "each"
+    },
+    "soi": {
+      "pt": "auto",
+      "en": "self"
+    },
+    "c'est": {
+      "pt": "Isso é",
+      "en": "It is"
+    },
+    "comme": {
+      "pt": "como",
+      "en": "as"
+    },
+    "ça": {
+      "pt": "Que",
+      "en": "That"
+    },
+    "qu'on": {
+      "pt": "que nós",
+      "en": "that we"
+    },
+    "s'aime": {
+      "pt": "amem um ao outro",
+      "en": "love each other"
+    },
+    "consomme-somme-somme-somme": {
+      "pt": "consumir-soma-soma-soma",
+      "en": "consume-sum-sum-sum"
+    },
+    "l'amour": {
+      "pt": "amor",
+      "en": "love"
+    },
+    "enfant": {
+      "pt": "criança",
+      "en": "child"
+    },
+    "consommation": {
+      "pt": "consumo",
+      "en": "consumption"
+    },
+    "il": {
+      "pt": "ele",
+      "en": "he"
+    },
+    "voudra": {
+      "pt": "vai querer",
+      "en": "will want"
+    },
+    "toujours": {
+      "pt": "sempre",
+      "en": "always"
+    },
+    "plus": {
+      "pt": "mais",
+      "en": "more"
+    },
+    "choix": {
+      "pt": "escolha",
+      "en": "choice"
+    },
+    "voulez": {
+      "pt": "querer",
+      "en": "want"
+    },
+    "voulez-vous": {
+      "pt": "você quer",
+      "en": "do you want"
+    },
+    "sentiments": {
+      "pt": "sentimentos",
+      "en": "feelings"
+    },
+    "tombés": {
+      "pt": "caído",
+      "en": "fallen"
+    },
+    "du": {
+      "pt": "de",
+      "en": "of"
+    },
+    "camion": {
+      "pt": "caminhão",
+      "en": "truck"
+    },
+    "l'offre": {
+      "pt": "a oferta",
+      "en": "the offer"
+    },
+    "demande": {
+      "pt": "solicitar",
+      "en": "request"
+    },
+    "unique": {
+      "pt": "exclusivo",
+      "en": "unique"
+    },
+    "seule": {
+      "pt": "sozinho",
+      "en": "alone"
+    },
+    "loi": {
+      "pt": "lei",
+      "en": "law"
+    },
+    "mais": {
+      "pt": "mas",
+      "en": "but"
+    },
+    "j'en": {
+      "pt": "Eu tenho",
+      "en": "I have"
+    },
+    "connais": {
+      "pt": "saber",
+      "en": "know"
+    },
+    "déjà": {
+      "pt": "Já",
+      "en": "Already"
+    },
+    "dangers": {
+      "pt": "perigos",
+      "en": "dangers"
+    },
+    "j'ai": {
+      "pt": "Eu tenho",
+      "en": "I have"
+    },
+    "gardé": {
+      "pt": "guarda",
+      "en": "guard"
+    },
+    "mon": {
+      "pt": "Meu",
+      "en": "My"
+    },
+    "ticket": {
+      "pt": "bilhete",
+      "en": "ticket"
+    },
+    "s'il": {
+      "pt": "se ele",
+      "en": "if he"
+    },
+    "faut": {
+      "pt": "deve",
+      "en": "must"
+    },
+    "vais": {
+      "pt": "ir",
+      "en": "go"
+    },
+    "l'échanger": {
+      "pt": "troque",
+      "en": "exchange it"
+    },
+    "le": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "j'irai": {
+      "pt": "Eu vou",
+      "en": "I will go"
+    },
+    "me": {
+      "pt": "meu",
+      "en": "me"
+    },
+    "venger": {
+      "pt": "vingança",
+      "en": "revenge"
+    },
+    "cet": {
+      "pt": "esse",
+      "en": "this"
+    },
+    "oiseau": {
+      "pt": "pássaro",
+      "en": "bird"
+    },
+    "malheur": {
+      "pt": "infortúnio",
+      "en": "misfortune"
+    },
+    "met": {
+      "pt": "coloca",
+      "en": "puts"
+    },
+    "cage": {
+      "pt": "jaula",
+      "en": "cage"
+    },
+    "fais": {
+      "pt": "fazer",
+      "en": "do"
+    },
+    "chanter": {
+      "pt": "cantar",
+      "en": "sing"
+    },
+    "un": {
+      "pt": "UM",
+      "en": "A"
+    },
+    "jour": {
+      "pt": "dia",
+      "en": "day"
+    },
+    "t'achètes": {
+      "pt": "você compra",
+      "en": "you buy"
+    },
+    "aimes": {
+      "pt": "amor",
+      "en": "love"
+    },
+    "jettes": {
+      "pt": "lança",
+      "en": "throws"
+    },
+    "payes": {
+      "pt": "pagar",
+      "en": "pay"
+    },
+    "verras": {
+      "pt": "vai ver",
+      "en": "will see"
+    },
+    "s'aimera": {
+      "pt": "vão se amar",
+      "en": "will love each other"
+    },
+    "avant": {
+      "pt": "Antes",
+      "en": "Before"
+    },
+    "crèvera": {
+      "pt": "vai estourar",
+      "en": "will burst"
+    },
+    "rats": {
+      "pt": "ratos",
+      "en": "rats"
+    }
+  },
+  "ordem": 25
+}

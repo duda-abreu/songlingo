@@ -1,0 +1,646 @@
+{
+  "titulo": "Fever (feat. Angèle)",
+  "artista": "Dua Lipa",
+  "arquivo_audio": "audio.mp3",
+  "linhas": [
+    {
+      "tempo": 7.72,
+      "fr": "Before you came around, I was doing just fine",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 12.39,
+      "fr": "Usually, usually, usually, I don't pay no mind",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 16.13,
+      "fr": "And when it came down, I was looking in your eyes",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 20.72,
+      "fr": "Suddenly, suddenly, suddenly I can feel it inside",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 24.37,
+      "fr": "I've got a fever, so can you check?",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 28.59,
+      "fr": "Hand on my forehead, kiss my neck",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 32.8,
+      "fr": "And when you touch me, baby, I turn red",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 37.01,
+      "fr": "I've got a fever, so can you check?",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 45.22,
+      "fr": "Peut-être qu'avec du temps, ça partira",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 50.02,
+      "fr": "Et pourtant, et pourtant, et pourtant, je ne m'y vois pas",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 53.6,
+      "fr": "Comme un médicament, moi, je suis rien sans toi",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 58.39,
+      "fr": "Et je sais que, je sais que jе perds du temps dans tes bras",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 61.96,
+      "fr": "I'vе got a fever, so can you check?",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 66.06,
+      "fr": "Hand on my forehead, kiss my neck",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 70.35,
+      "fr": "And when you touch me, baby, I turn red",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 74.61,
+      "fr": "I've got a fever, so can you check?",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 78.87,
+      "fr": "Car dans mes yeux, ça se voit",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 83.51,
+      "fr": "La fièvre dans mes yeux, oui, ça se voit",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 87.92,
+      "fr": "Mon cœur se serre, j'ai du feu dans la voix",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 91.94,
+      "fr": "Le plus souvent, c'est quand je pense à toi",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 95.44,
+      "fr": "I've got a fever, can you check?",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 99.51,
+      "fr": "Hand on my forehead, kiss my neck",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 103.85,
+      "fr": "And when you touch me, baby, I turn red (I turn red)",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 107.98,
+      "fr": "I've got a fever, so can you check? (Amour en fièvre)",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 113.03,
+      "fr": "Tell me what you wanna do right now",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 114.66,
+      "fr": "Tell me what you wanna do right now (Amour en fièvre)",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 117.25,
+      "fr": "Tell me what you wanna do right now",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 118.79,
+      "fr": "'Cause I don't really wanna cool it down (Amour en fièvre)",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 121.52,
+      "fr": "Tell me what you wanna do right now",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 123.16,
+      "fr": "Tell me what you wanna do right now (Amour en fièvre)",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 125.67,
+      "fr": "Tell me what you wanna do right now",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 127.25,
+      "fr": "'Cause I don't really wanna cool it down",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 128.97,
+      "fr": "Car dans mes yeux, ça se voit (Amour en fièvre)",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 133.5,
+      "fr": "La fièvre dans les yeux, oui, ça se voit (Amour en fièvre)",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 138.07,
+      "fr": "Mon cœur se serre, j'ai du feu dans la voix (Amour en fièvre)",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 142.03,
+      "fr": "Le plus souvent, c'est quand je pense à toi (Amour en fièvre)",
+      "pt": "",
+      "en": ""
+    }
+  ],
+  "vocabulario": {
+    "before": {
+      "pt": "",
+      "en": ""
+    },
+    "you": {
+      "pt": "",
+      "en": ""
+    },
+    "came": {
+      "pt": "",
+      "en": ""
+    },
+    "around": {
+      "pt": "",
+      "en": ""
+    },
+    "i": {
+      "pt": "",
+      "en": ""
+    },
+    "was": {
+      "pt": "",
+      "en": ""
+    },
+    "doing": {
+      "pt": "",
+      "en": ""
+    },
+    "just": {
+      "pt": "",
+      "en": ""
+    },
+    "fine": {
+      "pt": "",
+      "en": ""
+    },
+    "usually": {
+      "pt": "",
+      "en": ""
+    },
+    "don't": {
+      "pt": "",
+      "en": ""
+    },
+    "pay": {
+      "pt": "",
+      "en": ""
+    },
+    "no": {
+      "pt": "",
+      "en": ""
+    },
+    "mind": {
+      "pt": "",
+      "en": ""
+    },
+    "and": {
+      "pt": "",
+      "en": ""
+    },
+    "when": {
+      "pt": "",
+      "en": ""
+    },
+    "it": {
+      "pt": "",
+      "en": ""
+    },
+    "down": {
+      "pt": "",
+      "en": ""
+    },
+    "looking": {
+      "pt": "",
+      "en": ""
+    },
+    "in": {
+      "pt": "",
+      "en": ""
+    },
+    "your": {
+      "pt": "",
+      "en": ""
+    },
+    "eyes": {
+      "pt": "",
+      "en": ""
+    },
+    "suddenly": {
+      "pt": "",
+      "en": ""
+    },
+    "can": {
+      "pt": "",
+      "en": ""
+    },
+    "feel": {
+      "pt": "",
+      "en": ""
+    },
+    "inside": {
+      "pt": "",
+      "en": ""
+    },
+    "i've": {
+      "pt": "",
+      "en": ""
+    },
+    "got": {
+      "pt": "",
+      "en": ""
+    },
+    "a": {
+      "pt": "",
+      "en": ""
+    },
+    "fever": {
+      "pt": "",
+      "en": ""
+    },
+    "so": {
+      "pt": "",
+      "en": ""
+    },
+    "check": {
+      "pt": "",
+      "en": ""
+    },
+    "hand": {
+      "pt": "",
+      "en": ""
+    },
+    "on": {
+      "pt": "",
+      "en": ""
+    },
+    "my": {
+      "pt": "",
+      "en": ""
+    },
+    "forehead": {
+      "pt": "",
+      "en": ""
+    },
+    "kiss": {
+      "pt": "",
+      "en": ""
+    },
+    "neck": {
+      "pt": "",
+      "en": ""
+    },
+    "touch": {
+      "pt": "",
+      "en": ""
+    },
+    "me": {
+      "pt": "",
+      "en": ""
+    },
+    "baby": {
+      "pt": "",
+      "en": ""
+    },
+    "turn": {
+      "pt": "",
+      "en": ""
+    },
+    "red": {
+      "pt": "",
+      "en": ""
+    },
+    "peut-être": {
+      "pt": "",
+      "en": ""
+    },
+    "qu'avec": {
+      "pt": "",
+      "en": ""
+    },
+    "du": {
+      "pt": "",
+      "en": ""
+    },
+    "temps": {
+      "pt": "",
+      "en": ""
+    },
+    "ça": {
+      "pt": "",
+      "en": ""
+    },
+    "partira": {
+      "pt": "",
+      "en": ""
+    },
+    "et": {
+      "pt": "",
+      "en": ""
+    },
+    "pourtant": {
+      "pt": "",
+      "en": ""
+    },
+    "je": {
+      "pt": "",
+      "en": ""
+    },
+    "ne": {
+      "pt": "",
+      "en": ""
+    },
+    "m'y": {
+      "pt": "",
+      "en": ""
+    },
+    "vois": {
+      "pt": "",
+      "en": ""
+    },
+    "pas": {
+      "pt": "",
+      "en": ""
+    },
+    "comme": {
+      "pt": "",
+      "en": ""
+    },
+    "un": {
+      "pt": "",
+      "en": ""
+    },
+    "médicament": {
+      "pt": "",
+      "en": ""
+    },
+    "moi": {
+      "pt": "",
+      "en": ""
+    },
+    "suis": {
+      "pt": "",
+      "en": ""
+    },
+    "rien": {
+      "pt": "",
+      "en": ""
+    },
+    "sans": {
+      "pt": "",
+      "en": ""
+    },
+    "toi": {
+      "pt": "",
+      "en": ""
+    },
+    "sais": {
+      "pt": "",
+      "en": ""
+    },
+    "que": {
+      "pt": "",
+      "en": ""
+    },
+    "jе": {
+      "pt": "",
+      "en": ""
+    },
+    "perds": {
+      "pt": "",
+      "en": ""
+    },
+    "dans": {
+      "pt": "",
+      "en": ""
+    },
+    "tes": {
+      "pt": "",
+      "en": ""
+    },
+    "bras": {
+      "pt": "",
+      "en": ""
+    },
+    "i'vе": {
+      "pt": "",
+      "en": ""
+    },
+    "car": {
+      "pt": "",
+      "en": ""
+    },
+    "mes": {
+      "pt": "",
+      "en": ""
+    },
+    "yeux": {
+      "pt": "",
+      "en": ""
+    },
+    "se": {
+      "pt": "",
+      "en": ""
+    },
+    "voit": {
+      "pt": "",
+      "en": ""
+    },
+    "la": {
+      "pt": "",
+      "en": ""
+    },
+    "fièvre": {
+      "pt": "",
+      "en": ""
+    },
+    "oui": {
+      "pt": "",
+      "en": ""
+    },
+    "mon": {
+      "pt": "",
+      "en": ""
+    },
+    "cœur": {
+      "pt": "",
+      "en": ""
+    },
+    "serre": {
+      "pt": "",
+      "en": ""
+    },
+    "j'ai": {
+      "pt": "",
+      "en": ""
+    },
+    "feu": {
+      "pt": "",
+      "en": ""
+    },
+    "voix": {
+      "pt": "",
+      "en": ""
+    },
+    "le": {
+      "pt": "",
+      "en": ""
+    },
+    "plus": {
+      "pt": "",
+      "en": ""
+    },
+    "souvent": {
+      "pt": "",
+      "en": ""
+    },
+    "c'est": {
+      "pt": "",
+      "en": ""
+    },
+    "quand": {
+      "pt": "",
+      "en": ""
+    },
+    "pense": {
+      "pt": "",
+      "en": ""
+    },
+    "à": {
+      "pt": "",
+      "en": ""
+    },
+    "amour": {
+      "pt": "",
+      "en": ""
+    },
+    "en": {
+      "pt": "",
+      "en": ""
+    },
+    "tell": {
+      "pt": "",
+      "en": ""
+    },
+    "what": {
+      "pt": "",
+      "en": ""
+    },
+    "wanna": {
+      "pt": "",
+      "en": ""
+    },
+    "do": {
+      "pt": "",
+      "en": ""
+    },
+    "right": {
+      "pt": "",
+      "en": ""
+    },
+    "now": {
+      "pt": "",
+      "en": ""
+    },
+    "cause": {
+      "pt": "",
+      "en": ""
+    },
+    "really": {
+      "pt": "",
+      "en": ""
+    },
+    "cool": {
+      "pt": "",
+      "en": ""
+    },
+    "les": {
+      "pt": "",
+      "en": ""
+    }
+  },
+  "ordem": 28
+}

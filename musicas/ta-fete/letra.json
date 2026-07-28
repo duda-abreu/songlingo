@@ -1,0 +1,364 @@
+{
+  "titulo": "Ta fête",
+  "artista": "Stromae",
+  "arquivo_audio": "audio.mp3",
+  "linhas": [
+    {
+      "tempo": 7.94,
+      "fr": "Il est l'heure",
+      "pt": "Está na hora",
+      "en": "It's time"
+    },
+    {
+      "tempo": 10.09,
+      "fr": "Fini l'heure de danser",
+      "pt": "A hora de dançar acabou",
+      "en": "Time to dance is over"
+    },
+    {
+      "tempo": 12.04,
+      "fr": "Danse, t'inquiète pas; tu vas danser",
+      "pt": "",
+      "en": "Dance, don't worry; you are going to dance"
+    },
+    {
+      "tempo": 15.51,
+      "fr": "Balance-toi, mais tu vas te faire balancer",
+      "pt": "Balance, mas você será balançado",
+      "en": "Swing, but you're going to get swung"
+    },
+    {
+      "tempo": 19.39,
+      "fr": "Défonce-toi, mais tu vas te faire défoncer",
+      "pt": "Fique chapado, mas você vai ficar chapado",
+      "en": "Get high, but you're going to get high"
+    },
+    {
+      "tempo": 23.05,
+      "fr": "Tu aimerais faire (ta fête)",
+      "pt": "Você gostaria de ter (sua festa)",
+      "en": "Would you like to have (your party)"
+    },
+    {
+      "tempo": 26.42,
+      "fr": "Ta mère veut te la faire aussi (ta fête)",
+      "pt": "Sua mãe quer fazer para você também (sua festa)",
+      "en": "Your mother wants to make it for you too (your party)"
+    },
+    {
+      "tempo": 30.22,
+      "fr": "Le juge voudrait te faire (ta fête)",
+      "pt": "O juiz gostaria de fazer com que você (sua parte)",
+      "en": "The judge would like to make you (your party)"
+    },
+    {
+      "tempo": 34.04,
+      "fr": "Tout le monde te fera aussi (ta fête)",
+      "pt": "Todo mundo vai fazer você também (sua festa)",
+      "en": "Everyone will make you too (your party)"
+    },
+    {
+      "tempo": 53.18,
+      "fr": "Tu sors trop, du moins c'est ce qu'ils disent",
+      "pt": "Você sai muito, ou é o que dizem",
+      "en": "You go out too much, or so they say"
+    },
+    {
+      "tempo": 56.74,
+      "fr": "Ils parlent trop, c'est pourquoi tes oreilles sifflent",
+      "pt": "Eles falam demais, é por isso que seus ouvidos estão zumbindo",
+      "en": "They talk too much, that's why your ears are ringing"
+    },
+    {
+      "tempo": 60.58,
+      "fr": "À qui la faute? C'est la faute à autrui, hein",
+      "pt": "De quem é a culpa? A culpa é de outra pessoa, certo?",
+      "en": "Whose fault is it? It's someone else's fault, right?"
+    },
+    {
+      "tempo": 64.24,
+      "fr": "C'est les autres, toi, tu n'as qu'une seul envie",
+      "pt": "São os outros, você, você só tem um desejo",
+      "en": "It's the others, you, you only have one desire"
+    },
+    {
+      "tempo": 67.95,
+      "fr": "Tu aimerais faire (ta fête)",
+      "pt": "Você gostaria de ter (sua festa)",
+      "en": "Would you like to have (your party)"
+    },
+    {
+      "tempo": 71.69,
+      "fr": "Ta mère veut te la faire aussi (ta fête)",
+      "pt": "Sua mãe quer fazer para você também (sua festa)",
+      "en": "Your mother wants to make it for you too (your party)"
+    },
+    {
+      "tempo": 75.4,
+      "fr": "Le juge voudrait te faire (ta fête)",
+      "pt": "O juiz gostaria de fazer com que você (sua parte)",
+      "en": "The judge would like to make you (your party)"
+    },
+    {
+      "tempo": 79.26,
+      "fr": "Tout le monde te fera aussi (ta fête)",
+      "pt": "Todo mundo vai fazer você também (sua festa)",
+      "en": "Everyone will make you too (your party)"
+    },
+    {
+      "tempo": 127.74,
+      "fr": "Tu aimerais faire (ta fête)",
+      "pt": "Você gostaria de ter (sua festa)",
+      "en": "Would you like to have (your party)"
+    },
+    {
+      "tempo": 131.51,
+      "fr": "Ta mère veut te la faire aussi (ta fête)",
+      "pt": "Sua mãe quer fazer para você também (sua festa)",
+      "en": "Your mother wants to make it for you too (your party)"
+    },
+    {
+      "tempo": 135.23,
+      "fr": "Le juge voudrait te faire (ta fête)",
+      "pt": "O juiz gostaria de fazer com que você (sua parte)",
+      "en": "The judge would like to make you (your party)"
+    },
+    {
+      "tempo": 139.16,
+      "fr": "Tout le monde te fera aussi (ta fête)",
+      "pt": "Todo mundo vai fazer você também (sua festa)",
+      "en": "Everyone will make you too (your party)"
+    }
+  ],
+  "vocabulario": {
+    "il": {
+      "pt": "ele",
+      "en": "he"
+    },
+    "est": {
+      "pt": "Leste",
+      "en": "East"
+    },
+    "l'heure": {
+      "pt": "tempo",
+      "en": "time"
+    },
+    "fini": {
+      "pt": "finalizado",
+      "en": "finished"
+    },
+    "de": {
+      "pt": "de",
+      "en": "of"
+    },
+    "danser": {
+      "pt": "dançar",
+      "en": "to dance"
+    },
+    "danse": {
+      "pt": "dança",
+      "en": "dance"
+    },
+    "t'inquiète": {
+      "pt": "não se preocupe",
+      "en": "don't worry"
+    },
+    "pas": {
+      "pt": "não",
+      "en": "not"
+    },
+    "tu": {
+      "pt": "você",
+      "en": "you"
+    },
+    "vas": {
+      "pt": "ir",
+      "en": "go"
+    },
+    "balance-toi": {
+      "pt": "balanço",
+      "en": "swing"
+    },
+    "mais": {
+      "pt": "mas",
+      "en": "but"
+    },
+    "te": {
+      "pt": "você",
+      "en": "you"
+    },
+    "faire": {
+      "pt": "PENDÊNCIA",
+      "en": "TO DO"
+    },
+    "balancer": {
+      "pt": "balanço",
+      "en": "swing"
+    },
+    "défonce-toi": {
+      "pt": "ficar chapado",
+      "en": "get high"
+    },
+    "défoncer": {
+      "pt": "esmagar",
+      "en": "smash"
+    },
+    "aimerais": {
+      "pt": "gostaria",
+      "en": "would like"
+    },
+    "ta": {
+      "pt": "seu",
+      "en": "your"
+    },
+    "fête": {
+      "pt": "festa",
+      "en": "party"
+    },
+    "mère": {
+      "pt": "mãe",
+      "en": "mother"
+    },
+    "veut": {
+      "pt": "quero",
+      "en": "wanna"
+    },
+    "la": {
+      "pt": "lá",
+      "en": "there"
+    },
+    "aussi": {
+      "pt": "Também",
+      "en": "Also"
+    },
+    "le": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "juge": {
+      "pt": "juiz",
+      "en": "judge"
+    },
+    "voudrait": {
+      "pt": "gostaria",
+      "en": "would like"
+    },
+    "tout": {
+      "pt": "Todos",
+      "en": "All"
+    },
+    "monde": {
+      "pt": "mundo",
+      "en": "world"
+    },
+    "fera": {
+      "pt": "vai fazer",
+      "en": "will do"
+    },
+    "sors": {
+      "pt": "sair",
+      "en": "get out"
+    },
+    "trop": {
+      "pt": "demais",
+      "en": "too much"
+    },
+    "du": {
+      "pt": "de",
+      "en": "of"
+    },
+    "moins": {
+      "pt": "menos",
+      "en": "less"
+    },
+    "c'est": {
+      "pt": "Isso é",
+      "en": "It is"
+    },
+    "ce": {
+      "pt": "Esse",
+      "en": "This"
+    },
+    "qu'ils": {
+      "pt": "que eles",
+      "en": "that they"
+    },
+    "disent": {
+      "pt": "dizer",
+      "en": "say"
+    },
+    "ils": {
+      "pt": "eles",
+      "en": "they"
+    },
+    "parlent": {
+      "pt": "falar",
+      "en": "speak"
+    },
+    "pourquoi": {
+      "pt": "Por que",
+      "en": "Why"
+    },
+    "tes": {
+      "pt": "seu",
+      "en": "your"
+    },
+    "oreilles": {
+      "pt": "ouvidos",
+      "en": "ears"
+    },
+    "sifflent": {
+      "pt": "assobiar",
+      "en": "whistle"
+    },
+    "à": {
+      "pt": "tem",
+      "en": "has"
+    },
+    "qui": {
+      "pt": "Quem",
+      "en": "Who"
+    },
+    "faute": {
+      "pt": "erro",
+      "en": "mistake"
+    },
+    "autrui": {
+      "pt": "outros",
+      "en": "others"
+    },
+    "hein": {
+      "pt": "Eh",
+      "en": "eh"
+    },
+    "les": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "autres": {
+      "pt": "outros",
+      "en": "others"
+    },
+    "toi": {
+      "pt": "Você",
+      "en": "You"
+    },
+    "n'as": {
+      "pt": "não tenho",
+      "en": "don't have"
+    },
+    "qu'une": {
+      "pt": "Aquele",
+      "en": "that one"
+    },
+    "seul": {
+      "pt": "sozinho",
+      "en": "alone"
+    },
+    "envie": {
+      "pt": "inveja",
+      "en": "envy"
+    }
+  },
+  "ordem": 60
+}

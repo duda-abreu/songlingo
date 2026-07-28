@@ -1,0 +1,722 @@
+{
+  "titulo": "Flou",
+  "artista": "Angèle",
+  "arquivo_audio": "audio.mp3",
+  "linhas": [
+    {
+      "tempo": 16.62,
+      "fr": "J'ai commencé par Instagram",
+      "pt": "Comecei com Instagram",
+      "en": "I started with Instagram"
+    },
+    {
+      "tempo": 18.87,
+      "fr": "C'était cool, j'avais un très bon programme",
+      "pt": "Foi legal, tive um programa muito bom",
+      "en": "It was cool, I had a very good program"
+    },
+    {
+      "tempo": 20.78,
+      "fr": "Petit concert dans des bars vides",
+      "pt": "Pequeno concerto em bares vazios",
+      "en": "Small concert in empty bars"
+    },
+    {
+      "tempo": 22.6,
+      "fr": "Ma baby-sitter la première à m'suivre",
+      "pt": "Minha babá foi a primeira a me seguir",
+      "en": "My babysitter was the first to follow me"
+    },
+    {
+      "tempo": 24.94,
+      "fr": "Ensuite tout a changé très vite",
+      "pt": "Então tudo mudou muito rapidamente",
+      "en": "Then everything changed very quickly"
+    },
+    {
+      "tempo": 26.9,
+      "fr": "Même mes amis ils ont changé",
+      "pt": "Até meus amigos mudaram",
+      "en": "Even my friends have changed"
+    },
+    {
+      "tempo": 29.27,
+      "fr": "Tout est devenu plus simple",
+      "pt": "Tudo ficou mais simples",
+      "en": "Everything became simpler"
+    },
+    {
+      "tempo": 30.76,
+      "fr": "Enfin surtout pour rentrer dans les soirées",
+      "pt": "Finalmente, especialmente para entrar à noite",
+      "en": "Finally especially to get into the evenings"
+    },
+    {
+      "tempo": 33.78,
+      "fr": "On connaît tous la pression",
+      "pt": "Todos nós conhecemos a pressão",
+      "en": "We all know the pressure"
+    },
+    {
+      "tempo": 36.47,
+      "fr": "Tu t'sens comme la reine du monde",
+      "pt": "Você se sente como a rainha do mundo",
+      "en": "You feel like the queen of the world"
+    },
+    {
+      "tempo": 38.03,
+      "fr": "Mais c'est qu'une impression",
+      "pt": "Mas é apenas uma impressão",
+      "en": "But it's just an impression"
+    },
+    {
+      "tempo": 42.3,
+      "fr": "Les gens t'aiment pas pour de vrai",
+      "pt": "As pessoas realmente não gostam de você",
+      "en": "People don't really like you"
+    },
+    {
+      "tempo": 44.83,
+      "fr": "Tout le monde te trouve génial alors que t'as rien fait",
+      "pt": "Todo mundo pensa que você é ótimo, mesmo que você não tenha feito nada",
+      "en": "Everyone thinks you're great even though you haven't done anything"
+    },
+    {
+      "tempo": 49.5,
+      "fr": "Tout est devenu flou",
+      "pt": "Tudo ficou embaçado",
+      "en": "Everything has become blurry"
+    },
+    {
+      "tempo": 54.42,
+      "fr": "Un peu trop fou, pour moi",
+      "pt": "Um pouco louco demais para mim",
+      "en": "A little too crazy for me"
+    },
+    {
+      "tempo": 58.03,
+      "fr": "Tout est devenu flou",
+      "pt": "Tudo ficou embaçado",
+      "en": "Everything has become blurry"
+    },
+    {
+      "tempo": 62.84,
+      "fr": "Et j'en ai peur, la suite on verra",
+      "pt": "E tenho medo, o resto veremos",
+      "en": "And I'm afraid, the rest we'll see"
+    },
+    {
+      "tempo": 67.64,
+      "fr": "Si ça s'trouve ça va pas durer",
+      "pt": "Se acontecer, não vai durar",
+      "en": "If it turns out it won't last"
+    },
+    {
+      "tempo": 69.51,
+      "fr": "Ou peut-être seulement quelques mois",
+      "pt": "Ou talvez apenas alguns meses",
+      "en": "Or maybe just a few months"
+    },
+    {
+      "tempo": 71.66,
+      "fr": "Voilà je commence déjà à angoisser",
+      "pt": "Aqui já estou começando a me preocupar",
+      "en": "Here I am already starting to worry"
+    },
+    {
+      "tempo": 73.79,
+      "fr": "Crise après crise j'arrive plus à être moi",
+      "pt": "Crise após crise não posso mais ser eu",
+      "en": "Crisis after crisis I can no longer be me"
+    },
+    {
+      "tempo": 76.27,
+      "fr": "On connaît tous la pression",
+      "pt": "Todos nós conhecemos a pressão",
+      "en": "We all know the pressure"
+    },
+    {
+      "tempo": 78.8,
+      "fr": "Tu t'sens un peu seul au monde",
+      "pt": "Você se sente um pouco sozinho no mundo",
+      "en": "You feel a little alone in the world"
+    },
+    {
+      "tempo": 81.07,
+      "fr": "C'est pas qu'une impression",
+      "pt": "Não é apenas uma impressão",
+      "en": "It's not just an impression"
+    },
+    {
+      "tempo": 84.95,
+      "fr": "Les gens t'aiment pas pour de vrai",
+      "pt": "As pessoas realmente não gostam de você",
+      "en": "People don't really like you"
+    },
+    {
+      "tempo": 87.28,
+      "fr": "Tout le monde te trouve génial alors que t'as rien fait",
+      "pt": "Todo mundo pensa que você é ótimo, mesmo que você não tenha feito nada",
+      "en": "Everyone thinks you're great even though you haven't done anything"
+    },
+    {
+      "tempo": 92.04,
+      "fr": "Tout est devenu flou",
+      "pt": "Tudo ficou embaçado",
+      "en": "Everything has become blurry"
+    },
+    {
+      "tempo": 96.72,
+      "fr": "Un peu trop fou, pour moi",
+      "pt": "Um pouco louco demais para mim",
+      "en": "A little too crazy for me"
+    },
+    {
+      "tempo": 100.62,
+      "fr": "Tout est devenu flou",
+      "pt": "Tudo ficou embaçado",
+      "en": "Everything has become blurry"
+    },
+    {
+      "tempo": 105.38,
+      "fr": "Et j'en ai peur, la suite on verra",
+      "pt": "E tenho medo, o resto veremos",
+      "en": "And I'm afraid, the rest we'll see"
+    },
+    {
+      "tempo": 127.37,
+      "fr": "Perdre la tête en enfer",
+      "pt": "Perca a cabeça no inferno",
+      "en": "Lose your mind in hell"
+    },
+    {
+      "tempo": 128.95,
+      "fr": "J'ai peur de perdre la tête à l'envers",
+      "pt": "Tenho medo de perder a cabeça de cabeça para baixo",
+      "en": "I'm afraid of losing my head upside down"
+    },
+    {
+      "tempo": 130.86,
+      "fr": "La suite on verra",
+      "pt": "O resto veremos",
+      "en": "The rest we will see"
+    },
+    {
+      "tempo": 136.16,
+      "fr": "Perdre la tête en enfer",
+      "pt": "Perca a cabeça no inferno",
+      "en": "Lose your mind in hell"
+    },
+    {
+      "tempo": 137.34,
+      "fr": "J'ai peur de perdre tous mes repères",
+      "pt": "Tenho medo de perder todo o meu rumo",
+      "en": "I'm afraid of losing all my bearings"
+    },
+    {
+      "tempo": 149.3,
+      "fr": "Tout est devenu flou",
+      "pt": "Tudo ficou embaçado",
+      "en": "Everything has become blurry"
+    },
+    {
+      "tempo": 154.36,
+      "fr": "Beaucoup trop fou, pour moi",
+      "pt": "Muito louco para mim",
+      "en": "Way too crazy for me"
+    },
+    {
+      "tempo": 157.91,
+      "fr": "Tout est devenu flou",
+      "pt": "Tudo ficou embaçado",
+      "en": "Everything has become blurry"
+    },
+    {
+      "tempo": 162.48,
+      "fr": "J'en ai bien peur, la suite on verra",
+      "pt": "Receio, o resto veremos",
+      "en": "I'm afraid, the rest we'll see"
+    },
+    {
+      "tempo": 167.43,
+      "fr": "Oh fou",
+      "pt": "Ah, louco",
+      "en": "Oh crazy"
+    },
+    {
+      "tempo": 171.08,
+      "fr": "Beaucoup trop fou, pour moi",
+      "pt": "Muito louco para mim",
+      "en": "Way too crazy for me"
+    },
+    {
+      "tempo": 175.01,
+      "fr": "Tout est devenu flou",
+      "pt": "Tudo ficou embaçado",
+      "en": "Everything has become blurry"
+    },
+    {
+      "tempo": 179.64,
+      "fr": "J'en ai bien peur, la suite on verra",
+      "pt": "Receio, o resto veremos",
+      "en": "I'm afraid, the rest we'll see"
+    },
+    {
+      "tempo": 188.52,
+      "fr": "J'en ai bien peur, la suite on verra",
+      "pt": "Receio, o resto veremos",
+      "en": "I'm afraid, the rest we'll see"
+    }
+  ],
+  "vocabulario": {
+    "j'ai": {
+      "pt": "Eu tenho",
+      "en": "I have"
+    },
+    "commencé": {
+      "pt": "começar",
+      "en": "begin"
+    },
+    "par": {
+      "pt": "por",
+      "en": "by"
+    },
+    "instagram": {
+      "pt": "Instagram",
+      "en": "instagram"
+    },
+    "c'était": {
+      "pt": "era",
+      "en": "it was"
+    },
+    "cool": {
+      "pt": "legal",
+      "en": "cool"
+    },
+    "j'avais": {
+      "pt": "Eu tive",
+      "en": "I had"
+    },
+    "un": {
+      "pt": "UM",
+      "en": "A"
+    },
+    "très": {
+      "pt": "muito",
+      "en": "very"
+    },
+    "bon": {
+      "pt": "Bom",
+      "en": "Good"
+    },
+    "programme": {
+      "pt": "programa",
+      "en": "program"
+    },
+    "petit": {
+      "pt": "pequeno",
+      "en": "little"
+    },
+    "concert": {
+      "pt": "concerto",
+      "en": "concert"
+    },
+    "dans": {
+      "pt": "Em",
+      "en": "In"
+    },
+    "des": {
+      "pt": "do",
+      "en": "of the"
+    },
+    "bars": {
+      "pt": "bares",
+      "en": "bars"
+    },
+    "vides": {
+      "pt": "vazio",
+      "en": "empty"
+    },
+    "ma": {
+      "pt": "meu",
+      "en": "my"
+    },
+    "baby-sitter": {
+      "pt": "babá",
+      "en": "baby-sitter"
+    },
+    "la": {
+      "pt": "lá",
+      "en": "there"
+    },
+    "première": {
+      "pt": "primeiro",
+      "en": "first"
+    },
+    "à": {
+      "pt": "tem",
+      "en": "has"
+    },
+    "m'suivre": {
+      "pt": "me siga",
+      "en": "follow me"
+    },
+    "ensuite": {
+      "pt": "Próximo",
+      "en": "Next"
+    },
+    "tout": {
+      "pt": "Todos",
+      "en": "All"
+    },
+    "a": {
+      "pt": "tem",
+      "en": "has"
+    },
+    "changé": {
+      "pt": "intercâmbio",
+      "en": "exchange"
+    },
+    "vite": {
+      "pt": "rapidamente",
+      "en": "quickly"
+    },
+    "même": {
+      "pt": "até",
+      "en": "even"
+    },
+    "mes": {
+      "pt": "meu",
+      "en": "my"
+    },
+    "amis": {
+      "pt": "amigos",
+      "en": "friends"
+    },
+    "ils": {
+      "pt": "eles",
+      "en": "they"
+    },
+    "ont": {
+      "pt": "ter",
+      "en": "have"
+    },
+    "est": {
+      "pt": "Leste",
+      "en": "East"
+    },
+    "devenu": {
+      "pt": "tornou-se",
+      "en": "became"
+    },
+    "plus": {
+      "pt": "mais",
+      "en": "more"
+    },
+    "simple": {
+      "pt": "simples",
+      "en": "simple"
+    },
+    "enfin": {
+      "pt": "Finalmente",
+      "en": "Finally"
+    },
+    "surtout": {
+      "pt": "Sobretudo",
+      "en": "Above all"
+    },
+    "pour": {
+      "pt": "Para",
+      "en": "For"
+    },
+    "rentrer": {
+      "pt": "voltar",
+      "en": "to return"
+    },
+    "les": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "soirées": {
+      "pt": "noites",
+      "en": "evenings"
+    },
+    "on": {
+      "pt": "nós",
+      "en": "we"
+    },
+    "connaît": {
+      "pt": "sabe",
+      "en": "knows"
+    },
+    "tous": {
+      "pt": "todos",
+      "en": "all"
+    },
+    "pression": {
+      "pt": "pressão",
+      "en": "pressure"
+    },
+    "tu": {
+      "pt": "você",
+      "en": "you"
+    },
+    "t'sens": {
+      "pt": "você sente",
+      "en": "you feel"
+    },
+    "comme": {
+      "pt": "como",
+      "en": "as"
+    },
+    "reine": {
+      "pt": "rainha",
+      "en": "queen"
+    },
+    "du": {
+      "pt": "de",
+      "en": "of"
+    },
+    "monde": {
+      "pt": "mundo",
+      "en": "world"
+    },
+    "mais": {
+      "pt": "mas",
+      "en": "but"
+    },
+    "c'est": {
+      "pt": "Isso é",
+      "en": "It is"
+    },
+    "qu'une": {
+      "pt": "Aquele",
+      "en": "that one"
+    },
+    "impression": {
+      "pt": "impressão",
+      "en": "impression"
+    },
+    "gens": {
+      "pt": "pessoas",
+      "en": "people"
+    },
+    "t'aiment": {
+      "pt": "amo você",
+      "en": "love you"
+    },
+    "pas": {
+      "pt": "não",
+      "en": "not"
+    },
+    "de": {
+      "pt": "de",
+      "en": "of"
+    },
+    "vrai": {
+      "pt": "verdadeiro",
+      "en": "TRUE"
+    },
+    "le": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "te": {
+      "pt": "você",
+      "en": "you"
+    },
+    "trouve": {
+      "pt": "encontrar",
+      "en": "find"
+    },
+    "génial": {
+      "pt": "incrível",
+      "en": "awesome"
+    },
+    "alors": {
+      "pt": "ENTÃO",
+      "en": "SO"
+    },
+    "que": {
+      "pt": "que",
+      "en": "that"
+    },
+    "t'as": {
+      "pt": "você tem",
+      "en": "you have"
+    },
+    "rien": {
+      "pt": "Nada",
+      "en": "Nothing"
+    },
+    "fait": {
+      "pt": "fazer",
+      "en": "do"
+    },
+    "flou": {
+      "pt": "vago",
+      "en": "vague"
+    },
+    "peu": {
+      "pt": "pequeno",
+      "en": "little"
+    },
+    "trop": {
+      "pt": "demais",
+      "en": "too much"
+    },
+    "fou": {
+      "pt": "louco",
+      "en": "mad"
+    },
+    "moi": {
+      "pt": "Meu",
+      "en": "Me"
+    },
+    "et": {
+      "pt": "E",
+      "en": "And"
+    },
+    "j'en": {
+      "pt": "Eu tenho",
+      "en": "I have"
+    },
+    "ai": {
+      "pt": "ai",
+      "en": "ai"
+    },
+    "peur": {
+      "pt": "temer",
+      "en": "fear"
+    },
+    "suite": {
+      "pt": "seguindo",
+      "en": "following"
+    },
+    "verra": {
+      "pt": "vai ver",
+      "en": "will see"
+    },
+    "si": {
+      "pt": "se",
+      "en": "if"
+    },
+    "ça": {
+      "pt": "Que",
+      "en": "That"
+    },
+    "s'trouve": {
+      "pt": "é encontrado",
+      "en": "is found"
+    },
+    "va": {
+      "pt": "ir",
+      "en": "go"
+    },
+    "durer": {
+      "pt": "durar",
+      "en": "last"
+    },
+    "ou": {
+      "pt": "Ou",
+      "en": "Or"
+    },
+    "peut-être": {
+      "pt": "talvez",
+      "en": "maybe"
+    },
+    "seulement": {
+      "pt": "apenas",
+      "en": "only"
+    },
+    "quelques": {
+      "pt": "um pouco",
+      "en": "a few"
+    },
+    "mois": {
+      "pt": "mês",
+      "en": "month"
+    },
+    "voilà": {
+      "pt": "Lá",
+      "en": "There"
+    },
+    "je": {
+      "pt": "EU",
+      "en": "I"
+    },
+    "commence": {
+      "pt": "começar",
+      "en": "begin"
+    },
+    "déjà": {
+      "pt": "Já",
+      "en": "Already"
+    },
+    "angoisser": {
+      "pt": "se preocupar",
+      "en": "to worry"
+    },
+    "crise": {
+      "pt": "crise",
+      "en": "crisis"
+    },
+    "après": {
+      "pt": "Depois",
+      "en": "After"
+    },
+    "j'arrive": {
+      "pt": "Estou chegando",
+      "en": "I'm coming"
+    },
+    "être": {
+      "pt": "ser",
+      "en": "be"
+    },
+    "seul": {
+      "pt": "sozinho",
+      "en": "alone"
+    },
+    "au": {
+      "pt": "No",
+      "en": "At"
+    },
+    "perdre": {
+      "pt": "perder",
+      "en": "lose"
+    },
+    "tête": {
+      "pt": "cabeça",
+      "en": "head"
+    },
+    "en": {
+      "pt": "em",
+      "en": "in"
+    },
+    "enfer": {
+      "pt": "inferno",
+      "en": "hell"
+    },
+    "l'envers": {
+      "pt": "o inverso",
+      "en": "the reverse"
+    },
+    "repères": {
+      "pt": "pontos de referência",
+      "en": "landmarks"
+    },
+    "beaucoup": {
+      "pt": "bastante",
+      "en": "a lot"
+    },
+    "bien": {
+      "pt": "BOM",
+      "en": "GOOD"
+    },
+    "oh": {
+      "pt": "Oh",
+      "en": "Oh"
+    }
+  },
+  "ordem": 8
+}

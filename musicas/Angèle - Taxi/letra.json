@@ -1,0 +1,876 @@
+{
+  "titulo": "Taxi",
+  "artista": "Angèle",
+  "arquivo_audio": "audio.mp3",
+  "linhas": [
+    {
+      "tempo": 1.22,
+      "fr": "Oh, oh-oh-oh",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 5.23,
+      "fr": "Oh, oh-oh-oh, oh-oh",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 9.38,
+      "fr": "Oh, oh-oh-oh",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 13.83,
+      "fr": "Oh, oh-oh-oh, oh-oh",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 17.8,
+      "fr": "Ce soir dans un taxi, part une dispute sans queue, ni tête",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 22.22,
+      "fr": "La buée et la pluie se reflètent dans tes yeux fâchés",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 26.73,
+      "fr": "Si tu disparais demain, mon cœur se sera vidé",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 31.28,
+      "fr": "Et il me glissera des mains, oh tu vois tu m'as bien changée",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 34.78,
+      "fr": "L'attente de tes appels me fait réaliser qu'j'serai plus jamais la même, depuis qu'je t'aie",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 44.35,
+      "fr": "On en reparlera demain, quand tu m'auras pardonnée",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 48.69,
+      "fr": "Je sais, j'ai été trop loin, première fois que j'te vois t'énerver",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 72.63,
+      "fr": "Qu'est-ce que tu m'as fait? Qu'est-ce que tu m'as fait?",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 76.97,
+      "fr": "Qu'est-ce que tu m'as fait? Qu'est-ce que tu m'as fait?",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 81.46,
+      "fr": "Avant toi, c'était moins bien, demain tu vas me manquer",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 85.65,
+      "fr": "C'est beau, mais ça me rend dingue, et je n'cesse de me demander",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 89.93,
+      "fr": "Qu'est-ce que tu m'as fait? Oh, qu'est-ce que tu m'as fait?",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 94.55,
+      "fr": "Qu'est-ce que tu m'as fait? Oh, qu'est-ce que tu m'as fait?",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 98.84,
+      "fr": "Avant toi, c'était moins bien, même si on veut la cité",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 103.2,
+      "fr": "Quand la lumière elle s'éteint, on ne peut plus vraiment changer",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 107.16,
+      "fr": "Ce soir, il est minuit, tes grands yeux noirs me font la tête",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 111.77,
+      "fr": "La buée et la pluie se collent à tes cheveux lâchés",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 116.21,
+      "fr": "Si tu disparais demain, mon cœur se sera vidé",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 120.68,
+      "fr": "Et il me glissera des mains, j'pense à ça quand j'te vois fâchée",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 124.45,
+      "fr": "Si j'te prends la tête, c'est que la mienne va exploser",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 129.21,
+      "fr": "Les autres, les traitres, depuis qu'ma vie est exposée",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 133.83,
+      "fr": "D'ailleurs j'peux pas m'empêcher de composer comme exutoire",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 137.92,
+      "fr": "Racontant ma vie privée, et puis ensuite de m'en vouloir",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 142.48,
+      "fr": "Qu'est-ce que tu m'as fait? Qu'est-ce que tu m'as fait?",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 146.89,
+      "fr": "Qu'est-ce que tu m'as fait? Qu'est-ce que tu m'as fait?",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 151.09,
+      "fr": "Avant toi c'était moins bien, demain tu vas me manquer",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 155.49,
+      "fr": "C'est beau, mais ça me rend dingue, et je ne cesse de me demander",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 160.02,
+      "fr": "Qu'est-ce que tu m'as fait? Oh, qu'est-ce que tu m'as fait?",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 164.13,
+      "fr": "Qu'est-ce que tu m'as fait? Oh, qu'est-ce que tu m'as fait?",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 168.68,
+      "fr": "Avant toi, c'était moins bien, même si on veut décider",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 173.15,
+      "fr": "Quand la lumière elle s'éteint, on ne peut plus vraiment changer",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 196.64,
+      "fr": "Ce soir dans un taxi, notre histoire m'a fait perdre la tête",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 201.1,
+      "fr": "J'aimerais te voir sourire, pourquoi j'me sens si bête?",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 205.49,
+      "fr": "Et même si c'est fini, si j'avais envie d'être honnête",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 209.82,
+      "fr": "Quand je te vois souffrir, j'aimerais guérir ta peine",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 218.08,
+      "fr": "Oh, oh-oh-oh",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 221.55,
+      "fr": "Oh, oh-oh-oh, oh-oh",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 225.42,
+      "fr": "Oh, oh-oh-oh",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 229.61,
+      "fr": "Oh, oh-oh-oh, oh-oh",
+      "pt": "",
+      "en": ""
+    }
+  ],
+  "vocabulario": {
+    "oh": {
+      "pt": "",
+      "en": ""
+    },
+    "oh-oh-oh": {
+      "pt": "",
+      "en": ""
+    },
+    "oh-oh": {
+      "pt": "",
+      "en": ""
+    },
+    "ce": {
+      "pt": "",
+      "en": ""
+    },
+    "soir": {
+      "pt": "",
+      "en": ""
+    },
+    "dans": {
+      "pt": "",
+      "en": ""
+    },
+    "un": {
+      "pt": "",
+      "en": ""
+    },
+    "taxi": {
+      "pt": "",
+      "en": ""
+    },
+    "part": {
+      "pt": "",
+      "en": ""
+    },
+    "une": {
+      "pt": "",
+      "en": ""
+    },
+    "dispute": {
+      "pt": "",
+      "en": ""
+    },
+    "sans": {
+      "pt": "",
+      "en": ""
+    },
+    "queue": {
+      "pt": "",
+      "en": ""
+    },
+    "ni": {
+      "pt": "",
+      "en": ""
+    },
+    "tête": {
+      "pt": "",
+      "en": ""
+    },
+    "la": {
+      "pt": "",
+      "en": ""
+    },
+    "buée": {
+      "pt": "",
+      "en": ""
+    },
+    "et": {
+      "pt": "",
+      "en": ""
+    },
+    "pluie": {
+      "pt": "",
+      "en": ""
+    },
+    "se": {
+      "pt": "",
+      "en": ""
+    },
+    "reflètent": {
+      "pt": "",
+      "en": ""
+    },
+    "tes": {
+      "pt": "",
+      "en": ""
+    },
+    "yeux": {
+      "pt": "",
+      "en": ""
+    },
+    "fâchés": {
+      "pt": "",
+      "en": ""
+    },
+    "si": {
+      "pt": "",
+      "en": ""
+    },
+    "tu": {
+      "pt": "",
+      "en": ""
+    },
+    "disparais": {
+      "pt": "",
+      "en": ""
+    },
+    "demain": {
+      "pt": "",
+      "en": ""
+    },
+    "mon": {
+      "pt": "",
+      "en": ""
+    },
+    "cœur": {
+      "pt": "",
+      "en": ""
+    },
+    "sera": {
+      "pt": "",
+      "en": ""
+    },
+    "vidé": {
+      "pt": "",
+      "en": ""
+    },
+    "il": {
+      "pt": "",
+      "en": ""
+    },
+    "me": {
+      "pt": "",
+      "en": ""
+    },
+    "glissera": {
+      "pt": "",
+      "en": ""
+    },
+    "des": {
+      "pt": "",
+      "en": ""
+    },
+    "mains": {
+      "pt": "",
+      "en": ""
+    },
+    "vois": {
+      "pt": "",
+      "en": ""
+    },
+    "m'as": {
+      "pt": "",
+      "en": ""
+    },
+    "bien": {
+      "pt": "",
+      "en": ""
+    },
+    "changée": {
+      "pt": "",
+      "en": ""
+    },
+    "l'attente": {
+      "pt": "",
+      "en": ""
+    },
+    "de": {
+      "pt": "",
+      "en": ""
+    },
+    "appels": {
+      "pt": "",
+      "en": ""
+    },
+    "fait": {
+      "pt": "",
+      "en": ""
+    },
+    "réaliser": {
+      "pt": "",
+      "en": ""
+    },
+    "qu'j'serai": {
+      "pt": "",
+      "en": ""
+    },
+    "plus": {
+      "pt": "",
+      "en": ""
+    },
+    "jamais": {
+      "pt": "",
+      "en": ""
+    },
+    "même": {
+      "pt": "",
+      "en": ""
+    },
+    "depuis": {
+      "pt": "",
+      "en": ""
+    },
+    "qu'je": {
+      "pt": "",
+      "en": ""
+    },
+    "t'aie": {
+      "pt": "",
+      "en": ""
+    },
+    "on": {
+      "pt": "",
+      "en": ""
+    },
+    "en": {
+      "pt": "",
+      "en": ""
+    },
+    "reparlera": {
+      "pt": "",
+      "en": ""
+    },
+    "quand": {
+      "pt": "",
+      "en": ""
+    },
+    "m'auras": {
+      "pt": "",
+      "en": ""
+    },
+    "pardonnée": {
+      "pt": "",
+      "en": ""
+    },
+    "je": {
+      "pt": "",
+      "en": ""
+    },
+    "sais": {
+      "pt": "",
+      "en": ""
+    },
+    "j'ai": {
+      "pt": "",
+      "en": ""
+    },
+    "été": {
+      "pt": "",
+      "en": ""
+    },
+    "trop": {
+      "pt": "",
+      "en": ""
+    },
+    "loin": {
+      "pt": "",
+      "en": ""
+    },
+    "première": {
+      "pt": "",
+      "en": ""
+    },
+    "fois": {
+      "pt": "",
+      "en": ""
+    },
+    "que": {
+      "pt": "",
+      "en": ""
+    },
+    "j'te": {
+      "pt": "",
+      "en": ""
+    },
+    "t'énerver": {
+      "pt": "",
+      "en": ""
+    },
+    "qu'est-ce": {
+      "pt": "",
+      "en": ""
+    },
+    "avant": {
+      "pt": "",
+      "en": ""
+    },
+    "toi": {
+      "pt": "",
+      "en": ""
+    },
+    "c'était": {
+      "pt": "",
+      "en": ""
+    },
+    "moins": {
+      "pt": "",
+      "en": ""
+    },
+    "vas": {
+      "pt": "",
+      "en": ""
+    },
+    "manquer": {
+      "pt": "",
+      "en": ""
+    },
+    "c'est": {
+      "pt": "",
+      "en": ""
+    },
+    "beau": {
+      "pt": "",
+      "en": ""
+    },
+    "mais": {
+      "pt": "",
+      "en": ""
+    },
+    "ça": {
+      "pt": "",
+      "en": ""
+    },
+    "rend": {
+      "pt": "",
+      "en": ""
+    },
+    "dingue": {
+      "pt": "",
+      "en": ""
+    },
+    "n'cesse": {
+      "pt": "",
+      "en": ""
+    },
+    "demander": {
+      "pt": "",
+      "en": ""
+    },
+    "veut": {
+      "pt": "",
+      "en": ""
+    },
+    "cité": {
+      "pt": "",
+      "en": ""
+    },
+    "lumière": {
+      "pt": "",
+      "en": ""
+    },
+    "elle": {
+      "pt": "",
+      "en": ""
+    },
+    "s'éteint": {
+      "pt": "",
+      "en": ""
+    },
+    "ne": {
+      "pt": "",
+      "en": ""
+    },
+    "peut": {
+      "pt": "",
+      "en": ""
+    },
+    "vraiment": {
+      "pt": "",
+      "en": ""
+    },
+    "changer": {
+      "pt": "",
+      "en": ""
+    },
+    "est": {
+      "pt": "",
+      "en": ""
+    },
+    "minuit": {
+      "pt": "",
+      "en": ""
+    },
+    "grands": {
+      "pt": "",
+      "en": ""
+    },
+    "noirs": {
+      "pt": "",
+      "en": ""
+    },
+    "font": {
+      "pt": "",
+      "en": ""
+    },
+    "collent": {
+      "pt": "",
+      "en": ""
+    },
+    "à": {
+      "pt": "",
+      "en": ""
+    },
+    "cheveux": {
+      "pt": "",
+      "en": ""
+    },
+    "lâchés": {
+      "pt": "",
+      "en": ""
+    },
+    "j'pense": {
+      "pt": "",
+      "en": ""
+    },
+    "fâchée": {
+      "pt": "",
+      "en": ""
+    },
+    "prends": {
+      "pt": "",
+      "en": ""
+    },
+    "mienne": {
+      "pt": "",
+      "en": ""
+    },
+    "va": {
+      "pt": "",
+      "en": ""
+    },
+    "exploser": {
+      "pt": "",
+      "en": ""
+    },
+    "les": {
+      "pt": "",
+      "en": ""
+    },
+    "autres": {
+      "pt": "",
+      "en": ""
+    },
+    "traitres": {
+      "pt": "",
+      "en": ""
+    },
+    "qu'ma": {
+      "pt": "",
+      "en": ""
+    },
+    "vie": {
+      "pt": "",
+      "en": ""
+    },
+    "exposée": {
+      "pt": "",
+      "en": ""
+    },
+    "d'ailleurs": {
+      "pt": "",
+      "en": ""
+    },
+    "j'peux": {
+      "pt": "",
+      "en": ""
+    },
+    "pas": {
+      "pt": "",
+      "en": ""
+    },
+    "m'empêcher": {
+      "pt": "",
+      "en": ""
+    },
+    "composer": {
+      "pt": "",
+      "en": ""
+    },
+    "comme": {
+      "pt": "",
+      "en": ""
+    },
+    "exutoire": {
+      "pt": "",
+      "en": ""
+    },
+    "racontant": {
+      "pt": "",
+      "en": ""
+    },
+    "ma": {
+      "pt": "",
+      "en": ""
+    },
+    "privée": {
+      "pt": "",
+      "en": ""
+    },
+    "puis": {
+      "pt": "",
+      "en": ""
+    },
+    "ensuite": {
+      "pt": "",
+      "en": ""
+    },
+    "m'en": {
+      "pt": "",
+      "en": ""
+    },
+    "vouloir": {
+      "pt": "",
+      "en": ""
+    },
+    "cesse": {
+      "pt": "",
+      "en": ""
+    },
+    "décider": {
+      "pt": "",
+      "en": ""
+    },
+    "notre": {
+      "pt": "",
+      "en": ""
+    },
+    "histoire": {
+      "pt": "",
+      "en": ""
+    },
+    "m'a": {
+      "pt": "",
+      "en": ""
+    },
+    "perdre": {
+      "pt": "",
+      "en": ""
+    },
+    "j'aimerais": {
+      "pt": "",
+      "en": ""
+    },
+    "te": {
+      "pt": "",
+      "en": ""
+    },
+    "voir": {
+      "pt": "",
+      "en": ""
+    },
+    "sourire": {
+      "pt": "",
+      "en": ""
+    },
+    "pourquoi": {
+      "pt": "",
+      "en": ""
+    },
+    "j'me": {
+      "pt": "",
+      "en": ""
+    },
+    "sens": {
+      "pt": "",
+      "en": ""
+    },
+    "bête": {
+      "pt": "",
+      "en": ""
+    },
+    "fini": {
+      "pt": "",
+      "en": ""
+    },
+    "j'avais": {
+      "pt": "",
+      "en": ""
+    },
+    "envie": {
+      "pt": "",
+      "en": ""
+    },
+    "d'être": {
+      "pt": "",
+      "en": ""
+    },
+    "honnête": {
+      "pt": "",
+      "en": ""
+    },
+    "souffrir": {
+      "pt": "",
+      "en": ""
+    },
+    "guérir": {
+      "pt": "",
+      "en": ""
+    },
+    "ta": {
+      "pt": "",
+      "en": ""
+    },
+    "peine": {
+      "pt": "",
+      "en": ""
+    }
+  },
+  "ordem": 21
+}

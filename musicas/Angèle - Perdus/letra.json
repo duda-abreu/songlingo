@@ -1,0 +1,698 @@
+{
+  "titulo": "Perdus",
+  "artista": "Angèle",
+  "arquivo_audio": "audio.mp3",
+  "linhas": [
+    {
+      "tempo": 14.65,
+      "fr": "On perd de l'altitude toi et moi",
+      "pt": "Você e eu estamos perdendo altitude",
+      "en": "You and I are losing altitude"
+    },
+    {
+      "tempo": 18.63,
+      "fr": "Loin de nous, où ni l'un ni l'autre n'ira",
+      "pt": "Longe de nós, onde nenhum dos dois irá",
+      "en": "Far from us, where neither will go"
+    },
+    {
+      "tempo": 21.7,
+      "fr": "On perd notre aptitude",
+      "pt": "Perdemos nossa capacidade",
+      "en": "We lose our ability"
+    },
+    {
+      "tempo": 23.05,
+      "fr": "Celle qu'on avait à rester fiers",
+      "pt": "Aquele de quem devemos continuar orgulhosos",
+      "en": "The one we had to remain proud of"
+    },
+    {
+      "tempo": 26.91,
+      "fr": "Ni l'un ni l'autre ne l'a",
+      "pt": "Nem tem",
+      "en": "Neither has it"
+    },
+    {
+      "tempo": 28.57,
+      "fr": "On perd notre temps à se perdre tout le temps",
+      "pt": "Perdemos nosso tempo nos perdendo o tempo todo",
+      "en": "We waste our time getting lost all the time"
+    },
+    {
+      "tempo": 32.41,
+      "fr": "Loin de nous, où ni l'un ni l'autre n'ira",
+      "pt": "Longe de nós, onde nenhum dos dois irá",
+      "en": "Far from us, where neither will go"
+    },
+    {
+      "tempo": 35.66,
+      "fr": "Perdus, perdus, peur du temps",
+      "pt": "Perdido, perdido, com medo do tempo",
+      "en": "Lost, lost, afraid of time"
+    },
+    {
+      "tempo": 40.78,
+      "fr": "Perdus",
+      "pt": "Perdido",
+      "en": "Lost"
+    },
+    {
+      "tempo": 43.29,
+      "fr": "Tous ces gens m'avaient prévenue",
+      "pt": "Todas essas pessoas me avisaram",
+      "en": "All these people warned me"
+    },
+    {
+      "tempo": 45.87,
+      "fr": "On descend, on l'a voulu",
+      "pt": "Nós estamos caindo, nós queríamos isso",
+      "en": "We're going down, we wanted it"
+    },
+    {
+      "tempo": 48.1,
+      "fr": "Perdus",
+      "pt": "Perdido",
+      "en": "Lost"
+    },
+    {
+      "tempo": 50.13,
+      "fr": "Sans s'entendre sur notre but",
+      "pt": "Sem concordar com o nosso objetivo",
+      "en": "Without agreeing on our goal"
+    },
+    {
+      "tempo": 52.81,
+      "fr": "On s'ennuie fort, on se tue",
+      "pt": "Estamos muito entediados, nos matamos",
+      "en": "We are very bored, we kill ourselves"
+    },
+    {
+      "tempo": 55.11,
+      "fr": "Perdus, perdus, perdus",
+      "pt": "Perdido, perdido, perdido",
+      "en": "Lost, lost, lost"
+    },
+    {
+      "tempo": 63.98,
+      "fr": "Tous ces gens m'avaient prévenue",
+      "pt": "Todas essas pessoas me avisaram",
+      "en": "All these people warned me"
+    },
+    {
+      "tempo": 66.7,
+      "fr": "On se déchire, on se tue",
+      "pt": "Nós nos separamos, nos matamos",
+      "en": "We tear each other apart, we kill each other"
+    },
+    {
+      "tempo": 70.45,
+      "fr": "J'vais avoir l'habitude mais ces derniers mois",
+      "pt": "Estarei acostumado, mas nos últimos meses",
+      "en": "I'll be used to it but in recent months"
+    },
+    {
+      "tempo": 74.25,
+      "fr": "J'ai flanché loin de toi, loin de moi",
+      "pt": "Eu me afastei de você, de mim",
+      "en": "I flinched away from you, away from me"
+    },
+    {
+      "tempo": 77.35,
+      "fr": "Sans prendre la mesure de c'qui m'arrivait",
+      "pt": "Sem fazer um balanço do que estava acontecendo comigo",
+      "en": "Without taking stock of what was happening to me"
+    },
+    {
+      "tempo": 80.95,
+      "fr": "Et c'est arrivé sans le voir venir",
+      "pt": "E aconteceu sem ver isso chegando",
+      "en": "And it happened without seeing it coming"
+    },
+    {
+      "tempo": 84.08,
+      "fr": "Notoriété oblige, j'y prends bien du plaisir",
+      "pt": "A notoriedade obriga, tenho muito prazer nisso",
+      "en": "Notoriety obliges, I take great pleasure in it"
+    },
+    {
+      "tempo": 87.22,
+      "fr": "Même si j'y perds ma liberté",
+      "pt": "Mesmo se eu perder minha liberdade",
+      "en": "Even if I lose my freedom"
+    },
+    {
+      "tempo": 89.42,
+      "fr": "Vouloir trop réussir, la pression du succès",
+      "pt": "Querendo muito ter sucesso, a pressão do sucesso",
+      "en": "Wanting to succeed too much, the pressure of success"
+    },
+    {
+      "tempo": 92.83,
+      "fr": "Les gens, les autres n'ont que ce qu'on va devenir",
+      "pt": "Gente, outros só têm o que nos tornaremos",
+      "en": "People, others only have what we will become"
+    },
+    {
+      "tempo": 96.48,
+      "fr": "Perdus",
+      "pt": "Perdido",
+      "en": "Lost"
+    },
+    {
+      "tempo": 98.83,
+      "fr": "Tous ces gens m'avaient prévenue",
+      "pt": "Todas essas pessoas me avisaram",
+      "en": ""
+    },
+    {
+      "tempo": 101.5,
+      "fr": "On descend, on l'a voulu",
+      "pt": "Nós estamos caindo, nós queríamos isso",
+      "en": "We're going down, we wanted it"
+    },
+    {
+      "tempo": 103.72,
+      "fr": "Perdus",
+      "pt": "Perdido",
+      "en": "Lost"
+    },
+    {
+      "tempo": 105.73,
+      "fr": "Sans s'entendre sur notre but",
+      "pt": "Sem concordar com o nosso objetivo",
+      "en": "Without agreeing on our goal"
+    },
+    {
+      "tempo": 108.38,
+      "fr": "On s'ennuie fort, on se tue",
+      "pt": "Estamos muito entediados, nos matamos",
+      "en": "We are very bored, we kill ourselves"
+    },
+    {
+      "tempo": 110.87,
+      "fr": "Perdus, perdus, perdus",
+      "pt": "Perdido, perdido, perdido",
+      "en": "Lost, lost, lost"
+    },
+    {
+      "tempo": 119.65,
+      "fr": "Tous ces gens m'avaient prévenue",
+      "pt": "Todas essas pessoas me avisaram",
+      "en": "All these people warned me"
+    },
+    {
+      "tempo": 122.39,
+      "fr": "On se déchire, on se tue",
+      "pt": "Nós nos separamos, nos matamos",
+      "en": "We tear each other apart, we kill each other"
+    },
+    {
+      "tempo": 124.63,
+      "fr": "Loin de nous, loin de nous, loin de nous, loin de nous",
+      "pt": "Longe de nós, longe de nós, longe de nós, longe de nós",
+      "en": "Far from us, far from us, far from us, far from us"
+    },
+    {
+      "tempo": 131.27,
+      "fr": "Ni l'un ni l'autre n'ira",
+      "pt": "Nenhum dos dois irá",
+      "en": "Neither will go"
+    },
+    {
+      "tempo": 133.36,
+      "fr": "Loin de nous, loin de nous, loin de nous",
+      "pt": "Longe de nós, longe de nós, longe de nós",
+      "en": "Far from us, far from us, far from us"
+    },
+    {
+      "tempo": 138.05,
+      "fr": "Perdus",
+      "pt": "Perdido",
+      "en": "Lost"
+    },
+    {
+      "tempo": 140.63,
+      "fr": "Tous ces gens m'avaient prévenue",
+      "pt": "Todas essas pessoas me avisaram",
+      "en": "All these people warned me"
+    },
+    {
+      "tempo": 143.35,
+      "fr": "On descend, on l'a voulu",
+      "pt": "Nós estamos caindo, nós queríamos isso",
+      "en": "We're going down, we wanted it"
+    },
+    {
+      "tempo": 145.54,
+      "fr": "Perdus",
+      "pt": "Perdido",
+      "en": "Lost"
+    },
+    {
+      "tempo": 147.41,
+      "fr": "Sans s'entendre sur notre but",
+      "pt": "Sem concordar com o nosso objetivo",
+      "en": "Without agreeing on our goal"
+    },
+    {
+      "tempo": 150.27,
+      "fr": "On s'ennuie fort, on se tue",
+      "pt": "Estamos muito entediados, nos matamos",
+      "en": "We are very bored, we kill ourselves"
+    },
+    {
+      "tempo": 152.77,
+      "fr": "Perdus, perdus, perdus",
+      "pt": "Perdido, perdido, perdido",
+      "en": "Lost, lost, lost"
+    },
+    {
+      "tempo": 161.42,
+      "fr": "Tous ces gens m'avaient prévenue",
+      "pt": "Todas essas pessoas me avisaram",
+      "en": "All these people warned me"
+    },
+    {
+      "tempo": 164.18,
+      "fr": "On se déchire, on se tue",
+      "pt": "Nós nos separamos, nos matamos",
+      "en": "We tear each other apart, we kill each other"
+    },
+    {
+      "tempo": 167.65,
+      "fr": "Ça me manque les jours tendres du début",
+      "pt": "Sinto falta dos dias ternos do começo",
+      "en": "I miss the tender days of the beginning"
+    },
+    {
+      "tempo": 171.71,
+      "fr": "À s'aimer pour la première fois",
+      "pt": "Amar um ao outro pela primeira vez",
+      "en": "To love each other for the first time"
+    },
+    {
+      "tempo": 175.23,
+      "fr": "Loin de nous, loin de nous, loin de nous",
+      "pt": "Longe de nós, longe de nós, longe de nós",
+      "en": "Far from us, far from us, far from us"
+    },
+    {
+      "tempo": 180.01,
+      "fr": "Ni l'un ni l'autre n'ira",
+      "pt": "Nenhum dos dois irá",
+      "en": "Neither will go"
+    }
+  ],
+  "vocabulario": {
+    "on": {
+      "pt": "nós",
+      "en": "we"
+    },
+    "perd": {
+      "pt": "perder",
+      "en": ""
+    },
+    "de": {
+      "pt": "de",
+      "en": "of"
+    },
+    "l'altitude": {
+      "pt": "altitude",
+      "en": "altitude"
+    },
+    "toi": {
+      "pt": "Você",
+      "en": "You"
+    },
+    "et": {
+      "pt": "E",
+      "en": "And"
+    },
+    "moi": {
+      "pt": "Meu",
+      "en": "Me"
+    },
+    "loin": {
+      "pt": "distante",
+      "en": "far"
+    },
+    "nous": {
+      "pt": "Nós",
+      "en": "We"
+    },
+    "où": {
+      "pt": "Ou",
+      "en": "Or"
+    },
+    "ni": {
+      "pt": "nenhum",
+      "en": ""
+    },
+    "l'un": {
+      "pt": "seg",
+      "en": "mon"
+    },
+    "l'autre": {
+      "pt": "o outro",
+      "en": "the other"
+    },
+    "n'ira": {
+      "pt": "não vou",
+      "en": "won't go"
+    },
+    "notre": {
+      "pt": "NOSSO",
+      "en": "OUR"
+    },
+    "aptitude": {
+      "pt": "aptidão",
+      "en": "aptitude"
+    },
+    "celle": {
+      "pt": "que",
+      "en": "that"
+    },
+    "qu'on": {
+      "pt": "que nós",
+      "en": "that we"
+    },
+    "avait": {
+      "pt": "tive",
+      "en": "had"
+    },
+    "à": {
+      "pt": "tem",
+      "en": "has"
+    },
+    "rester": {
+      "pt": "ficar",
+      "en": "stay"
+    },
+    "fiers": {
+      "pt": "orgulhoso",
+      "en": "proud"
+    },
+    "ne": {
+      "pt": "nascer",
+      "en": "born"
+    },
+    "l'a": {
+      "pt": "lá",
+      "en": "there"
+    },
+    "temps": {
+      "pt": "tempo",
+      "en": "time"
+    },
+    "se": {
+      "pt": "se",
+      "en": "se"
+    },
+    "perdre": {
+      "pt": "perder",
+      "en": "lose"
+    },
+    "tout": {
+      "pt": "Todos",
+      "en": "All"
+    },
+    "le": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "perdus": {
+      "pt": "perdido",
+      "en": "lost"
+    },
+    "peur": {
+      "pt": "temer",
+      "en": "fear"
+    },
+    "du": {
+      "pt": "de",
+      "en": "of"
+    },
+    "tous": {
+      "pt": "todos",
+      "en": "all"
+    },
+    "ces": {
+      "pt": "esses",
+      "en": "these"
+    },
+    "gens": {
+      "pt": "pessoas",
+      "en": "people"
+    },
+    "m'avaient": {
+      "pt": "me teve",
+      "en": "had me"
+    },
+    "prévenue": {
+      "pt": "avisado",
+      "en": "warned"
+    },
+    "descend": {
+      "pt": "desce",
+      "en": "goes down"
+    },
+    "voulu": {
+      "pt": "desejado",
+      "en": "wanted"
+    },
+    "sans": {
+      "pt": "sem",
+      "en": "without"
+    },
+    "s'entendre": {
+      "pt": "se dar bem",
+      "en": "get along"
+    },
+    "sur": {
+      "pt": "sobre",
+      "en": "on"
+    },
+    "but": {
+      "pt": "mirar",
+      "en": "aim"
+    },
+    "s'ennuie": {
+      "pt": "entediado",
+      "en": "bored"
+    },
+    "fort": {
+      "pt": "forte",
+      "en": "strong"
+    },
+    "tue": {
+      "pt": "matar",
+      "en": "kill"
+    },
+    "déchire": {
+      "pt": "rasgado",
+      "en": "torn"
+    },
+    "j'vais": {
+      "pt": "",
+      "en": "I'm going"
+    },
+    "avoir": {
+      "pt": "ter",
+      "en": "to have"
+    },
+    "l'habitude": {
+      "pt": "",
+      "en": "the habit"
+    },
+    "mais": {
+      "pt": "mas",
+      "en": "but"
+    },
+    "derniers": {
+      "pt": "",
+      "en": "latest"
+    },
+    "mois": {
+      "pt": "",
+      "en": "month"
+    },
+    "j'ai": {
+      "pt": "Eu tenho",
+      "en": ""
+    },
+    "flanché": {
+      "pt": "estremeceu",
+      "en": ""
+    },
+    "prendre": {
+      "pt": "pegar",
+      "en": "take"
+    },
+    "la": {
+      "pt": "lá",
+      "en": "there"
+    },
+    "mesure": {
+      "pt": "medir",
+      "en": "measure"
+    },
+    "c'qui": {
+      "pt": "Quem",
+      "en": "who"
+    },
+    "m'arrivait": {
+      "pt": "aconteceu comigo",
+      "en": "happened to me"
+    },
+    "c'est": {
+      "pt": "Isso é",
+      "en": "It is"
+    },
+    "arrivé": {
+      "pt": "chegado",
+      "en": "arrived"
+    },
+    "voir": {
+      "pt": "ver",
+      "en": "see"
+    },
+    "venir": {
+      "pt": "vir",
+      "en": "come"
+    },
+    "notoriété": {
+      "pt": "fama",
+      "en": "fame"
+    },
+    "oblige": {
+      "pt": "obrigado",
+      "en": "obliged"
+    },
+    "j'y": {
+      "pt": "eu estou lá",
+      "en": "I'm there"
+    },
+    "prends": {
+      "pt": "pegar",
+      "en": "take"
+    },
+    "bien": {
+      "pt": "BOM",
+      "en": "GOOD"
+    },
+    "plaisir": {
+      "pt": "prazer",
+      "en": "pleasure"
+    },
+    "même": {
+      "pt": "até",
+      "en": "even"
+    },
+    "si": {
+      "pt": "se",
+      "en": "if"
+    },
+    "perds": {
+      "pt": "perder",
+      "en": "lose"
+    },
+    "ma": {
+      "pt": "meu",
+      "en": "my"
+    },
+    "liberté": {
+      "pt": "liberdade",
+      "en": "freedom"
+    },
+    "vouloir": {
+      "pt": "querer",
+      "en": "to want"
+    },
+    "trop": {
+      "pt": "demais",
+      "en": "too much"
+    },
+    "réussir": {
+      "pt": "ter sucesso",
+      "en": "succeed"
+    },
+    "pression": {
+      "pt": "pressão",
+      "en": "pressure"
+    },
+    "succès": {
+      "pt": "sucesso",
+      "en": "success"
+    },
+    "les": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "autres": {
+      "pt": "outros",
+      "en": "others"
+    },
+    "n'ont": {
+      "pt": "não tenho",
+      "en": "don't have"
+    },
+    "que": {
+      "pt": "que",
+      "en": "that"
+    },
+    "ce": {
+      "pt": "Esse",
+      "en": "This"
+    },
+    "va": {
+      "pt": "ir",
+      "en": "go"
+    },
+    "devenir": {
+      "pt": "tornar-se",
+      "en": "become"
+    },
+    "ça": {
+      "pt": "Que",
+      "en": "That"
+    },
+    "me": {
+      "pt": "meu",
+      "en": "me"
+    },
+    "manque": {
+      "pt": "falta",
+      "en": "lack"
+    },
+    "jours": {
+      "pt": "dias",
+      "en": "days"
+    },
+    "tendres": {
+      "pt": "macio",
+      "en": "tender"
+    },
+    "début": {
+      "pt": "começo",
+      "en": "beginning"
+    },
+    "s'aimer": {
+      "pt": "amem um ao outro",
+      "en": "love each other"
+    },
+    "pour": {
+      "pt": "Para",
+      "en": "For"
+    },
+    "première": {
+      "pt": "primeiro",
+      "en": "first"
+    },
+    "fois": {
+      "pt": "vezes",
+      "en": "times"
+    }
+  },
+  "ordem": 16
+}

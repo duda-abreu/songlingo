@@ -1,0 +1,954 @@
+{
+  "titulo": "S'en aller",
+  "artista": "Swing",
+  "arquivo_audio": "audio.mp3",
+  "linhas": [
+    {
+      "tempo": 29.99,
+      "fr": "Comment faire pour garder le fil",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 33.65,
+      "fr": "Garder le bon, jeter le pire",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 37.62,
+      "fr": "Parler sans combler nos silences",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 41.42,
+      "fr": "De ce qu'on oublie de se dire",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 45.25,
+      "fr": "Comment faire pour combler le vide",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 48.98,
+      "fr": "D'un coup sec, retirer l'épine",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 52.95,
+      "fr": "Oublier le temps qui s'étire",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 56.78,
+      "fr": "Au loin, le plastique et le ciment",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 61.04,
+      "fr": "Et s'en aller, et s'en aller",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 64.85,
+      "fr": "L'aiguille me guette, veut m'enfermer",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 68.7,
+      "fr": "Et s'en aller, et s'en aller",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 72.6,
+      "fr": "Partir, se perdre, se retrouver",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 76.86,
+      "fr": "Oh, pas de regrets, pas de regrets",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 84.75,
+      "fr": "Oh, ne pas regarder en arrière",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 92.61,
+      "fr": "J'ai l'instinct d'une bête apeurée",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 94.54,
+      "fr": "J'suis qu'un homme donc j'suis qu'un animal",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 96.57,
+      "fr": "Les belles paroles, je veux pas y croire",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 98.45,
+      "fr": "J'ai trop souvent fini par m'leurrer",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 100.36,
+      "fr": "J'écris ce texte, j'arrête pas d'gommer",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 102.41,
+      "fr": "Pour recevoir, commence par donner",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 104.47,
+      "fr": "Pourquoi j'suis heureux quand j'agis mal",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 106.31,
+      "fr": "Pourquoi c'est si dur de pardonner",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 108.19,
+      "fr": "Face au paraître, on se barricade",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 110.17,
+      "fr": "Raison dans profondeur abyssale",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 111.68,
+      "fr": "J'pense au jour où j'quitterai la capitale",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 113.98,
+      "fr": "La conscience propre et les habits sales",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 115.92,
+      "fr": "Partons loin des hommes, des palissades",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 117.63,
+      "fr": "Des murs, des grillages et des barbelés",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 119.48,
+      "fr": "Avant que j'enjambe la balustrade",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 121.37,
+      "fr": "Ou que la balle quitte le barillet",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 125.84,
+      "fr": "Comment faire pour garder le fil",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 129.77,
+      "fr": "Garder le bon, jeter le pire",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 133.61,
+      "fr": "Parler sans combler nos silences",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 137.47,
+      "fr": "De ce qu'on oublie de se dire",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 141.19,
+      "fr": "Comment faire pour combler le vide",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 145.16,
+      "fr": "D'un coup sec, retirer l'épine",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 148.95,
+      "fr": "Oublier le temps qui s'étire",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 152.84,
+      "fr": "Au loin, le plastique et le ciment",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 157.04,
+      "fr": "Et s'en aller, et s'en aller",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 160.9,
+      "fr": "L'aiguille me guette, veut m'enfermer",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 164.79,
+      "fr": "Et s'en aller, et s'en aller",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 168.55,
+      "fr": "Partir, se perdre, se retrouver",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 172.1,
+      "fr": "Les armes que j'avais sont restées à terre",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 176.73,
+      "fr": "Pas d'argumentaire, je m'endors sereine",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 180.59,
+      "fr": "Laisser le temps faire et l'angoisse derrière",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 184.22,
+      "fr": "Seulement, j'en n'ai pas la capacité",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 188.37,
+      "fr": "Oh, ne pas regarder en arrière",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 196.35,
+      "fr": "Pas de regrets dans l'air, l'air de rien, je regrette",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 200.36,
+      "fr": "Je regarde en arrière, des pensées noires me traversent",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 206.63,
+      "fr": "Comment faire pour garder le fil",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 210.35,
+      "fr": "Garder le bon, jeter le pire",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 214.34,
+      "fr": "Parler sans combler nos silences",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 217.92,
+      "fr": "De ce qu'on oublie de se dire",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 221.85,
+      "fr": "Comment faire pour combler le vide",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 225.61,
+      "fr": "D'un coup sec, retirer l'épine",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 229.61,
+      "fr": "Oublier le temps qui s'étire",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 233.52,
+      "fr": "Au loin, le plastique et le ciment",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 237.62,
+      "fr": "Et s'en aller, et s'en aller",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 241.53,
+      "fr": "L'aiguille me guette, veut m'enfermer",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 245.6,
+      "fr": "Et s'en aller, et s'en aller",
+      "pt": "",
+      "en": ""
+    }
+  ],
+  "vocabulario": {
+    "comment": {
+      "pt": "",
+      "en": ""
+    },
+    "faire": {
+      "pt": "",
+      "en": ""
+    },
+    "pour": {
+      "pt": "",
+      "en": ""
+    },
+    "garder": {
+      "pt": "",
+      "en": ""
+    },
+    "le": {
+      "pt": "",
+      "en": ""
+    },
+    "fil": {
+      "pt": "",
+      "en": ""
+    },
+    "bon": {
+      "pt": "",
+      "en": ""
+    },
+    "jeter": {
+      "pt": "",
+      "en": ""
+    },
+    "pire": {
+      "pt": "",
+      "en": ""
+    },
+    "parler": {
+      "pt": "",
+      "en": ""
+    },
+    "sans": {
+      "pt": "",
+      "en": ""
+    },
+    "combler": {
+      "pt": "",
+      "en": ""
+    },
+    "nos": {
+      "pt": "",
+      "en": ""
+    },
+    "silences": {
+      "pt": "",
+      "en": ""
+    },
+    "de": {
+      "pt": "",
+      "en": ""
+    },
+    "ce": {
+      "pt": "",
+      "en": ""
+    },
+    "qu'on": {
+      "pt": "",
+      "en": ""
+    },
+    "oublie": {
+      "pt": "",
+      "en": ""
+    },
+    "se": {
+      "pt": "",
+      "en": ""
+    },
+    "dire": {
+      "pt": "",
+      "en": ""
+    },
+    "vide": {
+      "pt": "",
+      "en": ""
+    },
+    "d'un": {
+      "pt": "",
+      "en": ""
+    },
+    "coup": {
+      "pt": "",
+      "en": ""
+    },
+    "sec": {
+      "pt": "",
+      "en": ""
+    },
+    "retirer": {
+      "pt": "",
+      "en": ""
+    },
+    "l'épine": {
+      "pt": "",
+      "en": ""
+    },
+    "oublier": {
+      "pt": "",
+      "en": ""
+    },
+    "temps": {
+      "pt": "",
+      "en": ""
+    },
+    "qui": {
+      "pt": "",
+      "en": ""
+    },
+    "s'étire": {
+      "pt": "",
+      "en": ""
+    },
+    "au": {
+      "pt": "",
+      "en": ""
+    },
+    "loin": {
+      "pt": "",
+      "en": ""
+    },
+    "plastique": {
+      "pt": "",
+      "en": ""
+    },
+    "et": {
+      "pt": "",
+      "en": ""
+    },
+    "ciment": {
+      "pt": "",
+      "en": ""
+    },
+    "s'en": {
+      "pt": "",
+      "en": ""
+    },
+    "aller": {
+      "pt": "",
+      "en": ""
+    },
+    "l'aiguille": {
+      "pt": "",
+      "en": ""
+    },
+    "me": {
+      "pt": "",
+      "en": ""
+    },
+    "guette": {
+      "pt": "",
+      "en": ""
+    },
+    "veut": {
+      "pt": "",
+      "en": ""
+    },
+    "m'enfermer": {
+      "pt": "",
+      "en": ""
+    },
+    "partir": {
+      "pt": "",
+      "en": ""
+    },
+    "perdre": {
+      "pt": "",
+      "en": ""
+    },
+    "retrouver": {
+      "pt": "",
+      "en": ""
+    },
+    "oh": {
+      "pt": "",
+      "en": ""
+    },
+    "pas": {
+      "pt": "",
+      "en": ""
+    },
+    "regrets": {
+      "pt": "",
+      "en": ""
+    },
+    "ne": {
+      "pt": "",
+      "en": ""
+    },
+    "regarder": {
+      "pt": "",
+      "en": ""
+    },
+    "en": {
+      "pt": "",
+      "en": ""
+    },
+    "arrière": {
+      "pt": "",
+      "en": ""
+    },
+    "j'ai": {
+      "pt": "",
+      "en": ""
+    },
+    "l'instinct": {
+      "pt": "",
+      "en": ""
+    },
+    "d'une": {
+      "pt": "",
+      "en": ""
+    },
+    "bête": {
+      "pt": "",
+      "en": ""
+    },
+    "apeurée": {
+      "pt": "",
+      "en": ""
+    },
+    "j'suis": {
+      "pt": "",
+      "en": ""
+    },
+    "qu'un": {
+      "pt": "",
+      "en": ""
+    },
+    "homme": {
+      "pt": "",
+      "en": ""
+    },
+    "donc": {
+      "pt": "",
+      "en": ""
+    },
+    "animal": {
+      "pt": "",
+      "en": ""
+    },
+    "les": {
+      "pt": "",
+      "en": ""
+    },
+    "belles": {
+      "pt": "",
+      "en": ""
+    },
+    "paroles": {
+      "pt": "",
+      "en": ""
+    },
+    "je": {
+      "pt": "",
+      "en": ""
+    },
+    "veux": {
+      "pt": "",
+      "en": ""
+    },
+    "y": {
+      "pt": "",
+      "en": ""
+    },
+    "croire": {
+      "pt": "",
+      "en": ""
+    },
+    "trop": {
+      "pt": "",
+      "en": ""
+    },
+    "souvent": {
+      "pt": "",
+      "en": ""
+    },
+    "fini": {
+      "pt": "",
+      "en": ""
+    },
+    "par": {
+      "pt": "",
+      "en": ""
+    },
+    "m'leurrer": {
+      "pt": "",
+      "en": ""
+    },
+    "j'écris": {
+      "pt": "",
+      "en": ""
+    },
+    "texte": {
+      "pt": "",
+      "en": ""
+    },
+    "j'arrête": {
+      "pt": "",
+      "en": ""
+    },
+    "d'gommer": {
+      "pt": "",
+      "en": ""
+    },
+    "recevoir": {
+      "pt": "",
+      "en": ""
+    },
+    "commence": {
+      "pt": "",
+      "en": ""
+    },
+    "donner": {
+      "pt": "",
+      "en": ""
+    },
+    "pourquoi": {
+      "pt": "",
+      "en": ""
+    },
+    "heureux": {
+      "pt": "",
+      "en": ""
+    },
+    "quand": {
+      "pt": "",
+      "en": ""
+    },
+    "j'agis": {
+      "pt": "",
+      "en": ""
+    },
+    "mal": {
+      "pt": "",
+      "en": ""
+    },
+    "c'est": {
+      "pt": "",
+      "en": ""
+    },
+    "si": {
+      "pt": "",
+      "en": ""
+    },
+    "dur": {
+      "pt": "",
+      "en": ""
+    },
+    "pardonner": {
+      "pt": "",
+      "en": ""
+    },
+    "face": {
+      "pt": "",
+      "en": ""
+    },
+    "paraître": {
+      "pt": "",
+      "en": ""
+    },
+    "on": {
+      "pt": "",
+      "en": ""
+    },
+    "barricade": {
+      "pt": "",
+      "en": ""
+    },
+    "raison": {
+      "pt": "",
+      "en": ""
+    },
+    "dans": {
+      "pt": "",
+      "en": ""
+    },
+    "profondeur": {
+      "pt": "",
+      "en": ""
+    },
+    "abyssale": {
+      "pt": "",
+      "en": ""
+    },
+    "j'pense": {
+      "pt": "",
+      "en": ""
+    },
+    "jour": {
+      "pt": "",
+      "en": ""
+    },
+    "où": {
+      "pt": "",
+      "en": ""
+    },
+    "j'quitterai": {
+      "pt": "",
+      "en": ""
+    },
+    "la": {
+      "pt": "",
+      "en": ""
+    },
+    "capitale": {
+      "pt": "",
+      "en": ""
+    },
+    "conscience": {
+      "pt": "",
+      "en": ""
+    },
+    "propre": {
+      "pt": "",
+      "en": ""
+    },
+    "habits": {
+      "pt": "",
+      "en": ""
+    },
+    "sales": {
+      "pt": "",
+      "en": ""
+    },
+    "partons": {
+      "pt": "",
+      "en": ""
+    },
+    "des": {
+      "pt": "",
+      "en": ""
+    },
+    "hommes": {
+      "pt": "",
+      "en": ""
+    },
+    "palissades": {
+      "pt": "",
+      "en": ""
+    },
+    "murs": {
+      "pt": "",
+      "en": ""
+    },
+    "grillages": {
+      "pt": "",
+      "en": ""
+    },
+    "barbelés": {
+      "pt": "",
+      "en": ""
+    },
+    "avant": {
+      "pt": "",
+      "en": ""
+    },
+    "que": {
+      "pt": "",
+      "en": ""
+    },
+    "j'enjambe": {
+      "pt": "",
+      "en": ""
+    },
+    "balustrade": {
+      "pt": "",
+      "en": ""
+    },
+    "ou": {
+      "pt": "",
+      "en": ""
+    },
+    "balle": {
+      "pt": "",
+      "en": ""
+    },
+    "quitte": {
+      "pt": "",
+      "en": ""
+    },
+    "barillet": {
+      "pt": "",
+      "en": ""
+    },
+    "armes": {
+      "pt": "",
+      "en": ""
+    },
+    "j'avais": {
+      "pt": "",
+      "en": ""
+    },
+    "sont": {
+      "pt": "",
+      "en": ""
+    },
+    "restées": {
+      "pt": "",
+      "en": ""
+    },
+    "à": {
+      "pt": "",
+      "en": ""
+    },
+    "terre": {
+      "pt": "",
+      "en": ""
+    },
+    "d'argumentaire": {
+      "pt": "",
+      "en": ""
+    },
+    "m'endors": {
+      "pt": "",
+      "en": ""
+    },
+    "sereine": {
+      "pt": "",
+      "en": ""
+    },
+    "laisser": {
+      "pt": "",
+      "en": ""
+    },
+    "l'angoisse": {
+      "pt": "",
+      "en": ""
+    },
+    "derrière": {
+      "pt": "",
+      "en": ""
+    },
+    "seulement": {
+      "pt": "",
+      "en": ""
+    },
+    "j'en": {
+      "pt": "",
+      "en": ""
+    },
+    "n'ai": {
+      "pt": "",
+      "en": ""
+    },
+    "capacité": {
+      "pt": "",
+      "en": ""
+    },
+    "l'air": {
+      "pt": "",
+      "en": ""
+    },
+    "rien": {
+      "pt": "",
+      "en": ""
+    },
+    "regrette": {
+      "pt": "",
+      "en": ""
+    },
+    "regarde": {
+      "pt": "",
+      "en": ""
+    },
+    "pensées": {
+      "pt": "",
+      "en": ""
+    },
+    "noires": {
+      "pt": "",
+      "en": ""
+    },
+    "traversent": {
+      "pt": "",
+      "en": ""
+    }
+  },
+  "ordem": 59
+}

@@ -1,0 +1,940 @@
+{
+  "titulo": "SEMPRE JAMAIS (feat. Angèle)",
+  "artista": "Mahmood",
+  "arquivo_audio": "audio.mp3",
+  "linhas": [
+    {
+      "tempo": 0.77,
+      "fr": "Se revoir à deux comme des amis",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 3.99,
+      "fr": "Sempre",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 4.91,
+      "fr": "Regarder ailleurs pour que j'oublie",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 8.1,
+      "fr": "Jamais",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 9.92,
+      "fr": "Riabbracciarti sarà",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 12.19,
+      "fr": "Come bere miele",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 14.26,
+      "fr": "Volerei fino in Qatar",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 16.32,
+      "fr": "Sfiorando il mare",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 18.13,
+      "fr": "Per trovare te",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 20.05,
+      "fr": "Stavo sognando di stare altrove",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 22.1,
+      "fr": "Nella mia mantella di Rick Owens",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 24.71,
+      "fr": "Stringendomi a te",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 26.64,
+      "fr": "Mi piaceva quando avevo su la tua collana",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 30.5,
+      "fr": "Stare con te sul jet ski era meglio del Nirvana",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 35.04,
+      "fr": "Tu ci pensi mai senza me come stai",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 39.22,
+      "fr": "Se muori di sete fai di me la tua fontana",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 43.47,
+      "fr": "Se revoir à deux comme des amis",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 46.81,
+      "fr": "Sempre",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 47.83,
+      "fr": "Regarder ailleurs pour que j'oublie",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 51.02,
+      "fr": "Jamais",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 52.13,
+      "fr": "Anche se è illegale, pensami",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 55.21,
+      "fr": "Sempre",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 56.34,
+      "fr": "Finché non ci prende la police",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 59.58,
+      "fr": "Jamais",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 61.2,
+      "fr": "J'ai le cœur en morceaux, c'est ma faute, on dirait",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 65.48,
+      "fr": "Pas difficile à avoir, mais difficile à garder",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 69.99,
+      "fr": "Barrières levées, garde baissée",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 71.75,
+      "fr": "Hier, tu me voulais et d'un baiser",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 74.14,
+      "fr": "Tu me dis que tu me veux",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 76.19,
+      "fr": "Pourquoi tu t'laisses pas aller?",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 78.04,
+      "fr": "J'ai adoré toutes les fois où l'on s'est regardés",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 82.21,
+      "fr": "J'aimais quand sur mes doigts l'arôme de ton corps me restait",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 86.59,
+      "fr": "Et si l'on essayait? Est-ce que tu m'en voudrais?",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 90.55,
+      "fr": "Comment te dire adieu quand nos deux cœurs restent rivés?",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 94.92,
+      "fr": "Se revoir à deux comme des amis",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 98.12,
+      "fr": "Sempre",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 99.34,
+      "fr": "Regarder ailleurs pour que j'oublie",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 102.58,
+      "fr": "Jamais",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 103.64,
+      "fr": "Anche se è illegale pensami",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 106.78,
+      "fr": "Sempre",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 107.84,
+      "fr": "Finché non ci prende la police",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 110.94,
+      "fr": "Jamais",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 112.69,
+      "fr": "(Jamais)",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 114.49,
+      "fr": "Finché non ci prende la police",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 116.95,
+      "fr": "(Sempre)",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 118.64,
+      "fr": "Finché non ci prende",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 120.71,
+      "fr": "Se revoir à deux comme des amis",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 123.93,
+      "fr": "Sempre",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 125.06,
+      "fr": "Regarder ailleurs pour que j'oublie",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 128.16,
+      "fr": "Jamais",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 129.25,
+      "fr": "Anche se è illegale pensami",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 132.5,
+      "fr": "Sempre",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 133.46,
+      "fr": "Finché non ci prende la police",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 136.5,
+      "fr": "Jamais",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 137.99,
+      "fr": "Mi piaceva quando avevo su la tua collana",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 142.16,
+      "fr": "J'aimais quand sur mes doigts, l'arôme de ton corps me restait",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 146.49,
+      "fr": "Anche se è illegale pensami",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 149.57,
+      "fr": "Sempre",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 150.83,
+      "fr": "Finché non ci prende la police",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 153.82,
+      "fr": "Jamais",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 155.87,
+      "fr": "Sempre",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 159.86,
+      "fr": "Sempre",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 164.34,
+      "fr": "Sempre, sempre, sempre",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 171.96,
+      "fr": "Se revoir à deux comme des amis",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 175.11,
+      "fr": "Sempre",
+      "pt": "",
+      "en": ""
+    }
+  ],
+  "vocabulario": {
+    "se": {
+      "pt": "",
+      "en": ""
+    },
+    "revoir": {
+      "pt": "",
+      "en": ""
+    },
+    "à": {
+      "pt": "",
+      "en": ""
+    },
+    "deux": {
+      "pt": "",
+      "en": ""
+    },
+    "comme": {
+      "pt": "",
+      "en": ""
+    },
+    "des": {
+      "pt": "",
+      "en": ""
+    },
+    "amis": {
+      "pt": "",
+      "en": ""
+    },
+    "sempre": {
+      "pt": "",
+      "en": ""
+    },
+    "regarder": {
+      "pt": "",
+      "en": ""
+    },
+    "ailleurs": {
+      "pt": "",
+      "en": ""
+    },
+    "pour": {
+      "pt": "",
+      "en": ""
+    },
+    "que": {
+      "pt": "",
+      "en": ""
+    },
+    "j'oublie": {
+      "pt": "",
+      "en": ""
+    },
+    "jamais": {
+      "pt": "",
+      "en": ""
+    },
+    "riabbracciarti": {
+      "pt": "",
+      "en": ""
+    },
+    "sarà": {
+      "pt": "",
+      "en": ""
+    },
+    "come": {
+      "pt": "",
+      "en": ""
+    },
+    "bere": {
+      "pt": "",
+      "en": ""
+    },
+    "miele": {
+      "pt": "",
+      "en": ""
+    },
+    "volerei": {
+      "pt": "",
+      "en": ""
+    },
+    "fino": {
+      "pt": "",
+      "en": ""
+    },
+    "in": {
+      "pt": "",
+      "en": ""
+    },
+    "qatar": {
+      "pt": "",
+      "en": ""
+    },
+    "sfiorando": {
+      "pt": "",
+      "en": ""
+    },
+    "il": {
+      "pt": "",
+      "en": ""
+    },
+    "mare": {
+      "pt": "",
+      "en": ""
+    },
+    "per": {
+      "pt": "",
+      "en": ""
+    },
+    "trovare": {
+      "pt": "",
+      "en": ""
+    },
+    "te": {
+      "pt": "",
+      "en": ""
+    },
+    "stavo": {
+      "pt": "",
+      "en": ""
+    },
+    "sognando": {
+      "pt": "",
+      "en": ""
+    },
+    "di": {
+      "pt": "",
+      "en": ""
+    },
+    "stare": {
+      "pt": "",
+      "en": ""
+    },
+    "altrove": {
+      "pt": "",
+      "en": ""
+    },
+    "nella": {
+      "pt": "",
+      "en": ""
+    },
+    "mia": {
+      "pt": "",
+      "en": ""
+    },
+    "mantella": {
+      "pt": "",
+      "en": ""
+    },
+    "rick": {
+      "pt": "",
+      "en": ""
+    },
+    "owens": {
+      "pt": "",
+      "en": ""
+    },
+    "stringendomi": {
+      "pt": "",
+      "en": ""
+    },
+    "a": {
+      "pt": "",
+      "en": ""
+    },
+    "mi": {
+      "pt": "",
+      "en": ""
+    },
+    "piaceva": {
+      "pt": "",
+      "en": ""
+    },
+    "quando": {
+      "pt": "",
+      "en": ""
+    },
+    "avevo": {
+      "pt": "",
+      "en": ""
+    },
+    "su": {
+      "pt": "",
+      "en": ""
+    },
+    "la": {
+      "pt": "",
+      "en": ""
+    },
+    "tua": {
+      "pt": "",
+      "en": ""
+    },
+    "collana": {
+      "pt": "",
+      "en": ""
+    },
+    "con": {
+      "pt": "",
+      "en": ""
+    },
+    "sul": {
+      "pt": "",
+      "en": ""
+    },
+    "jet": {
+      "pt": "",
+      "en": ""
+    },
+    "ski": {
+      "pt": "",
+      "en": ""
+    },
+    "era": {
+      "pt": "",
+      "en": ""
+    },
+    "meglio": {
+      "pt": "",
+      "en": ""
+    },
+    "del": {
+      "pt": "",
+      "en": ""
+    },
+    "nirvana": {
+      "pt": "",
+      "en": ""
+    },
+    "tu": {
+      "pt": "",
+      "en": ""
+    },
+    "ci": {
+      "pt": "",
+      "en": ""
+    },
+    "pensi": {
+      "pt": "",
+      "en": ""
+    },
+    "mai": {
+      "pt": "",
+      "en": ""
+    },
+    "senza": {
+      "pt": "",
+      "en": ""
+    },
+    "me": {
+      "pt": "",
+      "en": ""
+    },
+    "stai": {
+      "pt": "",
+      "en": ""
+    },
+    "muori": {
+      "pt": "",
+      "en": ""
+    },
+    "sete": {
+      "pt": "",
+      "en": ""
+    },
+    "fai": {
+      "pt": "",
+      "en": ""
+    },
+    "fontana": {
+      "pt": "",
+      "en": ""
+    },
+    "anche": {
+      "pt": "",
+      "en": ""
+    },
+    "è": {
+      "pt": "",
+      "en": ""
+    },
+    "illegale": {
+      "pt": "",
+      "en": ""
+    },
+    "pensami": {
+      "pt": "",
+      "en": ""
+    },
+    "finché": {
+      "pt": "",
+      "en": ""
+    },
+    "non": {
+      "pt": "",
+      "en": ""
+    },
+    "prende": {
+      "pt": "",
+      "en": ""
+    },
+    "police": {
+      "pt": "",
+      "en": ""
+    },
+    "j'ai": {
+      "pt": "",
+      "en": ""
+    },
+    "le": {
+      "pt": "",
+      "en": ""
+    },
+    "cœur": {
+      "pt": "",
+      "en": ""
+    },
+    "en": {
+      "pt": "",
+      "en": ""
+    },
+    "morceaux": {
+      "pt": "",
+      "en": ""
+    },
+    "c'est": {
+      "pt": "",
+      "en": ""
+    },
+    "ma": {
+      "pt": "",
+      "en": ""
+    },
+    "faute": {
+      "pt": "",
+      "en": ""
+    },
+    "on": {
+      "pt": "",
+      "en": ""
+    },
+    "dirait": {
+      "pt": "",
+      "en": ""
+    },
+    "pas": {
+      "pt": "",
+      "en": ""
+    },
+    "difficile": {
+      "pt": "",
+      "en": ""
+    },
+    "avoir": {
+      "pt": "",
+      "en": ""
+    },
+    "mais": {
+      "pt": "",
+      "en": ""
+    },
+    "garder": {
+      "pt": "",
+      "en": ""
+    },
+    "barrières": {
+      "pt": "",
+      "en": ""
+    },
+    "levées": {
+      "pt": "",
+      "en": ""
+    },
+    "garde": {
+      "pt": "",
+      "en": ""
+    },
+    "baissée": {
+      "pt": "",
+      "en": ""
+    },
+    "hier": {
+      "pt": "",
+      "en": ""
+    },
+    "voulais": {
+      "pt": "",
+      "en": ""
+    },
+    "et": {
+      "pt": "",
+      "en": ""
+    },
+    "d'un": {
+      "pt": "",
+      "en": ""
+    },
+    "baiser": {
+      "pt": "",
+      "en": ""
+    },
+    "dis": {
+      "pt": "",
+      "en": ""
+    },
+    "veux": {
+      "pt": "",
+      "en": ""
+    },
+    "pourquoi": {
+      "pt": "",
+      "en": ""
+    },
+    "t'laisses": {
+      "pt": "",
+      "en": ""
+    },
+    "aller": {
+      "pt": "",
+      "en": ""
+    },
+    "adoré": {
+      "pt": "",
+      "en": ""
+    },
+    "toutes": {
+      "pt": "",
+      "en": ""
+    },
+    "les": {
+      "pt": "",
+      "en": ""
+    },
+    "fois": {
+      "pt": "",
+      "en": ""
+    },
+    "où": {
+      "pt": "",
+      "en": ""
+    },
+    "l'on": {
+      "pt": "",
+      "en": ""
+    },
+    "s'est": {
+      "pt": "",
+      "en": ""
+    },
+    "regardés": {
+      "pt": "",
+      "en": ""
+    },
+    "j'aimais": {
+      "pt": "",
+      "en": ""
+    },
+    "quand": {
+      "pt": "",
+      "en": ""
+    },
+    "sur": {
+      "pt": "",
+      "en": ""
+    },
+    "mes": {
+      "pt": "",
+      "en": ""
+    },
+    "doigts": {
+      "pt": "",
+      "en": ""
+    },
+    "l'arôme": {
+      "pt": "",
+      "en": ""
+    },
+    "de": {
+      "pt": "",
+      "en": ""
+    },
+    "ton": {
+      "pt": "",
+      "en": ""
+    },
+    "corps": {
+      "pt": "",
+      "en": ""
+    },
+    "restait": {
+      "pt": "",
+      "en": ""
+    },
+    "si": {
+      "pt": "",
+      "en": ""
+    },
+    "essayait": {
+      "pt": "",
+      "en": ""
+    },
+    "est-ce": {
+      "pt": "",
+      "en": ""
+    },
+    "m'en": {
+      "pt": "",
+      "en": ""
+    },
+    "voudrais": {
+      "pt": "",
+      "en": ""
+    },
+    "comment": {
+      "pt": "",
+      "en": ""
+    },
+    "dire": {
+      "pt": "",
+      "en": ""
+    },
+    "adieu": {
+      "pt": "",
+      "en": ""
+    },
+    "nos": {
+      "pt": "",
+      "en": ""
+    },
+    "cœurs": {
+      "pt": "",
+      "en": ""
+    },
+    "restent": {
+      "pt": "",
+      "en": ""
+    },
+    "rivés": {
+      "pt": "",
+      "en": ""
+    }
+  },
+  "ordem": 33
+}

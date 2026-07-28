@@ -1,0 +1,432 @@
+{
+  "titulo": "What You Want",
+  "artista": "Angèle",
+  "arquivo_audio": "audio.mp3",
+  "linhas": [
+    {
+      "tempo": 33.76,
+      "fr": "What you want? I'm only",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 37.92,
+      "fr": "What you want? Oh baby",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 42.26,
+      "fr": "What you want? C'est pour la vie",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 46.5,
+      "fr": "Dare to take me, oh oui",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 51.19,
+      "fr": "Encore une bêtise",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 52.35,
+      "fr": "C'est tout ton maquillage sur ma bouche",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 55.08,
+      "fr": "Tu me dis que ça t'excite",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 57.39,
+      "fr": "On arrange ça dans la douche",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 60.35,
+      "fr": "De temps en temps",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 62.14,
+      "fr": "J'aime essayer",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 64.25,
+      "fr": "D'changer les rôles",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 66.25,
+      "fr": "À mes pieds",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 67.35,
+      "fr": "What you want? I'm only",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 72.08,
+      "fr": "What you want? Oh baby",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 75.95,
+      "fr": "What you want? C'est pour la vie",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 80.01,
+      "fr": "Dare to take me, oh oui",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 101.87,
+      "fr": "Encore des sottises, c'est pas vraiment ce que j'avais dit",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 105.52,
+      "fr": "J'aime quand tu parles dans la vie",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 107.72,
+      "fr": "Mais tais-toi quand je te touche",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 110.44,
+      "fr": "De temps en temps",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 112.66,
+      "fr": "J'aime essayer",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 114.77,
+      "fr": "D'changer les rôles",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 116.99,
+      "fr": "À mes pieds",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 120.28,
+      "fr": "What you want? I'm only",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 124.32,
+      "fr": "What you want? Oh baby",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 128.52,
+      "fr": "What you want? C'est pour la vie",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 132.78,
+      "fr": "Dare to take me, oh oui",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 136.88,
+      "fr": "What you want? I'm only",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 141.01,
+      "fr": "What you want? Oh baby",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 145.3,
+      "fr": "What you want? C'est pour la vie",
+      "pt": "",
+      "en": ""
+    },
+    {
+      "tempo": 149.46,
+      "fr": "Dare to take me, oh oui",
+      "pt": "",
+      "en": ""
+    }
+  ],
+  "vocabulario": {
+    "what": {
+      "pt": "",
+      "en": ""
+    },
+    "you": {
+      "pt": "",
+      "en": ""
+    },
+    "want": {
+      "pt": "",
+      "en": ""
+    },
+    "i'm": {
+      "pt": "",
+      "en": ""
+    },
+    "only": {
+      "pt": "",
+      "en": ""
+    },
+    "oh": {
+      "pt": "",
+      "en": ""
+    },
+    "baby": {
+      "pt": "",
+      "en": ""
+    },
+    "c'est": {
+      "pt": "",
+      "en": ""
+    },
+    "pour": {
+      "pt": "",
+      "en": ""
+    },
+    "la": {
+      "pt": "",
+      "en": ""
+    },
+    "vie": {
+      "pt": "",
+      "en": ""
+    },
+    "dare": {
+      "pt": "",
+      "en": ""
+    },
+    "to": {
+      "pt": "",
+      "en": ""
+    },
+    "take": {
+      "pt": "",
+      "en": ""
+    },
+    "me": {
+      "pt": "",
+      "en": ""
+    },
+    "oui": {
+      "pt": "",
+      "en": ""
+    },
+    "encore": {
+      "pt": "",
+      "en": ""
+    },
+    "une": {
+      "pt": "",
+      "en": ""
+    },
+    "bêtise": {
+      "pt": "",
+      "en": ""
+    },
+    "tout": {
+      "pt": "",
+      "en": ""
+    },
+    "ton": {
+      "pt": "",
+      "en": ""
+    },
+    "maquillage": {
+      "pt": "",
+      "en": ""
+    },
+    "sur": {
+      "pt": "",
+      "en": ""
+    },
+    "ma": {
+      "pt": "",
+      "en": ""
+    },
+    "bouche": {
+      "pt": "",
+      "en": ""
+    },
+    "tu": {
+      "pt": "",
+      "en": ""
+    },
+    "dis": {
+      "pt": "",
+      "en": ""
+    },
+    "que": {
+      "pt": "",
+      "en": ""
+    },
+    "ça": {
+      "pt": "",
+      "en": ""
+    },
+    "t'excite": {
+      "pt": "",
+      "en": ""
+    },
+    "on": {
+      "pt": "",
+      "en": ""
+    },
+    "arrange": {
+      "pt": "",
+      "en": ""
+    },
+    "dans": {
+      "pt": "",
+      "en": ""
+    },
+    "douche": {
+      "pt": "",
+      "en": ""
+    },
+    "de": {
+      "pt": "",
+      "en": ""
+    },
+    "temps": {
+      "pt": "",
+      "en": ""
+    },
+    "en": {
+      "pt": "",
+      "en": ""
+    },
+    "j'aime": {
+      "pt": "",
+      "en": ""
+    },
+    "essayer": {
+      "pt": "",
+      "en": ""
+    },
+    "d'changer": {
+      "pt": "",
+      "en": ""
+    },
+    "les": {
+      "pt": "",
+      "en": ""
+    },
+    "rôles": {
+      "pt": "",
+      "en": ""
+    },
+    "à": {
+      "pt": "",
+      "en": ""
+    },
+    "mes": {
+      "pt": "",
+      "en": ""
+    },
+    "pieds": {
+      "pt": "",
+      "en": ""
+    },
+    "des": {
+      "pt": "",
+      "en": ""
+    },
+    "sottises": {
+      "pt": "",
+      "en": ""
+    },
+    "pas": {
+      "pt": "",
+      "en": ""
+    },
+    "vraiment": {
+      "pt": "",
+      "en": ""
+    },
+    "ce": {
+      "pt": "",
+      "en": ""
+    },
+    "j'avais": {
+      "pt": "",
+      "en": ""
+    },
+    "dit": {
+      "pt": "",
+      "en": ""
+    },
+    "quand": {
+      "pt": "",
+      "en": ""
+    },
+    "parles": {
+      "pt": "",
+      "en": ""
+    },
+    "mais": {
+      "pt": "",
+      "en": ""
+    },
+    "tais-toi": {
+      "pt": "",
+      "en": ""
+    },
+    "je": {
+      "pt": "",
+      "en": ""
+    },
+    "te": {
+      "pt": "",
+      "en": ""
+    },
+    "touche": {
+      "pt": "",
+      "en": ""
+    }
+  },
+  "ordem": 24
+}

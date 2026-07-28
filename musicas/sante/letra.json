@@ -1,0 +1,838 @@
+{
+  "titulo": "Santé",
+  "artista": "Stromae",
+  "arquivo_audio": "audio.mp3",
+  "linhas": [
+    {
+      "tempo": 11.41,
+      "fr": "À ceux qui n'en ont pas",
+      "pt": "Para quem não tem",
+      "en": "To those who don't have one"
+    },
+    {
+      "tempo": 16.68,
+      "fr": "À ceux qui n'en ont pas",
+      "pt": "Para quem não tem",
+      "en": "To those who don't have one"
+    },
+    {
+      "tempo": 18.51,
+      "fr": "Rosa, Rosa",
+      "pt": "Rosa, Rosa",
+      "en": "Rosa, Rosa"
+    },
+    {
+      "tempo": 21.35,
+      "fr": "Quand on fout le bordel, tu nettoies",
+      "pt": "Quando fazemos uma bagunça, você limpa",
+      "en": "When we make a mess, you clean up"
+    },
+    {
+      "tempo": 23.95,
+      "fr": "Et toi, Albert",
+      "pt": "E você, Alberto",
+      "en": "And you, Albert"
+    },
+    {
+      "tempo": 26.55,
+      "fr": "Quand on trinque, tu ramasses les verres",
+      "pt": "Quando brindamos, você pega os copos",
+      "en": "When we toast, you pick up the glasses"
+    },
+    {
+      "tempo": 29.05,
+      "fr": "Céline, bataire",
+      "pt": "Céline, bataire",
+      "en": "Céline, bataire"
+    },
+    {
+      "tempo": 31.98,
+      "fr": "Toi tu t'prends des vestes au vestiaire",
+      "pt": "Você pega algumas jaquetas no vestiário",
+      "en": "You get some jackets from the locker room"
+    },
+    {
+      "tempo": 34.42,
+      "fr": "Arlette, arrête",
+      "pt": "Arlete, pare",
+      "en": "Arlette, stop"
+    },
+    {
+      "tempo": 36.92,
+      "fr": "Toi la fête tu la passes aux toilettes",
+      "pt": "Você passa a festa no banheiro",
+      "en": "You spend the party in the toilet"
+    },
+    {
+      "tempo": 39.43,
+      "fr": "Et si on célébrait ceux qui ne célèbrent pas?",
+      "pt": "E se comemorássemos quem não comemora?",
+      "en": "What if we celebrated those who don't celebrate?"
+    },
+    {
+      "tempo": 43.68,
+      "fr": "Pour une fois, j'aimerais lever mon verre à ceux qui n'en ont pas",
+      "pt": "Pela primeira vez, gostaria de levantar uma taça para quem não tem",
+      "en": "For once, I'd like to raise a glass to those who don't have one"
+    },
+    {
+      "tempo": 48.13,
+      "fr": "À ceux qui n'en ont pas",
+      "pt": "Para quem não tem",
+      "en": "To those who don't have one"
+    },
+    {
+      "tempo": 59.8,
+      "fr": "Quoi les bonnes manières?",
+      "pt": "O que são boas maneiras?",
+      "en": "What are good manners?"
+    },
+    {
+      "tempo": 61.82,
+      "fr": "Pourquoi j'f'rais semblant? D'toute façon elle est payée pour le faire",
+      "pt": "Por que eu iria fingir? Ela é paga para fazer isso de qualquer maneira",
+      "en": "Why would I pretend? She gets paid to do it anyway"
+    },
+    {
+      "tempo": 65.23,
+      "fr": "Tu t'prends pour ma mère? Dans une heure j'reviens,",
+      "pt": "Você acha que é minha mãe? Em uma hora estarei de volta,",
+      "en": "Do you think you're my mother? In an hour I'll be back,"
+    },
+    {
+      "tempo": 68.48,
+      "fr": "Qu'ce soit propre, qu'on puisse y manger par terre",
+      "pt": "Deixe estar limpo, para que possamos comer no chão",
+      "en": "Let it be clean, so that we can eat on the floor"
+    },
+    {
+      "tempo": 70.87,
+      "fr": "Trois heures que j'attends, franchement",
+      "pt": "Três horas eu espero, francamente",
+      "en": "Three hours I wait, frankly"
+    },
+    {
+      "tempo": 73.25,
+      "fr": "Il les fabrique ou quoi?",
+      "pt": "Ele os faz ou o quê?",
+      "en": "Does he make them or what?"
+    },
+    {
+      "tempo": 74.49,
+      "fr": "Heureusement qu'c'est que deux verres",
+      "pt": "Felizmente são apenas dois copos",
+      "en": "Fortunately it's only two glasses"
+    },
+    {
+      "tempo": 76.13,
+      "fr": "Appelle-moi ton responsable",
+      "pt": "Me chame de seu gerente",
+      "en": "Call me your manager"
+    },
+    {
+      "tempo": 77.87,
+      "fr": "Et fais vite, elle pourrait se finir comme ça ta carrière",
+      "pt": "E aja rápido, sua carreira pode acabar assim",
+      "en": "And act quickly, your career could end like that"
+    },
+    {
+      "tempo": 80.96,
+      "fr": "Oui, célébrons ceux qui ne célèbrent pas",
+      "pt": "Sim, vamos comemorar quem não comemora",
+      "en": "Yes, let's celebrate those who don't celebrate"
+    },
+    {
+      "tempo": 84.25,
+      "fr": "Encore une fois, j'aimerais lever mon verre à ceux qui n'en ont pas",
+      "pt": "Mais uma vez, gostaria de levantar uma taça para quem não tem",
+      "en": "Once again, I would like to raise a glass to those who don't have one"
+    },
+    {
+      "tempo": 89.73,
+      "fr": "À ceux qui n'en ont pas",
+      "pt": "Para quem não tem",
+      "en": "To those who don't have one"
+    },
+    {
+      "tempo": 100.15,
+      "fr": "À ceux qui n'en ont pas",
+      "pt": "Para quem não tem",
+      "en": "To those who don't have one"
+    },
+    {
+      "tempo": 112.04,
+      "fr": "Frotter, frotter",
+      "pt": "Esfregue, esfregue",
+      "en": "Rub, rub"
+    },
+    {
+      "tempo": 116.0,
+      "fr": "Mieux vaut ne pas s'y",
+      "pt": "Melhor não ir lá",
+      "en": "Better not to go there"
+    },
+    {
+      "tempo": 117.96,
+      "fr": "Frotter, frotter",
+      "pt": "Esfregue, esfregue",
+      "en": "Rub, rub"
+    },
+    {
+      "tempo": 120.87,
+      "fr": "Si tu n'me connais pas",
+      "pt": "Se você não me conhece",
+      "en": "If you don't know me"
+    },
+    {
+      "tempo": 123.11,
+      "fr": "Brosser, brosser",
+      "pt": "Pincel, pincel",
+      "en": "Brush, brush"
+    },
+    {
+      "tempo": 126.38,
+      "fr": "Tu pourras toujours te",
+      "pt": "Você sempre pode",
+      "en": "You can always"
+    },
+    {
+      "tempo": 128.55,
+      "fr": "Brosser, brosser",
+      "pt": "Pincel, pincel",
+      "en": "Brush, brush"
+    },
+    {
+      "tempo": 131.92,
+      "fr": "Si tu ne me respectes pas",
+      "pt": "Se você não me respeita",
+      "en": "If you don't respect me"
+    },
+    {
+      "tempo": 133.13,
+      "fr": "Oui, célébrons ceux qui n'célèbrent pas",
+      "pt": "Sim, vamos comemorar quem não comemora",
+      "en": "Yes, let's celebrate those who don't celebrate"
+    },
+    {
+      "tempo": 136.51,
+      "fr": "Encore une fois, j'aimerais lever mon verre à ceux qui n'en ont pas",
+      "pt": "Mais uma vez, gostaria de levantar uma taça para quem não tem",
+      "en": "Once again, I would like to raise a glass to those who don't have one"
+    },
+    {
+      "tempo": 142.88,
+      "fr": "À ceux qui n'en ont pas",
+      "pt": "Para quem não tem",
+      "en": "To those who don't have one"
+    },
+    {
+      "tempo": 154.89,
+      "fr": "Pilotes d'avion ou infirmières",
+      "pt": "Pilotos de avião ou enfermeiros",
+      "en": "Airplane pilots or nurses"
+    },
+    {
+      "tempo": 157.89,
+      "fr": "Chauffeurs de camion, hôtesses de l'air",
+      "pt": "Motoristas de caminhão, comissários de bordo",
+      "en": "Truck drivers, flight attendants"
+    },
+    {
+      "tempo": 160.29,
+      "fr": "Boulangers ou marins-pêcheurs",
+      "pt": "Padeiros ou pescadores",
+      "en": "Bakers or fishermen"
+    },
+    {
+      "tempo": 162.93,
+      "fr": "Un verre aux champions des pires horaires",
+      "pt": "Uma bebida aos campeões dos piores momentos",
+      "en": "A drink to the champions of the worst times"
+    },
+    {
+      "tempo": 165.43,
+      "fr": "Aux jeunes parents bercés par les pleurs",
+      "pt": "Aos jovens pais embalados pelas lágrimas",
+      "en": "To young parents lulled by tears"
+    },
+    {
+      "tempo": 168.18,
+      "fr": "Aux insomniaques de profession",
+      "pt": "Para insones profissionais",
+      "en": "To professional insomniacs"
+    },
+    {
+      "tempo": 170.55,
+      "fr": "Et tous ceux qui souffrent de peines de cœur",
+      "pt": "E todos aqueles que sofrem de dor de cabeça",
+      "en": "And all those who suffer from heartache"
+    },
+    {
+      "tempo": 173.24,
+      "fr": "Qui n'ont pas le cœur aux célébrations",
+      "pt": "Quem não tem coragem para celebrações",
+      "en": "Who don't have the heart for celebrations"
+    },
+    {
+      "tempo": 184.0,
+      "fr": "Qui n'ont pas l'cœur aux célébrations",
+      "pt": "Quem não tem coragem para celebrações",
+      "en": "Who don't have the heart for celebrations"
+    }
+  ],
+  "vocabulario": {
+    "à": {
+      "pt": "tem",
+      "en": "has"
+    },
+    "ceux": {
+      "pt": "aqueles",
+      "en": "those"
+    },
+    "qui": {
+      "pt": "Quem",
+      "en": "Who"
+    },
+    "n'en": {
+      "pt": "não",
+      "en": "don't"
+    },
+    "ont": {
+      "pt": "ter",
+      "en": "have"
+    },
+    "pas": {
+      "pt": "não",
+      "en": "not"
+    },
+    "rosa": {
+      "pt": "rosa",
+      "en": "pink"
+    },
+    "quand": {
+      "pt": "Quando",
+      "en": "When"
+    },
+    "on": {
+      "pt": "nós",
+      "en": "we"
+    },
+    "fout": {
+      "pt": "Porra",
+      "en": "fuck"
+    },
+    "le": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "bordel": {
+      "pt": "bagunça",
+      "en": "mess"
+    },
+    "tu": {
+      "pt": "você",
+      "en": "you"
+    },
+    "nettoies": {
+      "pt": "limpar",
+      "en": "clean"
+    },
+    "et": {
+      "pt": "E",
+      "en": "And"
+    },
+    "toi": {
+      "pt": "Você",
+      "en": "You"
+    },
+    "albert": {
+      "pt": "Alberto",
+      "en": "albert"
+    },
+    "trinque": {
+      "pt": "brinde",
+      "en": "toast"
+    },
+    "ramasses": {
+      "pt": "escolher",
+      "en": "pick up"
+    },
+    "les": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "verres": {
+      "pt": "copos",
+      "en": "glasses"
+    },
+    "céline": {
+      "pt": "Céline",
+      "en": "celine"
+    },
+    "bataire": {
+      "pt": "batary",
+      "en": "batary"
+    },
+    "t'prends": {
+      "pt": "você pega",
+      "en": "you take"
+    },
+    "des": {
+      "pt": "do",
+      "en": "of the"
+    },
+    "vestes": {
+      "pt": "jaquetas",
+      "en": "jackets"
+    },
+    "au": {
+      "pt": "No",
+      "en": "At"
+    },
+    "vestiaire": {
+      "pt": "vestiário",
+      "en": "changing room"
+    },
+    "arlette": {
+      "pt": "arlete",
+      "en": "arlette"
+    },
+    "arrête": {
+      "pt": "parar",
+      "en": "stop"
+    },
+    "la": {
+      "pt": "lá",
+      "en": "there"
+    },
+    "fête": {
+      "pt": "festa",
+      "en": "party"
+    },
+    "passes": {
+      "pt": "passes",
+      "en": "passes"
+    },
+    "aux": {
+      "pt": "para",
+      "en": "to"
+    },
+    "toilettes": {
+      "pt": "banheiro",
+      "en": "bathroom"
+    },
+    "si": {
+      "pt": "se",
+      "en": "if"
+    },
+    "célébrait": {
+      "pt": "célebre",
+      "en": "celebrated"
+    },
+    "ne": {
+      "pt": "nascer",
+      "en": "born"
+    },
+    "célèbrent": {
+      "pt": "comemorar",
+      "en": "celebrate"
+    },
+    "pour": {
+      "pt": "Para",
+      "en": "For"
+    },
+    "une": {
+      "pt": "um",
+      "en": "a"
+    },
+    "fois": {
+      "pt": "vezes",
+      "en": "times"
+    },
+    "j'aimerais": {
+      "pt": "Gostaria",
+      "en": "I would like"
+    },
+    "lever": {
+      "pt": "ascender",
+      "en": "rise"
+    },
+    "mon": {
+      "pt": "Meu",
+      "en": "My"
+    },
+    "verre": {
+      "pt": "vidro",
+      "en": "glass"
+    },
+    "quoi": {
+      "pt": "O que",
+      "en": "What"
+    },
+    "bonnes": {
+      "pt": "bom",
+      "en": "good"
+    },
+    "manières": {
+      "pt": "boas maneiras",
+      "en": "manners"
+    },
+    "pourquoi": {
+      "pt": "Por que",
+      "en": "Why"
+    },
+    "j'f'rais": {
+      "pt": "Eu poderia",
+      "en": "I would"
+    },
+    "semblant": {
+      "pt": "fingir",
+      "en": "pretend"
+    },
+    "d'toute": {
+      "pt": "de tudo",
+      "en": "of all"
+    },
+    "façon": {
+      "pt": "caminho",
+      "en": "way"
+    },
+    "elle": {
+      "pt": "Ela",
+      "en": "She"
+    },
+    "est": {
+      "pt": "Leste",
+      "en": "East"
+    },
+    "payée": {
+      "pt": "pago",
+      "en": "paid"
+    },
+    "faire": {
+      "pt": "PENDÊNCIA",
+      "en": "TO DO"
+    },
+    "ma": {
+      "pt": "meu",
+      "en": "my"
+    },
+    "mère": {
+      "pt": "mãe",
+      "en": "mother"
+    },
+    "dans": {
+      "pt": "Em",
+      "en": "In"
+    },
+    "heure": {
+      "pt": "hora",
+      "en": "hour"
+    },
+    "j'reviens": {
+      "pt": "Eu estou voltando",
+      "en": "I'm coming back"
+    },
+    "qu'ce": {
+      "pt": "o que",
+      "en": "what"
+    },
+    "soit": {
+      "pt": "qualquer",
+      "en": "either"
+    },
+    "propre": {
+      "pt": "ter",
+      "en": "own"
+    },
+    "qu'on": {
+      "pt": "que nós",
+      "en": "that we"
+    },
+    "puisse": {
+      "pt": "pode",
+      "en": "can"
+    },
+    "y": {
+      "pt": "sim",
+      "en": "y"
+    },
+    "manger": {
+      "pt": "comer",
+      "en": "eat"
+    },
+    "par": {
+      "pt": "por",
+      "en": "by"
+    },
+    "terre": {
+      "pt": "terra",
+      "en": "earth"
+    },
+    "trois": {
+      "pt": "três",
+      "en": "three"
+    },
+    "heures": {
+      "pt": "horas",
+      "en": "hours"
+    },
+    "que": {
+      "pt": "que",
+      "en": "that"
+    },
+    "j'attends": {
+      "pt": "Estou esperando",
+      "en": "I'm waiting"
+    },
+    "franchement": {
+      "pt": "Francamente",
+      "en": "Frankly"
+    },
+    "il": {
+      "pt": "ele",
+      "en": "he"
+    },
+    "fabrique": {
+      "pt": "feito",
+      "en": "made"
+    },
+    "ou": {
+      "pt": "Ou",
+      "en": "Or"
+    },
+    "heureusement": {
+      "pt": "Felizmente",
+      "en": "Fortunately"
+    },
+    "qu'c'est": {
+      "pt": "o que é",
+      "en": "what is it"
+    },
+    "deux": {
+      "pt": "dois",
+      "en": "two"
+    },
+    "appelle-moi": {
+      "pt": "liga para mim",
+      "en": "call me"
+    },
+    "ton": {
+      "pt": "seu",
+      "en": "your"
+    },
+    "responsable": {
+      "pt": "responsável",
+      "en": "responsible"
+    },
+    "fais": {
+      "pt": "fazer",
+      "en": "do"
+    },
+    "vite": {
+      "pt": "rapidamente",
+      "en": "quickly"
+    },
+    "pourrait": {
+      "pt": "poderia",
+      "en": "could"
+    },
+    "se": {
+      "pt": "se",
+      "en": "se"
+    },
+    "finir": {
+      "pt": "terminar",
+      "en": "finish"
+    },
+    "comme": {
+      "pt": "como",
+      "en": "as"
+    },
+    "ça": {
+      "pt": "Que",
+      "en": "That"
+    },
+    "ta": {
+      "pt": "seu",
+      "en": "your"
+    },
+    "carrière": {
+      "pt": "carreira",
+      "en": "career"
+    },
+    "oui": {
+      "pt": "Sim",
+      "en": "Yes"
+    },
+    "célébrons": {
+      "pt": "vamos comemorar",
+      "en": "let's celebrate"
+    },
+    "encore": {
+      "pt": "De novo",
+      "en": "Again"
+    },
+    "frotter": {
+      "pt": "esfregar",
+      "en": "rub"
+    },
+    "mieux": {
+      "pt": "melhorar",
+      "en": "better"
+    },
+    "vaut": {
+      "pt": "valor",
+      "en": "worth"
+    },
+    "s'y": {
+      "pt": "lá",
+      "en": "there"
+    },
+    "n'me": {
+      "pt": "não eu",
+      "en": "don't me"
+    },
+    "connais": {
+      "pt": "saber",
+      "en": "know"
+    },
+    "brosser": {
+      "pt": "escovar",
+      "en": "brush"
+    },
+    "pourras": {
+      "pt": "será capaz de",
+      "en": "will be able to"
+    },
+    "toujours": {
+      "pt": "sempre",
+      "en": "always"
+    },
+    "te": {
+      "pt": "você",
+      "en": "you"
+    },
+    "me": {
+      "pt": "meu",
+      "en": "me"
+    },
+    "respectes": {
+      "pt": "respeito",
+      "en": "respect"
+    },
+    "n'célèbrent": {
+      "pt": "não comemore",
+      "en": "don't celebrate"
+    },
+    "pilotes": {
+      "pt": "pilotos",
+      "en": "pilots"
+    },
+    "d'avion": {
+      "pt": "avião",
+      "en": "airplane"
+    },
+    "infirmières": {
+      "pt": "enfermeiras",
+      "en": "nurses"
+    },
+    "chauffeurs": {
+      "pt": "motoristas",
+      "en": "drivers"
+    },
+    "de": {
+      "pt": "de",
+      "en": "of"
+    },
+    "camion": {
+      "pt": "caminhão",
+      "en": "truck"
+    },
+    "hôtesses": {
+      "pt": "anfitriãs",
+      "en": "hostesses"
+    },
+    "l'air": {
+      "pt": "o ar",
+      "en": "the air"
+    },
+    "boulangers": {
+      "pt": "padeiros",
+      "en": "bakers"
+    },
+    "marins-pêcheurs": {
+      "pt": "pescadores",
+      "en": "fishermen"
+    },
+    "un": {
+      "pt": "UM",
+      "en": "A"
+    },
+    "champions": {
+      "pt": "campeões",
+      "en": "champions"
+    },
+    "pires": {
+      "pt": "pior",
+      "en": "worst"
+    },
+    "horaires": {
+      "pt": "horários",
+      "en": "schedules"
+    },
+    "jeunes": {
+      "pt": "jovens",
+      "en": "young people"
+    },
+    "parents": {
+      "pt": "pais",
+      "en": "parents"
+    },
+    "bercés": {
+      "pt": "abalado",
+      "en": "rocked"
+    },
+    "pleurs": {
+      "pt": "lágrimas",
+      "en": "tears"
+    },
+    "insomniaques": {
+      "pt": "insones",
+      "en": "insomniacs"
+    },
+    "profession": {
+      "pt": "ocupação",
+      "en": "occupation"
+    },
+    "tous": {
+      "pt": "todos",
+      "en": "all"
+    },
+    "souffrent": {
+      "pt": "sofrer",
+      "en": "suffer"
+    },
+    "peines": {
+      "pt": "sentenças",
+      "en": "sentences"
+    },
+    "cœur": {
+      "pt": "coração",
+      "en": "heart"
+    },
+    "n'ont": {
+      "pt": "não tenho",
+      "en": "don't have"
+    },
+    "célébrations": {
+      "pt": "celebrações",
+      "en": "celebrations"
+    },
+    "l'cœur": {
+      "pt": "o coração",
+      "en": "the heart"
+    }
+  },
+  "ordem": 39
+}

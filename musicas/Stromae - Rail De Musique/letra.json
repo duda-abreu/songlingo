@@ -1,0 +1,1196 @@
+{
+  "titulo": "Rail De Musique",
+  "artista": "Stromae",
+  "arquivo_audio": "audio.mp3",
+  "linhas": [
+    {
+      "tempo": 15.57,
+      "fr": "Tous les matins je prends un bol de musique",
+      "pt": "Todas as manhãs eu gosto de uma tigela de música",
+      "en": "Every morning I enjoy a bowl of music"
+    },
+    {
+      "tempo": 18.8,
+      "fr": "Et une tasse aussi",
+      "pt": "E uma xícara também",
+      "en": "And a cup too"
+    },
+    {
+      "tempo": 19.98,
+      "fr": "Ensuite j'enfile une partition",
+      "pt": "Então eu coloquei uma pontuação",
+      "en": "Then I put on a score"
+    },
+    {
+      "tempo": 21.7,
+      "fr": "Et je ferme ces boutons en la la do si si",
+      "pt": "E eu fecho esses botões em la la do si si",
+      "en": "And I close these buttons in la la do si si"
+    },
+    {
+      "tempo": 24.04,
+      "fr": "Je me dépêche sinon je serai en retard",
+      "pt": "Estou com pressa senão vou me atrasar",
+      "en": "I'm hurrying otherwise I'll be late"
+    },
+    {
+      "tempo": 26.3,
+      "fr": "Donc je termine et je file en bas",
+      "pt": "Então eu termino e desço",
+      "en": "So I finish and head downstairs"
+    },
+    {
+      "tempo": 28.22,
+      "fr": "Je saute dans ma caisse à infra-basses",
+      "pt": "Eu pulo na minha caixa de sub-baixo",
+      "en": "I jump in my sub-bass box"
+    },
+    {
+      "tempo": 30.19,
+      "fr": "Et je roule à une vitesse de 100 000 watts",
+      "pt": "E estou dirigindo a uma velocidade de 100.000 watts",
+      "en": "And I'm driving at a speed of 100,000 watts"
+    },
+    {
+      "tempo": 31.92,
+      "fr": "Je fuis, j'arrive",
+      "pt": "Eu fujo, eu chego",
+      "en": "I flee, I arrive"
+    },
+    {
+      "tempo": 34.02,
+      "fr": "Je bosse et je mixe des coups de fil",
+      "pt": "Eu trabalho e misturo ligações",
+      "en": "I work and mix calls"
+    },
+    {
+      "tempo": 36.0,
+      "fr": "J'écris, compose",
+      "pt": "Eu escrevo, componho",
+      "en": "I write, compose"
+    },
+    {
+      "tempo": 37.83,
+      "fr": "Et réponds à mes mails-odies",
+      "pt": "E responda meus e-mails",
+      "en": "And answer my emails-odies"
+    },
+    {
+      "tempo": 39.95,
+      "fr": "Ensuite je me nourris",
+      "pt": "Então eu me alimento",
+      "en": "Then I feed myself"
+    },
+    {
+      "tempo": 41.81,
+      "fr": "Du son dans ma boîte à rythmes",
+      "pt": "Som na minha bateria eletrônica",
+      "en": "Sound in my drum machine"
+    },
+    {
+      "tempo": 43.83,
+      "fr": "C'est la pause, celle de midi",
+      "pt": "É o intervalo, a pausa para o almoço",
+      "en": "It's the break, the lunch break"
+    },
+    {
+      "tempo": 45.42,
+      "fr": "C'est l'heure de la mu-mu-musique",
+      "pt": "É hora da mu-mu-música",
+      "en": "It's mu-mu-music time"
+    },
+    {
+      "tempo": 47.06,
+      "fr": "Ouais c'est ma clope, mon shit",
+      "pt": "Sim, é meu cigarro, minha merda",
+      "en": "Yeah it's my cigarette, my shit"
+    },
+    {
+      "tempo": 49.33,
+      "fr": "Ma dose, ma weed",
+      "pt": "Minha dose, minha erva",
+      "en": "My dose, my weed"
+    },
+    {
+      "tempo": 51.26,
+      "fr": "Ma coke, mon speed",
+      "pt": "Minha cocaína, minha velocidade",
+      "en": "My coke, my speed"
+    },
+    {
+      "tempo": 53.2,
+      "fr": "Mon crack, ma musique",
+      "pt": "Meu crack, minha música",
+      "en": "My crack, my music"
+    },
+    {
+      "tempo": 55.2,
+      "fr": "Ma clope, mon shit",
+      "pt": "Meu cigarro, minha merda",
+      "en": "My cigarette, my shit"
+    },
+    {
+      "tempo": 57.25,
+      "fr": "Ma dose, ma weed",
+      "pt": "Minha dose, minha erva",
+      "en": "My dose, my weed"
+    },
+    {
+      "tempo": 59.48,
+      "fr": "Ma coke, mon speed",
+      "pt": "Minha cocaína, minha velocidade",
+      "en": "My coke, my speed"
+    },
+    {
+      "tempo": 61.3,
+      "fr": "Mon crack, ma musique",
+      "pt": "Meu crack, minha música",
+      "en": "My crack, my music"
+    },
+    {
+      "tempo": 62.86,
+      "fr": "Ouais c'est ma clope, mon shit",
+      "pt": "Sim, é meu cigarro, minha merda",
+      "en": "Yeah it's my cigarette, my shit"
+    },
+    {
+      "tempo": 65.05,
+      "fr": "Ma dose, ma weed",
+      "pt": "Minha dose, minha erva",
+      "en": "My dose, my weed"
+    },
+    {
+      "tempo": 67.14,
+      "fr": "Ma coke, mon speed",
+      "pt": "Minha cocaína, minha velocidade",
+      "en": "My coke, my speed"
+    },
+    {
+      "tempo": 69.04,
+      "fr": "Mon crack, ma musique",
+      "pt": "Meu crack, minha música",
+      "en": "My crack, my music"
+    },
+    {
+      "tempo": 71.15,
+      "fr": "Ma clope, mon shit",
+      "pt": "Meu cigarro, minha merda",
+      "en": "My cigarette, my shit"
+    },
+    {
+      "tempo": 73.18,
+      "fr": "Ma dose, ma weed",
+      "pt": "Minha dose, minha erva",
+      "en": "My dose, my weed"
+    },
+    {
+      "tempo": 75.15,
+      "fr": "Ma coke, mon speed",
+      "pt": "Minha cocaína, minha velocidade",
+      "en": "My coke, my speed"
+    },
+    {
+      "tempo": 77.01,
+      "fr": "Mon crack, ma musique",
+      "pt": "Meu crack, minha música",
+      "en": "My crack, my music"
+    },
+    {
+      "tempo": 79.57,
+      "fr": "Tous les après-midi",
+      "pt": "Todas as tardes",
+      "en": "Every afternoon"
+    },
+    {
+      "tempo": 81.73,
+      "fr": "J'reprends une tasse tout de suite",
+      "pt": "Vou tomar uma xícara de novo imediatamente",
+      "en": "I'll have a cup again right away"
+    },
+    {
+      "tempo": 83.63,
+      "fr": "Je fais comme si",
+      "pt": "Eu ajo como se",
+      "en": "I act as if"
+    },
+    {
+      "tempo": 84.74,
+      "fr": "J'envoyais des mails et des mails et des mail-odies",
+      "pt": "Eu estava enviando e-mails e e-mails e correspondências",
+      "en": "I was sending emails and emails and mail-odies"
+    },
+    {
+      "tempo": 87.06,
+      "fr": "Pour que le temps passe vite",
+      "pt": "Então esse tempo passa rápido",
+      "en": "So that time passes quickly"
+    },
+    {
+      "tempo": 88.97,
+      "fr": "Mais il ralentit",
+      "pt": "Mas ele desacelera",
+      "en": "But he slows down"
+    },
+    {
+      "tempo": 90.4,
+      "fr": "Mon métronome me le dit",
+      "pt": "Meu metrônomo me diz",
+      "en": "My metronome tells me"
+    },
+    {
+      "tempo": 91.68,
+      "fr": "Mais c'est ma tête qui le pense ou bien qui le crie",
+      "pt": "Mas é a minha cabeça que pensa ou grita",
+      "en": "But it's my head that thinks it or shouts it"
+    },
+    {
+      "tempo": 93.82,
+      "fr": "Qu'elle est pressée d'être partie",
+      "pt": "Que ela está com pressa de ir embora",
+      "en": "That she is in a hurry to be gone"
+    },
+    {
+      "tempo": 95.33,
+      "fr": "Mais cette fois-là",
+      "pt": "Mas desta vez",
+      "en": "But this time"
+    },
+    {
+      "tempo": 96.88,
+      "fr": "Pédale à fond, en vain",
+      "pt": "Pedal forte, em vão",
+      "en": "Pedal hard, in vain"
+    },
+    {
+      "tempo": 99.39,
+      "fr": "Ce sont les bouchons",
+      "pt": "Estas são as tampas",
+      "en": "These are the caps"
+    },
+    {
+      "tempo": 101.11,
+      "fr": "Qui marquent le tempo au rythme des klaxons",
+      "pt": "Quem marca o andamento ao ritmo das trompas",
+      "en": "Who mark the tempo to the rhythm of the horns"
+    },
+    {
+      "tempo": 103.3,
+      "fr": "Et dans le fond, une chanson",
+      "pt": "E ao fundo, uma música",
+      "en": "And in the background, a song"
+    },
+    {
+      "tempo": 105.36,
+      "fr": "Qui rappelle le silence",
+      "pt": "Que lembra o silêncio",
+      "en": "Which recalls the silence"
+    },
+    {
+      "tempo": 106.94,
+      "fr": "D'un soleil en decrescendo",
+      "pt": "De um sol descendente",
+      "en": "Of a descending sun"
+    },
+    {
+      "tempo": 109.37,
+      "fr": "En crescendo demain",
+      "pt": "Em crescendo amanhã",
+      "en": "In crescendo tomorrow"
+    },
+    {
+      "tempo": 111.42,
+      "fr": "J'espère que j'me lèverai tôt",
+      "pt": "Espero acordar cedo",
+      "en": "I hope I get up early"
+    },
+    {
+      "tempo": 113.16,
+      "fr": "Pour que j'obtienne ma dose",
+      "pt": "Então eu consigo minha solução",
+      "en": "So I get my fix"
+    },
+    {
+      "tempo": 115.15,
+      "fr": "Que j'm'injecte un micro",
+      "pt": "Que eu me injeto com um microfone",
+      "en": "That I inject myself with a microphone"
+    },
+    {
+      "tempo": 117.08,
+      "fr": "Que j'en sois accro et que j'en crève",
+      "pt": "Que sou viciado nisso e que morro disso",
+      "en": "That I'm addicted to it and that I die of it"
+    },
+    {
+      "tempo": 119.37,
+      "fr": "Parce que je me lèverai tôt",
+      "pt": "Porque eu vou acordar cedo",
+      "en": "Because I will get up early"
+    },
+    {
+      "tempo": 121.47,
+      "fr": "Et je m'injecterai ma dose",
+      "pt": "E eu vou me injetar minha dose",
+      "en": "And I will inject myself with my dose"
+    },
+    {
+      "tempo": 123.07,
+      "fr": "De micros, d'overproses",
+      "pt": "De microfones, de overproses",
+      "en": "Of microphones, of overproses"
+    },
+    {
+      "tempo": 125.26,
+      "fr": "Jusqu'à ce qu'ils soient mes rêves",
+      "pt": "Até que eles sejam meus sonhos",
+      "en": "Until they are my dreams"
+    },
+    {
+      "tempo": 133.12,
+      "fr": "Jusqu'à ce qu'ils soient mes rêves",
+      "pt": "Até que eles sejam meus sonhos",
+      "en": "Until they are my dreams"
+    },
+    {
+      "tempo": 142.21,
+      "fr": "Ouais c'est ma clope, mon shit",
+      "pt": "Sim, é meu cigarro, minha merda",
+      "en": "Yeah it's my cigarette, my shit"
+    },
+    {
+      "tempo": 144.56,
+      "fr": "Ma dose, ma weed",
+      "pt": "Minha dose, minha erva",
+      "en": "My dose, my weed"
+    },
+    {
+      "tempo": 146.44,
+      "fr": "Ma coke, mon speed",
+      "pt": "Minha cocaína, minha velocidade",
+      "en": "My coke, my speed"
+    },
+    {
+      "tempo": 148.58,
+      "fr": "Mon crack, ma musique",
+      "pt": "Meu crack, minha música",
+      "en": "My crack, my music"
+    },
+    {
+      "tempo": 150.35,
+      "fr": "Ma clope, mon shit",
+      "pt": "Meu cigarro, minha merda",
+      "en": "My cigarette, my shit"
+    },
+    {
+      "tempo": 152.5,
+      "fr": "Ma dose, ma weed",
+      "pt": "Minha dose, minha erva",
+      "en": "My dose, my weed"
+    },
+    {
+      "tempo": 154.32,
+      "fr": "Ma coke, mon speed",
+      "pt": "Minha cocaína, minha velocidade",
+      "en": "My coke, my speed"
+    },
+    {
+      "tempo": 156.38,
+      "fr": "Mon crack, ma musique",
+      "pt": "Meu crack, minha música",
+      "en": "My crack, my music"
+    },
+    {
+      "tempo": 158.13,
+      "fr": "Ouais c'est ma clope, mon shit",
+      "pt": "Sim, é meu cigarro, minha merda",
+      "en": "Yeah it's my cigarette, my shit"
+    },
+    {
+      "tempo": 160.39,
+      "fr": "Ma dose, ma weed",
+      "pt": "Minha dose, minha erva",
+      "en": "My dose, my weed"
+    },
+    {
+      "tempo": 162.36,
+      "fr": "Ma coke, mon speed",
+      "pt": "Minha cocaína, minha velocidade",
+      "en": "My coke, my speed"
+    },
+    {
+      "tempo": 164.63,
+      "fr": "Mon crack, ma musique",
+      "pt": "Meu crack, minha música",
+      "en": "My crack, my music"
+    },
+    {
+      "tempo": 166.38,
+      "fr": "Ma clope, mon shit",
+      "pt": "Meu cigarro, minha merda",
+      "en": "My cigarette, my shit"
+    },
+    {
+      "tempo": 168.37,
+      "fr": "Ma dose, ma weed",
+      "pt": "Minha dose, minha erva",
+      "en": "My dose, my weed"
+    },
+    {
+      "tempo": 170.25,
+      "fr": "Ma coke, mon speed",
+      "pt": "Minha cocaína, minha velocidade",
+      "en": "My coke, my speed"
+    },
+    {
+      "tempo": 172.17,
+      "fr": "Mon crack, ma musique",
+      "pt": "Meu crack, minha música",
+      "en": "My crack, my music"
+    },
+    {
+      "tempo": 173.96,
+      "fr": "Ouais c'est ma clope, mon shit",
+      "pt": "Sim, é meu cigarro, minha merda",
+      "en": "Yeah it's my cigarette, my shit"
+    },
+    {
+      "tempo": 176.25,
+      "fr": "Ma dose, ma weed",
+      "pt": "Minha dose, minha erva",
+      "en": "My dose, my weed"
+    },
+    {
+      "tempo": 178.16,
+      "fr": "Ma coke, mon speed",
+      "pt": "Minha cocaína, minha velocidade",
+      "en": "My coke, my speed"
+    },
+    {
+      "tempo": 180.23,
+      "fr": "Mon crack, ma musique",
+      "pt": "Meu crack, minha música",
+      "en": "My crack, my music"
+    },
+    {
+      "tempo": 181.99,
+      "fr": "Ma clope, mon shit",
+      "pt": "Meu cigarro, minha merda",
+      "en": "My cigarette, my shit"
+    },
+    {
+      "tempo": 184.03,
+      "fr": "Ma dose, ma weed",
+      "pt": "Minha dose, minha erva",
+      "en": "My dose, my weed"
+    },
+    {
+      "tempo": 186.16,
+      "fr": "Ma coke, mon speed",
+      "pt": "Minha cocaína, minha velocidade",
+      "en": "My coke, my speed"
+    },
+    {
+      "tempo": 187.95,
+      "fr": "Mon crack, ma musique",
+      "pt": "Meu crack, minha música",
+      "en": "My crack, my music"
+    },
+    {
+      "tempo": 189.79,
+      "fr": "Ouais c'est ma clope-clope, mon shit",
+      "pt": "Sim, é meu cigarro, minha merda",
+      "en": "Yeah it's my cigarette, my shit"
+    },
+    {
+      "tempo": 192.04,
+      "fr": "Ma dose, ma weed",
+      "pt": "Minha dose, minha erva",
+      "en": "My dose, my weed"
+    },
+    {
+      "tempo": 194.03,
+      "fr": "Ma co-coke, mon speed",
+      "pt": "Minha co-coca, minha velocidade",
+      "en": "My co-coke, my speed"
+    },
+    {
+      "tempo": 196.24,
+      "fr": "Mon crack, ma musique",
+      "pt": "Meu crack, minha música",
+      "en": "My crack, my music"
+    },
+    {
+      "tempo": 198.21,
+      "fr": "Ma musique, ma musique, ma musique",
+      "pt": "Minha música, minha música, minha música",
+      "en": "My music, my music, my music"
+    },
+    {
+      "tempo": 200.99,
+      "fr": "Ma musique, ma musique, ma musique",
+      "pt": "Minha música, minha música, minha música",
+      "en": "My music, my music, my music"
+    },
+    {
+      "tempo": 204.07,
+      "fr": "Ma musique, ma musique, ma musique",
+      "pt": "Minha música, minha música, minha música",
+      "en": "My music, my music, my music"
+    },
+    {
+      "tempo": 206.92,
+      "fr": "Ma musique, ma musique, ma musique",
+      "pt": "Minha música, minha música, minha música",
+      "en": "My music, my music, my music"
+    },
+    {
+      "tempo": 209.94,
+      "fr": "Ma musique, ma musique, ma musique",
+      "pt": "Minha música, minha música, minha música",
+      "en": "My music, my music, my music"
+    },
+    {
+      "tempo": 212.92,
+      "fr": "Ma musique, ma musique, ma musique",
+      "pt": "Minha música, minha música, minha música",
+      "en": "My music, my music, my music"
+    },
+    {
+      "tempo": 215.91,
+      "fr": "Ma musique, ma musique, ma musique",
+      "pt": "Minha música, minha música, minha música",
+      "en": "My music, my music, my music"
+    },
+    {
+      "tempo": 218.9,
+      "fr": "Ma musique, ma musique, ma musique",
+      "pt": "Minha música, minha música, minha música",
+      "en": "My music, my music, my music"
+    },
+    {
+      "tempo": 221.92,
+      "fr": "Ma musique, ma musique, ma musique",
+      "pt": "Minha música, minha música, minha música",
+      "en": "My music, my music, my music"
+    },
+    {
+      "tempo": 224.83,
+      "fr": "Ma musique, ma musique, ma musique",
+      "pt": "Minha música, minha música, minha música",
+      "en": "My music, my music, my music"
+    },
+    {
+      "tempo": 227.77,
+      "fr": "Ma musique, ma musique, ma musique",
+      "pt": "Minha música, minha música, minha música",
+      "en": "My music, my music, my music"
+    },
+    {
+      "tempo": 230.86,
+      "fr": "Ma musique, ma musique, ma musique",
+      "pt": "Minha música, minha música, minha música",
+      "en": "My music, my music, my music"
+    },
+    {
+      "tempo": 233.73,
+      "fr": "Ma musique, ma musique, ma musique",
+      "pt": "Minha música, minha música, minha música",
+      "en": "My music, my music, my music"
+    }
+  ],
+  "vocabulario": {
+    "tous": {
+      "pt": "todos",
+      "en": "all"
+    },
+    "les": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "matins": {
+      "pt": "manhãs",
+      "en": "mornings"
+    },
+    "je": {
+      "pt": "EU",
+      "en": "I"
+    },
+    "prends": {
+      "pt": "pegar",
+      "en": "take"
+    },
+    "un": {
+      "pt": "UM",
+      "en": "A"
+    },
+    "bol": {
+      "pt": "tigela",
+      "en": "bowl"
+    },
+    "de": {
+      "pt": "de",
+      "en": "of"
+    },
+    "musique": {
+      "pt": "música",
+      "en": "music"
+    },
+    "et": {
+      "pt": "E",
+      "en": "And"
+    },
+    "une": {
+      "pt": "um",
+      "en": "a"
+    },
+    "tasse": {
+      "pt": "xícara",
+      "en": "cup"
+    },
+    "aussi": {
+      "pt": "Também",
+      "en": "Also"
+    },
+    "ensuite": {
+      "pt": "Próximo",
+      "en": "Next"
+    },
+    "j'enfile": {
+      "pt": "eu coloquei",
+      "en": "I put on"
+    },
+    "partition": {
+      "pt": "partição",
+      "en": "partition"
+    },
+    "ferme": {
+      "pt": "fazenda",
+      "en": "farm"
+    },
+    "ces": {
+      "pt": "esses",
+      "en": "these"
+    },
+    "boutons": {
+      "pt": "botões",
+      "en": "buttons"
+    },
+    "en": {
+      "pt": "em",
+      "en": "in"
+    },
+    "la": {
+      "pt": "lá",
+      "en": "there"
+    },
+    "do": {
+      "pt": "fazer",
+      "en": "do"
+    },
+    "si": {
+      "pt": "se",
+      "en": "if"
+    },
+    "me": {
+      "pt": "meu",
+      "en": "me"
+    },
+    "dépêche": {
+      "pt": "expedição",
+      "en": "dispatch"
+    },
+    "sinon": {
+      "pt": "De outra forma",
+      "en": "Otherwise"
+    },
+    "serai": {
+      "pt": "vai ser",
+      "en": "will be"
+    },
+    "retard": {
+      "pt": "atraso",
+      "en": "delay"
+    },
+    "donc": {
+      "pt": "ENTÃO",
+      "en": "SO"
+    },
+    "termine": {
+      "pt": "finalizado",
+      "en": "finished"
+    },
+    "file": {
+      "pt": "arquivo",
+      "en": "file"
+    },
+    "bas": {
+      "pt": "abaixo",
+      "en": "down"
+    },
+    "saute": {
+      "pt": "pular",
+      "en": "jump"
+    },
+    "dans": {
+      "pt": "Em",
+      "en": "In"
+    },
+    "ma": {
+      "pt": "meu",
+      "en": "my"
+    },
+    "caisse": {
+      "pt": "caixa",
+      "en": "box"
+    },
+    "à": {
+      "pt": "tem",
+      "en": "has"
+    },
+    "infra-basses": {
+      "pt": "sub-grave",
+      "en": "sub-bass"
+    },
+    "roule": {
+      "pt": "enrolado",
+      "en": "rolled"
+    },
+    "vitesse": {
+      "pt": "velocidade",
+      "en": "speed"
+    },
+    "100": {
+      "pt": "100",
+      "en": "100"
+    },
+    "000": {
+      "pt": "000",
+      "en": "000"
+    },
+    "watts": {
+      "pt": "watts",
+      "en": "watts"
+    },
+    "fuis": {
+      "pt": "fugir",
+      "en": "run away"
+    },
+    "j'arrive": {
+      "pt": "Estou chegando",
+      "en": "I'm coming"
+    },
+    "bosse": {
+      "pt": "ressalto",
+      "en": "bump"
+    },
+    "mixe": {
+      "pt": "mistura",
+      "en": "mix"
+    },
+    "des": {
+      "pt": "do",
+      "en": "of the"
+    },
+    "coups": {
+      "pt": "golpes",
+      "en": "blows"
+    },
+    "fil": {
+      "pt": "fio",
+      "en": "thread"
+    },
+    "j'écris": {
+      "pt": "escrevo",
+      "en": "I write"
+    },
+    "compose": {
+      "pt": "composto",
+      "en": "compound"
+    },
+    "réponds": {
+      "pt": "responder",
+      "en": "answer"
+    },
+    "mes": {
+      "pt": "meu",
+      "en": "my"
+    },
+    "mails-odies": {
+      "pt": "mail-odies",
+      "en": "mail-odies"
+    },
+    "nourris": {
+      "pt": "alimentado",
+      "en": "fed"
+    },
+    "du": {
+      "pt": "de",
+      "en": "of"
+    },
+    "son": {
+      "pt": "dela",
+      "en": "her"
+    },
+    "boîte": {
+      "pt": "caixa",
+      "en": "box"
+    },
+    "rythmes": {
+      "pt": "ritmos",
+      "en": "rhythms"
+    },
+    "c'est": {
+      "pt": "Isso é",
+      "en": "It is"
+    },
+    "pause": {
+      "pt": "quebrar",
+      "en": "break"
+    },
+    "celle": {
+      "pt": "que",
+      "en": "that"
+    },
+    "midi": {
+      "pt": "meio-dia",
+      "en": "noon"
+    },
+    "l'heure": {
+      "pt": "tempo",
+      "en": "time"
+    },
+    "mu-mu-musique": {
+      "pt": "mu-mu-música",
+      "en": "mu-mu-music"
+    },
+    "ouais": {
+      "pt": "Sim",
+      "en": "Yeah"
+    },
+    "clope": {
+      "pt": "cigarro",
+      "en": "cigarette"
+    },
+    "mon": {
+      "pt": "Meu",
+      "en": "My"
+    },
+    "shit": {
+      "pt": "merda",
+      "en": "shit"
+    },
+    "dose": {
+      "pt": "dose",
+      "en": "dose"
+    },
+    "weed": {
+      "pt": "erva",
+      "en": "weed"
+    },
+    "coke": {
+      "pt": "coque",
+      "en": "coke"
+    },
+    "speed": {
+      "pt": "velocidade",
+      "en": "speed"
+    },
+    "crack": {
+      "pt": "rachadura",
+      "en": "crack"
+    },
+    "après-midi": {
+      "pt": "tarde",
+      "en": "afternoon"
+    },
+    "j'reprends": {
+      "pt": "eu retomo",
+      "en": "I resume"
+    },
+    "tout": {
+      "pt": "Todos",
+      "en": "All"
+    },
+    "suite": {
+      "pt": "seguindo",
+      "en": "following"
+    },
+    "fais": {
+      "pt": "fazer",
+      "en": "do"
+    },
+    "comme": {
+      "pt": "como",
+      "en": "as"
+    },
+    "j'envoyais": {
+      "pt": "eu enviei",
+      "en": "I sent"
+    },
+    "mails": {
+      "pt": "e-mails",
+      "en": "emails"
+    },
+    "mail-odies": {
+      "pt": "mail-odies",
+      "en": "mail-odies"
+    },
+    "pour": {
+      "pt": "Para",
+      "en": "For"
+    },
+    "que": {
+      "pt": "que",
+      "en": "that"
+    },
+    "le": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "temps": {
+      "pt": "tempo",
+      "en": "time"
+    },
+    "passe": {
+      "pt": "passar",
+      "en": "pass"
+    },
+    "vite": {
+      "pt": "rapidamente",
+      "en": "quickly"
+    },
+    "mais": {
+      "pt": "mas",
+      "en": "but"
+    },
+    "il": {
+      "pt": "ele",
+      "en": "he"
+    },
+    "ralentit": {
+      "pt": "desacelera",
+      "en": "slows down"
+    },
+    "métronome": {
+      "pt": "metrônomo",
+      "en": "metronome"
+    },
+    "dit": {
+      "pt": "disse",
+      "en": "said"
+    },
+    "tête": {
+      "pt": "cabeça",
+      "en": "head"
+    },
+    "qui": {
+      "pt": "Quem",
+      "en": "Who"
+    },
+    "pense": {
+      "pt": "pensar",
+      "en": "think"
+    },
+    "ou": {
+      "pt": "Ou",
+      "en": "Or"
+    },
+    "bien": {
+      "pt": "BOM",
+      "en": "GOOD"
+    },
+    "crie": {
+      "pt": "gritar",
+      "en": "shout"
+    },
+    "qu'elle": {
+      "pt": "o que",
+      "en": "what"
+    },
+    "est": {
+      "pt": "Leste",
+      "en": "East"
+    },
+    "pressée": {
+      "pt": "com pressa",
+      "en": "in a hurry"
+    },
+    "d'être": {
+      "pt": "ser",
+      "en": "to be"
+    },
+    "partie": {
+      "pt": "papel",
+      "en": "part"
+    },
+    "cette": {
+      "pt": "esse",
+      "en": "this"
+    },
+    "fois-là": {
+      "pt": "daquela vez",
+      "en": "that time"
+    },
+    "pédale": {
+      "pt": "pedal",
+      "en": "pedal"
+    },
+    "fond": {
+      "pt": "fundo",
+      "en": "bottom"
+    },
+    "vain": {
+      "pt": "vão",
+      "en": "vain"
+    },
+    "ce": {
+      "pt": "Esse",
+      "en": "This"
+    },
+    "sont": {
+      "pt": "são",
+      "en": "are"
+    },
+    "bouchons": {
+      "pt": "bonés",
+      "en": "caps"
+    },
+    "marquent": {
+      "pt": "marca",
+      "en": "mark"
+    },
+    "tempo": {
+      "pt": "tempo",
+      "en": "tempo"
+    },
+    "au": {
+      "pt": "No",
+      "en": "At"
+    },
+    "rythme": {
+      "pt": "ritmo",
+      "en": "pace"
+    },
+    "klaxons": {
+      "pt": "chifres",
+      "en": "horns"
+    },
+    "chanson": {
+      "pt": "canção",
+      "en": "song"
+    },
+    "rappelle": {
+      "pt": "lembra",
+      "en": "reminds"
+    },
+    "silence": {
+      "pt": "silêncio",
+      "en": "silence"
+    },
+    "d'un": {
+      "pt": "de um",
+      "en": "of a"
+    },
+    "soleil": {
+      "pt": "sol",
+      "en": "sun"
+    },
+    "decrescendo": {
+      "pt": "decrescendo",
+      "en": "decrescendo"
+    },
+    "crescendo": {
+      "pt": "crescendo",
+      "en": "crescendo"
+    },
+    "demain": {
+      "pt": "amanhã",
+      "en": "tomorrow"
+    },
+    "j'espère": {
+      "pt": "Espero",
+      "en": "I hope"
+    },
+    "j'me": {
+      "pt": "EU",
+      "en": "I"
+    },
+    "lèverai": {
+      "pt": "vai levantar",
+      "en": "will lift"
+    },
+    "tôt": {
+      "pt": "cedo",
+      "en": "early"
+    },
+    "j'obtienne": {
+      "pt": "eu entendo",
+      "en": "I get"
+    },
+    "j'm'injecte": {
+      "pt": "eu me injeto",
+      "en": "I inject myself"
+    },
+    "micro": {
+      "pt": "microfone",
+      "en": "microphone"
+    },
+    "j'en": {
+      "pt": "Eu tenho",
+      "en": "I have"
+    },
+    "sois": {
+      "pt": "ser",
+      "en": "be"
+    },
+    "accro": {
+      "pt": "viciado",
+      "en": "addicted"
+    },
+    "crève": {
+      "pt": "morrer",
+      "en": "die"
+    },
+    "parce": {
+      "pt": "porque",
+      "en": "because"
+    },
+    "m'injecterai": {
+      "pt": "vou me injetar",
+      "en": "will inject myself"
+    },
+    "micros": {
+      "pt": "microfones",
+      "en": "microphones"
+    },
+    "d'overproses": {
+      "pt": "overproses",
+      "en": "overproses"
+    },
+    "jusqu'à": {
+      "pt": "até",
+      "en": "until"
+    },
+    "qu'ils": {
+      "pt": "que eles",
+      "en": "that they"
+    },
+    "soient": {
+      "pt": "ser",
+      "en": "be"
+    },
+    "rêves": {
+      "pt": "",
+      "en": "dreams"
+    },
+    "clope-clope": {
+      "pt": "",
+      "en": "cigarette"
+    },
+    "co-coke": {
+      "pt": "",
+      "en": "co-coke"
+    }
+  },
+  "ordem": 54
+}
