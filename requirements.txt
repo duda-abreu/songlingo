@@ -1,0 +1,4 @@
+flet>=0.24.0
+pygame>=2.6.0
+mutagen>=1.47.0
+deep-translator>=1.11.4

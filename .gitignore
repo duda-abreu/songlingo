@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.flet/
+musicas/*/audio.mp3
+debug_*.log
