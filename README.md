@@ -40,6 +40,18 @@ python traduzir_musicas.py
 
 Ele só preenche o que ainda está vazio (então dá pra rodar de novo se cair no meio, sem perder o que já foi feito) e vai salvando linha por linha, música por música.
 
+## versão web
+
+Tem uma versão bem mais simples rodando direto no navegador, em `docs/` — dá pra publicar como GitHub Pages. Ela mostra a letra sincronizada, a tradução e o modo de estudo, mas não guarda nem baixa áudio nenhum: você escolhe o mp3 do seu computador toda vez que for ouvir, ele nunca sai da sua máquina.
+
+Pra atualizar os dados que ela usa (depois de adicionar música nova, por exemplo):
+
+```bash
+python gerar_site.py
+```
+
+Isso lê tudo que tem em `musicas/` e gera `docs/dados.json`. Pra publicar: nas configurações do repositório no GitHub, em Pages, escolhe a branch `main` e a pasta `/docs` como fonte.
+
 ## estrutura
 
 ```
@@ -48,6 +60,8 @@ utilidades.py                  # funções compartilhadas (carregar músicas, ac
 gerar_letras.py                # varre musicas/ e busca letra pro que falta
 criar_musica.py                # monta letra.json a partir de um .lrc
 traduzir_musicas.py            # preenche traduções que ainda estão vazias
+gerar_site.py                  # gera os dados que a versão web usa
+docs/                          # versão web (HTML/CSS/JS puro, sem áudio)
 musicas/
   nome-da-musica/
     audio.mp3
