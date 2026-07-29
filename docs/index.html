@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>songlingo</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body class="escuro">
+<div class="fundo-decorativo" aria-hidden="true"></div>
+
+<div class="app">
+  <aside class="barra-lateral">
+    <div class="cabecalho-lateral">
+      <h1>˚ songlingo</h1>
+      <button id="botao-tema" class="botao-icone" title="mudar tema">🌙</button>
+    </div>
+
+    <input id="campo-busca" type="text" placeholder="buscar música..." autocomplete="off">
+
+    <div id="lista-musicas" class="lista-musicas"></div>
+
+    <p class="aviso-audio">
+      o áudio não fica aqui — quando escolher uma música, selecione o mp3 dela no seu computador.
+    </p>
+  </aside>
+
+  <main class="area-principal">
+    <div id="tela-vazia" class="tela-vazia">
+      <p>escolhe uma música na barra do lado pra começar</p>
+    </div>
+
+    <div id="tela-musica" class="tela-musica" hidden>
+      <header class="cabecalho-musica">
+        <div>
+          <p class="artista-musica" id="texto-artista"></p>
+          <h2 id="texto-titulo"></h2>
+        </div>
+        <label class="botao-arquivo">
+          <input id="campo-audio" type="file" accept="audio/*" hidden>
+          <span id="rotulo-campo-audio">escolher áudio</span>
+        </label>
+      </header>
+
+      <div class="controles-audio">
+        <audio id="audio" controls></audio>
+      </div>
+
+      <nav class="seletor-modo">
+        <button class="botao-modo ativo" data-modo="ouvir">ouvir</button>
+        <button class="botao-modo" data-modo="estudar">modo estudo</button>
+      </nav>
+
+      <div id="painel-ouvir" class="painel-ouvir">
+        <label class="switch-seguir">
+          <input id="switch-seguir" type="checkbox" checked>
+          traduzir linha atual automaticamente
+        </label>
+
+        <div id="janela-letra" class="janela-letra"></div>
+
+        <div class="cartao">
+          <span class="etiqueta-cartao">tradução</span>
+          <div id="painel-traducao" class="painel-traducao">
+            <p class="texto-vazio">clique em uma linha da letra pra ver a tradução aqui.</p>
+          </div>
+        </div>
+      </div>
+
+      <div id="painel-estudar" class="painel-estudar" hidden>
+        <div class="seletor-idioma">
+          <span>praticar em:</span>
+          <button class="botao-idioma ativo" data-idioma="pt">português</button>
+          <button class="botao-idioma" data-idioma="en">english</button>
+        </div>
+        <p id="texto-placar" class="texto-placar">acertos: 0 / 0</p>
+        <div id="lista-letra-estudo" class="lista-letra-estudo"></div>
+      </div>
+    </div>
+  </main>
+</div>
+
+<div id="modal-palavra" class="modal" hidden>
+  <div class="conteudo-modal">
+    <div class="cabecalho-modal">
+      <h3 id="texto-palavra-modal"></h3>
+      <button id="fechar-modal" class="botao-icone">✕</button>
+    </div>
+    <p class="dica-modal">qual é a tradução dessa palavra?</p>
+    <input id="campo-resposta" type="text" autocomplete="off">
+    <div id="resultado-modal" class="resultado-modal"></div>
+    <div class="acoes-modal">
+      <button id="botao-nao-sei" class="botao-secundario">não sei</button>
+      <button id="botao-conferir" class="botao-primario">conferir</button>
+    </div>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
