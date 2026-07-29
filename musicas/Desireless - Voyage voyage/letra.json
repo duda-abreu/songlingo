@@ -1,0 +1,600 @@
+{
+  "titulo": "Voyage voyage",
+  "artista": "Desireless",
+  "arquivo_audio": "audio.mp3",
+  "linhas": [
+    {
+      "tempo": 16.65,
+      "fr": "Au-dessus des vieux volcans",
+      "pt": "Acima dos antigos vulcões",
+      "en": "Above the old volcanoes"
+    },
+    {
+      "tempo": 20.32,
+      "fr": "Glissent des ailes sous le tapis du vent",
+      "pt": "Asas deslizam sob o tapete do vento",
+      "en": "Wings slide under the carpet of the wind"
+    },
+    {
+      "tempo": 23.81,
+      "fr": "Voyage, voyage",
+      "pt": "Viajar, viajar",
+      "en": "Travel, travel"
+    },
+    {
+      "tempo": 26.76,
+      "fr": "Éternellement",
+      "pt": "Eternamente",
+      "en": "Eternally"
+    },
+    {
+      "tempo": 32.26,
+      "fr": "De nuages en marécages",
+      "pt": "Das nuvens aos pântanos",
+      "en": "From clouds to swamps"
+    },
+    {
+      "tempo": 36.05,
+      "fr": "De vent d'Espagne en pluie d'Équateur",
+      "pt": "Do vento da Espanha à chuva do Equador",
+      "en": "From wind from Spain to rain from Ecuador"
+    },
+    {
+      "tempo": 39.41,
+      "fr": "Voyage, voyage",
+      "pt": "Viajar, viajar",
+      "en": "Travel, travel"
+    },
+    {
+      "tempo": 42.27,
+      "fr": "Vole dans les hauteurs",
+      "pt": "Voe para as alturas",
+      "en": "Fly to the heights"
+    },
+    {
+      "tempo": 46.02,
+      "fr": "Au-dessus des capitales",
+      "pt": "Acima das capitais",
+      "en": "Above the capitals"
+    },
+    {
+      "tempo": 50.49,
+      "fr": "Des idées fatales",
+      "pt": "Idéias fatais",
+      "en": "Fatal ideas"
+    },
+    {
+      "tempo": 53.63,
+      "fr": "Regarde l'océan",
+      "pt": "Olhe para o oceano",
+      "en": "Look at the ocean"
+    },
+    {
+      "tempo": 58.42,
+      "fr": "Voyage, voyage",
+      "pt": "Viajar, viajar",
+      "en": "Travel, travel"
+    },
+    {
+      "tempo": 62.87,
+      "fr": "Plus loin que la nuit et le jour (voyage, voyage)",
+      "pt": "Mais longe que noite e dia (viagem, jornada)",
+      "en": "Farther than night and day (journey, journey)"
+    },
+    {
+      "tempo": 67.09,
+      "fr": "Voyage (voyage)",
+      "pt": "Viagem (viagem)",
+      "en": "Travel (journey)"
+    },
+    {
+      "tempo": 70.0,
+      "fr": "Dans l'espace inouï de l'amour",
+      "pt": "No incrível espaço do amor",
+      "en": "In the incredible space of love"
+    },
+    {
+      "tempo": 74.21,
+      "fr": "Voyage, voyage",
+      "pt": "Viajar, viajar",
+      "en": "Travel, travel"
+    },
+    {
+      "tempo": 78.33,
+      "fr": "Sur l'eau sacrée d'un fleuve indien (voyage, voyage)",
+      "pt": "Nas águas sagradas de um rio indiano (viagem, viagem)",
+      "en": "On the sacred water of an Indian river (journey, journey)"
+    },
+    {
+      "tempo": 82.32,
+      "fr": "Voyage (voyage)",
+      "pt": "Viagem (viagem)",
+      "en": "Travel (journey)"
+    },
+    {
+      "tempo": 87.2,
+      "fr": "Et jamais ne reviens",
+      "pt": "E nunca mais volte",
+      "en": "And never come back"
+    },
+    {
+      "tempo": 102.09,
+      "fr": "Sur le Gange ou l'Amazone",
+      "pt": "No Ganges ou na Amazônia",
+      "en": "On the Ganges or the Amazon"
+    },
+    {
+      "tempo": 105.86,
+      "fr": "Chez les Blacks, chez les Sikhs, chez les Jaunes",
+      "pt": "Entre os Negros, entre os Sikhs, entre os Amarelos",
+      "en": "Among the Blacks, among the Sikhs, among the Yellows"
+    },
+    {
+      "tempo": 109.26,
+      "fr": "Voyage, voyage",
+      "pt": "Viajar, viajar",
+      "en": "Travel, travel"
+    },
+    {
+      "tempo": 112.24,
+      "fr": "Dans tout le royaume",
+      "pt": "Em todo o reino",
+      "en": "Throughout the kingdom"
+    },
+    {
+      "tempo": 117.41,
+      "fr": "Sur les dunes du Sahara",
+      "pt": "Nas dunas do Saara",
+      "en": "On the dunes of the Sahara"
+    },
+    {
+      "tempo": 121.47,
+      "fr": "Des Îles Fidji au Fuji-yama",
+      "pt": "Das Ilhas Fiji a Fuji-yama",
+      "en": "From the Fiji Islands to Fuji-yama"
+    },
+    {
+      "tempo": 124.91,
+      "fr": "Voyage, voyage",
+      "pt": "Viajar, viajar",
+      "en": "Travel, travel"
+    },
+    {
+      "tempo": 127.82,
+      "fr": "Ne t'arrête pas",
+      "pt": "Não pare",
+      "en": "Don't stop"
+    },
+    {
+      "tempo": 131.24,
+      "fr": "Au-dessus des barbelés",
+      "pt": "Acima do arame farpado",
+      "en": "Above the barbed wire"
+    },
+    {
+      "tempo": 135.64,
+      "fr": "Des cœurs bombardés",
+      "pt": "Corações bombardeados",
+      "en": "Bombarded hearts"
+    },
+    {
+      "tempo": 139.21,
+      "fr": "Regarde l'océan",
+      "pt": "Olhe para o oceano",
+      "en": "Look at the ocean"
+    },
+    {
+      "tempo": 143.85,
+      "fr": "Voyage, voyage",
+      "pt": "Viajar, viajar",
+      "en": "Travel, travel"
+    },
+    {
+      "tempo": 148.38,
+      "fr": "Plus loin que la nuit et le jour (voyage, voyage)",
+      "pt": "Mais longe que noite e dia (viagem, jornada)",
+      "en": "Farther than night and day (journey, journey)"
+    },
+    {
+      "tempo": 152.43,
+      "fr": "Voyage (voyage)",
+      "pt": "Viagem (viagem)",
+      "en": "Travel (journey)"
+    },
+    {
+      "tempo": 155.56,
+      "fr": "Dans l'espace inouï de l'amour",
+      "pt": "No incrível espaço do amor",
+      "en": "In the incredible space of love"
+    },
+    {
+      "tempo": 159.66,
+      "fr": "Voyage, voyage",
+      "pt": "Viajar, viajar",
+      "en": "Travel, travel"
+    },
+    {
+      "tempo": 163.69,
+      "fr": "Sur l'eau sacrée d'un fleuve indien (voyage, voyage)",
+      "pt": "Nas águas sagradas de um rio indiano (viagem, viagem)",
+      "en": "On the sacred water of an Indian river (journey, journey)"
+    },
+    {
+      "tempo": 168.02,
+      "fr": "Voyage (voyage)",
+      "pt": "Viagem (viagem)",
+      "en": "Travel (journey)"
+    },
+    {
+      "tempo": 172.66,
+      "fr": "Et jamais ne reviens",
+      "pt": "E nunca mais volte",
+      "en": "And never come back"
+    },
+    {
+      "tempo": 201.37,
+      "fr": "Au-dessus des capitales",
+      "pt": "Acima das capitais",
+      "en": "Above the capitals"
+    },
+    {
+      "tempo": 205.65,
+      "fr": "Des idées fatales",
+      "pt": "Idéias fatais",
+      "en": "Fatal ideas"
+    },
+    {
+      "tempo": 208.86,
+      "fr": "Regarde l'océan",
+      "pt": "Olhe para o oceano",
+      "en": "Look at the ocean"
+    },
+    {
+      "tempo": 213.6,
+      "fr": "Voyage, voyage",
+      "pt": "Viajar, viajar",
+      "en": "Travel, travel"
+    },
+    {
+      "tempo": 218.07,
+      "fr": "Plus loin que la nuit et le jour (voyage, voyage)",
+      "pt": "Mais longe que noite e dia (viagem, jornada)",
+      "en": "Farther than night and day (journey, journey)"
+    },
+    {
+      "tempo": 222.13,
+      "fr": "Voyage (voyage)",
+      "pt": "Viagem (viagem)",
+      "en": "Travel (journey)"
+    },
+    {
+      "tempo": 225.4,
+      "fr": "Dans l'espace inouï de l'amour",
+      "pt": "No incrível espaço do amor",
+      "en": "In the incredible space of love"
+    },
+    {
+      "tempo": 229.47,
+      "fr": "Voyage, voyage",
+      "pt": "Viajar, viajar",
+      "en": "Travel, travel"
+    },
+    {
+      "tempo": 233.45,
+      "fr": "Sur l'eau sacrée d'un fleuve indien (voyage, voyage)",
+      "pt": "Nas águas sagradas de um rio indiano (viagem, viagem)",
+      "en": "On the sacred water of an Indian river (journey, journey)"
+    },
+    {
+      "tempo": 237.42,
+      "fr": "Voyage (voyage)",
+      "pt": "Viagem (viagem)",
+      "en": "Travel (journey)"
+    },
+    {
+      "tempo": 242.2,
+      "fr": "Et jamais ne reviens",
+      "pt": "E nunca mais volte",
+      "en": "And never come back"
+    },
+    {
+      "tempo": 244.95,
+      "fr": "Voyage, voyage",
+      "pt": "Viajar, viajar",
+      "en": "Travel, travel"
+    },
+    {
+      "tempo": 249.11,
+      "fr": "Plus loin que la nuit et le jour (voyage, voyage)",
+      "pt": "Mais longe que noite e dia (viagem, jornada)",
+      "en": "Farther than night and day (journey, journey)"
+    },
+    {
+      "tempo": 253.37,
+      "fr": "Voyage (voyage)",
+      "pt": "Viagem (viagem)",
+      "en": "Travel (journey)"
+    },
+    {
+      "tempo": 256.41,
+      "fr": "Dans l'espace inouï de l'amour",
+      "pt": "No incrível espaço do amor",
+      "en": "In the incredible space of love"
+    }
+  ],
+  "vocabulario": {
+    "au-dessus": {
+      "pt": "acima",
+      "en": "above"
+    },
+    "des": {
+      "pt": "do",
+      "en": "of the"
+    },
+    "vieux": {
+      "pt": "velho",
+      "en": "old"
+    },
+    "volcans": {
+      "pt": "vulcões",
+      "en": "volcanoes"
+    },
+    "glissent": {
+      "pt": "deslizar",
+      "en": "slide"
+    },
+    "ailes": {
+      "pt": "asas",
+      "en": "wings"
+    },
+    "sous": {
+      "pt": "abaixo",
+      "en": "below"
+    },
+    "le": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "tapis": {
+      "pt": "tapete",
+      "en": "carpet"
+    },
+    "du": {
+      "pt": "de",
+      "en": "of"
+    },
+    "vent": {
+      "pt": "vento",
+      "en": "wind"
+    },
+    "voyage": {
+      "pt": "jornada",
+      "en": "journey"
+    },
+    "éternellement": {
+      "pt": "eternamente",
+      "en": "eternally"
+    },
+    "de": {
+      "pt": "de",
+      "en": "of"
+    },
+    "nuages": {
+      "pt": "nuvens",
+      "en": "clouds"
+    },
+    "en": {
+      "pt": "em",
+      "en": "in"
+    },
+    "marécages": {
+      "pt": "pântanos",
+      "en": "swamps"
+    },
+    "d'espagne": {
+      "pt": "da Espanha",
+      "en": "from spain"
+    },
+    "pluie": {
+      "pt": "chuva",
+      "en": "rain"
+    },
+    "d'équateur": {
+      "pt": "do equador",
+      "en": "from equator"
+    },
+    "vole": {
+      "pt": "roubado",
+      "en": "stolen"
+    },
+    "dans": {
+      "pt": "Em",
+      "en": "In"
+    },
+    "les": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "hauteurs": {
+      "pt": "alturas",
+      "en": "heights"
+    },
+    "capitales": {
+      "pt": "capitais",
+      "en": "capitals"
+    },
+    "idées": {
+      "pt": "ideias",
+      "en": "ideas"
+    },
+    "fatales": {
+      "pt": "fatal",
+      "en": "fatal"
+    },
+    "regarde": {
+      "pt": "olhe",
+      "en": "look at"
+    },
+    "l'océan": {
+      "pt": "o oceano",
+      "en": "the ocean"
+    },
+    "plus": {
+      "pt": "mais",
+      "en": "more"
+    },
+    "loin": {
+      "pt": "distante",
+      "en": "far"
+    },
+    "que": {
+      "pt": "que",
+      "en": "that"
+    },
+    "la": {
+      "pt": "lá",
+      "en": "there"
+    },
+    "nuit": {
+      "pt": "noite",
+      "en": "night"
+    },
+    "et": {
+      "pt": "E",
+      "en": "And"
+    },
+    "jour": {
+      "pt": "dia",
+      "en": "day"
+    },
+    "l'espace": {
+      "pt": "espaço",
+      "en": "space"
+    },
+    "inouï": {
+      "pt": "inédito",
+      "en": "unheard of"
+    },
+    "l'amour": {
+      "pt": "amor",
+      "en": "love"
+    },
+    "sur": {
+      "pt": "sobre",
+      "en": "on"
+    },
+    "l'eau": {
+      "pt": "água",
+      "en": "water"
+    },
+    "sacrée": {
+      "pt": "sagrado",
+      "en": "sacred"
+    },
+    "d'un": {
+      "pt": "de um",
+      "en": "of a"
+    },
+    "fleuve": {
+      "pt": "rio",
+      "en": "river"
+    },
+    "indien": {
+      "pt": "indiano",
+      "en": "Indian"
+    },
+    "jamais": {
+      "pt": "Nunca",
+      "en": "Never"
+    },
+    "ne": {
+      "pt": "nascer",
+      "en": "born"
+    },
+    "reviens": {
+      "pt": "voltar",
+      "en": "come back"
+    },
+    "gange": {
+      "pt": "gangues",
+      "en": "ganges"
+    },
+    "ou": {
+      "pt": "Ou",
+      "en": "Or"
+    },
+    "l'amazone": {
+      "pt": "a amazona",
+      "en": "the amazon"
+    },
+    "chez": {
+      "pt": "na casa de",
+      "en": "at the house of"
+    },
+    "blacks": {
+      "pt": "negros",
+      "en": "blacks"
+    },
+    "sikhs": {
+      "pt": "Sikhs",
+      "en": "Sikhs"
+    },
+    "jaunes": {
+      "pt": "amarelo",
+      "en": "yellow"
+    },
+    "tout": {
+      "pt": "Todos",
+      "en": "All"
+    },
+    "royaume": {
+      "pt": "reino",
+      "en": "kingdom"
+    },
+    "dunes": {
+      "pt": "dunas",
+      "en": "dunes"
+    },
+    "sahara": {
+      "pt": "Saara",
+      "en": "Sahara"
+    },
+    "îles": {
+      "pt": "ilhas",
+      "en": "islands"
+    },
+    "fidji": {
+      "pt": "Fiji",
+      "en": "fiji"
+    },
+    "au": {
+      "pt": "No",
+      "en": "At"
+    },
+    "fuji-yama": {
+      "pt": "fuji-yama",
+      "en": "fuji-yama"
+    },
+    "t'arrête": {
+      "pt": "parar",
+      "en": "stop"
+    },
+    "pas": {
+      "pt": "não",
+      "en": "not"
+    },
+    "barbelés": {
+      "pt": "arame farpado",
+      "en": "barbed wire"
+    },
+    "cœurs": {
+      "pt": "corações",
+      "en": "hearts"
+    },
+    "bombardés": {
+      "pt": "bombardeado",
+      "en": "bombed"
+    }
+  },
+  "favorito": true
+}

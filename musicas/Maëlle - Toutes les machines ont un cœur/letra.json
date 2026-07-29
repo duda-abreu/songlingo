@@ -1,0 +1,815 @@
+{
+  "titulo": "Toutes les machines ont un cœur",
+  "artista": "Maëlle",
+  "arquivo_audio": "audio.mp3",
+  "linhas": [
+    {
+      "tempo": 12.23,
+      "fr": "(Qui bat, qui bat, qui bat)",
+      "pt": "(Quem bate, quem bate, quem bate)",
+      "en": "(Who beats, who beats, who beats)"
+    },
+    {
+      "tempo": 24.81,
+      "fr": "Toutes les machines ont un cœur, t'entends?",
+      "pt": "Todas as máquinas têm coração, ouviu?",
+      "en": "All machines have a heart, you hear?"
+    },
+    {
+      "tempo": 29.21,
+      "fr": "Toutes les machines ont un cœur dedans",
+      "pt": "Todas as máquinas têm um coração",
+      "en": "All machines have a heart in them"
+    },
+    {
+      "tempo": 33.95,
+      "fr": "Qui bat, qui bat, qui bat",
+      "pt": "Quem bate, quem bate, quem bate",
+      "en": "Who beats, who beats, who beats"
+    },
+    {
+      "tempo": 36.06,
+      "fr": "Comme on se bat, maman",
+      "pt": "Como lutamos, mãe",
+      "en": "How we fight, mom"
+    },
+    {
+      "tempo": 38.23,
+      "fr": "Comme on se bat pourtant",
+      "pt": "Como lutamos ainda",
+      "en": "How we fight yet"
+    },
+    {
+      "tempo": 40.22,
+      "fr": "On n'avait pas prévu ça",
+      "pt": "Nós não planejamos isso",
+      "en": "We didn't plan this"
+    },
+    {
+      "tempo": 42.44,
+      "fr": "D'avoir des doigts Messenger",
+      "pt": "Ter dedos de mensageiro",
+      "en": "To have Messenger fingers"
+    },
+    {
+      "tempo": 44.31,
+      "fr": "Des pouces ordinateurs",
+      "pt": "Polegares de computador",
+      "en": "Computer thumbs"
+    },
+    {
+      "tempo": 46.58,
+      "fr": "Sur les machines on passe des heures",
+      "pt": "Passamos horas nas máquinas",
+      "en": "We spend hours on the machines"
+    },
+    {
+      "tempo": 50.03,
+      "fr": "Sur les machines on dessine un cœur",
+      "pt": "Nas máquinas desenhamos um coração",
+      "en": "On the machines we draw a heart"
+    },
+    {
+      "tempo": 53.84,
+      "fr": "Qui bat, qui bat, qui bat",
+      "pt": "Quem bate, quem bate, quem bate",
+      "en": "Who beats, who beats, who beats"
+    },
+    {
+      "tempo": 57.13,
+      "fr": "On tape nos vies dedans",
+      "pt": "Nós digitamos nossas vidas nele",
+      "en": "We type our lives in it"
+    },
+    {
+      "tempo": 59.08,
+      "fr": "Autant de likes et de leurres",
+      "pt": "Tantas curtidas e iscas",
+      "en": "So many likes and lures"
+    },
+    {
+      "tempo": 61.15,
+      "fr": "De flammes, de selfies, de peurs",
+      "pt": "De chamas, de selfies, de medos",
+      "en": "Of flames, of selfies, of fears"
+    },
+    {
+      "tempo": 63.49,
+      "fr": "De smileys en couleur",
+      "pt": "Smileys coloridos",
+      "en": "Colored smileys"
+    },
+    {
+      "tempo": 67.15,
+      "fr": "Toutes les machines ont un cœur, t'entends?",
+      "pt": "Todas as máquinas têm coração, ouviu?",
+      "en": "All machines have a heart, you hear?"
+    },
+    {
+      "tempo": 71.3,
+      "fr": "Toutes les machines ont un cœur dedans",
+      "pt": "Todas as máquinas têm um coração",
+      "en": "All machines have a heart in them"
+    },
+    {
+      "tempo": 74.67,
+      "fr": "Qui bat, qui bat, qui bat",
+      "pt": "Quem bate, quem bate, quem bate",
+      "en": "Who beats, who beats, who beats"
+    },
+    {
+      "tempo": 77.68,
+      "fr": "Comme on se bat, maman",
+      "pt": "Como lutamos, mãe",
+      "en": "How we fight, mom"
+    },
+    {
+      "tempo": 79.89,
+      "fr": "Comme on ne sait pas vraiment",
+      "pt": "Como realmente não sabemos",
+      "en": "As we don't really know"
+    },
+    {
+      "tempo": 81.7,
+      "fr": "Comment se sortir de là",
+      "pt": "Como sair de lá",
+      "en": "How to get out of there"
+    },
+    {
+      "tempo": 83.94,
+      "fr": "Le monde, la gueule qu'il a",
+      "pt": "O mundo, a cara que ele tem",
+      "en": "The world, the face it has"
+    },
+    {
+      "tempo": 86.17,
+      "fr": "Qui c'est qui lui a fait ça?",
+      "pt": "Quem fez isso com ele?",
+      "en": "Who did this to him?"
+    },
+    {
+      "tempo": 88.37,
+      "fr": "C'est pas nous, c'est pas moi, t'entends?",
+      "pt": "Não somos nós, não sou eu, ouviu?",
+      "en": "It's not us, it's not me, you hear?"
+    },
+    {
+      "tempo": 92.16,
+      "fr": "Le bruit des machines permanent",
+      "pt": "O barulho constante das máquinas",
+      "en": "The constant noise of machines"
+    },
+    {
+      "tempo": 95.62,
+      "fr": "Qui bat, qui bat, qui bat",
+      "pt": "Quem bate, quem bate, quem bate",
+      "en": "Who beats, who beats, who beats"
+    },
+    {
+      "tempo": 98.65,
+      "fr": "Battu pour le moment",
+      "pt": "Espancado por enquanto",
+      "en": "Beaten for now"
+    },
+    {
+      "tempo": 100.53,
+      "fr": "Je suis tout juste capable",
+      "pt": "Eu mal consigo",
+      "en": "I am barely able"
+    },
+    {
+      "tempo": 102.87,
+      "fr": "De voir le monde en grand",
+      "pt": "Para ver o mundo em grande estilo",
+      "en": "To see the world in a big way"
+    },
+    {
+      "tempo": 105.02,
+      "fr": "Tant que le monde est portable",
+      "pt": "Enquanto o mundo for portátil",
+      "en": "As long as the world is portable"
+    },
+    {
+      "tempo": 108.65,
+      "fr": "Toutes les machines ont un cœur, t'entends?",
+      "pt": "Todas as máquinas têm coração, ouviu?",
+      "en": "All machines have a heart, you hear?"
+    },
+    {
+      "tempo": 112.88,
+      "fr": "Toutes les machines ont un cœur dedans",
+      "pt": "Todas as máquinas têm um coração",
+      "en": "All machines have a heart in them"
+    },
+    {
+      "tempo": 117.43,
+      "fr": "Qui bat, qui bat, qui bat",
+      "pt": "Quem bate, quem bate, quem bate",
+      "en": "Who beats, who beats, who beats"
+    },
+    {
+      "tempo": 119.69,
+      "fr": "Comme on se bat, maman",
+      "pt": "Como lutamos, mãe",
+      "en": "How we fight, mom"
+    },
+    {
+      "tempo": 121.75,
+      "fr": "Comme on se bat pourtant",
+      "pt": "Como lutamos ainda",
+      "en": "How we fight yet"
+    },
+    {
+      "tempo": 123.66,
+      "fr": "Tu dis \"à quoi ça sert, t'as rien de mieux à faire?\"",
+      "pt": "Você diz “qual é o sentido, você não tem nada melhor para fazer?”",
+      "en": "You say “what’s the point, don’t you have anything better to do?”"
+    },
+    {
+      "tempo": 127.81,
+      "fr": "Sais-tu le temps que tu perds?",
+      "pt": "Você sabe quanto tempo está perdendo?",
+      "en": "Do you know how much time you're wasting?"
+    },
+    {
+      "tempo": 130.09,
+      "fr": "Toutes les machines ont un cœur, pourtant",
+      "pt": "Todas as máquinas têm um coração, no entanto",
+      "en": "All machines have a heart, however"
+    },
+    {
+      "tempo": 133.77,
+      "fr": "Un monde meilleur caché dedans",
+      "pt": "Um mundo melhor escondido dentro",
+      "en": "A better world hidden within"
+    },
+    {
+      "tempo": 137.59,
+      "fr": "Qui bat, qui bat, qui bat",
+      "pt": "Quem bate, quem bate, quem bate",
+      "en": "Who beats, who beats, who beats"
+    },
+    {
+      "tempo": 140.22,
+      "fr": "Moi des idées j'en ai mille",
+      "pt": "Eu tenho mil ideias",
+      "en": "I have a thousand ideas"
+    },
+    {
+      "tempo": 142.41,
+      "fr": "Tout au bout de mes doigts",
+      "pt": "Tudo ao meu alcance",
+      "en": "All at my fingertips"
+    },
+    {
+      "tempo": 144.63,
+      "fr": "Des étincelles et des îles",
+      "pt": "Faíscas e ilhas",
+      "en": "Sparks and islands"
+    },
+    {
+      "tempo": 146.69,
+      "fr": "Des ailes que je déploie",
+      "pt": "Asas que eu abro",
+      "en": "Wings that I spread"
+    },
+    {
+      "tempo": 148.77,
+      "fr": "Maman, maman c'est moi",
+      "pt": "Mãe, mãe, sou eu",
+      "en": "Mom, mom it's me"
+    },
+    {
+      "tempo": 151.22,
+      "fr": "C'est moi, c'est moi le moteur, t'entends?",
+      "pt": "Sou eu, sou a força motriz, ouviu?",
+      "en": "It's me, I'm the driving force, you hear?"
+    },
+    {
+      "tempo": 154.54,
+      "fr": "Dans toutes les machines y'a mon cœur dedans",
+      "pt": "Em todas as máquinas está meu coração dentro",
+      "en": "In all the machines there is my heart inside"
+    },
+    {
+      "tempo": 158.05,
+      "fr": "Qui bat, qui bat, qui bat",
+      "pt": "Quem bate, quem bate, quem bate",
+      "en": "Who beats, who beats, who beats"
+    },
+    {
+      "tempo": 161.31,
+      "fr": "Comme je me bats, maman",
+      "pt": "Como eu luto, mãe",
+      "en": "How I fight, mom"
+    },
+    {
+      "tempo": 163.41,
+      "fr": "Si le monde est mon mobile",
+      "pt": "Se o mundo é meu motivo",
+      "en": "If the world is my motive"
+    },
+    {
+      "tempo": 165.44,
+      "fr": "Mon cœur pour le moment",
+      "pt": "Meu coração por enquanto",
+      "en": "My heart for now"
+    },
+    {
+      "tempo": 167.7,
+      "fr": "Est comme le monde, maman",
+      "pt": "É como o mundo, mãe",
+      "en": "Is like the world, mom"
+    },
+    {
+      "tempo": 173.64,
+      "fr": "Et le monde est fragile",
+      "pt": "E o mundo é frágil",
+      "en": "And the world is fragile"
+    },
+    {
+      "tempo": 181.63,
+      "fr": "Et le monde est fragile",
+      "pt": "E o mundo é frágil",
+      "en": "And the world is fragile"
+    },
+    {
+      "tempo": 190.58,
+      "fr": "Et mon cœur est fragile",
+      "pt": "E meu coração é frágil",
+      "en": "And my heart is fragile"
+    },
+    {
+      "tempo": 202.71,
+      "fr": "Et le monde est fragile",
+      "pt": "E o mundo é frágil",
+      "en": "And the world is fragile"
+    },
+    {
+      "tempo": 211.63,
+      "fr": "Et le monde est fragile",
+      "pt": "E o mundo é frágil",
+      "en": "And the world is fragile"
+    },
+    {
+      "tempo": 213.32,
+      "fr": "Toutes les machines ont un cœur, t'entends?",
+      "pt": "Todas as máquinas têm coração, ouviu?",
+      "en": "All machines have a heart, you hear?"
+    },
+    {
+      "tempo": 217.13,
+      "fr": "Toutes les machines ont un cœur dedans",
+      "pt": "Todas as máquinas têm um coração",
+      "en": "All machines have a heart in them"
+    },
+    {
+      "tempo": 223.81,
+      "fr": "Et mon cœur est fragile",
+      "pt": "E meu coração é frágil",
+      "en": "And my heart is fragile"
+    }
+  ],
+  "vocabulario": {
+    "qui": {
+      "pt": "Quem",
+      "en": "Who"
+    },
+    "bat": {
+      "pt": "bater",
+      "en": "beat"
+    },
+    "toutes": {
+      "pt": "todos",
+      "en": "all"
+    },
+    "les": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "machines": {
+      "pt": "máquinas",
+      "en": "machines"
+    },
+    "ont": {
+      "pt": "ter",
+      "en": "have"
+    },
+    "un": {
+      "pt": "UM",
+      "en": "A"
+    },
+    "cœur": {
+      "pt": "coração",
+      "en": "heart"
+    },
+    "t'entends": {
+      "pt": "você ouve",
+      "en": "you hear"
+    },
+    "dedans": {
+      "pt": "dentro",
+      "en": "inside"
+    },
+    "comme": {
+      "pt": "como",
+      "en": "as"
+    },
+    "on": {
+      "pt": "nós",
+      "en": "we"
+    },
+    "se": {
+      "pt": "se",
+      "en": "se"
+    },
+    "maman": {
+      "pt": "Mãe",
+      "en": "Mom"
+    },
+    "pourtant": {
+      "pt": "Ainda",
+      "en": "Yet"
+    },
+    "n'avait": {
+      "pt": "não tinha",
+      "en": "didn't have"
+    },
+    "pas": {
+      "pt": "não",
+      "en": "not"
+    },
+    "prévu": {
+      "pt": "previsto",
+      "en": "foreseen"
+    },
+    "ça": {
+      "pt": "Que",
+      "en": "That"
+    },
+    "d'avoir": {
+      "pt": "ter",
+      "en": "to have"
+    },
+    "des": {
+      "pt": "do",
+      "en": "of the"
+    },
+    "doigts": {
+      "pt": "dedos",
+      "en": "fingers"
+    },
+    "messenger": {
+      "pt": "mensageiro",
+      "en": "messenger"
+    },
+    "pouces": {
+      "pt": "polegadas",
+      "en": "inches"
+    },
+    "ordinateurs": {
+      "pt": "computadores",
+      "en": "computers"
+    },
+    "sur": {
+      "pt": "sobre",
+      "en": "on"
+    },
+    "passe": {
+      "pt": "passar",
+      "en": "pass"
+    },
+    "heures": {
+      "pt": "horas",
+      "en": "hours"
+    },
+    "dessine": {
+      "pt": "empate",
+      "en": "draw"
+    },
+    "tape": {
+      "pt": "tipo",
+      "en": "type"
+    },
+    "nos": {
+      "pt": "nosso",
+      "en": "our"
+    },
+    "vies": {
+      "pt": "vidas",
+      "en": "lives"
+    },
+    "autant": {
+      "pt": "tanto",
+      "en": "as much"
+    },
+    "de": {
+      "pt": "de",
+      "en": "of"
+    },
+    "likes": {
+      "pt": "gosta",
+      "en": "likes"
+    },
+    "et": {
+      "pt": "E",
+      "en": "And"
+    },
+    "leurres": {
+      "pt": "iscas",
+      "en": "lures"
+    },
+    "flammes": {
+      "pt": "chamas",
+      "en": "flames"
+    },
+    "selfies": {
+      "pt": "selfies",
+      "en": "selfies"
+    },
+    "peurs": {
+      "pt": "medos",
+      "en": "fears"
+    },
+    "smileys": {
+      "pt": "sorrisos",
+      "en": "smileys"
+    },
+    "en": {
+      "pt": "em",
+      "en": "in"
+    },
+    "couleur": {
+      "pt": "cor",
+      "en": "color"
+    },
+    "ne": {
+      "pt": "nascer",
+      "en": "born"
+    },
+    "sait": {
+      "pt": "sabe",
+      "en": "knows"
+    },
+    "vraiment": {
+      "pt": "Realmente",
+      "en": "Really"
+    },
+    "comment": {
+      "pt": "como",
+      "en": "how"
+    },
+    "sortir": {
+      "pt": "sair",
+      "en": "to go out"
+    },
+    "là": {
+      "pt": "lá",
+      "en": "there"
+    },
+    "le": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "monde": {
+      "pt": "mundo",
+      "en": "world"
+    },
+    "la": {
+      "pt": "lá",
+      "en": "there"
+    },
+    "gueule": {
+      "pt": "boca",
+      "en": "mouth"
+    },
+    "qu'il": {
+      "pt": "que ele",
+      "en": "that he"
+    },
+    "a": {
+      "pt": "tem",
+      "en": "has"
+    },
+    "c'est": {
+      "pt": "Isso é",
+      "en": "It is"
+    },
+    "lui": {
+      "pt": "ele",
+      "en": "him"
+    },
+    "fait": {
+      "pt": "fazer",
+      "en": "do"
+    },
+    "nous": {
+      "pt": "Nós",
+      "en": "We"
+    },
+    "moi": {
+      "pt": "Meu",
+      "en": "Me"
+    },
+    "bruit": {
+      "pt": "barulho",
+      "en": "noise"
+    },
+    "permanent": {
+      "pt": "permanente",
+      "en": "permanent"
+    },
+    "battu": {
+      "pt": "espancado",
+      "en": "beaten"
+    },
+    "pour": {
+      "pt": "Para",
+      "en": "For"
+    },
+    "moment": {
+      "pt": "momento",
+      "en": "moment"
+    },
+    "je": {
+      "pt": "EU",
+      "en": "I"
+    },
+    "suis": {
+      "pt": "sou",
+      "en": "am"
+    },
+    "tout": {
+      "pt": "Todos",
+      "en": "All"
+    },
+    "juste": {
+      "pt": "apenas",
+      "en": "just"
+    },
+    "capable": {
+      "pt": "capaz",
+      "en": "able"
+    },
+    "voir": {
+      "pt": "ver",
+      "en": "see"
+    },
+    "grand": {
+      "pt": "grande",
+      "en": "big"
+    },
+    "tant": {
+      "pt": "muito",
+      "en": "so much"
+    },
+    "que": {
+      "pt": "que",
+      "en": "that"
+    },
+    "est": {
+      "pt": "Leste",
+      "en": "East"
+    },
+    "portable": {
+      "pt": "portátil",
+      "en": "portable"
+    },
+    "tu": {
+      "pt": "você",
+      "en": "you"
+    },
+    "dis": {
+      "pt": "dizer",
+      "en": "say"
+    },
+    "à": {
+      "pt": "tem",
+      "en": "has"
+    },
+    "quoi": {
+      "pt": "O que",
+      "en": "What"
+    },
+    "sert": {
+      "pt": "serve",
+      "en": "serves"
+    },
+    "t'as": {
+      "pt": "você tem",
+      "en": "you have"
+    },
+    "rien": {
+      "pt": "Nada",
+      "en": "Nothing"
+    },
+    "mieux": {
+      "pt": "melhorar",
+      "en": "better"
+    },
+    "faire": {
+      "pt": "PENDÊNCIA",
+      "en": "TO DO"
+    },
+    "sais-tu": {
+      "pt": "você sabe",
+      "en": "do you know"
+    },
+    "temps": {
+      "pt": "tempo",
+      "en": "time"
+    },
+    "perds": {
+      "pt": "perder",
+      "en": "lose"
+    },
+    "meilleur": {
+      "pt": "melhor",
+      "en": "best"
+    },
+    "caché": {
+      "pt": "escondido",
+      "en": "hidden"
+    },
+    "idées": {
+      "pt": "ideias",
+      "en": "ideas"
+    },
+    "j'en": {
+      "pt": "Eu tenho",
+      "en": "I have"
+    },
+    "ai": {
+      "pt": "ai",
+      "en": "ai"
+    },
+    "mille": {
+      "pt": "mil",
+      "en": "thousand"
+    },
+    "au": {
+      "pt": "No",
+      "en": "At"
+    },
+    "bout": {
+      "pt": "fim",
+      "en": "end"
+    },
+    "mes": {
+      "pt": "meu",
+      "en": "my"
+    },
+    "étincelles": {
+      "pt": "faíscas",
+      "en": "sparks"
+    },
+    "îles": {
+      "pt": "ilhas",
+      "en": "islands"
+    },
+    "ailes": {
+      "pt": "asas",
+      "en": "wings"
+    },
+    "déploie": {
+      "pt": "implantar",
+      "en": "deploy"
+    },
+    "moteur": {
+      "pt": "motor",
+      "en": "engine"
+    },
+    "dans": {
+      "pt": "Em",
+      "en": "In"
+    },
+    "y'a": {
+      "pt": "há",
+      "en": "there is"
+    },
+    "mon": {
+      "pt": "Meu",
+      "en": "My"
+    },
+    "me": {
+      "pt": "meu",
+      "en": "me"
+    },
+    "bats": {
+      "pt": "bater",
+      "en": "beat"
+    },
+    "si": {
+      "pt": "se",
+      "en": "if"
+    },
+    "mobile": {
+      "pt": "móvel",
+      "en": "mobile"
+    },
+    "fragile": {
+      "pt": "frágil",
+      "en": "fragile"
+    }
+  }
+}

@@ -11,17 +11,15 @@ pip install -r requirements.txt
 python main.py
 ```
 
-Isso abre a janela do app. **Importante:** rode com `python main.py`.
-
 ## os dois modos
 
-**ouvir** — a barra lateral lista as músicas que já estão em `musicas/`. Clica numa, dá play, e a linha que está tocando fica destacada. Clicar em qualquer linha da letra pula o áudio pra aquele trecho e mostra a tradução no painel de baixo. Tem um switch pra decidir se quer que a tradução acompanhe sozinha enquanto toca, ou só apareça quando você clicar manualmente.
+**ouvir** — a barra lateral lista as músicas que já estão em `musicas/`. Clica, dá play, e a linha que está tocando fica destacada. Clicar em qualquer linha da letra pula o áudio pra aquele trecho e mostra a tradução no painel de baixo. Tem um switch pra decidir se quer que a tradução acompanhe sozinha enquanto toca, ou só apareça quando você clicar manualmente.
 
 **estudar palavras** — cada palavra da letra vira um botão. Clica, digita o que acha que significa, o app confere (ignora acento e maiúscula/minúscula, então "coração" e "coracao" contam igual). Se a palavra ainda não tem tradução cadastrada pra ela, o que você digitar vira a resposta oficial dali pra frente — assim o vocabulário de cada música vai crescendo com o uso.
 
 ## adicionando música
 
-Jeito mais fácil: cola o link de uma música, álbum ou playlist do Spotify na caixa "baixar música" na barra lateral. Ele baixa o áudio via spotdl, busca a letra sincronizada sozinho (usa a API do lrclib.net) e já traduz tudo na hora. Se não encontrar letra pra alguma faixa, ela nem entra na lista — sem letra sincronizada o app não tem o que mostrar.
+Cola o link de uma música, álbum ou playlist do Spotify na caixa "baixar música" na barra lateral. Ele baixa o áudio via spotdl, busca a letra sincronizada sozinho (usa a API do lrclib.net) e já traduz tudo na hora. Se não encontrar letra pra alguma faixa, ela nem entra na lista — sem letra sincronizada o app não tem o que mostrar.
 
 Pra buscar letra em lote sem passar pelo app, tem uns scripts separados:
 
@@ -32,7 +30,7 @@ Todos aceitam `--sem-traducao` se você preferir preencher pt/en na mão em vez 
 
 ## sobre as traduções
 
-A tradução automática usa o Google Translate por baixo (via `deep-translator`), que não tem API oficial gratuita — então cada palavra e cada linha vira uma requisição separada com uma pausa no meio pra não ser bloqueado. Pra uma música de 3 minutos com umas 100 palavras diferentes, isso demora. Baixando pelo app isso já acontece sozinho; pra traduzir o que ainda ficou pendente em `musicas/` (por exemplo, músicas adicionadas na mão), roda:
+A tradução automática usa o Google Translate (via `deep-translator`), que não tem API oficial gratuita — então cada palavra e cada linha vira uma requisição separada com uma pausa no meio pra não ser bloqueado. Pra uma música de 3 minutos com umas 100 palavras diferentes, isso demora. Baixando pelo app isso já acontece sozinho; pra traduzir o que ainda ficou pendente em `musicas/` (por exemplo, músicas adicionadas na mão), roda:
 
 ```bash
 python traduzir_musicas.py
@@ -88,4 +86,4 @@ Cada `letra.json` tem esse formato:
 
 ## direitos autorais
 
-Letra e tradução vêm de fontes abertas (lrclib.net, tradução própria). O áudio baixado é só pra uso pessoal — não faz parte deste repositório nem deveria ser publicado em lugar nenhum público.
+Letra e tradução vêm de fontes abertas (lrclib.net, tradução própria). O áudio baixado é só pra uso pessoal — não faz parte deste repositório e não pode ser publicado em lugar público. :/

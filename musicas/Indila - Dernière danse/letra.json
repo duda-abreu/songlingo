@@ -1,0 +1,623 @@
+{
+  "titulo": "Dernière danse",
+  "artista": "Indila",
+  "arquivo_audio": "audio.mp3",
+  "linhas": [
+    {
+      "tempo": 16.3,
+      "fr": "Oh, ma douce souffrance",
+      "pt": "Oh, meu doce sofrimento",
+      "en": "Oh, my sweet suffering"
+    },
+    {
+      "tempo": 19.3,
+      "fr": "Pourquoi s'acharner? Tu recommences",
+      "pt": "Por que persistir? Você começa de novo",
+      "en": "Why persist? You start again"
+    },
+    {
+      "tempo": 23.71,
+      "fr": "Je ne suis qu'un être sans importance",
+      "pt": "Eu sou apenas um ser sem importância",
+      "en": "I'm just an unimportant being"
+    },
+    {
+      "tempo": 27.82,
+      "fr": "Sans lui, je suis un peu paro",
+      "pt": "Sem ele, sou um pouco paranóico",
+      "en": "Without him, I'm a little paranoid"
+    },
+    {
+      "tempo": 30.03,
+      "fr": "Je déambule seule dans le métro",
+      "pt": "Eu ando sozinho no metrô",
+      "en": "I walk alone in the metro"
+    },
+    {
+      "tempo": 33.09,
+      "fr": "Une dernière danse",
+      "pt": "Uma última dança",
+      "en": "One last dance"
+    },
+    {
+      "tempo": 36.28,
+      "fr": "Pour oublier ma peine immense",
+      "pt": "Para esquecer minha imensa dor",
+      "en": "To forget my immense pain"
+    },
+    {
+      "tempo": 40.47,
+      "fr": "Je veux m'enfuir, que tout recommence",
+      "pt": "Eu quero fugir, deixar tudo começar de novo",
+      "en": "I want to run away, let it all start again"
+    },
+    {
+      "tempo": 44.45,
+      "fr": "Oh, ma douce souffrance",
+      "pt": "Oh, meu doce sofrimento",
+      "en": "Oh, my sweet suffering"
+    },
+    {
+      "tempo": 50.4,
+      "fr": "Je remue le ciel, le jour, la nuit",
+      "pt": "Eu movo o céu, dia, noite",
+      "en": "I move the sky, day, night"
+    },
+    {
+      "tempo": 55.03,
+      "fr": "Je danse avec le vent, la pluie",
+      "pt": "Eu danço com o vento, a chuva",
+      "en": "I dance with the wind, the rain"
+    },
+    {
+      "tempo": 59.24,
+      "fr": "Un peu d'amour, un brin de miel",
+      "pt": "Um pouco de amor, um pouco de mel",
+      "en": "A little love, a bit of honey"
+    },
+    {
+      "tempo": 62.26,
+      "fr": "Et je danse, danse, danse, danse, danse, danse, danse",
+      "pt": "E eu danço, danço, danço, danço, danço, danço, danço",
+      "en": "And I dance, dance, dance, dance, dance, dance, dance"
+    },
+    {
+      "tempo": 67.59,
+      "fr": "Et dans le bruit, je cours et j'ai peur",
+      "pt": "E no barulho eu corro e tenho medo",
+      "en": "And in the noise I run and I'm afraid"
+    },
+    {
+      "tempo": 71.78,
+      "fr": "Est-ce mon tour? Vient la douleur",
+      "pt": "É a minha vez? Vem a dor",
+      "en": "Is it my turn? Comes the pain"
+    },
+    {
+      "tempo": 75.7,
+      "fr": "Dans tout Paris, je m'abandonne",
+      "pt": "Por toda Paris, eu me abandono",
+      "en": "Throughout Paris, I abandon myself"
+    },
+    {
+      "tempo": 79.09,
+      "fr": "Et je m'envole, vole, vole, vole, vole, vole, vole",
+      "pt": "E eu voo, voo, voo, voo, voo, voo, voo",
+      "en": "And I fly, fly, fly, fly, fly, fly, fly"
+    },
+    {
+      "tempo": 83.16,
+      "fr": "Que d'espérance",
+      "pt": "Que esperança",
+      "en": "What hope"
+    },
+    {
+      "tempo": 86.14,
+      "fr": "Sur ce chemin en ton absence",
+      "pt": "Neste caminho na sua ausência",
+      "en": "On this path in your absence"
+    },
+    {
+      "tempo": 90.59,
+      "fr": "J'ai beau trimer, sans toi, ma vie n'est qu'un décor qui brille",
+      "pt": "Não importa o quanto eu trabalhe, sem você minha vida é apenas um cenário brilhante",
+      "en": "No matter how hard I work, without you, my life is just a shining backdrop"
+    },
+    {
+      "tempo": 95.89,
+      "fr": "Vidée de sens",
+      "pt": "Esvaziado de significado",
+      "en": "Emptied of meaning"
+    },
+    {
+      "tempo": 100.63,
+      "fr": "Je remue le ciel, le jour, la nuit",
+      "pt": "Eu movo o céu, dia, noite",
+      "en": "I move the sky, day, night"
+    },
+    {
+      "tempo": 105.1,
+      "fr": "Je danse avec le vent, la pluie",
+      "pt": "Eu danço com o vento, a chuva",
+      "en": "I dance with the wind, the rain"
+    },
+    {
+      "tempo": 109.16,
+      "fr": "Un peu d'amour, un brin de miel",
+      "pt": "Um pouco de amor, um pouco de mel",
+      "en": "A little love, a bit of honey"
+    },
+    {
+      "tempo": 112.29,
+      "fr": "Et je danse, danse, danse, danse, danse, danse, danse",
+      "pt": "E eu danço, danço, danço, danço, danço, danço, danço",
+      "en": "And I dance, dance, dance, dance, dance, dance, dance"
+    },
+    {
+      "tempo": 117.57,
+      "fr": "Et dans le bruit, je cours et j'ai peur",
+      "pt": "E no barulho eu corro e tenho medo",
+      "en": "And in the noise I run and I'm afraid"
+    },
+    {
+      "tempo": 121.69,
+      "fr": "Est-ce mon tour? Vient la douleur",
+      "pt": "É a minha vez? Vem a dor",
+      "en": "Is it my turn? Comes the pain"
+    },
+    {
+      "tempo": 125.64,
+      "fr": "Dans tout Paris, je m'abandonne",
+      "pt": "Por toda Paris, eu me abandono",
+      "en": "Throughout Paris, I abandon myself"
+    },
+    {
+      "tempo": 129.0,
+      "fr": "Et je m'envole, vole, vole, vole, vole, vole, vole",
+      "pt": "E eu voo, voo, voo, voo, voo, voo, voo",
+      "en": "And I fly, fly, fly, fly, fly, fly, fly"
+    },
+    {
+      "tempo": 149.11,
+      "fr": "Dans cette douce souffrance",
+      "pt": "Neste doce sofrimento",
+      "en": "In this sweet suffering"
+    },
+    {
+      "tempo": 152.99,
+      "fr": "Dont j'ai payé toutes les offenses",
+      "pt": "Cujas ofensas eu paguei",
+      "en": "Whose offenses I paid for"
+    },
+    {
+      "tempo": 157.12,
+      "fr": "Écoute comme mon cœur est immense",
+      "pt": "Ouça quão grande é meu coração",
+      "en": "Listen to how huge my heart is"
+    },
+    {
+      "tempo": 161.32,
+      "fr": "Je suis une enfant du monde",
+      "pt": "Eu sou um filho do mundo",
+      "en": "I am a child of the world"
+    },
+    {
+      "tempo": 167.1,
+      "fr": "Je remue le ciel, le jour, la nuit",
+      "pt": "Eu movo o céu, dia, noite",
+      "en": "I move the sky, day, night"
+    },
+    {
+      "tempo": 171.83,
+      "fr": "Je danse avec le vent, la pluie",
+      "pt": "Eu danço com o vento, a chuva",
+      "en": "I dance with the wind, the rain"
+    },
+    {
+      "tempo": 175.85,
+      "fr": "Un peu d'amour, un brin de miel",
+      "pt": "Um pouco de amor, um pouco de mel",
+      "en": "A little love, a bit of honey"
+    },
+    {
+      "tempo": 179.2,
+      "fr": "Et je danse, danse, danse, danse, danse, danse, danse",
+      "pt": "E eu danço, danço, danço, danço, danço, danço, danço",
+      "en": "And I dance, dance, dance, dance, dance, dance, dance"
+    },
+    {
+      "tempo": 184.32,
+      "fr": "Et dans le bruit, je cours et j'ai peur",
+      "pt": "E no barulho eu corro e tenho medo",
+      "en": "And in the noise I run and I'm afraid"
+    },
+    {
+      "tempo": 188.52,
+      "fr": "Est-ce mon tour? Vient la douleur",
+      "pt": "É a minha vez? Vem a dor",
+      "en": "Is it my turn? Comes the pain"
+    },
+    {
+      "tempo": 192.65,
+      "fr": "Dans tout Paris, je m'abandonne",
+      "pt": "Por toda Paris, eu me abandono",
+      "en": "Throughout Paris, I abandon myself"
+    },
+    {
+      "tempo": 195.92,
+      "fr": "Et je m'envole, vole, vole, vole, vole, vole, vole",
+      "pt": "E eu voo, voo, voo, voo, voo, voo, voo",
+      "en": "And I fly, fly, fly, fly, fly, fly, fly"
+    }
+  ],
+  "vocabulario": {
+    "oh": {
+      "pt": "Oh",
+      "en": "Oh"
+    },
+    "ma": {
+      "pt": "meu",
+      "en": "my"
+    },
+    "douce": {
+      "pt": "gentil",
+      "en": "gentle"
+    },
+    "souffrance": {
+      "pt": "Sofrimento",
+      "en": "suffering"
+    },
+    "pourquoi": {
+      "pt": "Por que",
+      "en": "Why"
+    },
+    "s'acharner": {
+      "pt": "persistir",
+      "en": "to persist"
+    },
+    "tu": {
+      "pt": "você",
+      "en": "you"
+    },
+    "recommences": {
+      "pt": "começar de novo",
+      "en": "start again"
+    },
+    "je": {
+      "pt": "EU",
+      "en": "I"
+    },
+    "ne": {
+      "pt": "nascer",
+      "en": "born"
+    },
+    "suis": {
+      "pt": "sou",
+      "en": "am"
+    },
+    "qu'un": {
+      "pt": "Aquele",
+      "en": "that one"
+    },
+    "être": {
+      "pt": "ser",
+      "en": "be"
+    },
+    "sans": {
+      "pt": "sem",
+      "en": "without"
+    },
+    "importance": {
+      "pt": "importância",
+      "en": "importance"
+    },
+    "lui": {
+      "pt": "ele",
+      "en": "him"
+    },
+    "un": {
+      "pt": "UM",
+      "en": "A"
+    },
+    "peu": {
+      "pt": "pequeno",
+      "en": "little"
+    },
+    "paro": {
+      "pt": "par",
+      "en": "paro"
+    },
+    "déambule": {
+      "pt": "vagueia",
+      "en": "wanders"
+    },
+    "seule": {
+      "pt": "sozinho",
+      "en": "alone"
+    },
+    "dans": {
+      "pt": "Em",
+      "en": "In"
+    },
+    "le": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "métro": {
+      "pt": "metrô",
+      "en": "metro"
+    },
+    "une": {
+      "pt": "um",
+      "en": "a"
+    },
+    "dernière": {
+      "pt": "durar",
+      "en": "last"
+    },
+    "danse": {
+      "pt": "dança",
+      "en": "dance"
+    },
+    "pour": {
+      "pt": "Para",
+      "en": "For"
+    },
+    "oublier": {
+      "pt": "esquecer",
+      "en": "forget"
+    },
+    "peine": {
+      "pt": "pena",
+      "en": "penalty"
+    },
+    "immense": {
+      "pt": "imenso",
+      "en": "immense"
+    },
+    "veux": {
+      "pt": "querer",
+      "en": "want"
+    },
+    "m'enfuir": {
+      "pt": "fugir",
+      "en": "run away"
+    },
+    "que": {
+      "pt": "que",
+      "en": "that"
+    },
+    "tout": {
+      "pt": "Todos",
+      "en": "All"
+    },
+    "recommence": {
+      "pt": "começar de novo",
+      "en": "start again"
+    },
+    "remue": {
+      "pt": "mexido",
+      "en": "stirred"
+    },
+    "ciel": {
+      "pt": "céu",
+      "en": "sky"
+    },
+    "jour": {
+      "pt": "dia",
+      "en": "day"
+    },
+    "la": {
+      "pt": "lá",
+      "en": "there"
+    },
+    "nuit": {
+      "pt": "noite",
+      "en": "night"
+    },
+    "avec": {
+      "pt": "com",
+      "en": "with"
+    },
+    "vent": {
+      "pt": "vento",
+      "en": "wind"
+    },
+    "pluie": {
+      "pt": "chuva",
+      "en": "rain"
+    },
+    "d'amour": {
+      "pt": "de amor",
+      "en": "of love"
+    },
+    "brin": {
+      "pt": "fio",
+      "en": "strand"
+    },
+    "de": {
+      "pt": "de",
+      "en": "of"
+    },
+    "miel": {
+      "pt": "Mel",
+      "en": "Honey"
+    },
+    "et": {
+      "pt": "E",
+      "en": "And"
+    },
+    "bruit": {
+      "pt": "barulho",
+      "en": "noise"
+    },
+    "cours": {
+      "pt": "curso",
+      "en": "course"
+    },
+    "j'ai": {
+      "pt": "Eu tenho",
+      "en": "I have"
+    },
+    "peur": {
+      "pt": "temer",
+      "en": "fear"
+    },
+    "est-ce": {
+      "pt": "é isto",
+      "en": "is this"
+    },
+    "mon": {
+      "pt": "Meu",
+      "en": "My"
+    },
+    "tour": {
+      "pt": "redondo",
+      "en": "round"
+    },
+    "vient": {
+      "pt": "vir",
+      "en": "come"
+    },
+    "douleur": {
+      "pt": "dor",
+      "en": "pain"
+    },
+    "paris": {
+      "pt": "Paris",
+      "en": "Paris"
+    },
+    "m'abandonne": {
+      "pt": "me abandone",
+      "en": "abandon me"
+    },
+    "m'envole": {
+      "pt": "voar para longe",
+      "en": "fly away"
+    },
+    "vole": {
+      "pt": "roubado",
+      "en": "stolen"
+    },
+    "d'espérance": {
+      "pt": "de esperança",
+      "en": "of hope"
+    },
+    "sur": {
+      "pt": "sobre",
+      "en": "on"
+    },
+    "ce": {
+      "pt": "Esse",
+      "en": "This"
+    },
+    "chemin": {
+      "pt": "caminho",
+      "en": "path"
+    },
+    "en": {
+      "pt": "em",
+      "en": "in"
+    },
+    "ton": {
+      "pt": "seu",
+      "en": "your"
+    },
+    "absence": {
+      "pt": "ausência",
+      "en": "absence"
+    },
+    "beau": {
+      "pt": "lindo",
+      "en": "beautiful"
+    },
+    "trimer": {
+      "pt": "labuta",
+      "en": "toil"
+    },
+    "toi": {
+      "pt": "Você",
+      "en": "You"
+    },
+    "vie": {
+      "pt": "vida",
+      "en": "life"
+    },
+    "n'est": {
+      "pt": "não é",
+      "en": "is not"
+    },
+    "décor": {
+      "pt": "decoração",
+      "en": "decor"
+    },
+    "qui": {
+      "pt": "Quem",
+      "en": "Who"
+    },
+    "brille": {
+      "pt": "brilha",
+      "en": "shines"
+    },
+    "vidée": {
+      "pt": "esvaziado",
+      "en": "emptied"
+    },
+    "sens": {
+      "pt": "senso",
+      "en": "sense"
+    },
+    "cette": {
+      "pt": "esse",
+      "en": "this"
+    },
+    "dont": {
+      "pt": "dos quais",
+      "en": "of which"
+    },
+    "payé": {
+      "pt": "pago",
+      "en": "paid"
+    },
+    "toutes": {
+      "pt": "todos",
+      "en": "all"
+    },
+    "les": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "offenses": {
+      "pt": "ofensas",
+      "en": "offenses"
+    },
+    "écoute": {
+      "pt": "ouvir",
+      "en": "listen"
+    },
+    "comme": {
+      "pt": "como",
+      "en": "as"
+    },
+    "cœur": {
+      "pt": "coração",
+      "en": "heart"
+    },
+    "est": {
+      "pt": "Leste",
+      "en": "East"
+    },
+    "enfant": {
+      "pt": "criança",
+      "en": "child"
+    },
+    "du": {
+      "pt": "de",
+      "en": "of"
+    },
+    "monde": {
+      "pt": "mundo",
+      "en": "world"
+    }
+  }
+}

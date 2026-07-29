@@ -1,0 +1,551 @@
+{
+  "titulo": "Le Festin",
+  "artista": "Camille",
+  "arquivo_audio": "audio.mp3",
+  "linhas": [
+    {
+      "tempo": 22.44,
+      "fr": "Les rêves des amoureux sont comme le bon vin",
+      "pt": "Os sonhos dos amantes são como um bom vinho",
+      "en": "Lovers' dreams are like good wine"
+    },
+    {
+      "tempo": 27.88,
+      "fr": "Ils donnent de la joie ou bien du chagrin",
+      "pt": "Eles dão alegria ou tristeza",
+      "en": "They give joy or sorrow"
+    },
+    {
+      "tempo": 32.92,
+      "fr": "Affaibli par la faim, je suis malheureux",
+      "pt": "Enfraquecido pela fome, estou infeliz",
+      "en": "Weakened by hunger, I am unhappy"
+    },
+    {
+      "tempo": 38.65,
+      "fr": "Volant en chemin tout ce que je peux",
+      "pt": "Roubando pelo caminho tudo que posso",
+      "en": "Stealing along the way everything I can"
+    },
+    {
+      "tempo": 43.86,
+      "fr": "Car rien n'est gratuit dans la vie",
+      "pt": "Porque nada é de graça na vida",
+      "en": "Because nothing is free in life"
+    },
+    {
+      "tempo": 51.91,
+      "fr": "L'espoir est un plat bien trop vite consommé",
+      "pt": "A esperança é um prato consumido muito rapidamente",
+      "en": "Hope is a dish consumed too quickly"
+    },
+    {
+      "tempo": 57.35,
+      "fr": "À sauter les repas je suis habitué",
+      "pt": "Estou acostumado a pular refeições",
+      "en": "I'm used to skipping meals"
+    },
+    {
+      "tempo": 62.65,
+      "fr": "Un voleur solitaire est triste à nourrir",
+      "pt": "Um ladrão solitário fica triste em alimentar",
+      "en": "A lonely thief is sad to feed"
+    },
+    {
+      "tempo": 68.13,
+      "fr": "Ah, jeux si amer, je ne peux réussir",
+      "pt": "Ah, jogos tão amargos, não consigo ter sucesso",
+      "en": "Ah, games so bitter, I cannot succeed"
+    },
+    {
+      "tempo": 73.38,
+      "fr": "Car rien n'est gratuit dans la vie",
+      "pt": "Porque nada é de graça na vida",
+      "en": "Because nothing is free in life"
+    },
+    {
+      "tempo": 78.14,
+      "fr": "Jamais on ne me dira",
+      "pt": "Ninguém nunca vai me dizer",
+      "en": "No one will ever tell me"
+    },
+    {
+      "tempo": 82.19,
+      "fr": "Que la course aux étoiles",
+      "pt": "Que a corrida pelas estrelas",
+      "en": "That the race for the stars"
+    },
+    {
+      "tempo": 84.92,
+      "fr": "Ça n'est pas pour moi",
+      "pt": "Não é para mim",
+      "en": "It's not for me"
+    },
+    {
+      "tempo": 87.54,
+      "fr": "Laissez-moi vous émerveiller et prendre mon envol",
+      "pt": "Deixe-me surpreender você e voar",
+      "en": "Let me amaze you and take flight"
+    },
+    {
+      "tempo": 92.38,
+      "fr": "Nous allons enfin nous régaler",
+      "pt": "Finalmente vamos nos divertir",
+      "en": "We are finally going to enjoy ourselves"
+    },
+    {
+      "tempo": 112.35,
+      "fr": "La fête va enfin commencer",
+      "pt": "A festa finalmente começará",
+      "en": "The party will finally begin"
+    },
+    {
+      "tempo": 118.83,
+      "fr": "Sortez les bouteilles, fini les ennuis",
+      "pt": "Retire as garrafas, sem mais problemas",
+      "en": "Take out the bottles, no more trouble"
+    },
+    {
+      "tempo": 123.73,
+      "fr": "Je dresse le table de ma nouvelle vie",
+      "pt": "Eu arrumei a mesa para minha nova vida",
+      "en": "I set the table for my new life"
+    },
+    {
+      "tempo": 128.88,
+      "fr": "Je suis heureux à l'idée de ce nouveau destin",
+      "pt": "Estou feliz com a ideia desse novo destino",
+      "en": "I am happy at the idea of ​​this new destiny"
+    },
+    {
+      "tempo": 134.35,
+      "fr": "Une vie à me cacher et puis libre enfin",
+      "pt": "Uma vida escondida e finalmente livre",
+      "en": "A life of hiding and then free at last"
+    },
+    {
+      "tempo": 139.35,
+      "fr": "Le festin est sur mon chemin",
+      "pt": "A festa está a caminho",
+      "en": "The feast is on my way"
+    },
+    {
+      "tempo": 148.37,
+      "fr": "Une vie à me cacher et puis libre enfin",
+      "pt": "Uma vida escondida e finalmente livre",
+      "en": "A life of hiding and then free at last"
+    },
+    {
+      "tempo": 153.42,
+      "fr": "Le festin est sur mon chemin",
+      "pt": "A festa está a caminho",
+      "en": "The feast is on my way"
+    }
+  ],
+  "vocabulario": {
+    "les": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "rêves": {
+      "pt": "sonhos",
+      "en": "dreams"
+    },
+    "des": {
+      "pt": "do",
+      "en": "of the"
+    },
+    "amoureux": {
+      "pt": "amante",
+      "en": "lover"
+    },
+    "sont": {
+      "pt": "são",
+      "en": "are"
+    },
+    "comme": {
+      "pt": "como",
+      "en": "as"
+    },
+    "le": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "bon": {
+      "pt": "Bom",
+      "en": "Good"
+    },
+    "vin": {
+      "pt": "vinho",
+      "en": "wine"
+    },
+    "ils": {
+      "pt": "eles",
+      "en": "they"
+    },
+    "donnent": {
+      "pt": "dar",
+      "en": "give"
+    },
+    "de": {
+      "pt": "de",
+      "en": "of"
+    },
+    "la": {
+      "pt": "lá",
+      "en": "there"
+    },
+    "joie": {
+      "pt": "alegria",
+      "en": "joy"
+    },
+    "ou": {
+      "pt": "Ou",
+      "en": "Or"
+    },
+    "bien": {
+      "pt": "BOM",
+      "en": "GOOD"
+    },
+    "du": {
+      "pt": "de",
+      "en": "of"
+    },
+    "chagrin": {
+      "pt": "pesar",
+      "en": "grief"
+    },
+    "affaibli": {
+      "pt": "enfraquecido",
+      "en": "weakened"
+    },
+    "par": {
+      "pt": "por",
+      "en": "by"
+    },
+    "faim": {
+      "pt": "fome",
+      "en": "hunger"
+    },
+    "je": {
+      "pt": "EU",
+      "en": "I"
+    },
+    "suis": {
+      "pt": "sou",
+      "en": "am"
+    },
+    "malheureux": {
+      "pt": "infeliz",
+      "en": "unfortunate"
+    },
+    "volant": {
+      "pt": "vôo",
+      "en": "flying"
+    },
+    "en": {
+      "pt": "em",
+      "en": "in"
+    },
+    "chemin": {
+      "pt": "caminho",
+      "en": "path"
+    },
+    "tout": {
+      "pt": "Todos",
+      "en": "All"
+    },
+    "ce": {
+      "pt": "Esse",
+      "en": "This"
+    },
+    "que": {
+      "pt": "que",
+      "en": "that"
+    },
+    "peux": {
+      "pt": "pode",
+      "en": "can"
+    },
+    "car": {
+      "pt": "porque",
+      "en": "because"
+    },
+    "rien": {
+      "pt": "Nada",
+      "en": "Nothing"
+    },
+    "n'est": {
+      "pt": "não é",
+      "en": "is not"
+    },
+    "gratuit": {
+      "pt": "livre",
+      "en": "free"
+    },
+    "dans": {
+      "pt": "Em",
+      "en": "In"
+    },
+    "vie": {
+      "pt": "vida",
+      "en": "life"
+    },
+    "l'espoir": {
+      "pt": "ter esperança",
+      "en": "hope"
+    },
+    "est": {
+      "pt": "Leste",
+      "en": "East"
+    },
+    "un": {
+      "pt": "UM",
+      "en": "A"
+    },
+    "plat": {
+      "pt": "plano",
+      "en": "flat"
+    },
+    "trop": {
+      "pt": "demais",
+      "en": "too much"
+    },
+    "vite": {
+      "pt": "rapidamente",
+      "en": "quickly"
+    },
+    "consommé": {
+      "pt": "consome",
+      "en": "consumes"
+    },
+    "à": {
+      "pt": "tem",
+      "en": "has"
+    },
+    "sauter": {
+      "pt": "pular",
+      "en": "jump"
+    },
+    "repas": {
+      "pt": "refeição",
+      "en": "meal"
+    },
+    "habitué": {
+      "pt": "acostumado",
+      "en": "accustomed"
+    },
+    "voleur": {
+      "pt": "ladrão",
+      "en": "thief"
+    },
+    "solitaire": {
+      "pt": "sozinho",
+      "en": "lonely"
+    },
+    "triste": {
+      "pt": "triste",
+      "en": "sad"
+    },
+    "nourrir": {
+      "pt": "alimentar",
+      "en": "to feed"
+    },
+    "ah": {
+      "pt": "oh",
+      "en": "oh"
+    },
+    "jeux": {
+      "pt": "jogos",
+      "en": "games"
+    },
+    "si": {
+      "pt": "se",
+      "en": "if"
+    },
+    "amer": {
+      "pt": "amargo",
+      "en": "bitter"
+    },
+    "ne": {
+      "pt": "nascer",
+      "en": "born"
+    },
+    "réussir": {
+      "pt": "ter sucesso",
+      "en": "succeed"
+    },
+    "jamais": {
+      "pt": "Nunca",
+      "en": "Never"
+    },
+    "on": {
+      "pt": "nós",
+      "en": "we"
+    },
+    "me": {
+      "pt": "meu",
+      "en": "me"
+    },
+    "dira": {
+      "pt": "dirá",
+      "en": "will say"
+    },
+    "course": {
+      "pt": "corrida",
+      "en": "race"
+    },
+    "aux": {
+      "pt": "para",
+      "en": "to"
+    },
+    "étoiles": {
+      "pt": "estrelas",
+      "en": "stars"
+    },
+    "ça": {
+      "pt": "Que",
+      "en": "That"
+    },
+    "pas": {
+      "pt": "não",
+      "en": "not"
+    },
+    "pour": {
+      "pt": "Para",
+      "en": "For"
+    },
+    "moi": {
+      "pt": "Meu",
+      "en": "Me"
+    },
+    "laissez-moi": {
+      "pt": "deixe-me",
+      "en": "leave me"
+    },
+    "vous": {
+      "pt": "VOCÊ",
+      "en": "YOU"
+    },
+    "émerveiller": {
+      "pt": "surpreender",
+      "en": "amaze"
+    },
+    "et": {
+      "pt": "E",
+      "en": "And"
+    },
+    "prendre": {
+      "pt": "pegar",
+      "en": "take"
+    },
+    "mon": {
+      "pt": "Meu",
+      "en": "My"
+    },
+    "envol": {
+      "pt": "voo",
+      "en": "flight"
+    },
+    "nous": {
+      "pt": "Nós",
+      "en": "We"
+    },
+    "allons": {
+      "pt": "vamos",
+      "en": "let's go"
+    },
+    "enfin": {
+      "pt": "Finalmente",
+      "en": "Finally"
+    },
+    "régaler": {
+      "pt": "tratar",
+      "en": "treat"
+    },
+    "fête": {
+      "pt": "festa",
+      "en": "party"
+    },
+    "va": {
+      "pt": "ir",
+      "en": "go"
+    },
+    "commencer": {
+      "pt": "para começar",
+      "en": "to start"
+    },
+    "sortez": {
+      "pt": "sair",
+      "en": "go out"
+    },
+    "bouteilles": {
+      "pt": "garrafas",
+      "en": "bottles"
+    },
+    "fini": {
+      "pt": "finalizado",
+      "en": "finished"
+    },
+    "ennuis": {
+      "pt": "dificuldade",
+      "en": "trouble"
+    },
+    "dresse": {
+      "pt": "vestir",
+      "en": "dress"
+    },
+    "table": {
+      "pt": "mesa",
+      "en": "table"
+    },
+    "ma": {
+      "pt": "meu",
+      "en": "my"
+    },
+    "nouvelle": {
+      "pt": "novo",
+      "en": "new"
+    },
+    "heureux": {
+      "pt": "feliz",
+      "en": "happy"
+    },
+    "l'idée": {
+      "pt": "a ideia",
+      "en": "the idea"
+    },
+    "nouveau": {
+      "pt": "novo",
+      "en": "new"
+    },
+    "destin": {
+      "pt": "destino",
+      "en": "fate"
+    },
+    "une": {
+      "pt": "um",
+      "en": "a"
+    },
+    "cacher": {
+      "pt": "esconder",
+      "en": "hide"
+    },
+    "puis": {
+      "pt": "Então",
+      "en": "Then"
+    },
+    "libre": {
+      "pt": "livre",
+      "en": "free"
+    },
+    "festin": {
+      "pt": "celebração",
+      "en": "feast"
+    },
+    "sur": {
+      "pt": "sobre",
+      "en": "on"
+    }
+  }
+}
