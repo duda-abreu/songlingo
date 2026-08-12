@@ -1,565 +1,761 @@
 {
   "titulo": "des fleurs x stromae",
-  "artista": "Tove Lo",
+  "artista": "Tove Lo & Stromae",
   "arquivo_audio": "audio.mp3",
   "linhas": [
     {
-      "tempo": 0.2,
-      "fr": "I'm your girl, right?",
-      "pt": "Eu sou sua garota, certo?",
-      "en": "I'm your girl, right?"
+      "tempo": 7.2,
+      "fr": "Love the way you flirt",
+      "pt": "Adoro o jeito que você flerta",
+      "en": "Love the way you flirt"
     },
     {
-      "tempo": 2.83,
-      "fr": "Love me hard, it's not my first time",
-      "pt": "Me ame muito, não é minha primeira vez",
-      "en": "Love me hard, it's not my first time"
+      "tempo": 10.76,
+      "fr": "It's so obvious, but you're so cold",
+      "pt": "É tão óbvio, mas você está com tanto frio",
+      "en": "It's so obvious, but you're so cold"
     },
     {
-      "tempo": 7.47,
-      "fr": "I'm your girl, right?",
-      "pt": "Eu sou sua garota, certo?",
-      "en": "I'm your girl, right?"
+      "tempo": 14.6,
+      "fr": "Ah, make it hurt",
+      "pt": "Ah, faça doer",
+      "en": "Ah, make it hurt"
     },
     {
-      "tempo": 9.86,
-      "fr": "Heart still aches, you wanna hurt mine",
-      "pt": "O coração ainda dói, você quer machucar o meu",
-      "en": "Heart still aches, you wanna hurt mine"
+      "tempo": 17.98,
+      "fr": "Like nothing's better than your strong arms",
+      "pt": "Como se nada fosse melhor do que seus braços fortes",
+      "en": "Like nothing's better than your strong arms"
     },
     {
-      "tempo": 16.16,
-      "fr": "I like your teeth",
-      "pt": "Eu gosto dos seus dentes",
-      "en": "I like your teeth"
+      "tempo": 21.79,
+      "fr": "What-what, what you got?",
+      "pt": "O que, o que você tem?",
+      "en": "What-what, what you got?"
     },
     {
-      "tempo": 19.61,
-      "fr": "Could watch you eat for days",
-      "pt": "Poderia ver você comer por dias",
-      "en": "Could watch you eat for days"
+      "tempo": 23.54,
+      "fr": "What-what, what you got?",
+      "pt": "O que, o que você tem?",
+      "en": "What-what, what you got?"
     },
     {
-      "tempo": 23.24,
-      "fr": "A fancy steak",
-      "pt": "Um bife chique",
-      "en": "A fancy steak"
+      "tempo": 25.31,
+      "fr": "What-what, what you got?",
+      "pt": "O que, o que você tem?",
+      "en": "What-what, what you got?"
     },
     {
-      "tempo": 26.32,
-      "fr": "I'll pay",
-      "pt": "eu vou pagar",
-      "en": "I'll pay"
+      "tempo": 27.22,
+      "fr": "What-what, what you got?",
+      "pt": "O que, o que você tem?",
+      "en": "What-what, what you got?"
     },
     {
-      "tempo": 30.27,
-      "fr": "Is that perfume",
-      "pt": "Isso é perfume",
-      "en": "Is that perfume"
+      "tempo": 28.8,
+      "fr": "Don't-don't give me up",
+      "pt": "Não-não desista de mim",
+      "en": "Don't-don't give me up"
     },
     {
-      "tempo": 33.71,
-      "fr": "Or is it you I taste?",
-      "pt": "Ou é você que eu gosto?",
-      "en": "Or is it you I taste?"
+      "tempo": 30.62,
+      "fr": "Don't-don't give me up",
+      "pt": "Não-não desista de mim",
+      "en": "Don't-don't give me up"
     },
     {
-      "tempo": 37.65,
-      "fr": "Bite the skin",
-      "pt": "Morda a pele",
-      "en": "Bite the skin"
+      "tempo": 32.62,
+      "fr": "Don't-don't give me up",
+      "pt": "Não-não desista de mim",
+      "en": "Don't-don't give me up"
     },
     {
-      "tempo": 41.38,
-      "fr": "Thin",
-      "pt": "Afinar",
-      "en": "Thin"
+      "tempo": 34.2,
+      "fr": "Don't-don't give me up",
+      "pt": "Não-não desista de mim",
+      "en": "Don't-don't give me up"
     },
     {
-      "tempo": 43.93,
-      "fr": "Tell me what I wanna hear now",
-      "pt": "Diga-me o que eu quero ouvir agora",
-      "en": "Tell me what I want to hear now"
+      "tempo": 35.73,
+      "fr": "(Ah) bring me flowers",
+      "pt": "(Ah) me traga flores",
+      "en": "(Ah) bring me flowers"
     },
     {
-      "tempo": 46.99,
-      "fr": "Don't make me doubt",
-      "pt": "Não me faça duvidar",
-      "en": "Don't make me doubt"
+      "tempo": 39.46,
+      "fr": "(Ah) bring your sweat to my bed tonight",
+      "pt": "(Ah) traga seu suor para minha cama esta noite",
+      "en": "(Ah) bring your sweat to my bed tonight"
     },
     {
-      "tempo": 50.95,
-      "fr": "Promise me you'll never leave me",
-      "pt": "Prometa-me que você nunca vai me deixar",
-      "en": "Promise me you'll never leave me"
+      "tempo": 44.01,
+      "fr": "Last for hours",
+      "pt": "Durar por horas",
+      "en": "Last for hours"
     },
     {
-      "tempo": 54.16,
-      "fr": "Don't let me down",
-      "pt": "Não me decepcione",
-      "en": "Don't let me down"
+      "tempo": 46.62,
+      "fr": "(Ah) bring your sweat to my bed toni-",
+      "pt": "(Ah) traga seu suor para minha cama esta noite-",
+      "en": "(Ah) bring your sweat to my bed toni-"
     },
     {
-      "tempo": 57.21,
-      "fr": "I'm your girl, right?",
-      "pt": "Eu sou sua garota, certo?",
-      "en": "I'm your girl, right?"
+      "tempo": 53.03,
+      "fr": "Ah, ah",
+      "pt": "Ha, ha",
+      "en": "Ha, ha"
     },
     {
-      "tempo": 59.68,
-      "fr": "Love me hard, it's not my first time",
-      "pt": "Me ame muito, não é minha primeira vez",
-      "en": "Love me hard, it's not my first time"
+      "tempo": 55.86,
+      "fr": "Ah, ah",
+      "pt": "Ha, ha",
+      "en": "Ha, ha"
     },
     {
-      "tempo": 64.37,
-      "fr": "I'm your girl, right?",
-      "pt": "Eu sou sua garota, certo?",
-      "en": "I'm your girl, right?"
+      "tempo": 60.12,
+      "fr": "Ah, ah",
+      "pt": "Ha, ha",
+      "en": "Ha, ha"
     },
     {
-      "tempo": 66.79,
-      "fr": "Heart still aches, you wanna hurt mine",
-      "pt": "O coração ainda dói, você quer machucar o meu",
-      "en": "Heart still aches, you wanna hurt mine"
+      "tempo": 63.17,
+      "fr": "Des fleurs, des fleurs, des fleurs, des fleurs toujours des fleurs, évidemment",
+      "pt": "Flores, flores, flores, flores sempre flores, obviamente",
+      "en": "Flowers, flowers, flowers, flowers always flowers, obviously"
     },
     {
-      "tempo": 72.21,
-      "fr": "Tell me what I wanna hear now",
-      "pt": "Diga-me o que eu quero ouvir agora",
-      "en": "Tell me what I want to hear now"
+      "tempo": 66.81,
+      "fr": "J'veux pas m'jeter des fleurs, mais j'suis pas le pire des amants",
+      "pt": "Não quero jogar flores em mim, mas não sou o pior dos amantes",
+      "en": "I don't want to throw flowers at myself, but I'm not the worst of lovers"
     },
     {
-      "tempo": 75.4,
-      "fr": "Don't make me doubt",
-      "pt": "Não me faça duvidar",
-      "en": "Don't make me doubt"
+      "tempo": 70.5,
+      "fr": "D'ailleurs, si j't'en fais une, non, c'est pas qu'j'ai des sentiments",
+      "pt": "Além disso, se eu fizer um para você, não, não é que eu tenha sentimentos",
+      "en": "Besides, if I make you one, no, it's not that I have feelings"
     },
     {
-      "tempo": 78.52,
-      "fr": "I'm your girl, right?",
-      "pt": "Eu sou sua garota, certo?",
-      "en": "I'm your girl, right?"
+      "tempo": 74.26,
+      "fr": "C'est juste que j'aime ta fleur, j'voudrais qu'on passe un bon moment (un bon moment)",
+      "pt": "É que eu amo sua flor, quero que nos divirtamos (divirta-se)",
+      "en": "It's just that I love your flower, I want us to have a good time (a good time)"
     },
     {
-      "tempo": 81.0,
-      "fr": "Love me hard, it's not my first time",
-      "pt": "Me ame muito, não é minha primeira vez",
-      "en": "Love me hard, it's not my first time"
+      "tempo": 78.19,
+      "fr": "C'est juste qu'on y met les formes un peu tout l'temps",
+      "pt": "É só que colocamos um pouco de formulário nele o tempo todo",
+      "en": "It's just that we put the forms into it a little all the time"
     },
     {
-      "tempo": 87.26,
-      "fr": "Come break me in",
-      "pt": "Venha me quebrar",
-      "en": "Come break me in"
+      "tempo": 81.39,
+      "fr": "Du coup, ben tu le sais que j'aime tes formes, évidemment",
+      "pt": "Então, bem, você sabe que eu gosto das suas formas, obviamente",
+      "en": "So, well you know that I like your shapes, obviously"
     },
     {
-      "tempo": 90.62,
-      "fr": "All horses win for you",
-      "pt": "Todos os cavalos ganham para você",
-      "en": "All horses win for you"
+      "tempo": 85.06,
+      "fr": "Mais oui ce que j'aime, c'est qu'elles sont hors-normes, tout bonnement",
+      "pt": "Mas sim, o que eu gosto é que eles são fora do comum, simplesmente.",
+      "en": "But yes, what I like is that they are out of the ordinary, quite simply."
     },
     {
-      "tempo": 94.13,
-      "fr": "We fuck all night",
-      "pt": "Nós transamos a noite toda",
-      "en": "We fuck all night"
+      "tempo": 88.35,
+      "fr": "Ça vole pas très haut, mais je n'suis qu'un homme, évidemment (évidemment)",
+      "pt": "Não voa muito alto, mas sou apenas um homem, obviamente (obviamente)",
+      "en": "It doesn't fly very high, but I'm only a man, obviously (obviously)"
     },
     {
-      "tempo": 97.05,
-      "fr": "On Ritalin, 'Lin, 'Lin, 'Lin",
-      "pt": "Na Ritalina, 'Lin, 'Lin, 'Lin",
-      "en": "On Ritalin, 'Lin, 'Lin, 'Lin"
+      "tempo": 92.95,
+      "fr": "(Ah) bring me flowers",
+      "pt": "(Ah) me traga flores",
+      "en": "(Ah) bring me flowers"
     },
     {
-      "tempo": 100.5,
-      "fr": "Tell me what I wanna hear now",
-      "pt": "Diga-me o que eu quero ouvir agora",
-      "en": "Tell me what I want to hear now"
+      "tempo": 96.64,
+      "fr": "(Ah) bring your sweat to my bed tonight",
+      "pt": "(Ah) traga seu suor para minha cama esta noite",
+      "en": "(Ah) bring your sweat to my bed tonight"
     },
     {
-      "tempo": 103.81,
-      "fr": "Don't make me doubt",
-      "pt": "Não me faça duvidar",
-      "en": "Don't make me doubt"
+      "tempo": 101.65,
+      "fr": "Last for hours",
+      "pt": "Durar por horas",
+      "en": "Last for hours"
     },
     {
-      "tempo": 107.84,
-      "fr": "Promise me you'll never leave me",
-      "pt": "Prometa-me que você nunca vai me deixar",
-      "en": "Promise me you'll never leave me"
+      "tempo": 103.89,
+      "fr": "(Ah) bring your sweat to my bed toni-",
+      "pt": "(Ah) traga seu suor para minha cama esta noite-",
+      "en": "(Ah) bring your sweat to my bed toni-"
     },
     {
-      "tempo": 110.9,
-      "fr": "Don't let me down",
-      "pt": "Não me decepcione",
-      "en": "Don't let me down"
+      "tempo": 110.35,
+      "fr": "Ah, ah",
+      "pt": "Ha, ha",
+      "en": "Ha, ha"
     },
     {
-      "tempo": 113.14,
-      "fr": "Down, down, down, down",
-      "pt": "Baixo, baixo, baixo, baixo",
-      "en": "Down, down, down, down"
+      "tempo": 113.61,
+      "fr": "Ah, ah",
+      "pt": "Ha, ha",
+      "en": "Ha, ha"
     },
     {
-      "tempo": 116.72,
-      "fr": "Down, down, down, down",
-      "pt": "Baixo, baixo, baixo, baixo",
-      "en": "Down, down, down, down"
+      "tempo": 117.18,
+      "fr": "Ah, ah",
+      "pt": "Ha, ha",
+      "en": "Ha, ha"
     },
     {
-      "tempo": 120.27,
-      "fr": "Down, down, down, down",
-      "pt": "Baixo, baixo, baixo, baixo",
-      "en": "Down, down, down, down"
+      "tempo": 120.72,
+      "fr": "Ah-ah",
+      "pt": "Ha-ha",
+      "en": "Ha-ha"
     },
     {
-      "tempo": 121.71,
-      "fr": "Down, down, down, down",
-      "pt": "Baixo, baixo, baixo, baixo",
-      "en": "Down, down, down, down"
+      "tempo": 122.12,
+      "fr": "What-what, what you got?",
+      "pt": "O que, o que você tem?",
+      "en": "What-what, what you got?"
     },
     {
-      "tempo": 123.03,
-      "fr": "I'm your girl, right?",
-      "pt": "Eu sou sua garota, certo?",
-      "en": "I'm your girl, right?"
+      "tempo": 123.75,
+      "fr": "What-what, what you got?",
+      "pt": "O que, o que você tem?",
+      "en": "What-what, what you got?"
     },
     {
-      "tempo": 125.42,
-      "fr": "Love me hard, it's not my first time",
-      "pt": "Me ame muito, não é minha primeira vez",
-      "en": "Love me hard, it's not my first time"
+      "tempo": 125.67,
+      "fr": "Come-come lay me down",
+      "pt": "Venha, venha me deitar",
+      "en": "Come-come lay me down"
     },
     {
-      "tempo": 130.13,
-      "fr": "I'm your girl, right?",
-      "pt": "Eu sou sua garota, certo?",
-      "en": "I'm your girl, right?"
+      "tempo": 127.48,
+      "fr": "Come-come lay me down",
+      "pt": "Venha, venha me deitar",
+      "en": "Come-come lay me down"
     },
     {
-      "tempo": 132.51,
-      "fr": "Heart still aches, you wanna hurt mine",
-      "pt": "O coração ainda dói, você quer machucar o meu",
-      "en": "Heart still aches, you wanna hurt mine"
+      "tempo": 129.3,
+      "fr": "Don't-don't give me up",
+      "pt": "Não-não desista de mim",
+      "en": "Don't-don't give me up"
     },
     {
-      "tempo": 138.04,
-      "fr": "Tell me what I wanna hear now",
-      "pt": "Diga-me o que eu quero ouvir agora",
-      "en": "Tell me what I want to hear now"
+      "tempo": 130.99,
+      "fr": "Don't-don't give me up",
+      "pt": "Não-não desista de mim",
+      "en": "Don't-don't give me up"
     },
     {
-      "tempo": 141.28,
-      "fr": "Don't make me doubt",
-      "pt": "Não me faça duvidar",
-      "en": "Don't make me doubt"
+      "tempo": 132.83,
+      "fr": "Yeah, you're man enough",
+      "pt": "Sim, você é homem o suficiente",
+      "en": "Yeah, you're man enough"
     },
     {
-      "tempo": 144.3,
-      "fr": "I'm your girl, right?",
-      "pt": "Eu sou sua garota, certo?",
-      "en": "I'm your girl, right?"
+      "tempo": 134.62,
+      "fr": "Yeah, you're man enough",
+      "pt": "Sim, você é homem o suficiente",
+      "en": "Yeah, you're man enough"
     },
     {
-      "tempo": 146.78,
-      "fr": "Love me hard, it's not my first time",
-      "pt": "Me ame muito, não é minha primeira vez",
-      "en": "Love me hard, it's not my first time"
+      "tempo": 136.28,
+      "fr": "(Ah) bring me flowers",
+      "pt": "(Ah) me traga flores",
+      "en": "(Ah) bring me flowers"
     },
     {
-      "tempo": 151.58,
-      "fr": "I'm your girl",
-      "pt": "Eu sou sua garota",
-      "en": "I'm your girl"
+      "tempo": 139.58,
+      "fr": "(Ah) bring your sweat to my bed tonight",
+      "pt": "(Ah) traga seu suor para minha cama esta noite",
+      "en": "(Ah) bring your sweat to my bed tonight"
     },
     {
-      "tempo": 155.45,
-      "fr": "Right?",
-      "pt": "Certo?",
-      "en": "Right?"
+      "tempo": 144.51,
+      "fr": "Last for hours",
+      "pt": "Durar por horas",
+      "en": "Last for hours"
     },
     {
-      "tempo": 158.44,
-      "fr": "I'm your girl",
-      "pt": "Eu sou sua garota",
-      "en": "I'm your girl"
+      "tempo": 146.8,
+      "fr": "(Ah) bring your sweat to my bed toni-",
+      "pt": "(Ah) traga seu suor para minha cama esta noite-",
+      "en": "(Ah) bring your sweat to my bed toni-"
     },
     {
-      "tempo": 162.39,
-      "fr": "Right?",
-      "pt": "Certo?",
-      "en": "Right?"
+      "tempo": 149.96,
+      "fr": "Des fleurs, évidemment",
+      "pt": "Flores, claro",
+      "en": "Flowers, of course"
+    },
+    {
+      "tempo": 152.94,
+      "fr": "Des fleurs, évidemment (ah, ah)",
+      "pt": "Flores, obviamente (ah, ah)",
+      "en": "Flowers, obviously (ah, ah)"
+    },
+    {
+      "tempo": 156.47,
+      "fr": "Des fleurs, évidemment (ah, ah)",
+      "pt": "Flores, obviamente (ah, ah)",
+      "en": "Flowers, obviously (ah, ah)"
+    },
+    {
+      "tempo": 158.12,
+      "fr": "Des fleurs, évidemment",
+      "pt": "Flores, claro",
+      "en": "Flowers, of course"
+    },
+    {
+      "tempo": 160.35,
+      "fr": "Des fleurs, évidemment (ah, ah)",
+      "pt": "Flores, obviamente (ah, ah)",
+      "en": "Flowers, obviously (ah, ah)"
+    },
+    {
+      "tempo": 161.86,
+      "fr": "Des fleurs, évidemment",
+      "pt": "Flores, claro",
+      "en": "Flowers, of course"
+    },
+    {
+      "tempo": 163.88,
+      "fr": "Ah-ah (ah-ah)",
+      "pt": "Ah-ah (ah-ah)",
+      "en": "Ah-ah (ah-ah)"
     }
   ],
   "vocabulario": {
-    "i'm": {
-      "pt": "eu sou",
-      "en": "i'm"
-    },
-    "your": {
-      "pt": "seu",
-      "en": "your"
-    },
-    "girl": {
-      "pt": "garota",
-      "en": "girl"
-    },
-    "right": {
-      "pt": "certo",
-      "en": "right"
-    },
     "love": {
       "pt": "amor",
       "en": "love"
     },
-    "me": {
-      "pt": "meu",
-      "en": "me"
+    "the": {
+      "pt": "o",
+      "en": "the"
     },
-    "hard": {
-      "pt": "duro",
-      "en": "hard"
-    },
-    "it's": {
-      "pt": "isso é",
-      "en": "it's"
-    },
-    "not": {
-      "pt": "não",
-      "en": "not"
-    },
-    "my": {
-      "pt": "meu",
-      "en": "my"
-    },
-    "first": {
-      "pt": "primeiro",
-      "en": "first"
-    },
-    "time": {
-      "pt": "tempo",
-      "en": "time"
-    },
-    "heart": {
-      "pt": "coração",
-      "en": "heart"
-    },
-    "still": {
-      "pt": "ainda",
-      "en": "still"
-    },
-    "aches": {
-      "pt": "dores",
-      "en": "aches"
+    "way": {
+      "pt": "caminho",
+      "en": "way"
     },
     "you": {
       "pt": "você",
       "en": "you"
     },
-    "wanna": {
-      "pt": "quero",
-      "en": "wanna"
+    "flirt": {
+      "pt": "flertar",
+      "en": "flirt"
     },
-    "hurt": {
-      "pt": "ferir",
-      "en": "hurt"
+    "it's": {
+      "pt": "isso é",
+      "en": "it's"
     },
-    "mine": {
-      "pt": "meu",
-      "en": "mine"
+    "so": {
+      "pt": "então",
+      "en": "so"
     },
-    "i": {
-      "pt": "eu",
-      "en": "i"
+    "obvious": {
+      "pt": "óbvio",
+      "en": "obvious"
     },
-    "like": {
-      "pt": "como",
-      "en": "like"
+    "but": {
+      "pt": "mas",
+      "en": "but"
     },
-    "teeth": {
-      "pt": "dentes",
-      "en": "teeth"
+    "you're": {
+      "pt": "você é",
+      "en": "you're"
     },
-    "could": {
-      "pt": "poderia",
-      "en": "could"
+    "cold": {
+      "pt": "frio",
+      "en": "cold"
     },
-    "watch": {
-      "pt": "assistir",
-      "en": "watch"
-    },
-    "eat": {
-      "pt": "comer",
-      "en": "eat"
-    },
-    "for": {
-      "pt": "para",
-      "en": "for"
-    },
-    "days": {
-      "pt": "dias",
-      "en": "days"
-    },
-    "a": {
-      "pt": "tem",
-      "en": "has"
-    },
-    "fancy": {
-      "pt": "chique",
-      "en": "fancy"
-    },
-    "steak": {
-      "pt": "bife",
-      "en": "steak"
-    },
-    "i'll": {
-      "pt": "doente",
-      "en": "i'll"
-    },
-    "pay": {
-      "pt": "pagar",
-      "en": "pay"
-    },
-    "is": {
-      "pt": "é",
-      "en": "is"
-    },
-    "that": {
-      "pt": "que",
-      "en": "that"
-    },
-    "perfume": {
-      "pt": "perfume",
-      "en": "perfume"
-    },
-    "or": {
-      "pt": "ouro",
-      "en": "gold"
-    },
-    "it": {
-      "pt": "isto",
-      "en": "it"
-    },
-    "taste": {
-      "pt": "gosto",
-      "en": "taste"
-    },
-    "bite": {
-      "pt": "galo",
-      "en": "cock"
-    },
-    "the": {
-      "pt": "chá",
-      "en": "tea"
-    },
-    "skin": {
-      "pt": "pele",
-      "en": "skin"
-    },
-    "thin": {
-      "pt": "afinar",
-      "en": "thin"
-    },
-    "tell": {
-      "pt": "dizer",
-      "en": "tell"
-    },
-    "what": {
-      "pt": "o que",
-      "en": "what"
-    },
-    "hear": {
-      "pt": "ouvir",
-      "en": "hear"
-    },
-    "now": {
-      "pt": "agora",
-      "en": "now"
-    },
-    "don't": {
-      "pt": "dos quais",
-      "en": "of which"
+    "ah": {
+      "pt": "ah",
+      "en": "ah"
     },
     "make": {
       "pt": "fazer",
       "en": "make"
     },
-    "doubt": {
-      "pt": "dúvida",
-      "en": "doubt"
+    "it": {
+      "pt": "isto",
+      "en": "it"
     },
-    "promise": {
-      "pt": "prometido",
-      "en": "promised"
+    "hurt": {
+      "pt": "ferir",
+      "en": "hurt"
     },
-    "you'll": {
-      "pt": "você vai",
-      "en": "you'll"
+    "like": {
+      "pt": "como",
+      "en": "like"
     },
-    "never": {
-      "pt": "nunca",
-      "en": "never"
+    "nothing's": {
+      "pt": "nada é",
+      "en": "nothing's"
     },
-    "leave": {
-      "pt": "deixar",
-      "en": "leave"
+    "better": {
+      "pt": "melhorar",
+      "en": "better"
     },
-    "let": {
-      "pt": "deixar",
-      "en": "let"
+    "than": {
+      "pt": "que",
+      "en": "than"
     },
-    "down": {
-      "pt": "abaixo",
-      "en": "down"
+    "your": {
+      "pt": "seu",
+      "en": "your"
+    },
+    "strong": {
+      "pt": "forte",
+      "en": "strong"
+    },
+    "arms": {
+      "pt": "braços",
+      "en": "arms"
+    },
+    "what": {
+      "pt": "o que",
+      "en": "what"
+    },
+    "got": {
+      "pt": "pegou",
+      "en": "got"
+    },
+    "don't": {
+      "pt": "não",
+      "en": "don't"
+    },
+    "give": {
+      "pt": "dar",
+      "en": "give"
+    },
+    "me": {
+      "pt": "meu",
+      "en": "me"
+    },
+    "up": {
+      "pt": "acima",
+      "en": "up"
+    },
+    "bring": {
+      "pt": "trazer",
+      "en": "bring"
+    },
+    "flowers": {
+      "pt": "flores",
+      "en": "flowers"
+    },
+    "sweat": {
+      "pt": "suor",
+      "en": "sweat"
+    },
+    "to": {
+      "pt": "para",
+      "en": "to"
+    },
+    "my": {
+      "pt": "meu",
+      "en": "my"
+    },
+    "bed": {
+      "pt": "cama",
+      "en": "bed"
+    },
+    "tonight": {
+      "pt": "essa noite",
+      "en": "tonight"
+    },
+    "last": {
+      "pt": "durar",
+      "en": "last"
+    },
+    "for": {
+      "pt": "para",
+      "en": "for"
+    },
+    "hours": {
+      "pt": "horas",
+      "en": "hours"
+    },
+    "toni": {
+      "pt": "Toni",
+      "en": "toni"
+    },
+    "des": {
+      "pt": "do",
+      "en": "of the"
+    },
+    "fleurs": {
+      "pt": "flores",
+      "en": "flowers"
+    },
+    "toujours": {
+      "pt": "sempre",
+      "en": "always"
+    },
+    "évidemment": {
+      "pt": "obviamente",
+      "en": "obviously"
+    },
+    "j'veux": {
+      "pt": "Eu quero",
+      "en": "I want"
+    },
+    "pas": {
+      "pt": "não",
+      "en": "not"
+    },
+    "m'jeter": {
+      "pt": "meu jeter",
+      "en": "m'jeter"
+    },
+    "mais": {
+      "pt": "mais",
+      "en": "more"
+    },
+    "j'suis": {
+      "pt": "Eu sou",
+      "en": "I am"
+    },
+    "le": {
+      "pt": "o",
+      "en": "the"
+    },
+    "pire": {
+      "pt": "pirar",
+      "en": "pire"
+    },
+    "amants": {
+      "pt": "amantes",
+      "en": "lovers"
+    },
+    "d'ailleurs": {
+      "pt": "Além do mais",
+      "en": "Besides"
+    },
+    "si": {
+      "pt": "e",
+      "en": "and"
+    },
+    "j't": {
+      "pt": "não",
+      "en": "j't"
+    },
+    "en": {
+      "pt": "em",
+      "en": "in"
+    },
+    "fais": {
+      "pt": "fazer",
+      "en": "do"
+    },
+    "une": {
+      "pt": "um",
+      "en": "a"
+    },
+    "non": {
+      "pt": "não",
+      "en": "non"
+    },
+    "c'est": {
+      "pt": "Isso é",
+      "en": "It is"
+    },
+    "qu'j": {
+      "pt": "que eu",
+      "en": "that I"
+    },
+    "ai": {
+      "pt": "ai",
+      "en": "ai"
+    },
+    "sentiments": {
+      "pt": "sentimentos",
+      "en": "sentiments"
+    },
+    "juste": {
+      "pt": "apenas",
+      "en": "just"
+    },
+    "que": {
+      "pt": "que",
+      "en": "what"
+    },
+    "j'aime": {
+      "pt": "Eu gosto",
+      "en": "I like"
+    },
+    "ta": {
+      "pt": "enfrentando",
+      "en": "facing"
+    },
+    "fleur": {
+      "pt": "flor",
+      "en": "fleur"
+    },
+    "j'voudrais": {
+      "pt": "Gostaria",
+      "en": "I would like"
+    },
+    "qu'on": {
+      "pt": "que nós",
+      "en": "that we"
+    },
+    "passe": {
+      "pt": "passar",
+      "en": "passe"
+    },
+    "un": {
+      "pt": "e",
+      "en": "and"
+    },
+    "bon": {
+      "pt": "bom",
+      "en": "bon"
+    },
+    "moment": {
+      "pt": "momento",
+      "en": "moment"
+    },
+    "y": {
+      "pt": "sim",
+      "en": "y"
+    },
+    "met": {
+      "pt": "conheci",
+      "en": "met"
+    },
+    "les": {
+      "pt": "O",
+      "en": "THE"
+    },
+    "formes": {
+      "pt": "formas",
+      "en": "shapes"
+    },
+    "peu": {
+      "pt": "pequeno",
+      "en": "little"
+    },
+    "tout": {
+      "pt": "Todos",
+      "en": "All"
+    },
+    "l'temps": {
+      "pt": "tempo",
+      "en": "time"
+    },
+    "du": {
+      "pt": "de",
+      "en": "of"
+    },
+    "coup": {
+      "pt": "golpe",
+      "en": "coup"
+    },
+    "ben": {
+      "pt": "Bem",
+      "en": "ben"
+    },
+    "tu": {
+      "pt": "você",
+      "en": "tu"
+    },
+    "sais": {
+      "pt": "sais",
+      "en": "sais"
+    },
+    "tes": {
+      "pt": "tes",
+      "en": "tes"
+    },
+    "oui": {
+      "pt": "sim",
+      "en": "oui"
+    },
+    "ce": {
+      "pt": "ce",
+      "en": "ce"
+    },
+    "qu'elles": {
+      "pt": "que eles",
+      "en": "that they"
+    },
+    "sont": {
+      "pt": "são",
+      "en": "are"
+    },
+    "hors": {
+      "pt": "fora",
+      "en": "hors"
+    },
+    "normes": {
+      "pt": "padrões",
+      "en": "standards"
+    },
+    "bonnement": {
+      "pt": "simplesmente",
+      "en": "simply"
+    },
+    "ça": {
+      "pt": "Que",
+      "en": "That"
+    },
+    "vole": {
+      "pt": "ratazana",
+      "en": "vole"
+    },
+    "très": {
+      "pt": "muito",
+      "en": "very"
+    },
+    "haut": {
+      "pt": "alto",
+      "en": "high"
+    },
+    "je": {
+      "pt": "é",
+      "en": "is"
+    },
+    "n'suis": {
+      "pt": "sou",
+      "en": "am"
+    },
+    "qu'un": {
+      "pt": "Aquele",
+      "en": "that one"
+    },
+    "homme": {
+      "pt": "homem",
+      "en": "homme"
     },
     "come": {
       "pt": "vir",
       "en": "come"
     },
-    "break": {
-      "pt": "quebrar",
-      "en": "break"
+    "lay": {
+      "pt": "deitar",
+      "en": "lay"
     },
-    "in": {
-      "pt": "em",
-      "en": "in"
+    "down": {
+      "pt": "abaixo",
+      "en": "down"
     },
-    "all": {
-      "pt": "todos",
-      "en": "all"
+    "yeah": {
+      "pt": "sim",
+      "en": "yeah"
     },
-    "horses": {
-      "pt": "cavalos",
-      "en": "horses"
+    "man": {
+      "pt": "homem",
+      "en": "man"
     },
-    "win": {
-      "pt": "ganhar",
-      "en": "win"
-    },
-    "we": {
-      "pt": "nós",
-      "en": "we"
-    },
-    "fuck": {
-      "pt": "Porra",
-      "en": "fuck"
-    },
-    "night": {
-      "pt": "noite",
-      "en": "night"
-    },
-    "on": {
-      "pt": "nós",
-      "en": "we"
-    },
-    "ritalin": {
-      "pt": "ritalina",
-      "en": "ritalin"
-    },
-    "lin": {
-      "pt": "linho",
-      "en": "linen"
+    "enough": {
+      "pt": "suficiente",
+      "en": "enough"
     }
   },
   "ordem": 62

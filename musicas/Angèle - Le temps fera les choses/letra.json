@@ -102,14 +102,14 @@
     {
       "tempo": 54.51,
       "fr": "On verra si on ose",
-      "pt": "",
+      "pt": "Veremos se ousaremos",
       "en": "We'll see if we dare"
     },
     {
       "tempo": 60.23,
       "fr": "Perdre nos raisons",
       "pt": "Perdendo nossas razões",
-      "en": ""
+      "en": "Losing our reasons"
     },
     {
       "tempo": 62.66,
@@ -162,7 +162,7 @@
     {
       "tempo": 84.5,
       "fr": "C'était déjà fragile",
-      "pt": "",
+      "pt": "Já era frágil",
       "en": "It was already fragile"
     },
     {
@@ -174,7 +174,7 @@
     {
       "tempo": 90.09,
       "fr": "On peut s'aimer comme on se détruit",
-      "pt": "",
+      "pt": "Podemos amar um ao outro enquanto destruímos um ao outro",
       "en": "We can love each other as we destroy each other"
     },
     {
@@ -199,7 +199,7 @@
       "tempo": 101.05,
       "fr": "Sans toi comme si c'était nouveau",
       "pt": "Sem você como se fosse novo",
-      "en": ""
+      "en": "Without you as if it were new"
     },
     {
       "tempo": 103.94,
@@ -697,7 +697,7 @@
     },
     "s'aimer": {
       "pt": "amem um ao outro",
-      "en": ""
+      "en": "love each other"
     },
     "détruit": {
       "pt": "destruído",
@@ -712,12 +712,12 @@
       "en": "me"
     },
     "fais": {
-      "pt": "",
+      "pt": "fazer",
       "en": "do"
     },
     "à": {
       "pt": "tem",
-      "en": ""
+      "en": "has"
     },
     "mon": {
       "pt": "Meu",

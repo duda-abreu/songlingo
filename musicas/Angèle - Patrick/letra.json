@@ -145,7 +145,7 @@
       "tempo": 63.22,
       "fr": "Jamais il ne laissera tomber",
       "pt": "Ele nunca vai deixar ir",
-      "en": ""
+      "en": "He will never let go"
     },
     {
       "tempo": 65.52,
@@ -384,7 +384,7 @@
     {
       "tempo": 168.16,
       "fr": "Patrick touche le fond",
-      "pt": "",
+      "pt": "Patrick chega ao fundo do poço",
       "en": "Patrick hits rock bottom"
     },
     {
@@ -401,7 +401,7 @@
     },
     "a": {
       "pt": "tem",
-      "en": ""
+      "en": "has"
     },
     "ans": {
       "pt": "anos",
@@ -428,7 +428,7 @@
       "en": "less"
     },
     "avec": {
-      "pt": "",
+      "pt": "com",
       "en": "with"
     },
     "sa": {
@@ -841,7 +841,7 @@
     },
     "société": {
       "pt": "Empresa",
-      "en": ""
+      "en": "Company"
     },
     "femmes": {
       "pt": "mulheres",

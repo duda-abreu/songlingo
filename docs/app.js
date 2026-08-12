@@ -6,9 +6,26 @@ const estado = {
   indiceAtual: -1,
   acertos: 0,
   tentativas: 0,
-  palavrasAprendidas: new Set(),
+  palavrasAprendidas: new Set(JSON.parse(localStorage.getItem("songlingo-palavras") || "[]")),
   palavraAtualModal: null,
+  indiceDitado: null,
+  fimTrechoDitado: null,
+  questoesDitado: 0,
+  exercicioTraducao: null,
 };
+
+const FRASES_EXTRAS = [
+  { en: "I am learning French every day", fr: "J'apprends le français tous les jours" },
+  { en: "Where are you going tonight?", fr: "Où vas-tu ce soir ?" },
+  { en: "I would like a coffee, please", fr: "Je voudrais un café, s'il vous plaît" },
+  { en: "We are listening to music", fr: "Nous écoutons de la musique" },
+  { en: "She loves dancing with her friends", fr: "Elle adore danser avec ses amis" },
+  { en: "It is a beautiful day", fr: "C'est une belle journée" },
+  { en: "I don't understand this sentence", fr: "Je ne comprends pas cette phrase" },
+  { en: "Can you help me?", fr: "Est-ce que tu peux m'aider ?" },
+  { en: "We will see each other tomorrow", fr: "Nous nous verrons demain" },
+  { en: "I miss you", fr: "Tu me manques" },
+];
 
 const elementos = {
   listaMusicas: document.getElementById("lista-musicas"),
@@ -23,6 +40,8 @@ const elementos = {
   botoesModo: document.querySelectorAll(".botao-modo"),
   painelOuvir: document.getElementById("painel-ouvir"),
   painelEstudar: document.getElementById("painel-estudar"),
+  painelDitado: document.getElementById("painel-ditado"),
+  painelTraduzir: document.getElementById("painel-traduzir"),
   switchSeguir: document.getElementById("switch-seguir"),
   janelaLetra: document.getElementById("janela-letra"),
   painelTraducao: document.getElementById("painel-traducao"),
@@ -37,6 +56,26 @@ const elementos = {
   fecharModal: document.getElementById("fechar-modal"),
   botaoNaoSei: document.getElementById("botao-nao-sei"),
   botaoConferir: document.getElementById("botao-conferir"),
+  etapaDitado: document.getElementById("etapa-ditado"),
+  progressoDitado: document.getElementById("progresso-ditado"),
+  ouvirDitado: document.getElementById("ouvir-ditado"),
+  respostaDitado: document.getElementById("resposta-ditado"),
+  feedbackDitado: document.getElementById("feedback-ditado"),
+  gabaritoDitado: document.getElementById("gabarito-ditado"),
+  revelarDitado: document.getElementById("revelar-ditado"),
+  pularDitado: document.getElementById("pular-ditado"),
+  conferirDitado: document.getElementById("conferir-ditado"),
+  proximoDitado: document.getElementById("proximo-ditado"),
+  origemTraducao: document.getElementById("origem-traducao"),
+  fraseIngles: document.getElementById("frase-ingles"),
+  respostaTraducao: document.getElementById("resposta-traducao"),
+  feedbackTraducao: document.getElementById("feedback-traducao"),
+  gabaritoTraducao: document.getElementById("gabarito-traducao"),
+  revelarTraducao: document.getElementById("revelar-traducao"),
+  tentarNovamenteTraducao: document.getElementById("tentar-novamente-traducao"),
+  pularTraducao: document.getElementById("pular-traducao"),
+  conferirTraducao: document.getElementById("conferir-traducao"),
+  proximaTraducao: document.getElementById("proxima-traducao"),
 };
 
 function normalizarChaveDePalavra(palavra) {
@@ -49,7 +88,47 @@ function normalizarParaComparar(texto) {
     .toLowerCase()
     .normalize("NFD")
     .replace(/[\u0300-\u036f]/g, "")
-    .replace(/\s+/g, " ");
+    .replace(/[^a-z0-9'’]+/g, " ")
+    .replace(/’/g, "'")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function normalizarEquivalenciasFrancesas(texto) {
+  let valor = normalizarParaComparar(texto)
+    .replace(/^est ce qu(e)?\s+/, "")
+    .replace(/\bne\s+/g, "")
+    .replace(/\bn'(?=\w)/g, "");
+  const expansoes = { "j'": "je ", "m'": "me ", "t'": "te ", "s'": "se ", "qu'": "que " };
+  Object.entries(expansoes).forEach(([contracao, expansao]) => {
+    valor = valor.replace(new RegExp(`\\b${contracao}(?=\\w)`, "g"), expansao);
+  });
+  valor = valor.replace(/^(peux|veux|vas|es|as|dois|sais|viens)\s+tu\b/, (_, verbo) => `tu ${verbo}`);
+  return valor.replace(/\s+/g, " ").trim();
+}
+
+function avaliarResposta(resposta, esperado) {
+  const recebida = normalizarEquivalenciasFrancesas(resposta || "");
+  const certa = normalizarEquivalenciasFrancesas(esperado || "");
+  if (!recebida || !certa) return { status: "vazio", faltaram: [], sobraram: [] };
+  if (recebida === certa) return { status: "certo", faltaram: [], sobraram: [] };
+
+  const recebidas = recebida.split(" ");
+  const certas = certa.split(" ");
+  const restantes = [...recebidas];
+  const faltaram = certas.filter((palavra) => {
+    const indice = restantes.indexOf(palavra);
+    if (indice < 0) return true;
+    restantes.splice(indice, 1);
+    return false;
+  });
+  const erros = faltaram.length + restantes.length;
+  const proporcao = 1 - erros / Math.max(certas.length, 1);
+  return {
+    status: proporcao >= 0.8 ? "certo" : proporcao >= 0.5 ? "quase" : "errado",
+    faltaram,
+    sobraram: restantes,
+  };
 }
 
 function dividirLinhaEmPalavras(linha) {
@@ -90,6 +169,10 @@ function selecionarMusica(musica) {
   estado.indiceAtual = -1;
   estado.acertos = 0;
   estado.tentativas = 0;
+  estado.indiceDitado = null;
+  estado.fimTrechoDitado = null;
+  estado.questoesDitado = 0;
+  estado.exercicioTraducao = null;
 
   elementos.telaVazia.hidden = true;
   elementos.telaMusica.hidden = false;
@@ -206,13 +289,13 @@ function conferirResposta() {
     return;
   }
 
-  const resposta = normalizarParaComparar(elementos.campoResposta.value);
-  const esperado = normalizarParaComparar(alvo.entrada[estado.idioma]);
+  const avaliacao = avaliarResposta(elementos.campoResposta.value, alvo.entrada[estado.idioma]);
   estado.tentativas++;
 
-  if (resposta && resposta === esperado) {
+  if (avaliacao.status === "certo") {
     estado.acertos++;
     estado.palavrasAprendidas.add(alvo.chave);
+    localStorage.setItem("songlingo-palavras", JSON.stringify([...estado.palavrasAprendidas]));
     elementos.resultadoModal.textContent = "isso aí! 🌸";
     elementos.resultadoModal.className = "resultado-modal acerto";
     montarPainelEstudo();
@@ -228,6 +311,7 @@ function revelarResposta() {
   const alvo = estado.palavraAtualModal;
   if (!alvo || !alvo.entrada || !alvo.entrada[estado.idioma]) return;
   estado.palavrasAprendidas.add(alvo.chave);
+  localStorage.setItem("songlingo-palavras", JSON.stringify([...estado.palavrasAprendidas]));
   elementos.resultadoModal.textContent = `é "${alvo.entrada[estado.idioma]}".`;
   elementos.resultadoModal.className = "resultado-modal";
   montarPainelEstudo();
@@ -237,11 +321,230 @@ function atualizarPlacar() {
   elementos.textoPlacar.textContent = `acertos: ${estado.acertos} / ${estado.tentativas}`;
 }
 
+function pareceFrances(texto) {
+  const palavras = normalizarParaComparar(texto).split(" ").filter(Boolean);
+  const francesas = new Set(["au", "aux", "avec", "ce", "ces", "dans", "de", "des", "du", "elle", "en", "est", "et", "il", "je", "la", "le", "les", "mais", "me", "mes", "moi", "mon", "ne", "nous", "on", "ou", "pas", "pour", "que", "qui", "se", "si", "son", "sur", "ta", "te", "tes", "toi", "ton", "tout", "tu", "un", "une", "vous", "y"]);
+  const inglesas = new Set(["a", "and", "are", "baby", "but", "can", "come", "do", "don't", "for", "girl", "got", "have", "i", "i'm", "in", "is", "it", "love", "me", "my", "not", "of", "on", "right", "the", "this", "to", "wanna", "want", "we", "what", "you", "your"]);
+  let frances = palavras.filter((palavra) => francesas.has(palavra)).length;
+  const ingles = palavras.filter((palavra) => inglesas.has(palavra)).length;
+  frances += palavras.filter((palavra) => /^(j|l|d|c|n|m|t|s|qu)'/.test(palavra)).length;
+  frances += [...(texto || "").toLowerCase()].filter((letra) => "àâçéèêëîïôùûüÿœ".includes(letra)).length;
+  return palavras.length > 0 && (ingles ? frances > ingles : true);
+}
+
+function indicesValidosDitado() {
+  const musica = estado.musicaSelecionada;
+  if (!musica) return [];
+  return musica.linhas
+    .map((linha, indice) => ({ indice, palavras: normalizarParaComparar(linha.fr).split(" ").filter(Boolean) }))
+    .filter((item) => item.palavras.length >= 2 && item.palavras.length <= 18 && pareceFrances(musica.linhas[item.indice].fr))
+    .map((item) => item.indice);
+}
+
+function novaPerguntaDitado() {
+  const validos = indicesValidosDitado();
+  if (!validos.length) {
+    elementos.feedbackDitado.textContent = "essa música não tem trechos adequados para ditado.";
+    return;
+  }
+  const opcoes = validos.filter((indice) => indice !== estado.indiceDitado);
+  const candidatas = opcoes.length ? opcoes : validos;
+  estado.indiceDitado = candidatas[Math.floor(Math.random() * candidatas.length)];
+  estado.questoesDitado++;
+  estado.fimTrechoDitado = null;
+
+  elementos.etapaDitado.textContent = `trecho ${estado.questoesDitado}`;
+  elementos.progressoDitado.value = (estado.questoesDitado - 1) % 10;
+  elementos.respostaDitado.value = "";
+  elementos.respostaDitado.disabled = false;
+  elementos.feedbackDitado.textContent = "";
+  elementos.feedbackDitado.className = "feedback-ditado";
+  elementos.gabaritoDitado.textContent = "";
+  elementos.revelarDitado.hidden = false;
+  elementos.pularDitado.hidden = false;
+  elementos.conferirDitado.hidden = false;
+  elementos.proximoDitado.hidden = true;
+}
+
+function tocarTrechoDitado() {
+  const musica = estado.musicaSelecionada;
+  const indice = estado.indiceDitado;
+  if (!musica || indice === null) return;
+  if (!elementos.audio.src) {
+    elementos.feedbackDitado.textContent = "escolha o arquivo de áudio da música primeiro.";
+    elementos.feedbackDitado.className = "feedback-ditado erro";
+    return;
+  }
+  const linha = musica.linhas[indice];
+  const proxima = musica.linhas[indice + 1];
+  estado.fimTrechoDitado = proxima
+    ? Math.max(linha.tempo + 1.2, proxima.tempo - 0.08)
+    : Math.min(elementos.audio.duration || linha.tempo + 8, linha.tempo + 8);
+  elementos.audio.currentTime = linha.tempo;
+  elementos.audio.play();
+}
+
+function terminarPerguntaDitado() {
+  elementos.respostaDitado.disabled = true;
+  elementos.revelarDitado.hidden = true;
+  elementos.pularDitado.hidden = true;
+  elementos.conferirDitado.hidden = true;
+  elementos.proximoDitado.hidden = false;
+}
+
+function conferirDitado() {
+  const musica = estado.musicaSelecionada;
+  if (!musica || estado.indiceDitado === null) return;
+  const linha = musica.linhas[estado.indiceDitado];
+  const resultado = avaliarResposta(elementos.respostaDitado.value, linha.fr);
+  if (resultado.status === "vazio") {
+    elementos.feedbackDitado.textContent = "digite o que você ouviu primeiro.";
+    elementos.feedbackDitado.className = "feedback-ditado erro";
+    return;
+  }
+
+  if (resultado.status === "certo") {
+    elementos.feedbackDitado.textContent = "certo! você ouviu muito bem. 🌸";
+    elementos.feedbackDitado.className = "feedback-ditado acerto";
+  } else if (resultado.status === "quase") {
+    const detalhes = [];
+    if (resultado.faltaram.length) detalhes.push(`faltou: ${resultado.faltaram.join(", ")}`);
+    if (resultado.sobraram.length) detalhes.push(`a mais: ${resultado.sobraram.join(", ")}`);
+    elementos.feedbackDitado.textContent = `quase! ${detalhes.join(" • ")}`;
+    elementos.feedbackDitado.className = "feedback-ditado erro";
+  } else {
+    elementos.feedbackDitado.textContent = "ainda não. compare sua resposta com a letra.";
+    elementos.feedbackDitado.className = "feedback-ditado erro";
+  }
+
+  elementos.gabaritoDitado.textContent = `resposta: ${linha.fr}\ntradução: ${linha[estado.idioma] || ""}`;
+  terminarPerguntaDitado();
+}
+
+function revelarDitado() {
+  const musica = estado.musicaSelecionada;
+  if (!musica || estado.indiceDitado === null) return;
+  const linha = musica.linhas[estado.indiceDitado];
+  elementos.feedbackDitado.textContent = "sem problema — ouça acompanhando a resposta.";
+  elementos.feedbackDitado.className = "feedback-ditado";
+  elementos.gabaritoDitado.textContent = `resposta: ${linha.fr}\ntradução: ${linha[estado.idioma] || ""}`;
+  terminarPerguntaDitado();
+  tocarTrechoDitado();
+}
+
+function exerciciosTraducao() {
+  const linhas = estado.musicaSelecionada?.linhas || [];
+  const vistos = new Set();
+  const exercicios = [];
+  linhas.forEach((linha) => {
+    const en = (linha.en || "").trim();
+    const fr = (linha.fr || "").trim();
+    const chave = `${normalizarParaComparar(en)}|${normalizarParaComparar(fr)}`;
+    const tamanho = normalizarParaComparar(fr).split(" ").filter(Boolean).length;
+    if (en && fr && en !== fr && pareceFrances(fr) && tamanho >= 2 && tamanho <= 18 && !vistos.has(chave)) {
+      vistos.add(chave);
+      exercicios.push({ en, fr, origem: "música" });
+    }
+  });
+  FRASES_EXTRAS.forEach((frase) => {
+    const chave = `${normalizarParaComparar(frase.en)}|${normalizarParaComparar(frase.fr)}`;
+    if (!vistos.has(chave)) {
+      vistos.add(chave);
+      exercicios.push({ ...frase, origem: "prática" });
+    }
+  });
+  return exercicios;
+}
+
+function novaTraducao() {
+  const exercicios = exerciciosTraducao();
+  const opcoes = exercicios.filter((item) => item.en !== estado.exercicioTraducao?.en);
+  const candidatas = opcoes.length ? opcoes : exercicios;
+  if (!candidatas.length) return;
+  estado.exercicioTraducao = candidatas[Math.floor(Math.random() * candidatas.length)];
+
+  elementos.origemTraducao.textContent = estado.exercicioTraducao.origem;
+  elementos.fraseIngles.textContent = estado.exercicioTraducao.en;
+  elementos.respostaTraducao.value = "";
+  elementos.respostaTraducao.disabled = false;
+  elementos.feedbackTraducao.textContent = "";
+  elementos.feedbackTraducao.className = "feedback-ditado";
+  elementos.gabaritoTraducao.textContent = "";
+  elementos.revelarTraducao.hidden = false;
+  elementos.tentarNovamenteTraducao.hidden = true;
+  elementos.pularTraducao.hidden = false;
+  elementos.conferirTraducao.hidden = false;
+  elementos.proximaTraducao.hidden = true;
+}
+
+function terminarTraducao() {
+  elementos.respostaTraducao.disabled = true;
+  elementos.revelarTraducao.hidden = true;
+  elementos.pularTraducao.hidden = true;
+  elementos.conferirTraducao.hidden = true;
+  elementos.proximaTraducao.hidden = false;
+}
+
+function conferirTraducao() {
+  const exercicio = estado.exercicioTraducao;
+  if (!exercicio) return;
+  const resultado = avaliarResposta(elementos.respostaTraducao.value, exercicio.fr);
+  if (resultado.status === "vazio") {
+    elementos.feedbackTraducao.textContent = "escreva uma tradução primeiro.";
+    elementos.feedbackTraducao.className = "feedback-ditado erro";
+    return;
+  }
+  if (resultado.status === "certo") {
+    elementos.feedbackTraducao.textContent = "certo! 🌸";
+    elementos.feedbackTraducao.className = "feedback-ditado acerto";
+  } else if (resultado.status === "quase") {
+    const detalhes = [];
+    if (resultado.faltaram.length) detalhes.push(`faltou: ${resultado.faltaram.join(", ")}`);
+    if (resultado.sobraram.length) detalhes.push(`a mais: ${resultado.sobraram.join(", ")}`);
+    elementos.feedbackTraducao.textContent = `quase, mas ainda está errado. ${detalhes.join(" • ")}`;
+    elementos.feedbackTraducao.className = "feedback-ditado erro";
+  } else {
+    elementos.feedbackTraducao.textContent = "errado. compare com a resposta correta.";
+    elementos.feedbackTraducao.className = "feedback-ditado erro";
+  }
+  elementos.gabaritoTraducao.textContent = `resposta: ${exercicio.fr}`;
+  terminarTraducao();
+}
+
+function revelarTraducao() {
+  if (!estado.exercicioTraducao) return;
+  elementos.feedbackTraducao.textContent = "resposta mostrada.";
+  elementos.feedbackTraducao.className = "feedback-ditado";
+  elementos.gabaritoTraducao.textContent = `resposta: ${estado.exercicioTraducao.fr}`;
+  terminarTraducao();
+  elementos.tentarNovamenteTraducao.hidden = false;
+}
+
+function tentarNovamenteTraducao() {
+  elementos.respostaTraducao.value = "";
+  elementos.respostaTraducao.disabled = false;
+  elementos.feedbackTraducao.textContent = "";
+  elementos.feedbackTraducao.className = "feedback-ditado";
+  elementos.gabaritoTraducao.textContent = "";
+  elementos.revelarTraducao.hidden = false;
+  elementos.tentarNovamenteTraducao.hidden = true;
+  elementos.pularTraducao.hidden = false;
+  elementos.conferirTraducao.hidden = false;
+  elementos.proximaTraducao.hidden = true;
+  elementos.respostaTraducao.focus();
+}
+
 function atualizarTelaConformeModo() {
   elementos.painelOuvir.hidden = estado.modo !== "ouvir";
   elementos.painelEstudar.hidden = estado.modo !== "estudar";
+  elementos.painelDitado.hidden = estado.modo !== "ditado";
+  elementos.painelTraduzir.hidden = estado.modo !== "traduzir";
   if (estado.modo === "ouvir") montarJanelaLetra();
-  else montarPainelEstudo();
+  else if (estado.modo === "estudar") {
+    atualizarPlacar();
+    montarPainelEstudo();
+  } else if (estado.modo === "ditado" && estado.indiceDitado === null) novaPerguntaDitado();
+  if (estado.modo === "traduzir" && estado.exercicioTraducao === null) novaTraducao();
 }
 
 elementos.campoBusca.addEventListener("input", renderizarListaMusicas);
@@ -256,6 +559,15 @@ elementos.campoAudio.addEventListener("change", (e) => {
 elementos.audio.addEventListener("timeupdate", () => {
   const musica = estado.musicaSelecionada;
   if (!musica) return;
+  if (
+    estado.modo === "ditado" &&
+    estado.fimTrechoDitado !== null &&
+    elementos.audio.currentTime >= estado.fimTrechoDitado
+  ) {
+    elementos.audio.pause();
+    estado.fimTrechoDitado = null;
+    return;
+  }
   const novoIndice = encontrarIndiceDaLinhaAtual(musica.linhas, elementos.audio.currentTime);
   if (novoIndice !== estado.indiceAtual) {
     estado.indiceAtual = novoIndice;
@@ -287,6 +599,28 @@ elementos.botoesIdioma.forEach((botao) => {
 elementos.fecharModal.addEventListener("click", fecharModalPalavra);
 elementos.botaoConferir.addEventListener("click", conferirResposta);
 elementos.botaoNaoSei.addEventListener("click", revelarResposta);
+elementos.ouvirDitado.addEventListener("click", tocarTrechoDitado);
+elementos.conferirDitado.addEventListener("click", conferirDitado);
+elementos.revelarDitado.addEventListener("click", revelarDitado);
+elementos.pularDitado.addEventListener("click", novaPerguntaDitado);
+elementos.proximoDitado.addEventListener("click", novaPerguntaDitado);
+elementos.conferirTraducao.addEventListener("click", conferirTraducao);
+elementos.revelarTraducao.addEventListener("click", revelarTraducao);
+elementos.tentarNovamenteTraducao.addEventListener("click", tentarNovamenteTraducao);
+elementos.pularTraducao.addEventListener("click", novaTraducao);
+elementos.proximaTraducao.addEventListener("click", novaTraducao);
+elementos.respostaTraducao.addEventListener("keydown", (e) => {
+  if (e.key === "Enter" && !e.shiftKey) {
+    e.preventDefault();
+    conferirTraducao();
+  }
+});
+elementos.respostaDitado.addEventListener("keydown", (e) => {
+  if (e.key === "Enter" && !e.shiftKey) {
+    e.preventDefault();
+    conferirDitado();
+  }
+});
 elementos.campoResposta.addEventListener("keydown", (e) => {
   if (e.key === "Enter") conferirResposta();
 });

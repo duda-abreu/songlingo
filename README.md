@@ -1,6 +1,6 @@
 # songlingo
 
-App pessoal pra aprender francês cantando. A ideia é simples: você escolhe uma música, ela toca, a letra vai passando sincronizada com o áudio, e quando bate a curiosidade você clica na frase e vê a tradução em português e inglês na hora. Tem também um modo de estudo, onde cada palavra da letra vira uma pergunta — você tenta traduzir, o app confere e vai guardando o que você já sabe.
+App pessoal pra aprender francês cantando. Você ouve com letra sincronizada, consulta traduções, pratica vocabulário e treina compreensão oral com ditados de trechos reais das músicas.
 
 ## como rodar
 
@@ -11,11 +11,17 @@ pip install -r requirements.txt
 python main.py
 ```
 
-## os dois modos
+## modos de estudo
 
 **ouvir** — a barra lateral lista as músicas que já estão em `musicas/`. Clica, dá play, e a linha que está tocando fica destacada. Clicar em qualquer linha da letra pula o áudio pra aquele trecho e mostra a tradução no painel de baixo. Tem um switch pra decidir se quer que a tradução acompanhe sozinha enquanto toca, ou só apareça quando você clicar manualmente.
 
 **estudar palavras** — cada palavra da letra vira um botão. Clica, digita o que acha que significa, o app confere (ignora acento e maiúscula/minúscula, então "coração" e "coracao" contam igual). Se a palavra ainda não tem tradução cadastrada pra ela, o que você digitar vira a resposta oficial dali pra frente — assim o vocabulário de cada música vai crescendo com o uso.
+
+**ditado** — o app sorteia uma frase em francês, toca só aquele trecho e espera você escrever o que ouviu. A correção tolera acentos, pontuação e pequenos erros, mostra palavras que faltaram ou sobraram e permite repetir, revelar ou pular sem marcar erro.
+
+**inglês → francês** — mostra uma frase em inglês, tirada das traduções das músicas ou do banco de prática, e pede a versão em francês. A correção ignora acentos e pontuação, aceita pequenas variações e mostra claramente se ficou certa ou errada.
+
+**palavras aprendidas** — reúne o vocabulário já acertado para busca e revisão. Na versão web, esse progresso fica salvo no navegador.
 
 ## adicionando música
 

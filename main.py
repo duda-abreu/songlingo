@@ -12,6 +12,7 @@ from mutagen.id3 import ID3
 from mutagen.mp3 import MP3
 
 from criar_musica import analisar_texto_lrc, montar_vocabulario, tentar_traduzir
+from estudo import avaliar_resposta, exercicios_ingles_para_frances, fim_do_trecho, indices_validos_para_ditado
 from utilidades import (
     buscar_letra_sincronizada,
     carregar_lista_de_musicas,
@@ -59,6 +60,8 @@ FONTE_CORPO = "IBM Plex Mono"
 
 MODO_OUVIR = "ouvir"
 MODO_ESTUDAR = "estudar"
+MODO_DITADO = "ditado"
+MODO_TRADUZIR = "traduzir"
 MODO_REVISAR = "revisar"
 
 
@@ -77,6 +80,10 @@ async def main(pagina: ft.Page):
         "idioma_de_estudo": "pt",
         "acertos": 0,
         "tentativas": 0,
+        "indice_ditado": None,
+        "fim_trecho_ditado": None,
+        "questoes_ditado": 0,
+        "exercicio_traducao": None,
         "escuro": True,
         "filtro_busca": "",
         "aleatorio": False,
@@ -195,6 +202,108 @@ async def main(pagina: ft.Page):
 
     texto_placar = ft.Text("acertos: 0 / 0", size=15, font_family=FONTE_CORPO, color=cor("texto_secundario"))
 
+    texto_ditado_etapa = ft.Text("trecho 1", size=13, color=cor("texto_secundario"))
+    texto_ditado_instrucao = ft.Text(
+        "ouça o trecho e escreva exatamente o que entendeu em francês",
+        size=18,
+        font_family=FONTE_CORPO,
+        text_align=ft.TextAlign.CENTER,
+    )
+    campo_ditado = ft.TextField(
+        label="o que você ouviu?",
+        hint_text="escreva em francês",
+        multiline=True,
+        min_lines=2,
+        max_lines=4,
+        autofocus=True,
+        border_radius=12,
+    )
+    texto_feedback_ditado = ft.Text("", size=16, font_family=FONTE_CORPO, selectable=True)
+    texto_resposta_ditado = ft.Text("", size=17, font_family=FONTE_CORPO, selectable=True)
+    progresso_ditado = ft.ProgressBar(value=0, color=cor("destaque"), bgcolor=cor("cartao_claro"))
+    botao_ouvir_ditado = ft.Button("ouvir trecho", icon=ft.Icons.PLAY_ARROW_ROUNDED)
+    botao_repetir_ditado = ft.IconButton(icon=ft.Icons.REPLAY_ROUNDED, tooltip="ouvir novamente")
+    botao_revelar_ditado = ft.TextButton("não sei", icon=ft.Icons.VISIBILITY_ROUNDED)
+    botao_pular_ditado = ft.TextButton("pular", icon=ft.Icons.SKIP_NEXT_ROUNDED)
+    botao_conferir_ditado = ft.Button("conferir", icon=ft.Icons.CHECK_ROUNDED, bgcolor=cor("destaque"), color="white")
+    botao_proximo_ditado = ft.Button("próximo", icon=ft.Icons.SKIP_NEXT_ROUNDED, visible=False)
+    painel_ditado = criar_cartao(
+        "ditado de escuta",
+        ft.Column(
+            expand=True,
+            alignment=ft.MainAxisAlignment.CENTER,
+            horizontal_alignment=ft.CrossAxisAlignment.CENTER,
+            spacing=16,
+            controls=[
+                ft.Row([texto_ditado_etapa, ft.Container(expand=True), botao_repetir_ditado]),
+                progresso_ditado,
+                ft.Container(height=8),
+                texto_ditado_instrucao,
+                botao_ouvir_ditado,
+                campo_ditado,
+                texto_feedback_ditado,
+                texto_resposta_ditado,
+                ft.Row(
+                    [botao_revelar_ditado, botao_pular_ditado, ft.Container(expand=True), botao_conferir_ditado, botao_proximo_ditado],
+                    alignment=ft.MainAxisAlignment.END,
+                ),
+            ],
+        ),
+        expandir=True,
+    )
+    painel_ditado.visible = False
+
+    texto_frase_ingles = ft.Text(
+        "",
+        size=24,
+        weight=ft.FontWeight.W_600,
+        font_family=FONTE_CORPO,
+        text_align=ft.TextAlign.CENTER,
+        selectable=True,
+    )
+    texto_origem_traducao = ft.Text("", size=12, color=cor("texto_secundario"), italic=True)
+    campo_traducao_frances = ft.TextField(
+        label="tradução em francês",
+        hint_text="écrivez en français",
+        multiline=True,
+        min_lines=2,
+        max_lines=4,
+        autofocus=True,
+        border_radius=12,
+    )
+    texto_feedback_traducao = ft.Text("", size=16, font_family=FONTE_CORPO, selectable=True)
+    texto_gabarito_traducao = ft.Text("", size=17, font_family=FONTE_CORPO, selectable=True)
+    botao_revelar_traducao = ft.TextButton("mostrar resposta", icon=ft.Icons.VISIBILITY_ROUNDED)
+    botao_tentar_novamente_traducao = ft.TextButton(
+        "ocultar e tentar de novo", icon=ft.Icons.VISIBILITY_OFF_ROUNDED, visible=False
+    )
+    botao_pular_traducao = ft.TextButton("pular", icon=ft.Icons.SKIP_NEXT_ROUNDED)
+    botao_conferir_traducao = ft.Button("conferir", icon=ft.Icons.CHECK_ROUNDED, bgcolor=cor("destaque"), color="white")
+    botao_proxima_traducao = ft.Button("próxima", icon=ft.Icons.SKIP_NEXT_ROUNDED, visible=False)
+    painel_traduzir = criar_cartao(
+        "inglês → francês",
+        ft.Column(
+            expand=True,
+            alignment=ft.MainAxisAlignment.CENTER,
+            horizontal_alignment=ft.CrossAxisAlignment.CENTER,
+            spacing=16,
+            controls=[
+                ft.Row([ft.Container(expand=True), texto_origem_traducao]),
+                ft.Text("traduza para francês", size=15, color=cor("texto_secundario")),
+                texto_frase_ingles,
+                campo_traducao_frances,
+                texto_feedback_traducao,
+                texto_gabarito_traducao,
+                ft.Row(
+                    [botao_revelar_traducao, botao_tentar_novamente_traducao, botao_pular_traducao, ft.Container(expand=True), botao_conferir_traducao, botao_proxima_traducao],
+                    alignment=ft.MainAxisAlignment.END,
+                ),
+            ],
+        ),
+        expandir=True,
+    )
+    painel_traduzir.visible = False
+
     slider_progresso = ft.Slider(min=0, max=100, value=0, active_color=cor("destaque"), expand=True)
     texto_tempo_atual = ft.Text("00:00", size=11, color=cor("texto_secundario"))
     texto_tempo_total = ft.Text("00:00", size=11, color=cor("texto_secundario"))
@@ -251,6 +360,8 @@ async def main(pagina: ft.Page):
         linha_seletor_de_modo.controls = [
             criar_botao_de_modo("ouvir", MODO_OUVIR),
             criar_botao_de_modo("modo estudo", MODO_ESTUDAR),
+            criar_botao_de_modo("ditado", MODO_DITADO),
+            criar_botao_de_modo("inglês → francês", MODO_TRADUZIR),
             criar_botao_de_modo("palavras aprendidas", MODO_REVISAR),
         ]
         linha_seletor_de_idioma.controls = [
@@ -262,7 +373,11 @@ async def main(pagina: ft.Page):
         switch_seguir_letra.visible = estado["modo"] == MODO_OUVIR
         painel_traducao.visible = estado["modo"] == MODO_OUVIR
         texto_placar.visible = estado["modo"] == MODO_ESTUDAR
-        janela_letra.visible = estado["modo"] != MODO_REVISAR
+        if estado["modo"] == MODO_ESTUDAR:
+            texto_placar.value = f"acertos: {estado['acertos']} / {estado['tentativas']}"
+        janela_letra.visible = estado["modo"] in (MODO_OUVIR, MODO_ESTUDAR)
+        painel_ditado.visible = estado["modo"] == MODO_DITADO
+        painel_traduzir.visible = estado["modo"] == MODO_TRADUZIR
         janela_palavras_aprendidas.visible = estado["modo"] == MODO_REVISAR
         coluna_letra.visible = estado["modo"] == MODO_ESTUDAR
         coluna_letra_ouvir.visible = estado["modo"] == MODO_OUVIR
@@ -272,6 +387,10 @@ async def main(pagina: ft.Page):
         redesenhar_seletores()
         atualizar_letra_na_tela()
         atualizar_lista_de_palavras_aprendidas()
+        if novo_modo == MODO_DITADO:
+            preparar_ditado()
+        elif novo_modo == MODO_TRADUZIR:
+            preparar_traducao()
         pagina.update()
 
     def mudar_idioma_de_estudo(novo_idioma: str):
@@ -331,7 +450,6 @@ async def main(pagina: ft.Page):
         chave = estado_dialogo["chave_palavra"]
         entrada = vocabulario.get(chave)
 
-        resposta_digitada = normalizar_para_comparar(campo_resposta.value)
         idioma = estado["idioma_de_estudo"]
 
         if entrada is None or not entrada.get(idioma):
@@ -360,14 +478,19 @@ async def main(pagina: ft.Page):
             salvar_vocabulario_no_arquivo(estado["musica_selecionada"]["caminho_do_json"], vocabulario)
             atualizar_letra_na_tela()
         else:
-            resposta_certa_normalizada = normalizar_para_comparar(entrada[idioma])
+            avaliacao = avaliar_resposta(campo_resposta.value, entrada[idioma])
             estado["tentativas"] += 1
 
-            if resposta_digitada == resposta_certa_normalizada:
+            if avaliacao["status"] == "certo":
                 estado["acertos"] += 1
                 texto_feedback_dialogo.value = "isso aí!"
                 texto_feedback_dialogo.color = cor("acerto")
                 campo_resposta.border_color = cor("acerto")
+            elif avaliacao["status"] == "quase":
+                texto_feedback_dialogo.value = f"quase — resposta: {entrada[idioma]}"
+                texto_feedback_dialogo.color = cor("erro")
+                campo_resposta.value = entrada[idioma]
+                campo_resposta.border_color = cor("erro")
             else:
                 texto_feedback_dialogo.value = f"era: {entrada[idioma]}"
                 texto_feedback_dialogo.color = cor("erro")
@@ -603,6 +726,10 @@ async def main(pagina: ft.Page):
         estado["linha_selecionada"] = None
         estado["acertos"] = 0
         estado["tentativas"] = 0
+        estado["indice_ditado"] = None
+        estado["fim_trecho_ditado"] = None
+        estado["questoes_ditado"] = 0
+        estado["exercicio_traducao"] = None
         texto_placar.value = "acertos: 0 / 0"
 
         titulo_musica_texto.value = musica["titulo"]
@@ -652,6 +779,10 @@ async def main(pagina: ft.Page):
         )
 
         atualizar_letra_na_tela()
+        if estado["modo"] == MODO_DITADO:
+            preparar_ditado()
+        elif estado["modo"] == MODO_TRADUZIR:
+            preparar_traducao()
         pagina.update()
 
     def escolher_proxima_musica():
@@ -756,6 +887,209 @@ async def main(pagina: ft.Page):
         await buscar_posicao(linha["tempo"])
         mostrar_traducao_da_linha(indice)
 
+    def obter_linha_ditado():
+        musica = estado["musica_selecionada"]
+        indice = estado["indice_ditado"]
+        if not musica or indice is None or indice >= len(musica["linhas"]):
+            return None
+        return musica["linhas"][indice]
+
+    async def tocar_trecho_ditado(e=None):
+        linha = obter_linha_ditado()
+        musica = estado["musica_selecionada"]
+        if not linha or not musica or not tem_audio_carregado():
+            texto_feedback_ditado.value = "selecione o arquivo de áudio para praticar."
+            pagina.update()
+            return
+
+        estado["fim_trecho_ditado"] = fim_do_trecho(
+            musica["linhas"], estado["indice_ditado"], estado["duracao_audio"]
+        )
+        await buscar_posicao(float(linha["tempo"]))
+
+    def preparar_ditado(e=None):
+        musica = estado["musica_selecionada"]
+        if not musica:
+            texto_ditado_instrucao.value = "escolha uma música para começar."
+            return
+
+        validos = indices_validos_para_ditado(musica["linhas"])
+        if not validos:
+            texto_ditado_instrucao.value = "essa música não tem trechos adequados para ditado."
+            campo_ditado.disabled = True
+            return
+
+        anterior = estado["indice_ditado"]
+        opcoes = [indice for indice in validos if indice != anterior] or validos
+        estado["indice_ditado"] = random.choice(opcoes)
+        estado["fim_trecho_ditado"] = None
+        estado["questoes_ditado"] += 1
+        texto_ditado_etapa.value = f"trecho {estado['questoes_ditado']}"
+        progresso_ditado.value = min((estado["questoes_ditado"] - 1) % 10 / 10, 1)
+        texto_ditado_instrucao.value = "ouça o trecho e escreva exatamente o que entendeu em francês"
+        campo_ditado.value = ""
+        campo_ditado.disabled = False
+        texto_feedback_ditado.value = ""
+        texto_resposta_ditado.value = ""
+        botao_conferir_ditado.visible = True
+        botao_revelar_ditado.visible = True
+        botao_pular_ditado.visible = True
+        botao_proximo_ditado.visible = False
+        pagina.update()
+        pagina.run_task(tocar_trecho_ditado)
+
+    def finalizar_pergunta_ditado():
+        campo_ditado.disabled = True
+        botao_conferir_ditado.visible = False
+        botao_revelar_ditado.visible = False
+        botao_pular_ditado.visible = False
+        botao_proximo_ditado.visible = True
+
+    def conferir_ditado(e=None):
+        linha = obter_linha_ditado()
+        if not linha:
+            return
+        resultado = avaliar_resposta(campo_ditado.value, linha["fr"])
+        if resultado["status"] == "vazio":
+            texto_feedback_ditado.value = "digite o que você ouviu primeiro."
+            texto_feedback_ditado.color = cor("erro")
+            pagina.update()
+            return
+
+        if resultado["status"] == "certo":
+            texto_feedback_ditado.value = "certo! você ouviu muito bem. 🌸"
+            texto_feedback_ditado.color = cor("acerto")
+        elif resultado["status"] == "quase":
+            detalhes = []
+            if resultado["faltaram"]:
+                detalhes.append("faltou: " + ", ".join(resultado["faltaram"]))
+            if resultado["sobraram"]:
+                detalhes.append("a mais: " + ", ".join(resultado["sobraram"]))
+            texto_feedback_ditado.value = "quase! " + " • ".join(detalhes)
+            texto_feedback_ditado.color = cor("erro")
+        else:
+            texto_feedback_ditado.value = "ainda não. compare sua resposta com a letra."
+            texto_feedback_ditado.color = cor("erro")
+
+        traducao = linha.get(estado["idioma_de_estudo"], "")
+        texto_resposta_ditado.value = f"resposta: {linha['fr']}\ntradução: {traducao}"
+        finalizar_pergunta_ditado()
+        pagina.update()
+
+    def revelar_ditado(e=None):
+        linha = obter_linha_ditado()
+        if not linha:
+            return
+        texto_feedback_ditado.value = "sem problema — ouça de novo acompanhando a resposta."
+        texto_feedback_ditado.color = cor("texto_secundario")
+        traducao = linha.get(estado["idioma_de_estudo"], "")
+        texto_resposta_ditado.value = f"resposta: {linha['fr']}\ntradução: {traducao}"
+        finalizar_pergunta_ditado()
+        pagina.update()
+        pagina.run_task(tocar_trecho_ditado)
+
+    campo_ditado.on_submit = conferir_ditado
+    botao_ouvir_ditado.on_click = tocar_trecho_ditado
+    botao_repetir_ditado.on_click = tocar_trecho_ditado
+    botao_conferir_ditado.on_click = conferir_ditado
+    botao_revelar_ditado.on_click = revelar_ditado
+    botao_pular_ditado.on_click = preparar_ditado
+    botao_proximo_ditado.on_click = preparar_ditado
+
+    def preparar_traducao(e=None):
+        musica = estado["musica_selecionada"]
+        linhas = musica["linhas"] if musica else []
+        exercicios = exercicios_ingles_para_frances(linhas)
+        anterior = estado["exercicio_traducao"]
+        opcoes = [item for item in exercicios if item != anterior] or exercicios
+        if not opcoes:
+            texto_frase_ingles.value = "No exercises available"
+            campo_traducao_frances.disabled = True
+            pagina.update()
+            return
+
+        estado["exercicio_traducao"] = random.choice(opcoes)
+        exercicio = estado["exercicio_traducao"]
+        texto_frase_ingles.value = exercicio["en"]
+        texto_origem_traducao.value = exercicio["origem"]
+        campo_traducao_frances.value = ""
+        campo_traducao_frances.disabled = False
+        texto_feedback_traducao.value = ""
+        texto_gabarito_traducao.value = ""
+        botao_revelar_traducao.visible = True
+        botao_tentar_novamente_traducao.visible = False
+        botao_pular_traducao.visible = True
+        botao_conferir_traducao.visible = True
+        botao_proxima_traducao.visible = False
+        pagina.update()
+
+    def finalizar_traducao():
+        campo_traducao_frances.disabled = True
+        botao_revelar_traducao.visible = False
+        botao_pular_traducao.visible = False
+        botao_conferir_traducao.visible = False
+        botao_proxima_traducao.visible = True
+
+    def conferir_traducao(e=None):
+        exercicio = estado["exercicio_traducao"]
+        if not exercicio:
+            return
+        resultado = avaliar_resposta(campo_traducao_frances.value, exercicio["fr"])
+        if resultado["status"] == "vazio":
+            texto_feedback_traducao.value = "escreva uma tradução primeiro."
+            texto_feedback_traducao.color = cor("erro")
+            pagina.update()
+            return
+
+        if resultado["status"] == "certo":
+            texto_feedback_traducao.value = "certo! 🌸"
+            texto_feedback_traducao.color = cor("acerto")
+        elif resultado["status"] == "quase":
+            detalhes = []
+            if resultado["faltaram"]:
+                detalhes.append("faltou: " + ", ".join(resultado["faltaram"]))
+            if resultado["sobraram"]:
+                detalhes.append("a mais: " + ", ".join(resultado["sobraram"]))
+            texto_feedback_traducao.value = "quase, mas ainda está errado. " + " • ".join(detalhes)
+            texto_feedback_traducao.color = cor("erro")
+        else:
+            texto_feedback_traducao.value = "errado. compare com a resposta correta."
+            texto_feedback_traducao.color = cor("erro")
+
+        texto_gabarito_traducao.value = f"resposta: {exercicio['fr']}"
+        finalizar_traducao()
+        pagina.update()
+
+    def revelar_traducao(e=None):
+        exercicio = estado["exercicio_traducao"]
+        if not exercicio:
+            return
+        texto_feedback_traducao.value = "resposta mostrada."
+        texto_feedback_traducao.color = cor("texto_secundario")
+        texto_gabarito_traducao.value = f"resposta: {exercicio['fr']}"
+        finalizar_traducao()
+        botao_tentar_novamente_traducao.visible = True
+        pagina.update()
+
+    def tentar_novamente_traducao(e=None):
+        campo_traducao_frances.value = ""
+        campo_traducao_frances.disabled = False
+        texto_feedback_traducao.value = ""
+        texto_gabarito_traducao.value = ""
+        botao_revelar_traducao.visible = True
+        botao_tentar_novamente_traducao.visible = False
+        botao_pular_traducao.visible = True
+        botao_conferir_traducao.visible = True
+        botao_proxima_traducao.visible = False
+        pagina.update()
+
+    campo_traducao_frances.on_submit = conferir_traducao
+    botao_conferir_traducao.on_click = conferir_traducao
+    botao_revelar_traducao.on_click = revelar_traducao
+    botao_tentar_novamente_traducao.on_click = tentar_novamente_traducao
+    botao_pular_traducao.on_click = preparar_traducao
+    botao_proxima_traducao.on_click = preparar_traducao
+
     async def acompanhar_posicao_em_loop():
         while True:
             await asyncio.sleep(0.4)
@@ -777,6 +1111,18 @@ async def main(pagina: ft.Page):
                     continue
 
                 posicao_segundos = estado["offset_pygame"] + pygame.mixer.music.get_pos() / 1000
+                if (
+                    estado["modo"] == MODO_DITADO
+                    and estado["fim_trecho_ditado"] is not None
+                    and posicao_segundos >= estado["fim_trecho_ditado"]
+                ):
+                    pygame.mixer.music.stop()
+                    estado["tocando"] = False
+                    estado["reproducao_iniciada"] = False
+                    estado["fim_trecho_ditado"] = None
+                    botao_play_pause.icon = ft.Icons.PLAY_ARROW_ROUNDED
+                    pagina.update()
+                    continue
                 await atualizar_posicao(posicao_segundos)
                 pagina.update()
             except Exception as erro:
@@ -1282,6 +1628,8 @@ async def main(pagina: ft.Page):
                 linha_seletor_de_modo,
                 ft.Row([linha_seletor_de_idioma, ft.Container(expand=True), texto_placar]),
                 janela_letra,
+                painel_ditado,
+                painel_traduzir,
                 janela_palavras_aprendidas,
                 ft.Row([switch_seguir_letra]),
                 criar_cartao("tradução", painel_traducao),

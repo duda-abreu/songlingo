@@ -120,14 +120,14 @@
     {
       "tempo": 65.69,
       "fr": "Tu me fuis pendant des heures",
-      "pt": "",
-      "en": ""
+      "pt": "Você foge de mim por horas",
+      "en": "You run away from me for hours"
     },
     {
       "tempo": 68.08,
       "fr": "Promets-moi que tu reviendras",
-      "pt": "",
-      "en": ""
+      "pt": "Prometa-me que você voltará",
+      "en": "Promise me you'll come back"
     },
     {
       "tempo": 69.66,
@@ -138,7 +138,7 @@
     {
       "tempo": 72.39,
       "fr": "Promets-moi qu'on se reverra",
-      "pt": "",
+      "pt": "Prometa-me que nos veremos novamente",
       "en": "Promise me we'll see each other again"
     },
     {
@@ -362,12 +362,12 @@
       "en": "person"
     },
     "dans": {
-      "pt": "",
+      "pt": "Em",
       "en": "In"
     },
     "le": {
       "pt": "O",
-      "en": ""
+      "en": "THE"
     },
     "reflet": {
       "pt": "reflexão",

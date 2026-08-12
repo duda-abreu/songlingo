@@ -51,6 +51,8 @@
       <nav class="seletor-modo">
         <button class="botao-modo ativo" data-modo="ouvir">ouvir</button>
         <button class="botao-modo" data-modo="estudar">modo estudo</button>
+        <button class="botao-modo" data-modo="ditado">ditado</button>
+        <button class="botao-modo" data-modo="traduzir">inglês → francês</button>
       </nav>
 
       <div id="painel-ouvir" class="painel-ouvir">
@@ -78,6 +80,48 @@
         <p id="texto-placar" class="texto-placar">acertos: 0 / 0</p>
         <div id="lista-letra-estudo" class="lista-letra-estudo"></div>
       </div>
+
+      <div id="painel-ditado" class="painel-ditado" hidden>
+        <div class="cabecalho-ditado">
+          <span id="etapa-ditado">trecho 1</span>
+        </div>
+        <progress id="progresso-ditado" max="10" value="0"></progress>
+        <div class="cartao cartao-ditado">
+          <span class="etiqueta-cartao">ditado de escuta</span>
+          <p>ouça o trecho e escreva exatamente o que entendeu em francês</p>
+          <button id="ouvir-ditado" class="botao-primario">▶ ouvir trecho</button>
+          <textarea id="resposta-ditado" rows="3" placeholder="escreva em francês" autocomplete="off"></textarea>
+          <div id="feedback-ditado" class="feedback-ditado"></div>
+          <div id="gabarito-ditado" class="gabarito-ditado"></div>
+          <div class="acoes-ditado">
+            <button id="revelar-ditado" class="botao-secundario">não sei</button>
+            <button id="pular-ditado" class="botao-secundario">pular →</button>
+            <button id="conferir-ditado" class="botao-primario">conferir</button>
+            <button id="proximo-ditado" class="botao-primario" hidden>próximo →</button>
+          </div>
+        </div>
+      </div>
+
+      <div id="painel-traduzir" class="painel-ditado" hidden>
+        <div class="cabecalho-ditado">
+          <span id="origem-traducao"></span>
+        </div>
+        <div class="cartao cartao-ditado">
+          <span class="etiqueta-cartao">inglês → francês</span>
+          <p>traduza para francês</p>
+          <p id="frase-ingles" class="frase-desafio"></p>
+          <textarea id="resposta-traducao" rows="3" placeholder="écrivez en français" autocomplete="off"></textarea>
+          <div id="feedback-traducao" class="feedback-ditado"></div>
+          <div id="gabarito-traducao" class="gabarito-ditado"></div>
+          <div class="acoes-ditado">
+            <button id="revelar-traducao" class="botao-secundario">mostrar resposta</button>
+            <button id="tentar-novamente-traducao" class="botao-secundario" hidden>ocultar e tentar de novo</button>
+            <button id="pular-traducao" class="botao-secundario">pular →</button>
+            <button id="conferir-traducao" class="botao-primario">conferir</button>
+            <button id="proxima-traducao" class="botao-primario" hidden>próxima →</button>
+          </div>
+        </div>
+      </div>
     </div>
   </main>
 </div>
@@ -98,6 +142,6 @@
   </div>
 </div>
 
-<script src="app.js"></script>
+<script src="app.js?v=2"></script>
 </body>
 </html>

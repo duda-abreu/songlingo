@@ -163,7 +163,7 @@
       "tempo": 98.83,
       "fr": "Tous ces gens m'avaient prévenue",
       "pt": "Todas essas pessoas me avisaram",
-      "en": ""
+      "en": "All these people warned me"
     },
     {
       "tempo": 101.5,
@@ -311,7 +311,7 @@
     },
     "perd": {
       "pt": "perder",
-      "en": ""
+      "en": "lose"
     },
     "de": {
       "pt": "de",
@@ -347,7 +347,7 @@
     },
     "ni": {
       "pt": "nenhum",
-      "en": ""
+      "en": "neither"
     },
     "l'un": {
       "pt": "seg",
@@ -494,7 +494,7 @@
       "en": "torn"
     },
     "j'vais": {
-      "pt": "",
+      "pt": "eu vou",
       "en": "I'm going"
     },
     "avoir": {
@@ -502,7 +502,7 @@
       "en": "to have"
     },
     "l'habitude": {
-      "pt": "",
+      "pt": "o hábito",
       "en": "the habit"
     },
     "mais": {
@@ -510,20 +510,20 @@
       "en": "but"
     },
     "derniers": {
-      "pt": "",
+      "pt": "mais recente",
       "en": "latest"
     },
     "mois": {
-      "pt": "",
+      "pt": "mês",
       "en": "month"
     },
     "j'ai": {
       "pt": "Eu tenho",
-      "en": ""
+      "en": "I have"
     },
     "flanché": {
       "pt": "estremeceu",
-      "en": ""
+      "en": "flinched"
     },
     "prendre": {
       "pt": "pegar",
