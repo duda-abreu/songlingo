@@ -64,11 +64,23 @@ class PainelDefi:
         self.tema = ft.Text(size=12, color=self.cor("texto_secundario"))
         self.titulo = ft.Text(size=30, font_family=FONTE_TITULO, weight=ft.FontWeight.W_600)
         self.estado_unidade = ft.Text(size=11, color=self.cor("texto_secundario"))
-        self.progresso = ft.ProgressBar(value=0, color=self.cor("destaque"), bgcolor=self.cor("cartao_claro"))
+        self.progresso = ft.ProgressBar(
+            value=0,
+            height=6,
+            bar_height=6,
+            border_radius=6,
+            color=self.cor("destaque"),
+            bgcolor=self.cor("cartao_claro"),
+        )
 
         self.seletor_unidade = ft.Dropdown(
             value="0",
             width=330,
+            height=52,
+            filled=True,
+            fill_color=self.cor("cartao"),
+            color=self.cor("texto_principal"),
+            border_color=self.cor("cartao_claro"),
             border_radius=12,
             options=[
                 ft.DropdownOption(key=str(indice), text=f"{unidade['nivel']} · {unidade['titulo']}")
@@ -128,9 +140,9 @@ class PainelDefi:
                 ft.Row(
                     [
                         ft.Column([ft.Text("français en action · A2 → B1", size=11, color=self.cor("destaque")), ft.Text("parcours défi", size=36, font_family=FONTE_TITULO, weight=ft.FontWeight.W_600)], spacing=0),
-                        ft.Container(expand=True),
                         self.seletor_unidade,
                     ],
+                    alignment=ft.MainAxisAlignment.SPACE_BETWEEN,
                     vertical_alignment=ft.CrossAxisAlignment.CENTER,
                     wrap=True,
                 ),
