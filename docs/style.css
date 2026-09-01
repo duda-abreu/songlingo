@@ -561,10 +561,10 @@ button.botao-arquivo { font-family: inherit; }
 .sobretitulo-defi { margin: 0 0 5px; color: var(--destaque); font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; font-size: 12px; }
 
 .progresso-defi {
-  height: 7px;
+  height: 6px;
   overflow: hidden;
   margin-bottom: 22px;
-  border-radius: 20px;
+  border-radius: 6px;
   background: var(--cartao-claro);
 }
 

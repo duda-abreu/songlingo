@@ -3,6 +3,7 @@ from pathlib import Path
 
 PASTA_MUSICAS = Path(__file__).parent / "musicas"
 PASTA_SITE = Path(__file__).parent / "docs"
+CAMINHO_DEFI = Path(__file__).parent / "defi_data.json"
 
 
 def montar_dados_do_site():
@@ -33,5 +34,23 @@ def montar_dados_do_site():
     print(f"{len(musicas)} musicas exportadas pra {caminho_saida}")
 
 
+def montar_dados_do_defi():
+    if not CAMINHO_DEFI.exists():
+        print("defi_data.json nao encontrado, pulando.")
+        return
+
+    with open(CAMINHO_DEFI, encoding="utf-8") as arquivo:
+        curso = json.load(arquivo)
+
+    caminho_saida = PASTA_SITE / "defi-data.js"
+    with open(caminho_saida, "w", encoding="utf-8") as arquivo:
+        arquivo.write("window.CURSO_DEFI = ")
+        json.dump(curso, arquivo, ensure_ascii=False, separators=(",", ":"))
+        arquivo.write(";\n")
+
+    print(f"{len(curso)} unidades do defi exportadas pra {caminho_saida}")
+
+
 if __name__ == "__main__":
     montar_dados_do_site()
+    montar_dados_do_defi()
