@@ -1,0 +1,451 @@
+import json
+import os
+import random
+import subprocess
+import threading
+import unicodedata
+from pathlib import Path
+
+import flet as ft
+
+
+FONTE_TITULO = "Baloo 2"
+FONTE_CORPO = "IBM Plex Mono"
+
+
+def _normalizar(texto: str) -> str:
+    valor = unicodedata.normalize("NFD", (texto or "").lower())
+    valor = "".join(letra for letra in valor if unicodedata.category(letra) != "Mn")
+    return " ".join("".join(letra if letra.isalnum() else " " for letra in valor).split())
+
+
+def _distancia(a: str, b: str) -> int:
+    linha = list(range(len(b) + 1))
+    for indice_a, letra_a in enumerate(a, 1):
+        anterior = linha[0]
+        linha[0] = indice_a
+        for indice_b, letra_b in enumerate(b, 1):
+            atual = linha[indice_b]
+            linha[indice_b] = min(
+                linha[indice_b] + 1,
+                linha[indice_b - 1] + 1,
+                anterior + (letra_a != letra_b),
+            )
+            anterior = atual
+    return linha[-1]
+
+
+def _resposta_aceita(resposta: str, esperadas: list[str]) -> bool:
+    recebida = _normalizar(resposta)
+    for esperada in esperadas:
+        certa = _normalizar(esperada)
+        limite = max(1, int(len(certa) * 0.07))
+        if recebida == certa or _distancia(recebida, certa) <= limite:
+            return True
+    return False
+
+
+class PainelDefi:
+    def __init__(self, pagina: ft.Page, cor):
+        self.pagina = pagina
+        self.cor = cor
+        caminho = Path(__file__).with_name("defi_data.json")
+        self.curso = json.loads(caminho.read_text(encoding="utf-8"))
+        self.unidade_atual = 0
+        self.atividade_atual = 0
+        self.concluidas: set[str] = set()
+        self.opcao_selecionada: int | None = None
+        self.conexoes_feitas: set[int] = set()
+        self.conexao_esquerda: int | None = None
+        self.conexao_direita: int | None = None
+        self.botoes_associacao: dict[tuple[str, int], ft.Button] = {}
+
+        self.nivel = ft.Text(weight=ft.FontWeight.BOLD, color=self.cor("destaque"))
+        self.tema = ft.Text(size=12, color=self.cor("texto_secundario"))
+        self.titulo = ft.Text(size=30, font_family=FONTE_TITULO, weight=ft.FontWeight.W_600)
+        self.estado_unidade = ft.Text(size=11, color=self.cor("texto_secundario"))
+        self.progresso = ft.ProgressBar(value=0, color=self.cor("destaque"), bgcolor=self.cor("cartao_claro"))
+
+        self.seletor_unidade = ft.Dropdown(
+            value="0",
+            width=330,
+            border_radius=12,
+            options=[
+                ft.DropdownOption(key=str(indice), text=f"{unidade['nivel']} · {unidade['titulo']}")
+                for indice, unidade in enumerate(self.curso)
+            ],
+            on_select=self._selecionar_unidade,
+        )
+
+        self.documento_titulo = ft.Text(size=19, font_family=FONTE_TITULO, weight=ft.FontWeight.W_600)
+        self.documento_texto = ft.Text(size=15, selectable=True)
+        self.ferramenta_titulo = ft.Text(size=18, font_family=FONTE_TITULO, weight=ft.FontWeight.W_600)
+        self.ferramenta_texto = ft.Text(size=14, color=self.cor("texto_secundario"), selectable=True)
+        self.tipo_atividade = ft.Text(size=11, weight=ft.FontWeight.BOLD, color=self.cor("destaque"))
+        self.passos = ft.Row(spacing=6, wrap=True)
+        self.pergunta = ft.Text(size=20, font_family=FONTE_TITULO, weight=ft.FontWeight.W_600, selectable=True)
+        self.instrucao = ft.Text(size=13, color=self.cor("texto_secundario"), selectable=True)
+        self.area_resposta = ft.Column(spacing=9)
+        self.feedback = ft.Text(size=14, weight=ft.FontWeight.BOLD, selectable=True)
+        self.gabarito = ft.Container(visible=False, border_radius=12, padding=12, bgcolor=self.cor("cartao_claro"))
+        self.botao_mostrar = ft.TextButton("mostrar resposta", icon=ft.Icons.VISIBILITY_ROUNDED, on_click=self._mostrar_resposta)
+        self.botao_tentar = ft.TextButton("ocultar e tentar de novo", icon=ft.Icons.VISIBILITY_OFF_ROUNDED, visible=False, on_click=self._tentar_novamente)
+        self.botao_conferir = ft.Button("conferir", icon=ft.Icons.CHECK_ROUNDED, bgcolor=self.cor("destaque"), color="white", on_click=self._conferir)
+        self.botao_proxima = ft.Button("continuar", icon=ft.Icons.ARROW_FORWARD_ROUNDED, visible=False, on_click=self._proxima)
+
+        self.cartao_documento = self._cartao(
+            "document déclencheur",
+            ft.Column([self.documento_titulo, self.documento_texto], spacing=8),
+        )
+        self.cartao_ferramenta = self._cartao(
+            "boîte à outils",
+            ft.Column([self.ferramenta_titulo, self.ferramenta_texto], spacing=8),
+        )
+        self.cartao_atividade = self._cartao(
+            "activité",
+            ft.Column(
+                [
+                    ft.Row([self.tipo_atividade, ft.Container(expand=True), self.passos]),
+                    self.pergunta,
+                    self.instrucao,
+                    self.area_resposta,
+                    self.feedback,
+                    self.gabarito,
+                    ft.Row(
+                        [self.botao_mostrar, self.botao_tentar, ft.Container(expand=True), self.botao_conferir, self.botao_proxima],
+                        wrap=True,
+                    ),
+                ],
+                spacing=10,
+            ),
+        )
+
+        self.lista = ft.ListView(
+            expand=True,
+            spacing=12,
+            padding=ft.Padding.only(right=8, bottom=20),
+            controls=[
+                ft.Row(
+                    [
+                        ft.Column([ft.Text("français en action · A2 → B1", size=11, color=self.cor("destaque")), ft.Text("parcours défi", size=36, font_family=FONTE_TITULO, weight=ft.FontWeight.W_600)], spacing=0),
+                        ft.Container(expand=True),
+                        self.seletor_unidade,
+                    ],
+                    vertical_alignment=ft.CrossAxisAlignment.CENTER,
+                    wrap=True,
+                ),
+                self.progresso,
+                ft.Row([ft.Column([ft.Row([self.nivel, self.tema], spacing=10), self.titulo], spacing=2), ft.Container(expand=True), self.estado_unidade], wrap=True),
+                self.cartao_documento,
+                self.cartao_ferramenta,
+                self.cartao_atividade,
+                ft.Text("conteúdo autoral inspirado na abordagem acional do FLE", size=10, color=self.cor("texto_secundario"), text_align=ft.TextAlign.CENTER),
+            ],
+        )
+        self.controle = ft.Container(expand=True, visible=False, content=self.lista)
+        self._renderizar(atualizar=False)
+
+    def _cartao(self, etiqueta: str, conteudo: ft.Control) -> ft.Container:
+        return ft.Container(
+            border_radius=22,
+            bgcolor=self.cor("cartao"),
+            padding=18,
+            border=ft.Border.all(1, self.cor("cartao_claro")),
+            shadow=ft.BoxShadow(blur_radius=20, spread_radius=-5, offset=ft.Offset(0, 7), color=self.cor("sombra")),
+            content=ft.Column(
+                [
+                    ft.Container(
+                        border_radius=20,
+                        bgcolor=self.cor("cartao_claro"),
+                        padding=ft.Padding.symmetric(horizontal=11, vertical=4),
+                        content=ft.Text(f"˚ {etiqueta}", size=11, color=self.cor("destaque"), weight=ft.FontWeight.BOLD),
+                    ),
+                    conteudo,
+                ],
+                spacing=10,
+            ),
+        )
+
+    def _chave(self, unidade: int | None = None, atividade: int | None = None) -> str:
+        unidade = self.unidade_atual if unidade is None else unidade
+        atividade = self.atividade_atual if atividade is None else atividade
+        return f"{self.curso[unidade]['id']}:{atividade}"
+
+    def _unidade_concluida(self, indice: int) -> bool:
+        return all(self._chave(indice, atividade) in self.concluidas for atividade in range(len(self.curso[indice]["atividades"])))
+
+    def _selecionar_unidade(self, e):
+        self.unidade_atual = int(e.control.value)
+        self.atividade_atual = 0
+        self._renderizar()
+
+    def _renderizar(self, atualizar: bool = True):
+        unidade = self.curso[self.unidade_atual]
+        self.nivel.value = unidade["nivel"]
+        self.tema.value = unidade["tema"]
+        self.titulo.value = unidade["titulo"]
+        self.estado_unidade.value = "✓ atelier concluído" if self._unidade_concluida(self.unidade_atual) else "em andamento"
+        self.documento_titulo.value = unidade["documentoTitulo"]
+        self.documento_texto.value = unidade["documento"]
+        self.ferramenta_titulo.value = unidade["ferramentaTitulo"]
+        self.ferramenta_texto.value = unidade["ferramenta"]
+        total = sum(len(item["atividades"]) for item in self.curso)
+        self.progresso.value = len(self.concluidas) / total
+        self._renderizar_atividade()
+        if atualizar:
+            self.pagina.update()
+
+    def _renderizar_passos(self):
+        self.passos.controls.clear()
+        atividades = self.curso[self.unidade_atual]["atividades"]
+        for indice, _ in enumerate(atividades):
+            feito = self._chave(self.unidade_atual, indice) in self.concluidas
+            atual = indice == self.atividade_atual
+            self.passos.controls.append(
+                ft.Container(
+                    width=10,
+                    height=10,
+                    border_radius=10,
+                    bgcolor=self.cor("acerto") if feito else (self.cor("destaque") if atual else "transparent"),
+                    border=ft.Border.all(1, self.cor("destaque") if atual else self.cor("texto_secundario")),
+                    tooltip=self.curso[self.unidade_atual]["atividades"][indice]["tipo"],
+                    on_click=lambda e, i=indice: self._abrir_atividade(i),
+                    ink=True,
+                )
+            )
+
+    def _abrir_atividade(self, indice: int):
+        self.atividade_atual = indice
+        self._renderizar_atividade()
+        self.pagina.update()
+
+    def _renderizar_atividade(self):
+        atividade = self.curso[self.unidade_atual]["atividades"][self.atividade_atual]
+        self.opcao_selecionada = None
+        self.conexoes_feitas.clear()
+        self.conexao_esquerda = None
+        self.conexao_direita = None
+        self.botoes_associacao.clear()
+        self.tipo_atividade.value = atividade["tipo"].upper()
+        self.pergunta.value = atividade["pergunta"]
+        self.instrucao.value = atividade.get("instrucao", "Escolha ou escreva a melhor resposta em francês.")
+        self.feedback.value = ""
+        self.gabarito.visible = False
+        self.gabarito.content = None
+        self.botao_mostrar.visible = True
+        self.botao_tentar.visible = False
+        self.botao_conferir.visible = "pares" not in atividade
+        self.botao_conferir.content = "terminei" if atividade.get("modelo") else "conferir"
+        self.botao_proxima.visible = False
+        self.area_resposta.controls.clear()
+
+        if atividade.get("opcoes"):
+            for indice, opcao in enumerate(atividade["opcoes"]):
+                botao = ft.Button(
+                    opcao,
+                    data=indice,
+                    bgcolor=self.cor("fundo"),
+                    color=self.cor("texto_principal"),
+                    on_click=self._selecionar_opcao,
+                )
+                self.area_resposta.controls.append(botao)
+        elif atividade.get("pares"):
+            self._montar_associacoes(atividade)
+        else:
+            if atividade.get("audio"):
+                self.area_resposta.controls.append(
+                    ft.Button("ouvir em francês", icon=ft.Icons.VOLUME_UP_ROUNDED, bgcolor=self.cor("destaque"), color="white", on_click=lambda e, texto=atividade["audio"]: self._ouvir(texto))
+                )
+            self.campo_resposta = ft.TextField(
+                multiline=True,
+                min_lines=2,
+                max_lines=5,
+                autofocus=False,
+                border_radius=12,
+                hint_text="rédige ta réponse en français" if atividade.get("modelo") else "écrivez en français",
+                on_submit=None if atividade.get("modelo") else self._conferir,
+            )
+            self.area_resposta.controls.append(self.campo_resposta)
+        self._renderizar_passos()
+
+    def _selecionar_opcao(self, e):
+        self.opcao_selecionada = int(e.control.data)
+        for controle in self.area_resposta.controls:
+            if isinstance(controle, ft.Button):
+                controle.bgcolor = self.cor("cartao_claro") if controle is e.control else self.cor("fundo")
+        self.pagina.update()
+
+    def _montar_associacoes(self, atividade: dict):
+        esquerda = list(enumerate(par[0] for par in atividade["pares"]))
+        direita = list(enumerate(par[1] for par in atividade["pares"]))
+        random.shuffle(esquerda)
+        random.shuffle(direita)
+        colunas = []
+        for lado, itens in (("esquerda", esquerda), ("direita", direita)):
+            coluna = ft.Column(spacing=8, expand=True)
+            for indice, texto in itens:
+                botao = ft.Button(
+                    texto,
+                    data=(lado, indice),
+                    bgcolor=self.cor("fundo"),
+                    color=self.cor("texto_principal"),
+                    on_click=lambda e, l=lado, i=indice: self._selecionar_associacao(e, l, i, atividade),
+                )
+                self.botoes_associacao[(lado, indice)] = botao
+                coluna.controls.append(botao)
+            colunas.append(coluna)
+        self.area_resposta.controls.append(ft.Row(colunas, spacing=10, vertical_alignment=ft.CrossAxisAlignment.START))
+
+    def _selecionar_associacao(self, e, lado: str, indice: int, atividade: dict):
+        if indice in self.conexoes_feitas:
+            return
+        for (lado_botao, indice_botao), botao in self.botoes_associacao.items():
+            if lado_botao == lado and indice_botao not in self.conexoes_feitas:
+                botao.bgcolor = self.cor("fundo")
+        e.control.bgcolor = self.cor("cartao_claro")
+        if lado == "esquerda":
+            self.conexao_esquerda = indice
+        else:
+            self.conexao_direita = indice
+        if self.conexao_esquerda is None or self.conexao_direita is None:
+            self.pagina.update()
+            return
+        if self.conexao_esquerda == self.conexao_direita:
+            certo = self.conexao_esquerda
+            self.conexoes_feitas.add(certo)
+            for lado_certo in ("esquerda", "direita"):
+                botao = self.botoes_associacao[(lado_certo, certo)]
+                botao.disabled = True
+                botao.bgcolor = self.cor("cartao_claro")
+                botao.color = self.cor("acerto")
+            self.feedback.value = "bonne association !"
+            self.feedback.color = self.cor("acerto")
+            if len(self.conexoes_feitas) == len(atividade["pares"]):
+                self.feedback.value = "tout est bien relié !"
+                self._marcar_concluida()
+        else:
+            self.feedback.value = "essa ligação não combina — tente outra."
+            self.feedback.color = self.cor("erro")
+            for lado_errado, indice_errado in (("esquerda", self.conexao_esquerda), ("direita", self.conexao_direita)):
+                self.botoes_associacao[(lado_errado, indice_errado)].bgcolor = self.cor("fundo")
+        self.conexao_esquerda = None
+        self.conexao_direita = None
+        self.pagina.update()
+
+    def _ouvir(self, texto: str):
+        self.feedback.value = "reproduzindo em francês…"
+        self.feedback.color = self.cor("destaque")
+        self.pagina.update()
+        threading.Thread(target=self._falar_windows, args=(texto,), daemon=True).start()
+
+    @staticmethod
+    def _falar_windows(texto: str):
+        ambiente = os.environ.copy()
+        ambiente["SONGLINGO_DEFI_TEXTO"] = texto
+        script = (
+            "Add-Type -AssemblyName System.Speech; "
+            "$s=New-Object System.Speech.Synthesis.SpeechSynthesizer; "
+            "$v=$s.GetInstalledVoices()|Where-Object {$_.VoiceInfo.Culture.Name -like 'fr-*'}|Select-Object -First 1; "
+            "if($v){$s.SelectVoice($v.VoiceInfo.Name)}; $s.Rate=-2; $s.Speak($env:SONGLINGO_DEFI_TEXTO)"
+        )
+        subprocess.run(["powershell", "-NoProfile", "-Command", script], env=ambiente, capture_output=True)
+
+    def _conferir(self, e=None):
+        atividade = self.curso[self.unidade_atual]["atividades"][self.atividade_atual]
+        if atividade.get("modelo"):
+            if len(_normalizar(self.campo_resposta.value).split()) < 5:
+                self.feedback.value = "desenvolva um pouco mais sua resposta."
+                self.feedback.color = self.cor("erro")
+                self.pagina.update()
+                return
+            self.feedback.value = "mission accomplie — confira os elementos pedidos."
+            self.feedback.color = self.cor("acerto")
+            self._mostrar_checklist(atividade)
+            self._marcar_concluida()
+            self.pagina.update()
+            return
+
+        if atividade.get("opcoes"):
+            if self.opcao_selecionada is None:
+                self.feedback.value = "escolha uma opção."
+                self.feedback.color = self.cor("erro")
+                self.pagina.update()
+                return
+            correta = self.opcao_selecionada == atividade["correta"]
+        else:
+            if not _normalizar(self.campo_resposta.value):
+                self.feedback.value = "escreva uma resposta primeiro."
+                self.feedback.color = self.cor("erro")
+                self.pagina.update()
+                return
+            correta = _resposta_aceita(self.campo_resposta.value, atividade["respostas"])
+
+        if correta:
+            self.feedback.value = f"bien vu ! {atividade.get('explicacao', '')}"
+            self.feedback.color = self.cor("acerto")
+            self._marcar_concluida()
+        else:
+            self.feedback.value = "pas encore — observe o documento e tente outra vez."
+            self.feedback.color = self.cor("erro")
+        self.pagina.update()
+
+    def _marcar_concluida(self):
+        self.concluidas.add(self._chave())
+        total = sum(len(item["atividades"]) for item in self.curso)
+        self.progresso.value = len(self.concluidas) / total
+        self.botao_conferir.visible = False
+        self.botao_proxima.visible = True
+        self.estado_unidade.value = "✓ atelier concluído" if self._unidade_concluida(self.unidade_atual) else "em andamento"
+        self._renderizar_passos()
+
+    def _mostrar_checklist(self, atividade: dict):
+        self.gabarito.content = ft.Column(
+            [ft.Text("à vérifier", weight=ft.FontWeight.BOLD)]
+            + [ft.Text(f"• {item}") for item in atividade["checklist"]],
+            spacing=4,
+        )
+        self.gabarito.visible = True
+
+    def _mostrar_resposta(self, e=None):
+        atividade = self.curso[self.unidade_atual]["atividades"][self.atividade_atual]
+        if atividade.get("modelo"):
+            controles = [ft.Text("exemple possible", weight=ft.FontWeight.BOLD), ft.Text(atividade["modelo"], selectable=True)]
+            controles += [ft.Text(f"• {item}") for item in atividade["checklist"]]
+        elif atividade.get("pares"):
+            controles = [ft.Text("associations", weight=ft.FontWeight.BOLD)]
+            controles += [ft.Text(f"• {esquerda} → {direita}") for esquerda, direita in atividade["pares"]]
+        else:
+            resposta = atividade["opcoes"][atividade["correta"]] if atividade.get("opcoes") else atividade["resposta"]
+            controles = [ft.Text("réponse", weight=ft.FontWeight.BOLD), ft.Text(resposta, selectable=True), ft.Text(atividade.get("explicacao", ""), size=12)]
+        self.gabarito.content = ft.Column(controles, spacing=5)
+        self.gabarito.visible = True
+        self.botao_mostrar.visible = False
+        self.botao_tentar.visible = True
+        self.pagina.update()
+
+    def _tentar_novamente(self, e=None):
+        self.gabarito.visible = False
+        self.botao_mostrar.visible = True
+        self.botao_tentar.visible = False
+        self.feedback.value = ""
+        self.pagina.update()
+
+    def _proxima(self, e=None):
+        ultima = len(self.curso[self.unidade_atual]["atividades"]) - 1
+        if self.atividade_atual < ultima:
+            self.atividade_atual += 1
+        elif self.unidade_atual < len(self.curso) - 1:
+            self.unidade_atual += 1
+            self.atividade_atual = 0
+            self.seletor_unidade.value = str(self.unidade_atual)
+        self._renderizar()
+
+    def mostrar(self):
+        self.controle.visible = True
+        self._renderizar(atualizar=False)
+
+    def ocultar(self):
+        self.controle.visible = False
+
+    def aplicar_tema(self):
+        self._renderizar(atualizar=False)

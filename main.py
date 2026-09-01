@@ -12,6 +12,7 @@ from mutagen.id3 import ID3
 from mutagen.mp3 import MP3
 
 from criar_musica import analisar_texto_lrc, montar_vocabulario, tentar_traduzir
+from defi_desktop import PainelDefi
 from estudo import avaliar_resposta, exercicios_ingles_para_frances, fim_do_trecho, indices_validos_para_ditado
 from utilidades import (
     buscar_letra_sincronizada,
@@ -63,6 +64,7 @@ MODO_ESTUDAR = "estudar"
 MODO_DITADO = "ditado"
 MODO_TRADUZIR = "traduzir"
 MODO_REVISAR = "revisar"
+MODO_DEFI = "defi"
 
 
 async def main(pagina: ft.Page):
@@ -332,6 +334,8 @@ async def main(pagina: ft.Page):
         label="traduzir linha atual automaticamente", value=True, active_color=cor("destaque"),
     )
 
+    painel_defi = PainelDefi(pagina, cor)
+
     def criar_botao_de_modo(rotulo: str, valor_do_modo: str):
         eh_ativo = estado["modo"] == valor_do_modo
         return ft.Container(
@@ -344,7 +348,7 @@ async def main(pagina: ft.Page):
             ink=True,
         )
 
-    linha_seletor_de_modo = ft.Row(spacing=8)
+    linha_seletor_de_modo = ft.Row(spacing=8, wrap=True)
 
     def criar_botao_de_idioma(rotulo: str, valor_do_idioma: str):
         eh_ativo = estado["idioma_de_estudo"] == valor_do_idioma
@@ -366,6 +370,7 @@ async def main(pagina: ft.Page):
             criar_botao_de_modo("ditado", MODO_DITADO),
             criar_botao_de_modo("inglês → francês", MODO_TRADUZIR),
             criar_botao_de_modo("palavras aprendidas", MODO_REVISAR),
+            criar_botao_de_modo("parcours défi A2 → B1", MODO_DEFI),
         ]
         linha_seletor_de_idioma.controls = [
             ft.Text("praticar em:", size=15, font_family=FONTE_CORPO, color=cor("texto_secundario")),
@@ -384,6 +389,15 @@ async def main(pagina: ft.Page):
         janela_palavras_aprendidas.visible = estado["modo"] == MODO_REVISAR
         coluna_letra.visible = estado["modo"] == MODO_ESTUDAR
         coluna_letra_ouvir.visible = estado["modo"] == MODO_OUVIR
+        modo_defi = estado["modo"] == MODO_DEFI
+        if modo_defi:
+            painel_defi.mostrar()
+        else:
+            painel_defi.ocultar()
+        cabecalho_musica.visible = not modo_defi
+        linha_auxiliar_estudo.visible = not modo_defi
+        linha_switch_seguir.visible = estado["modo"] == MODO_OUVIR
+        cartao_traducao.visible = estado["modo"] == MODO_OUVIR
 
     def mudar_modo(novo_modo: str):
         estado["modo"] = novo_modo
@@ -1623,6 +1637,13 @@ async def main(pagina: ft.Page):
     )
     janela_palavras_aprendidas.visible = False
 
+    cabecalho_musica = ft.Row(
+        [capa_musica_cabecalho, ft.Column([titulo_musica_texto, artista_musica_texto], spacing=2)], spacing=16
+    )
+    linha_auxiliar_estudo = ft.Row([linha_seletor_de_idioma, ft.Container(expand=True), texto_placar])
+    linha_switch_seguir = ft.Row([switch_seguir_letra])
+    cartao_traducao = criar_cartao("tradução", painel_traducao)
+
     area_principal = ft.Container(
         expand=True,
         padding=25,
@@ -1630,15 +1651,16 @@ async def main(pagina: ft.Page):
             expand=True,
             spacing=14,
             controls=[
-                ft.Row([capa_musica_cabecalho, ft.Column([titulo_musica_texto, artista_musica_texto], spacing=2)], spacing=16),
+                cabecalho_musica,
                 linha_seletor_de_modo,
-                ft.Row([linha_seletor_de_idioma, ft.Container(expand=True), texto_placar]),
+                linha_auxiliar_estudo,
+                painel_defi.controle,
                 janela_letra,
                 painel_ditado,
                 painel_traduzir,
                 janela_palavras_aprendidas,
-                ft.Row([switch_seguir_letra]),
-                criar_cartao("tradução", painel_traducao),
+                linha_switch_seguir,
+                cartao_traducao,
             ],
         ),
     )
@@ -1685,6 +1707,7 @@ async def main(pagina: ft.Page):
         campo_url_spotdl.bgcolor = cor("cartao")
         texto_palavra_dialogo.color = cor("destaque")
         botao_fechar_dialogo_palavra.icon_color = cor("texto_secundario")
+        painel_defi.aplicar_tema()
 
         for externo, etiqueta, texto_etiqueta in cartoes_criados:
             externo.bgcolor = cor("cartao")

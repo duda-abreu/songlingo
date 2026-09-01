@@ -4,12 +4,20 @@ App pessoal pra aprender francês cantando. Você ouve com letra sincronizada, c
 
 ## como rodar
 
-Precisa de Python 3.11+ e do [spotdl](https://github.com/spotDL/spotify-downloader) instalado se você quiser baixar músicas direto pelo app (`pip install spotdl`).
+Precisa de Python 3.11+ e do [spotdl](https://github.com/spotDL/spotify-downloader) instalado se você quiser baixar músicas direto pelo app (`python -m pip install spotdl`).
 
 ```bash
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 python main.py
 ```
+
+No Windows, também dá para instalar com:
+
+```powershell
+powershell -ExecutionPolicy Bypass -File .\instalar.ps1
+```
+
+Os dois métodos chamam o `pip` do próprio Python e não exigem conta no Safety.
 
 ## modos de estudo
 
@@ -22,6 +30,8 @@ python main.py
 **inglês → francês** — mostra uma frase em inglês, tirada das traduções das músicas ou do banco de prática, e pede a versão em francês. A correção ignora acentos e pontuação, aceita pequenas variações e mostra claramente se ficou certa ou errada.
 
 **palavras aprendidas** — reúne o vocabulário já acertado para busca e revisão. Na versão web, esse progresso fica salvo no navegador.
+
+**parcours défi A2 → B1** — curso interativo com 9 unidades e 81 atividades de compreensão, escuta, escrita, tradução, associação e produção. Fica na mesma barra de modos, no topo do app.
 
 ## adicionando música
 
