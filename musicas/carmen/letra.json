@@ -4,343 +4,349 @@
   "arquivo_audio": "audio.mp3",
   "linhas": [
     {
-      "tempo": 9.53,
+      "tempo": 2.5,
+      "fr": "L'amour est comme l'oiseau de Twitter",
+      "pt": "O amor é como o pássaro do Twitter",
+      "en": "Love is like the Twitter bird"
+    },
+    {
+      "tempo": 5.63,
       "fr": "On est bleu de lui seulement pour 48 heures",
       "pt": "Só ficamos tristes por causa dele por 48 horas",
       "en": "We're only blue about him for 48 hours"
     },
     {
-      "tempo": 12.66,
+      "tempo": 8.56,
       "fr": "D'abord on s'affillie, ensuite on se follow",
       "pt": "Primeiro nos afiliamos, depois seguimos uns aos outros",
       "en": "First we affiliate, then we follow each other"
     },
     {
-      "tempo": 15.9,
+      "tempo": 11.85,
       "fr": "On en devient fêlé et on finit solo",
       "pt": "Ficamos bravos e acabamos sozinhos",
       "en": "We get mad and end up alone"
     },
     {
-      "tempo": 19.08,
+      "tempo": 15.09,
       "fr": "Prends garde à toi",
       "pt": "Tomar cuidado",
       "en": "Take care"
     },
     {
-      "tempo": 20.38,
+      "tempo": 16.32,
       "fr": "Et à tous ceux qui vous like",
       "pt": "E para todos que gostam de você",
       "en": "And to everyone who likes you"
     },
     {
-      "tempo": 21.91,
+      "tempo": 17.66,
       "fr": "Et les sourires en plastique sont souvent des coups d'hashtag",
       "pt": "E os sorrisos de plástico são muitas vezes fotos de hashtag",
       "en": "And the plastic smiles are often hashtag shots"
     },
     {
-      "tempo": 25.27,
+      "tempo": 21.18,
       "fr": "Prends garde à toi",
       "pt": "Tomar cuidado",
       "en": "Take care"
     },
     {
-      "tempo": 26.7,
+      "tempo": 22.75,
       "fr": "Ah les amis, les potes ou les followers",
       "pt": "Ah amigos, amigas ou seguidores",
       "en": "Ah friends, friends or followers"
     },
     {
-      "tempo": 29.35,
+      "tempo": 25.17,
       "fr": "Vous faites erreur, vous avez juste la cote",
       "pt": "Você está errado, você é apenas popular",
       "en": "You are wrong, you are just popular"
     },
     {
-      "tempo": 31.64,
+      "tempo": 27.8,
       "fr": "Prends garde à toi",
       "pt": "Tomar cuidado",
       "en": "Take care"
     },
     {
-      "tempo": 33.95,
+      "tempo": 29.97,
       "fr": "Si tu t'aimes",
       "pt": "Se você se ama",
       "en": "If you love yourself"
     },
     {
-      "tempo": 35.07,
+      "tempo": 31.03,
       "fr": "Garde à moi",
       "pt": "Mantenha-me",
       "en": "Keep me"
     },
     {
-      "tempo": 37.07,
+      "tempo": 33.11,
       "fr": "Si je m'aime",
       "pt": "Se eu me amo",
       "en": "If I love myself"
     },
     {
-      "tempo": 38.34,
+      "tempo": 34.28,
       "fr": "Garde à nous",
       "pt": "Cuidado com a gente",
       "en": "Watch out for us"
     },
     {
-      "tempo": 39.87,
+      "tempo": 36.15,
       "fr": "Garde à eux",
       "pt": "Cuidado com eles",
       "en": "Watch out for them"
     },
     {
-      "tempo": 41.77,
+      "tempo": 37.43,
       "fr": "Garde à vous",
       "pt": "Tomar cuidado",
       "en": "Take care"
     },
     {
-      "tempo": 42.58,
+      "tempo": 38.51,
       "fr": "Et puis chacun pour soi",
       "pt": "E então cada um por si",
       "en": "And then everyone for themselves"
     },
     {
-      "tempo": 44.23,
+      "tempo": 40.16,
       "fr": "Et c'est comme ça qu'on s'aime, s'aime, s'aime, s'aime",
       "pt": "E é assim que nos amamos, nos amamos, nos amamos, nos amamos",
       "en": "And that's how we love each other, love each other, love each other, love each other"
     },
     {
-      "tempo": 47.83,
+      "tempo": 44.12,
       "fr": "Comme ça consomme-somme-somme-somme",
       "pt": "Como se consumisse soma-soma-soma",
       "en": "Like it consumes-sum-sum-sum"
     },
     {
-      "tempo": 50.78,
+      "tempo": 46.87,
       "fr": "Et c'est comme ça qu'on s'aime, s'aime, s'aime, s'aime",
       "pt": "E é assim que nos amamos, nos amamos, nos amamos, nos amamos",
       "en": "And that's how we love each other, love each other, love each other, love each other"
     },
     {
-      "tempo": 54.36,
+      "tempo": 50.52,
       "fr": "Comme ça consomme-somme-somme-somme",
       "pt": "Como se consumisse soma-soma-soma",
       "en": "Like it consumes-sum-sum-sum"
     },
     {
-      "tempo": 57.22,
+      "tempo": 52.96,
       "fr": "Et c'est comme ça qu'on s'aime, s'aime, s'aime, s'aime",
       "pt": "E é assim que nos amamos, nos amamos, nos amamos, nos amamos",
       "en": "And that's how we love each other, love each other, love each other, love each other"
     },
     {
-      "tempo": 60.57,
+      "tempo": 56.98,
       "fr": "Comme ça consomme-somme-somme-somme",
       "pt": "Como se consumisse soma-soma-soma",
       "en": "Like it consumes-sum-sum-sum"
     },
     {
-      "tempo": 63.82,
+      "tempo": 59.7,
       "fr": "Et c'est comme ça qu'on s'aime, s'aime, s'aime, s'aime",
       "pt": "E é assim que nos amamos, nos amamos, nos amamos, nos amamos",
       "en": "And that's how we love each other, love each other, love each other, love each other"
     },
     {
-      "tempo": 66.96,
+      "tempo": 63.38,
       "fr": "Comme ça consomme-somme-somme-somme",
       "pt": "Como se consumisse soma-soma-soma",
       "en": "Like it consumes-sum-sum-sum"
     },
     {
-      "tempo": 73.6,
+      "tempo": 69.8,
       "fr": "L'amour est enfant de la consommation",
       "pt": "O amor é filho do consumo",
       "en": "Love is the child of consumption"
     },
     {
-      "tempo": 76.47,
+      "tempo": 72.73,
       "fr": "Il voudra toujours, toujours, toujours plus de choix",
       "pt": "Ele sempre, sempre, sempre vai querer mais opções",
       "en": "He will always, always, always want more choices"
     },
     {
-      "tempo": 79.84,
+      "tempo": 75.62,
       "fr": "Voulez, voulez-vous des sentiments tombés du camion",
       "pt": "Quer, você quer sentimentos que caíram do caminhão",
       "en": "Want, do you want feelings that fell off the truck"
     },
     {
-      "tempo": 83.16,
+      "tempo": 78.91,
       "fr": "L'offre et la demande pour unique et seule loi?",
       "pt": "Oferta e procura por uma única lei?",
       "en": "Supply and demand for one and only law?"
     },
     {
-      "tempo": 86.26,
+      "tempo": 82.39,
       "fr": "Prends garde à toi",
       "pt": "Tomar cuidado",
       "en": "Take care"
     },
     {
-      "tempo": 87.51,
+      "tempo": 83.41,
       "fr": "Mais j'en connais déjà les dangers, moi",
       "pt": "Mas eu já conheço os perigos",
       "en": "But I already know the dangers"
     },
     {
-      "tempo": 89.39,
+      "tempo": 85.36,
       "fr": "J'ai gardé mon ticket et s'il faut je vais l'échanger, moi",
       "pt": "Guardei meu ingresso e se necessário irei trocá-lo.",
       "en": "I kept my ticket and if necessary I will exchange it."
     },
     {
-      "tempo": 92.73,
+      "tempo": 88.75,
       "fr": "Prends garde à toi",
       "pt": "Tomar cuidado",
       "en": "Take care"
     },
     {
-      "tempo": 94.02,
+      "tempo": 89.85,
       "fr": "Et s'il le faut j'irai me venger, moi",
       "pt": "E se necessário eu irei e me vingarei",
       "en": "And if necessary I will go and take revenge"
     },
     {
-      "tempo": 96.07,
+      "tempo": 91.75,
       "fr": "Cet oiseau de malheur je le met en cage, je le fais chanter moi",
       "pt": "Coloquei esse pássaro da desgraça em uma gaiola, faço ele cantar para mim",
       "en": "I put this bird of misfortune in a cage, I make it sing to me"
     },
     {
-      "tempo": 99.12,
+      "tempo": 95.49,
       "fr": "Prends garde à toi",
       "pt": "Tomar cuidado",
       "en": "Take care"
     },
     {
-      "tempo": 100.93,
+      "tempo": 97.33,
       "fr": "Si tu t'aimes",
       "pt": "Se você se ama",
       "en": "If you love yourself"
     },
     {
-      "tempo": 102.44,
+      "tempo": 98.43,
       "fr": "Garde à moi",
       "pt": "Mantenha-me",
       "en": "Keep me"
     },
     {
-      "tempo": 104.23,
+      "tempo": 100.23,
       "fr": "Si je m'aime",
       "pt": "Se eu me amo",
       "en": "If I love myself"
     },
     {
-      "tempo": 105.59,
+      "tempo": 101.69,
       "fr": "Garde à nous",
       "pt": "Cuidado com a gente",
       "en": "Watch out for us"
     },
     {
-      "tempo": 107.19,
+      "tempo": 103.23,
       "fr": "Garde à eux",
       "pt": "Cuidado com eles",
       "en": "Watch out for them"
     },
     {
-      "tempo": 108.99,
+      "tempo": 104.51,
       "fr": "Garde à vous",
       "pt": "Tomar cuidado",
       "en": "Take care"
     },
     {
-      "tempo": 109.96,
+      "tempo": 105.63,
       "fr": "Et puis chacun pour soi",
       "pt": "E então cada um por si",
       "en": "And then everyone for themselves"
     },
     {
-      "tempo": 111.56,
+      "tempo": 107.54,
       "fr": "Et c'est comme ça qu'on s'aime, s'aime, s'aime, s'aime",
       "pt": "E é assim que nos amamos, nos amamos, nos amamos, nos amamos",
       "en": "And that's how we love each other, love each other, love each other, love each other"
     },
     {
-      "tempo": 114.83,
+      "tempo": 111.28,
       "fr": "Comme ça consomme-somme-somme-somme",
       "pt": "Como se consumisse soma-soma-soma",
       "en": "Like it consumes-sum-sum-sum"
     },
     {
-      "tempo": 117.94,
+      "tempo": 114.17,
       "fr": "Et c'est comme ça qu'on s'aime, s'aime, s'aime, s'aime",
       "pt": "E é assim que nos amamos, nos amamos, nos amamos, nos amamos",
       "en": "And that's how we love each other, love each other, love each other, love each other"
     },
     {
-      "tempo": 121.24,
+      "tempo": 117.66,
       "fr": "Comme ça consomme-somme-somme-somme",
       "pt": "Como se consumisse soma-soma-soma",
       "en": "Like it consumes-sum-sum-sum"
     },
     {
-      "tempo": 124.32,
+      "tempo": 120.39,
       "fr": "Et c'est comme ça qu'on s'aime, s'aime, s'aime, s'aime",
       "pt": "E é assim que nos amamos, nos amamos, nos amamos, nos amamos",
       "en": "And that's how we love each other, love each other, love each other, love each other"
     },
     {
-      "tempo": 127.77,
+      "tempo": 124.03,
       "fr": "Comme ça consomme-somme-somme-somme",
       "pt": "Como se consumisse soma-soma-soma",
       "en": "Like it consumes-sum-sum-sum"
     },
     {
-      "tempo": 130.88,
+      "tempo": 127.07,
       "fr": "Et c'est comme ça qu'on s'aime, s'aime, s'aime, s'aime",
       "pt": "E é assim que nos amamos, nos amamos, nos amamos, nos amamos",
       "en": "And that's how we love each other, love each other, love each other, love each other"
     },
     {
-      "tempo": 134.11,
+      "tempo": 130.56,
       "fr": "Comme ça consomme-somme-somme-somme",
       "pt": "Como se consumisse soma-soma-soma",
       "en": "Like it consumes-sum-sum-sum"
     },
     {
-      "tempo": 137.34,
+      "tempo": 133.76,
       "fr": "Un jour t'achètes",
       "pt": "Um dia você compra",
       "en": "One day you buy"
     },
     {
-      "tempo": 139.0,
+      "tempo": 135.03,
       "fr": "Un jour tu aimes",
       "pt": "Um dia você ama",
       "en": "One day you love"
     },
     {
-      "tempo": 140.87,
+      "tempo": 136.66,
       "fr": "Un jour tu jettes",
       "pt": "Um dia você joga fora",
       "en": "One day you throw away"
     },
     {
-      "tempo": 141.97,
+      "tempo": 137.94,
       "fr": "Mais un jour tu payes",
       "pt": "Mas um dia você paga",
       "en": "But one day you pay"
     },
     {
-      "tempo": 143.98,
+      "tempo": 139.81,
       "fr": "Un jour tu verras, on s'aimera",
       "pt": "Um dia você verá, nós nos amaremos",
       "en": "One day you will see, we will love each other"
     },
     {
-      "tempo": 147.37,
+      "tempo": 143.07,
       "fr": "Mais avant on crèvera tous comme des rats",
       "pt": "Mas primeiro morreremos todos como ratos",
       "en": "But first we will all die like rats"
@@ -822,6 +828,10 @@
     "rats": {
       "pt": "ratos",
       "en": "rats"
+    },
+    "l'oiseau": {
+      "pt": "o pássaro",
+      "en": "the bird"
     }
   },
   "ordem": 25
