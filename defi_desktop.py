@@ -139,7 +139,7 @@ class PainelDefi:
             controls=[
                 ft.Row(
                     [
-                        ft.Column([ft.Text("français en action · A2 → B1", size=11, color=self.cor("destaque")), ft.Text("parcours défi", size=36, font_family=FONTE_TITULO, weight=ft.FontWeight.W_600)], spacing=0),
+                        ft.Column([ft.Text("songlingo", size=11, color=self.cor("destaque"), weight=ft.FontWeight.BOLD), ft.Text("parcours défi", size=36, font_family=FONTE_TITULO, weight=ft.FontWeight.W_600)], spacing=0),
                         self.seletor_unidade,
                     ],
                     alignment=ft.MainAxisAlignment.SPACE_BETWEEN,

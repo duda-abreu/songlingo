@@ -370,7 +370,7 @@ async def main(pagina: ft.Page):
             criar_botao_de_modo("ditado", MODO_DITADO),
             criar_botao_de_modo("inglês → francês", MODO_TRADUZIR),
             criar_botao_de_modo("palavras aprendidas", MODO_REVISAR),
-            criar_botao_de_modo("parcours défi A2 → B1", MODO_DEFI),
+            criar_botao_de_modo("parcours défi", MODO_DEFI),
         ]
         linha_seletor_de_idioma.controls = [
             ft.Text("praticar em:", size=15, font_family=FONTE_CORPO, color=cor("texto_secundario")),
