@@ -6,7 +6,7 @@
 <title>songlingo</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="style.css?v=4">
 </head>
 <body class="escuro">
 <div class="fundo-decorativo" aria-hidden="true"></div>
@@ -20,6 +20,11 @@
 
     <input id="campo-busca" type="text" placeholder="buscar música..." autocomplete="off">
 
+    <button id="abrir-curso-defi" class="botao-curso-defi" type="button">
+      <span>📘</span>
+      <span><strong>parcours défi</strong><small>A2 → B1</small></span>
+    </button>
+
     <div id="lista-musicas" class="lista-musicas"></div>
 
     <p class="aviso-audio">
@@ -29,8 +34,72 @@
 
   <main class="area-principal">
     <div id="tela-vazia" class="tela-vazia">
-      <p>escolhe uma música na barra do lado pra começar</p>
+      <p>escolhe uma música ou abre o parcours défi pra começar</p>
     </div>
+
+    <section id="tela-defi" class="tela-defi" hidden aria-labelledby="titulo-defi">
+      <header class="cabecalho-defi">
+        <div>
+          <p class="sobretitulo-defi">français en action · A2 → B1</p>
+          <h2 id="titulo-defi">parcours défi</h2>
+          <p>observe, compreenda, descubra a regra e use o francês numa situação real.</p>
+        </div>
+        <button id="fechar-curso-defi" class="botao-arquivo" type="button">voltar às músicas</button>
+      </header>
+
+      <div class="progresso-defi" aria-label="progresso do percurso">
+        <div id="barra-progresso-defi"></div>
+      </div>
+
+      <div class="layout-defi">
+        <nav id="lista-unidades-defi" class="lista-unidades-defi" aria-label="Ateliers do percurso"></nav>
+
+        <article class="atelier-defi">
+          <div class="cabecalho-atelier">
+            <div>
+              <span id="nivel-defi" class="selo-nivel-defi"></span>
+              <p id="tema-defi" class="tema-defi"></p>
+              <h3 id="titulo-unidade-defi"></h3>
+            </div>
+            <span id="estado-unidade-defi" class="estado-unidade-defi"></span>
+          </div>
+
+          <section class="documento-defi" aria-labelledby="titulo-documento-defi">
+            <span class="etiqueta-cartao">document déclencheur</span>
+            <h4 id="titulo-documento-defi"></h4>
+            <p id="texto-documento-defi"></p>
+          </section>
+
+          <section class="caixa-ferramentas-defi" aria-labelledby="titulo-ferramentas-defi">
+            <div>
+              <span>boîte à outils</span>
+              <h4 id="titulo-ferramentas-defi"></h4>
+            </div>
+            <p id="texto-ferramentas-defi"></p>
+          </section>
+
+          <section class="atividade-defi" aria-live="polite">
+            <div class="cabecalho-atividade-defi">
+              <span id="tipo-atividade-defi"></span>
+              <div id="passos-defi" class="passos-defi" aria-label="etapas da unidade"></div>
+            </div>
+            <h4 id="pergunta-defi"></h4>
+            <p id="instrucao-defi" class="instrucao-defi"></p>
+            <div id="opcoes-defi" class="opcoes-defi"></div>
+            <textarea id="resposta-defi" rows="3" placeholder="écrivez en français" autocomplete="off"></textarea>
+            <div id="feedback-defi" class="feedback-defi"></div>
+            <div id="gabarito-defi" class="gabarito-defi" hidden></div>
+            <div class="acoes-defi">
+              <button id="mostrar-resposta-defi" class="botao-secundario" type="button">mostrar resposta</button>
+              <button id="tentar-defi" class="botao-secundario" type="button" hidden>ocultar e tentar de novo</button>
+              <button id="conferir-defi" class="botao-primario" type="button">conferir</button>
+              <button id="proxima-atividade-defi" class="botao-primario" type="button" hidden>continuar →</button>
+            </div>
+          </section>
+        </article>
+      </div>
+      <p class="nota-defi">Conteúdo autoral inspirado na abordagem acional do FLE; não reproduz o livro Défi.</p>
+    </section>
 
     <div id="tela-musica" class="tela-musica" hidden>
       <header class="cabecalho-musica">
@@ -145,6 +214,8 @@
   </div>
 </div>
 
-<script src="app.js?v=2"></script>
+    <script src="defi-data.js?v=1"></script>
+    <script src="defi.js?v=1"></script>
+    <script src="app.js?v=4"></script>
 </body>
 </html>

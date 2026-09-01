@@ -167,6 +167,7 @@ function renderizarListaMusicas() {
 }
 
 function selecionarMusica(musica) {
+  window.fecharCursoDefi?.();
   estado.musicaSelecionada = musica;
   estado.indiceAtual = -1;
   estado.acertos = 0;
