@@ -334,7 +334,7 @@ async def main(pagina: ft.Page):
         label="traduzir linha atual automaticamente", value=True, active_color=cor("destaque"),
     )
 
-    painel_defi = PainelDefi(pagina, cor)
+    painel_defi = PainelDefi(pagina, cor, ao_fechar=lambda: mudar_modo(MODO_OUVIR))
 
     def criar_botao_de_modo(rotulo: str, valor_do_modo: str):
         eh_ativo = estado["modo"] == valor_do_modo
@@ -370,7 +370,6 @@ async def main(pagina: ft.Page):
             criar_botao_de_modo("ditado", MODO_DITADO),
             criar_botao_de_modo("inglês → francês", MODO_TRADUZIR),
             criar_botao_de_modo("palavras aprendidas", MODO_REVISAR),
-            criar_botao_de_modo("parcours défi", MODO_DEFI),
         ]
         linha_seletor_de_idioma.controls = [
             ft.Text("praticar em:", size=15, font_family=FONTE_CORPO, color=cor("texto_secundario")),
@@ -1547,6 +1546,31 @@ async def main(pagina: ft.Page):
         on_click=lambda e: alternar_tema(e),
     )
 
+    def ao_abrir_curso_defi(e):
+        mudar_modo(MODO_DEFI)
+
+    botao_curso_defi = ft.Container(
+        border_radius=18,
+        bgcolor=cor("destaque"),
+        padding=ft.Padding.symmetric(horizontal=14, vertical=12),
+        ink=True,
+        on_click=ao_abrir_curso_defi,
+        content=ft.Row(
+            spacing=10,
+            vertical_alignment=ft.CrossAxisAlignment.CENTER,
+            controls=[
+                ft.Text("📘", size=20),
+                ft.Column(
+                    spacing=0,
+                    controls=[
+                        ft.Text("parcours défi", size=14, font_family=FONTE_CORPO, weight=ft.FontWeight.W_600, color="white"),
+                        ft.Text("curso interativo", size=11, color=ft.Colors.with_opacity(0.85, "white")),
+                    ],
+                ),
+            ],
+        ),
+    )
+
     barra_lateral = ft.Container(
         width=300,
         bgcolor=cor("fundo_lateral"),
@@ -1565,6 +1589,8 @@ async def main(pagina: ft.Page):
                         ],
                     ),
                 ),
+                botao_curso_defi,
+                ft.Container(height=10),
                 ft.Row(controls=[ft.Container(content=campo_busca, expand=True), botao_ordem_alfabetica], spacing=4),
                 ft.Container(height=10),
                 secao_spotdl,

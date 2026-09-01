@@ -46,9 +46,10 @@ def _resposta_aceita(resposta: str, esperadas: list[str]) -> bool:
 
 
 class PainelDefi:
-    def __init__(self, pagina: ft.Page, cor):
+    def __init__(self, pagina: ft.Page, cor, ao_fechar=None):
         self.pagina = pagina
         self.cor = cor
+        self.ao_fechar = ao_fechar
         caminho = Path(__file__).with_name("defi_data.json")
         self.curso = json.loads(caminho.read_text(encoding="utf-8"))
         self.unidade_atual = 0
@@ -140,7 +141,13 @@ class PainelDefi:
                 ft.Row(
                     [
                         ft.Column([ft.Text("songlingo", size=11, color=self.cor("destaque"), weight=ft.FontWeight.BOLD), ft.Text("parcours défi", size=36, font_family=FONTE_TITULO, weight=ft.FontWeight.W_600)], spacing=0),
-                        self.seletor_unidade,
+                        ft.Row(
+                            [
+                                self.seletor_unidade,
+                                ft.TextButton("voltar às músicas", icon=ft.Icons.ARROW_BACK_ROUNDED, on_click=self._fechar),
+                            ],
+                            spacing=6,
+                        ),
                     ],
                     alignment=ft.MainAxisAlignment.SPACE_BETWEEN,
                     vertical_alignment=ft.CrossAxisAlignment.CENTER,
@@ -450,6 +457,10 @@ class PainelDefi:
             self.atividade_atual = 0
             self.seletor_unidade.value = str(self.unidade_atual)
         self._renderizar()
+
+    def _fechar(self, e=None):
+        if self.ao_fechar:
+            self.ao_fechar()
 
     def mostrar(self):
         self.controle.visible = True
