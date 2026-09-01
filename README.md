@@ -64,7 +64,7 @@ Pra atualizar os dados que ela usa (depois de adicionar música nova, por exempl
 python gerar_site.py
 ```
 
-Isso lê tudo que tem em `musicas/` e gera `docs/dados.json`. Pra publicar: nas configurações do repositório no GitHub, em Pages, escolhe a branch `main` e a pasta `/docs` como fonte.
+Isso lê tudo que tem em `musicas/` e gera `docs/dados.json`, e também lê `defi_data.json` e gera `docs/defi-data.js` — assim o parcours défi fica igual no desktop e na versão web, sem precisar editar os dois separados. Pra publicar: nas configurações do repositório no GitHub, em Pages, escolhe a branch `main` e a pasta `/docs` como fonte.
 
 ## estrutura
 
@@ -74,7 +74,9 @@ utilidades.py                  # funções compartilhadas (carregar músicas, ac
 gerar_letras.py                # varre musicas/ e busca letra pro que falta
 criar_musica.py                # monta letra.json a partir de um .lrc
 traduzir_musicas.py            # preenche traduções que ainda estão vazias
-gerar_site.py                  # gera os dados que a versão web usa
+defi_desktop.py                # painel do parcours défi no app desktop
+defi_data.json                 # conteúdo das unidades do parcours défi (fonte única)
+gerar_site.py                  # gera os dados que a versão web usa (músicas e défi)
 docs/                          # versão web (HTML/CSS/JS puro, sem áudio)
 musicas/
   nome-da-musica/
