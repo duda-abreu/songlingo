@@ -162,7 +162,6 @@ class PainelDefi:
             border_radius=22,
             bgcolor=self.cor("cartao"),
             padding=18,
-            border=ft.Border.all(1, self.cor("cartao_claro")),
             shadow=ft.BoxShadow(blur_radius=20, spread_radius=-5, offset=ft.Offset(0, 7), color=self.cor("sombra")),
             content=ft.Column(
                 [
