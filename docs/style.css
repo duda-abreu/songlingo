@@ -189,6 +189,21 @@ h1, h2, h3 {
 
 .controles-audio audio { width: 100%; }
 
+.acoes-musica {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+button.botao-arquivo { font-family: inherit; }
+
+.botao-arquivo.ativo {
+  background: var(--destaque);
+  color: white;
+}
+
 .seletor-modo {
   display: flex;
   gap: 8px;

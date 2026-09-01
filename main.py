@@ -314,7 +314,10 @@ async def main(pagina: ft.Page):
     )
     botao_proximo = ft.IconButton(icon=ft.Icons.SKIP_NEXT_ROUNDED, icon_size=18, icon_color=cor("texto_secundario"))
     botao_aleatorio = ft.IconButton(
-        icon=ft.Icons.SHUFFLE_ROUNDED, icon_size=15, icon_color=cor("texto_secundario"), tooltip="modo aleatório",
+        icon=ft.Icons.SHUFFLE_ROUNDED,
+        icon_size=15,
+        icon_color=cor("texto_secundario"),
+        tooltip="ativar modo aleatório e trocar de música",
     )
 
     def ao_mudar_volume(e):
@@ -825,7 +828,10 @@ async def main(pagina: ft.Page):
     def ao_clicar_aleatorio(e):
         estado["aleatorio"] = not estado["aleatorio"]
         botao_aleatorio.icon_color = cor("destaque") if estado["aleatorio"] else cor("texto_secundario")
+        botao_aleatorio.tooltip = "desativar modo aleatório" if estado["aleatorio"] else "ativar modo aleatório e trocar de música"
         pagina.update()
+        if estado["aleatorio"]:
+            pagina.run_task(ao_clicar_proximo, None)
 
     def tem_audio_carregado() -> bool:
         return bool(

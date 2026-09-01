@@ -8,6 +8,7 @@ const estado = {
   tentativas: 0,
   palavrasAprendidas: new Set(JSON.parse(localStorage.getItem("songlingo-palavras") || "[]")),
   palavraAtualModal: null,
+  musicaAleatoria: false,
   indiceDitado: null,
   fimTrechoDitado: null,
   questoesDitado: 0,
@@ -36,6 +37,7 @@ const elementos = {
   textoTitulo: document.getElementById("texto-titulo"),
   campoAudio: document.getElementById("campo-audio"),
   rotuloCampoAudio: document.getElementById("rotulo-campo-audio"),
+  botaoMusicaAleatoria: document.getElementById("botao-musica-aleatoria"),
   audio: document.getElementById("audio"),
   botoesModo: document.querySelectorAll(".botao-modo"),
   painelOuvir: document.getElementById("painel-ouvir"),
@@ -321,6 +323,27 @@ function atualizarPlacar() {
   elementos.textoPlacar.textContent = `acertos: ${estado.acertos} / ${estado.tentativas}`;
 }
 
+window.songlingoTemMusica = () => Boolean(estado.musicaSelecionada);
+
+function escolherMusicaAleatoria() {
+  if (!estado.musicas.length) return null;
+  const candidatas = estado.musicas.filter((musica) => musica !== estado.musicaSelecionada);
+  const opcoes = candidatas.length ? candidatas : estado.musicas;
+  return opcoes[Math.floor(Math.random() * opcoes.length)];
+}
+
+function alternarMusicaAleatoria() {
+  estado.musicaAleatoria = !estado.musicaAleatoria;
+  elementos.botaoMusicaAleatoria.classList.toggle("ativo", estado.musicaAleatoria);
+  elementos.botaoMusicaAleatoria.textContent = estado.musicaAleatoria
+    ? "⇄ aleatório ligado"
+    : "⇄ modo aleatório";
+  if (estado.musicaAleatoria) {
+    const proxima = escolherMusicaAleatoria();
+    if (proxima) selecionarMusica(proxima);
+  }
+}
+
 function pareceFrances(texto) {
   const palavras = normalizarParaComparar(texto).split(" ").filter(Boolean);
   const francesas = new Set(["au", "aux", "avec", "ce", "ces", "dans", "de", "des", "du", "elle", "en", "est", "et", "il", "je", "la", "le", "les", "mais", "me", "mes", "moi", "mon", "ne", "nous", "on", "ou", "pas", "pour", "que", "qui", "se", "si", "son", "sur", "ta", "te", "tes", "toi", "ton", "tout", "tu", "un", "une", "vous", "y"]);
@@ -548,6 +571,7 @@ function atualizarTelaConformeModo() {
 }
 
 elementos.campoBusca.addEventListener("input", renderizarListaMusicas);
+elementos.botaoMusicaAleatoria.addEventListener("click", alternarMusicaAleatoria);
 
 elementos.campoAudio.addEventListener("change", (e) => {
   const arquivo = e.target.files[0];
@@ -614,6 +638,12 @@ elementos.respostaTraducao.addEventListener("keydown", (e) => {
     e.preventDefault();
     conferirTraducao();
   }
+});
+
+elementos.audio.addEventListener("ended", () => {
+  if (!estado.musicaAleatoria) return;
+  const proxima = escolherMusicaAleatoria();
+  if (proxima) selecionarMusica(proxima);
 });
 elementos.respostaDitado.addEventListener("keydown", (e) => {
   if (e.key === "Enter" && !e.shiftKey) {
