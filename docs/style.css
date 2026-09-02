@@ -30,7 +30,7 @@ body.claro {
 
 body {
   margin: 0;
-  font-family: "IBM Plex Mono", monospace;
+  font-family: "Nunito", sans-serif;
   background: var(--fundo);
   color: var(--texto-principal);
   min-height: 100vh;

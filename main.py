@@ -57,7 +57,7 @@ PALETA = {
 }
 
 FONTE_TITULO = "Baloo 2"
-FONTE_CORPO = "IBM Plex Mono"
+FONTE_CORPO = "Nunito"
 
 MODO_OUVIR = "ouvir"
 MODO_ESTUDAR = "estudar"
@@ -99,7 +99,7 @@ async def main(pagina: ft.Page):
     pagina.title = "aprenda francês cantando"
     pagina.fonts = {
         FONTE_TITULO: "https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;600;700&display=swap",
-        FONTE_CORPO: "https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&display=swap",
+        FONTE_CORPO: "https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap",
     }
     pagina.theme_mode = ft.ThemeMode.DARK if estado["escuro"] else ft.ThemeMode.LIGHT
     pagina.theme = ft.Theme(font_family=FONTE_CORPO, color_scheme_seed=cor("destaque"))
@@ -395,10 +395,15 @@ async def main(pagina: ft.Page):
             painel_defi.ocultar()
         cabecalho_musica.visible = not modo_defi
         linha_auxiliar_estudo.visible = not modo_defi
+        barra_agora_tocando.visible = not modo_defi
         linha_switch_seguir.visible = estado["modo"] == MODO_OUVIR
         cartao_traducao.visible = estado["modo"] == MODO_OUVIR
 
     def mudar_modo(novo_modo: str):
+        if novo_modo == MODO_DEFI and estado["tocando"]:
+            pygame.mixer.music.pause()
+            estado["tocando"] = False
+            botao_play_pause.icon = ft.Icons.PLAY_ARROW_ROUNDED
         estado["modo"] = novo_modo
         redesenhar_seletores()
         atualizar_letra_na_tela()

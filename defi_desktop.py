@@ -10,7 +10,7 @@ import flet as ft
 
 
 FONTE_TITULO = "Baloo 2"
-FONTE_CORPO = "IBM Plex Mono"
+FONTE_CORPO = "Nunito"
 
 
 def _normalizar(texto: str) -> str:
