@@ -78,7 +78,7 @@ async def main(pagina: ft.Page):
         "reproducao_iniciada": False,
         "offset_pygame": 0.0,
         "duracao_audio": 0.0,
-        "modo": MODO_OUVIR,
+        "modo": MODO_DEFI,
         "idioma_de_estudo": "pt",
         "acertos": 0,
         "tentativas": 0,
@@ -389,6 +389,7 @@ async def main(pagina: ft.Page):
         coluna_letra.visible = estado["modo"] == MODO_ESTUDAR
         coluna_letra_ouvir.visible = estado["modo"] == MODO_OUVIR
         modo_defi = estado["modo"] == MODO_DEFI
+        linha_seletor_de_modo.visible = not modo_defi
         if modo_defi:
             painel_defi.mostrar()
         else:
@@ -742,6 +743,9 @@ async def main(pagina: ft.Page):
         return ft.Icon(ft.Icons.MUSIC_NOTE_ROUNDED, color=cor("destaque"), size=tamanho)
 
     async def selecionar_musica(musica: dict):
+        if estado["modo"] == MODO_DEFI:
+            estado["modo"] = MODO_OUVIR
+            redesenhar_seletores()
         estado["musica_selecionada"] = musica
         estado["indice_linha_atual"] = -1
         estado["linha_selecionada"] = None
@@ -1818,8 +1822,6 @@ async def main(pagina: ft.Page):
     redesenhar_seletores()
     atualizar_lista_de_musicas_ui()
 
-    if lista_de_musicas:
-        await selecionar_musica(lista_de_musicas[0])
     pagina.update()
 
 

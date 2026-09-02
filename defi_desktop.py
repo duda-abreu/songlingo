@@ -74,21 +74,7 @@ class PainelDefi:
             bgcolor=self.cor("cartao_claro"),
         )
 
-        self.seletor_unidade = ft.Dropdown(
-            value="0",
-            width=330,
-            height=52,
-            filled=True,
-            fill_color=self.cor("cartao"),
-            color=self.cor("texto_principal"),
-            border_color=self.cor("cartao_claro"),
-            border_radius=12,
-            options=[
-                ft.DropdownOption(key=str(indice), text=f"{unidade['nivel']} · {unidade['titulo']}")
-                for indice, unidade in enumerate(self.curso)
-            ],
-            on_select=self._selecionar_unidade,
-        )
+        self.lista_unidades = ft.Column(spacing=8, col={"xs": 12, "md": 3})
 
         self.documento_titulo = ft.Text(size=19, font_family=FONTE_TITULO, weight=ft.FontWeight.W_600)
         self.documento_texto = ft.Text(size=15)
@@ -98,7 +84,7 @@ class PainelDefi:
         self.passos = ft.Row(spacing=6, wrap=True)
         self.pergunta = ft.Text(size=20, font_family=FONTE_TITULO, weight=ft.FontWeight.W_600)
         self.instrucao = ft.Text(size=13, color=self.cor("texto_secundario"))
-        self.area_resposta = ft.Column(spacing=9)
+        self.area_resposta = ft.Column(spacing=9, horizontal_alignment=ft.CrossAxisAlignment.STRETCH)
         self.feedback = ft.Text(size=14, weight=ft.FontWeight.BOLD)
         self.gabarito = ft.Container(visible=False, border_radius=12, padding=12, bgcolor=self.cor("cartao_claro"))
         self.botao_mostrar = ft.TextButton("mostrar resposta", icon=ft.Icons.VISIBILITY_ROUNDED, on_click=self._mostrar_resposta)
@@ -118,14 +104,15 @@ class PainelDefi:
             "activité",
             ft.Column(
                 [
-                    ft.Row([self.tipo_atividade, ft.Container(expand=True), self.passos]),
+                    ft.Row([self.tipo_atividade, self.passos], alignment=ft.MainAxisAlignment.SPACE_BETWEEN, wrap=True),
                     self.pergunta,
                     self.instrucao,
                     self.area_resposta,
                     self.feedback,
                     self.gabarito,
                     ft.Row(
-                        [self.botao_mostrar, self.botao_tentar, ft.Container(expand=True), self.botao_conferir, self.botao_proxima],
+                        [self.botao_mostrar, self.botao_tentar, self.botao_conferir, self.botao_proxima],
+                        alignment=ft.MainAxisAlignment.SPACE_BETWEEN,
                         wrap=True,
                     ),
                 ],
@@ -138,34 +125,51 @@ class PainelDefi:
             scroll=ft.ScrollMode.AUTO,
             spacing=12,
             controls=[
-                ft.Row(
-                    [
-                        ft.Column([ft.Text("songlingo", size=11, color=self.cor("destaque"), weight=ft.FontWeight.BOLD), ft.Text("parcours défi", size=36, font_family=FONTE_TITULO, weight=ft.FontWeight.W_600)], spacing=0),
-                        self.seletor_unidade,
-                    ],
-                    alignment=ft.MainAxisAlignment.SPACE_BETWEEN,
-                    vertical_alignment=ft.CrossAxisAlignment.CENTER,
-                    wrap=True,
-                ),
+                ft.Text("SONGLINGO", size=11, color=self.cor("destaque"), weight=ft.FontWeight.BOLD),
+                ft.Text("parcours défi", size=42, font_family=FONTE_TITULO, weight=ft.FontWeight.W_600),
+                ft.Text("observe, compreenda, descubra a regra e use o francês numa situação real.", color=self.cor("texto_secundario")),
                 self.progresso,
-                ft.Row([ft.Column([ft.Row([self.nivel, self.tema], spacing=10), self.titulo], spacing=2), ft.Container(expand=True), self.estado_unidade], wrap=True),
-                self.cartao_documento,
-                self.cartao_ferramenta,
-                self.cartao_atividade,
-                ft.Text("conteúdo autoral inspirado na abordagem acional do FLE", size=10, color=self.cor("texto_secundario"), text_align=ft.TextAlign.CENTER),
+                ft.ResponsiveRow(
+                    [
+                        self.lista_unidades,
+                        ft.Column(
+                            [
+                                ft.Row([self.nivel, self.tema], spacing=10, wrap=True),
+                                self.titulo,
+                                self.estado_unidade,
+                                self.cartao_documento,
+                                self.cartao_ferramenta,
+                                self.cartao_atividade,
+                            ],
+                            col={"xs": 12, "md": 9},
+                            spacing=16,
+                            horizontal_alignment=ft.CrossAxisAlignment.STRETCH,
+                        ),
+                    ],
+                    spacing=22,
+                    run_spacing=18,
+                    vertical_alignment=ft.CrossAxisAlignment.START,
+                ),
             ],
         )
+        self.corpo_curso = self.lista.controls[-1]
         self.controle = ft.Container(expand=True, visible=False, content=self.lista)
         self._renderizar(atualizar=False)
 
     def _cartao(self, etiqueta: str, conteudo: ft.Control) -> ft.Control:
-        return ft.Column(
-            controls=[
-                ft.Text(f"˚ {etiqueta}", size=11, font_family=FONTE_TITULO, color=self.cor("destaque"), weight=ft.FontWeight.BOLD),
-                conteudo,
-                ft.Divider(height=1, color=self.cor("cartao_claro")),
-            ],
-            spacing=10,
+        return ft.Container(
+            bgcolor=self.cor("cartao"),
+            border_radius=18,
+            padding=20,
+            border=ft.Border.all(1, self.cor("cartao_claro")),
+            content=ft.Column(
+                [
+                    ft.Text(etiqueta.upper(), size=11, color=self.cor("destaque"), weight=ft.FontWeight.BOLD),
+                    conteudo,
+                ],
+                spacing=12,
+                horizontal_alignment=ft.CrossAxisAlignment.STRETCH,
+            ),
         )
 
     def _chave(self, unidade: int | None = None, atividade: int | None = None) -> str:
@@ -176,10 +180,35 @@ class PainelDefi:
     def _unidade_concluida(self, indice: int) -> bool:
         return all(self._chave(indice, atividade) in self.concluidas for atividade in range(len(self.curso[indice]["atividades"])))
 
-    def _selecionar_unidade(self, e):
-        self.unidade_atual = int(e.control.value)
+    def _selecionar_unidade(self, indice):
+        self.unidade_atual = indice
         self.atividade_atual = 0
         self._renderizar()
+
+    def _renderizar_unidades(self):
+        self.lista_unidades.controls.clear()
+        nivel_anterior = None
+        for indice, unidade in enumerate(self.curso):
+            if unidade["nivel"] != nivel_anterior:
+                nivel_anterior = unidade["nivel"]
+                self.lista_unidades.controls.append(ft.Text(
+                    "PASSERELLE B1" if nivel_anterior == "B1" else nivel_anterior,
+                    size=12, color=self.cor("destaque"), weight=ft.FontWeight.BOLD,
+                ))
+            self.lista_unidades.controls.append(ft.Container(
+                padding=12,
+                border_radius=12,
+                bgcolor=self.cor("cartao_claro") if indice == self.unidade_atual else "transparent",
+                on_click=lambda e, i=indice: self._selecionar_unidade(i),
+                ink=True,
+                content=ft.Row([
+                    ft.Text("✓" if self._unidade_concluida(indice) else f"{indice + 1:02}", color=self.cor("destaque"), size=12),
+                    ft.Column([
+                        ft.Text(unidade["titulo"], size=13, weight=ft.FontWeight.BOLD),
+                        ft.Text(unidade["tema"], size=11, color=self.cor("texto_secundario")),
+                    ], expand=True, spacing=3),
+                ], spacing=10),
+            ))
 
     def _renderizar(self, atualizar: bool = True):
         unidade = self.curso[self.unidade_atual]
@@ -193,6 +222,7 @@ class PainelDefi:
         self.ferramenta_texto.value = unidade["ferramenta"]
         total = sum(len(item["atividades"]) for item in self.curso)
         self.progresso.value = len(self.concluidas) / total
+        self._renderizar_unidades()
         self._renderizar_atividade()
         if atualizar:
             self.pagina.update()
@@ -393,6 +423,7 @@ class PainelDefi:
 
     def _marcar_concluida(self):
         self.concluidas.add(self._chave())
+        self._renderizar_unidades()
         total = sum(len(item["atividades"]) for item in self.curso)
         self.progresso.value = len(self.concluidas) / total
         self.botao_conferir.visible = False
@@ -439,7 +470,6 @@ class PainelDefi:
         elif self.unidade_atual < len(self.curso) - 1:
             self.unidade_atual += 1
             self.atividade_atual = 0
-            self.seletor_unidade.value = str(self.unidade_atual)
         self._renderizar()
 
     def _fechar(self, e=None):
@@ -454,4 +484,7 @@ class PainelDefi:
         self.controle.visible = False
 
     def aplicar_tema(self):
+        for cartao in (self.cartao_documento, self.cartao_ferramenta, self.cartao_atividade):
+            cartao.bgcolor = self.cor("cartao")
+            cartao.border = ft.Border.all(1, self.cor("cartao_claro"))
         self._renderizar(atualizar=False)
