@@ -368,7 +368,18 @@ class PainelDefi:
         self.feedback.value = "reproduzindo em francês…"
         self.feedback.color = self.cor("destaque")
         self.pagina.update()
-        threading.Thread(target=self._falar_windows, args=(texto,), daemon=True).start()
+        def reproduzir():
+            try:
+                sucesso = self._falar_windows(texto)
+            except (OSError, subprocess.TimeoutExpired):
+                sucesso = False
+            self.pagina.run_task(self._finalizar_audio, sucesso)
+        threading.Thread(target=reproduzir, daemon=True).start()
+
+    async def _finalizar_audio(self, sucesso):
+        self.feedback.value = "Áudio concluído. Pode ouvir novamente." if sucesso else "Não foi possível reproduzir. Verifique se há uma voz francesa instalada no Windows."
+        self.feedback.color = self.cor("destaque") if sucesso else self.cor("erro")
+        self.pagina.update()
 
     @staticmethod
     def _falar_windows(texto: str):
@@ -378,9 +389,13 @@ class PainelDefi:
             "Add-Type -AssemblyName System.Speech; "
             "$s=New-Object System.Speech.Synthesis.SpeechSynthesizer; "
             "$v=$s.GetInstalledVoices()|Where-Object {$_.VoiceInfo.Culture.Name -like 'fr-*'}|Select-Object -First 1; "
-            "if($v){$s.SelectVoice($v.VoiceInfo.Name)}; $s.Rate=-2; $s.Speak($env:SONGLINGO_DEFI_TEXTO)"
+            "if(!$v){exit 2}; $s.SelectVoice($v.VoiceInfo.Name); "
+            "$s.Rate=-2; $s.Speak($env:SONGLINGO_DEFI_TEXTO); $s.Dispose()"
         )
-        subprocess.run(["powershell", "-NoProfile", "-Command", script], env=ambiente, capture_output=True)
+        resultado = subprocess.run(["powershell", "-NoProfile", "-Command", script], env=ambiente,
+                                   capture_output=True, timeout=120,
+                                   creationflags=getattr(subprocess, "CREATE_NO_WINDOW", 0))
+        return resultado.returncode == 0
 
     def _conferir(self, e=None):
         atividade = self.curso[self.unidade_atual]["atividades"][self.atividade_atual]
