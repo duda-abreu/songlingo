@@ -133,21 +133,15 @@ class PainelDefi:
             ),
         )
 
-        self.lista = ft.ListView(
+        self.lista = ft.Column(
             expand=True,
+            scroll=ft.ScrollMode.AUTO,
             spacing=12,
-            padding=ft.Padding.only(right=8, bottom=20),
             controls=[
                 ft.Row(
                     [
                         ft.Column([ft.Text("songlingo", size=11, color=self.cor("destaque"), weight=ft.FontWeight.BOLD), ft.Text("parcours défi", size=36, font_family=FONTE_TITULO, weight=ft.FontWeight.W_600)], spacing=0),
-                        ft.Row(
-                            [
-                                self.seletor_unidade,
-                                ft.TextButton("voltar às músicas", icon=ft.Icons.ARROW_BACK_ROUNDED, on_click=self._fechar),
-                            ],
-                            spacing=6,
-                        ),
+                        self.seletor_unidade,
                     ],
                     alignment=ft.MainAxisAlignment.SPACE_BETWEEN,
                     vertical_alignment=ft.CrossAxisAlignment.CENTER,
@@ -166,19 +160,21 @@ class PainelDefi:
 
     def _cartao(self, etiqueta: str, conteudo: ft.Control) -> ft.Container:
         return ft.Container(
+            expand=False,
             border_radius=22,
             bgcolor=self.cor("cartao"),
             padding=18,
             shadow=ft.BoxShadow(blur_radius=20, spread_radius=-5, offset=ft.Offset(0, 7), color=self.cor("sombra")),
             content=ft.Column(
-                [
+                expand=False,
+                controls=[
                     ft.Container(
                         border_radius=20,
                         bgcolor=self.cor("cartao_claro"),
                         padding=ft.Padding.symmetric(horizontal=11, vertical=4),
-                        content=ft.Text(f"˚ {etiqueta}", size=11, color=self.cor("destaque"), weight=ft.FontWeight.BOLD),
+                        content=ft.Text(f"˚ {etiqueta}", size=11, font_family=FONTE_TITULO, color=self.cor("destaque"), weight=ft.FontWeight.BOLD),
                     ),
-                    conteudo,
+                    ft.Container(expand=False, content=conteudo),
                 ],
                 spacing=10,
             ),

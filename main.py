@@ -1547,7 +1547,7 @@ async def main(pagina: ft.Page):
     )
 
     def ao_abrir_curso_defi(e):
-        mudar_modo(MODO_DEFI)
+        mudar_modo(MODO_OUVIR if estado["modo"] == MODO_DEFI else MODO_DEFI)
 
     botao_curso_defi = ft.Container(
         border_radius=18,
