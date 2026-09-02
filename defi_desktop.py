@@ -47,14 +47,24 @@ def _resposta_aceita(resposta: str, esperadas: list[str]) -> bool:
 
 
 class PainelDefi:
-    def __init__(self, pagina: ft.Page, cor, ao_fechar=None):
+    def __init__(self, pagina: ft.Page, cor, ao_fechar=None, caminho_progresso=None):
         self.pagina = pagina
         self.cor = cor
         self.ao_fechar = ao_fechar
         self.curso = carregar_curso()
+        self.caminho_progresso = Path(caminho_progresso) if caminho_progresso else Path(__file__).with_name("progresso_defi.json")
+        try:
+            salvo = json.loads(self.caminho_progresso.read_text(encoding="utf-8"))
+            if not isinstance(salvo, dict):
+                salvo = {}
+        except (OSError, ValueError):
+            salvo = {}
         self.unidade_atual = 0
         self.atividade_atual = 0
-        self.concluidas: set[str] = set()
+        self.concluidas = set(salvo.get("concluidas", []))
+        self.erros = salvo.get("erros", {})
+        self.aviso_salvar = ft.Text(size=12, color=self.cor("erro"))
+        self.revisao = ft.Column(visible=False, spacing=12)
         self.opcao_selecionada: int | None = None
         self.conexoes_feitas: set[int] = set()
         self.conexao_esquerda: int | None = None
@@ -128,7 +138,13 @@ class PainelDefi:
                 ft.Text("SONGLINGO", size=11, color=self.cor("destaque"), weight=ft.FontWeight.BOLD),
                 ft.Text("parcours défi", size=42, font_family=FONTE_TITULO, weight=ft.FontWeight.W_600),
                 ft.Text("observe, compreenda, descubra a regra e use o francês numa situação real.", color=self.cor("texto_secundario")),
+                ft.Row([
+                    ft.TextButton("percurso", on_click=lambda e: self._mostrar_percurso()),
+                    ft.TextButton("meus pontos fracos", icon=ft.Icons.REPLAY_ROUNDED, on_click=self._mostrar_revisao),
+                ], wrap=True),
+                self.aviso_salvar,
                 self.progresso,
+                self.revisao,
                 ft.ResponsiveRow(
                     [
                         self.lista_unidades,
@@ -171,7 +187,6 @@ class PainelDefi:
                 horizontal_alignment=ft.CrossAxisAlignment.STRETCH,
             ),
         )
-
     def _chave(self, unidade: int | None = None, atividade: int | None = None) -> str:
         unidade = self.unidade_atual if unidade is None else unidade
         atividade = self.atividade_atual if atividade is None else atividade
@@ -184,6 +199,65 @@ class PainelDefi:
         self.unidade_atual = indice
         self.atividade_atual = 0
         self._renderizar()
+
+    def _salvar(self):
+        try:
+            temporario = self.caminho_progresso.with_suffix(".tmp")
+            temporario.write_text(json.dumps({"concluidas": sorted(self.concluidas), "erros": self.erros}, ensure_ascii=False), encoding="utf-8")
+            temporario.replace(self.caminho_progresso)
+            self.aviso_salvar.value = ""
+        except OSError:
+            self.aviso_salvar.value = "Não foi possível salvar a revisão neste computador."
+
+    def _registrar_resultado(self, correta):
+        chave = self._chave()
+        if not correta:
+            registro = self.erros.setdefault(chave, {"erros": 0, "revisado": False})
+            registro["erros"] += 1
+            registro["revisado"] = False
+        elif chave in self.erros:
+            self.erros[chave]["revisado"] = True
+        self._salvar()
+
+    def _mostrar_percurso(self):
+        self.corpo_curso.visible = True
+        self.revisao.visible = False
+        self.pagina.update()
+
+    def _revisar_atividade(self, unidade, atividade):
+        self.unidade_atual, self.atividade_atual = unidade, atividade
+        self.corpo_curso.visible = True
+        self.revisao.visible = False
+        self._renderizar()
+
+    def _mostrar_revisao(self, e=None):
+        self.corpo_curso.visible = False
+        self.revisao.visible = True
+        self.revisao.controls = [
+            ft.Text("meus pontos fracos", size=28, font_family=FONTE_TITULO),
+            ft.Text("Reveja primeiro as questões pendentes e os erros mais frequentes. Seu histórico fica salvo neste computador."),
+        ]
+        itens = []
+        for ui, unidade in enumerate(self.curso):
+            for ai, atividade in enumerate(unidade["atividades"]):
+                registro = self.erros.get(self._chave(ui, ai))
+                if registro:
+                    itens.append((ui, ai, unidade, atividade, registro))
+        itens.sort(key=lambda item: (item[4]["revisado"], -item[4]["erros"]))
+        if not itens:
+            self.revisao.controls.append(ft.Text("Nenhum erro registrado ainda. Pratique no percurso: as questões que precisar revisar aparecerão aqui."))
+        for ui, ai, unidade, atividade, registro in itens:
+            status = "revisado" if registro["revisado"] else "revisar"
+            self.revisao.controls.append(ft.Container(
+                bgcolor=self.cor("cartao"), padding=16, border_radius=14,
+                content=ft.Column([
+                    ft.Text(f"{unidade['nivel']} · {unidade['titulo']} · {atividade['tipo']}", color=self.cor("destaque")),
+                    ft.Text(atividade["pergunta"]),
+                    ft.Text(f"{registro['erros']} erro(s) · {status}", size=12),
+                    ft.TextButton("praticar de novo", on_click=lambda e, u=ui, a=ai: self._revisar_atividade(u, a)),
+                ]),
+            ))
+        self.pagina.update()
 
     def _renderizar_unidades(self):
         self.lista_unidades.controls.clear()
@@ -362,8 +436,10 @@ class PainelDefi:
             self.feedback.color = self.cor("acerto")
             if len(self.conexoes_feitas) == len(atividade["pares"]):
                 self.feedback.value = "tout est bien relié !"
+                self._registrar_resultado(True)
                 self._marcar_concluida()
         else:
+            self._registrar_resultado(False)
             self.feedback.value = "essa ligação não combina — tente outra."
             self.feedback.color = self.cor("erro")
             for lado_errado, indice_errado in (("esquerda", self.conexao_esquerda), ("direita", self.conexao_direita)):
@@ -446,6 +522,7 @@ class PainelDefi:
                 return
             correta = _resposta_aceita(self.campo_resposta.value, atividade["respostas"])
 
+        self._registrar_resultado(correta)
         if correta:
             self.feedback.value = f"bien vu ! {atividade.get('explicacao', '')}"
             self.feedback.color = self.cor("acerto")
@@ -457,6 +534,7 @@ class PainelDefi:
 
     def _marcar_concluida(self):
         self.concluidas.add(self._chave())
+        self._salvar()
         self._renderizar_unidades()
         total = sum(len(item["atividades"]) for item in self.curso)
         self.progresso.value = len(self.concluidas) / total

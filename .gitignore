@@ -3,3 +3,5 @@ __pycache__/
 .flet/
 musicas/*/audio.mp3
 debug_*.log
+progresso_defi.json
+progresso_defi.tmp
