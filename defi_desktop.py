@@ -158,26 +158,14 @@ class PainelDefi:
         self.controle = ft.Container(expand=True, visible=False, content=self.lista)
         self._renderizar(atualizar=False)
 
-    def _cartao(self, etiqueta: str, conteudo: ft.Control) -> ft.Container:
-        return ft.Container(
-            expand=False,
-            border_radius=22,
-            bgcolor=self.cor("cartao"),
-            padding=18,
-            shadow=ft.BoxShadow(blur_radius=20, spread_radius=-5, offset=ft.Offset(0, 7), color=self.cor("sombra")),
-            content=ft.Column(
-                expand=False,
-                controls=[
-                    ft.Container(
-                        border_radius=20,
-                        bgcolor=self.cor("cartao_claro"),
-                        padding=ft.Padding.symmetric(horizontal=11, vertical=4),
-                        content=ft.Text(f"˚ {etiqueta}", size=11, font_family=FONTE_TITULO, color=self.cor("destaque"), weight=ft.FontWeight.BOLD),
-                    ),
-                    ft.Container(expand=False, content=conteudo),
-                ],
-                spacing=10,
-            ),
+    def _cartao(self, etiqueta: str, conteudo: ft.Control) -> ft.Control:
+        return ft.Column(
+            controls=[
+                ft.Text(f"˚ {etiqueta}", size=11, font_family=FONTE_TITULO, color=self.cor("destaque"), weight=ft.FontWeight.BOLD),
+                conteudo,
+                ft.Divider(height=1, color=self.cor("cartao_claro")),
+            ],
+            spacing=10,
         )
 
     def _chave(self, unidade: int | None = None, atividade: int | None = None) -> str:
