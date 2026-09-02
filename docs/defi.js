@@ -13,7 +13,6 @@
     abrir: document.getElementById("abrir-curso-defi"),
     fechar: document.getElementById("fechar-curso-defi"),
     tela: document.getElementById("tela-defi"),
-    telaVazia: document.getElementById("tela-vazia"),
     telaMusica: document.getElementById("tela-musica"),
     lista: document.getElementById("lista-unidades-defi"),
     barra: document.getElementById("barra-progresso-defi"),
@@ -375,7 +374,7 @@
 
   function abrirCurso() {
     document.getElementById("audio")?.pause();
-    el.telaVazia.hidden = true;
+    el.fechar.hidden = !window.songlingoTemMusica?.();
     el.telaMusica.hidden = true;
     el.tela.hidden = false;
     el.abrir.classList.add("ativo");
@@ -383,11 +382,10 @@
   }
 
   function fecharCurso() {
+    if (!window.songlingoTemMusica?.()) return;
     el.tela.hidden = true;
     el.abrir.classList.remove("ativo");
-    const temMusica = Boolean(window.songlingoTemMusica?.());
-    el.telaMusica.hidden = !temMusica;
-    el.telaVazia.hidden = temMusica;
+    el.telaMusica.hidden = false;
   }
 
   window.fecharCursoDefi = fecharCurso;
@@ -403,4 +401,5 @@
       conferir();
     }
   });
+  abrirCurso();
 })();

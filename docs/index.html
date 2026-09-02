@@ -6,7 +6,7 @@
 <title>songlingo</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;600;700&family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="style.css?v=6">
+<link rel="stylesheet" href="style.css?v=7">
 </head>
 <body class="escuro">
 <div class="fundo-decorativo" aria-hidden="true"></div>
@@ -32,10 +32,6 @@
   </aside>
 
   <main class="area-principal">
-    <div id="tela-vazia" class="tela-vazia">
-      <p>escolhe uma música ou abre o parcours défi pra começar</p>
-    </div>
-
     <section id="tela-defi" class="tela-defi" hidden aria-labelledby="titulo-defi">
       <header class="cabecalho-defi">
         <div>
@@ -43,7 +39,7 @@
           <h2 id="titulo-defi">parcours défi</h2>
           <p>observe, compreenda, descubra a regra e use o francês numa situação real.</p>
         </div>
-        <button id="fechar-curso-defi" class="botao-arquivo" type="button">voltar às músicas</button>
+        <button id="fechar-curso-defi" class="botao-arquivo" type="button" hidden>voltar à música</button>
       </header>
 
       <div class="progresso-defi" aria-label="progresso do percurso">
@@ -97,7 +93,6 @@
           </section>
         </article>
       </div>
-      <p class="nota-defi">Conteúdo autoral inspirado na abordagem acional do FLE; não reproduz o livro Défi.</p>
     </section>
 
     <div id="tela-musica" class="tela-musica" hidden>
@@ -213,8 +208,8 @@
   </div>
 </div>
 
-    <script src="defi-data.js?v=1"></script>
-    <script src="defi.js?v=1"></script>
-    <script src="app.js?v=5"></script>
+    <script src="defi-data.js?v=2"></script>
+    <script src="app.js?v=6"></script>
+    <script src="defi.js?v=2"></script>
 </body>
 </html>

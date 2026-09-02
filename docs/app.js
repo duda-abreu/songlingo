@@ -31,7 +31,6 @@ const FRASES_EXTRAS = [
 const elementos = {
   listaMusicas: document.getElementById("lista-musicas"),
   campoBusca: document.getElementById("campo-busca"),
-  telaVazia: document.getElementById("tela-vazia"),
   telaMusica: document.getElementById("tela-musica"),
   textoArtista: document.getElementById("texto-artista"),
   textoTitulo: document.getElementById("texto-titulo"),
@@ -167,8 +166,8 @@ function renderizarListaMusicas() {
 }
 
 function selecionarMusica(musica) {
-  window.fecharCursoDefi?.();
   estado.musicaSelecionada = musica;
+  window.fecharCursoDefi?.();
   estado.indiceAtual = -1;
   estado.acertos = 0;
   estado.tentativas = 0;
@@ -177,7 +176,6 @@ function selecionarMusica(musica) {
   estado.questoesDitado = 0;
   estado.exercicioTraducao = null;
 
-  elementos.telaVazia.hidden = true;
   elementos.telaMusica.hidden = false;
   elementos.textoTitulo.textContent = musica.titulo;
   elementos.textoArtista.textContent = musica.artista;
