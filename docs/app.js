@@ -659,6 +659,10 @@ elementos.modal.addEventListener("click", (e) => {
   if (e.target === elementos.modal) fecharModalPalavra();
 });
 
+document.addEventListener("keydown", (e) => {
+  if (e.key === "Escape" && !elementos.modal.hidden) fecharModalPalavra();
+});
+
 elementos.botaoTema.addEventListener("click", () => {
   const escuro = document.body.classList.toggle("escuro");
   document.body.classList.toggle("claro", !escuro);

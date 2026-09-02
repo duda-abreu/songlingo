@@ -446,6 +446,10 @@ button.botao-arquivo { font-family: inherit; }
 
 .palavra-chip.sem-clique { cursor: default; }
 
+.modal[hidden] {
+  display: none;
+}
+
 .modal {
   position: fixed;
   inset: 0;
