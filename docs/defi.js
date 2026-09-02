@@ -139,8 +139,21 @@
     el.proxima.hidden = true;
     el.resposta.value = "";
     el.opcoes.innerHTML = "";
+    if (atividade.audio) renderizarBotaoEscuta(atividade.audio);
 
-    if (atividade.opcoes) {
+    if (atividade.oral) {
+      el.resposta.hidden = true;
+      const aviso = document.createElement("p");
+      aviso.textContent = "Fale em voz alta e marque sua autoavaliação. Não há correção automática de pronúncia.";
+      el.opcoes.appendChild(aviso);
+      atividade.checklist.forEach((criterio) => {
+        const rotulo = document.createElement("label");
+        const campo = document.createElement("input");
+        campo.type = "checkbox";
+        rotulo.append(campo, document.createTextNode(` ${criterio}`));
+        el.opcoes.appendChild(rotulo);
+      });
+    } else if (atividade.opcoes) {
       el.resposta.hidden = true;
       atividade.opcoes.forEach((opcao, indice) => {
         const botao = document.createElement("button");
@@ -161,9 +174,8 @@
     } else {
       el.resposta.hidden = false;
       el.resposta.placeholder = atividade.modelo ? "rédige ta réponse en français" : "écrivez en français";
-      if (atividade.audio) renderizarBotaoEscuta(atividade.audio);
     }
-    el.conferir.textContent = atividade.modelo ? "terminei" : "conferir";
+    el.conferir.textContent = atividade.oral ? "concluir prática oral" : atividade.modelo ? "terminei" : "conferir";
     renderizarPassos();
   }
 
@@ -295,13 +307,26 @@
 
   function conferir() {
     const atividade = curso[unidadeAtual].atividades[atividadeAtual];
-    if (atividade.modelo) {
-      if (normalizar(el.resposta.value).split(" ").filter(Boolean).length < 5) {
-        el.feedback.textContent = "desenvolva um pouco mais sua missão.";
+    if (atividade.oral) {
+      const criterios = [...el.opcoes.querySelectorAll('input[type="checkbox"]')];
+      if (!criterios.every((criterio) => criterio.checked)) {
+        el.feedback.textContent = "Pratique os pontos restantes antes de concluir sua autoavaliação.";
         el.feedback.className = "feedback-defi erro";
         return;
       }
-      el.feedback.textContent = "mission accomplie — confira se você incluiu os elementos pedidos.";
+      el.feedback.textContent = "Prática oral concluída por autoavaliação.";
+      el.feedback.className = "feedback-defi acerto";
+      marcarConcluida();
+      return;
+    }
+    if (atividade.modelo) {
+      const minimo = atividade.minPalavras || 5;
+      if (normalizar(el.resposta.value).split(" ").filter(Boolean).length < minimo) {
+        el.feedback.textContent = `Desenvolva sua resposta até pelo menos ${minimo} palavras.`;
+        el.feedback.className = "feedback-defi erro";
+        return;
+      }
+      el.feedback.textContent = "Texto registrado. Compare com o modelo e os critérios; esta produção é autoavaliada.";
       el.feedback.className = "feedback-defi acerto";
       mostrarChecklist(atividade);
       marcarConcluida();

@@ -7,6 +7,7 @@ import unicodedata
 from pathlib import Path
 
 import flet as ft
+from curso_defi import carregar_curso
 
 
 FONTE_TITULO = "Baloo 2"
@@ -50,8 +51,7 @@ class PainelDefi:
         self.pagina = pagina
         self.cor = cor
         self.ao_fechar = ao_fechar
-        caminho = Path(__file__).with_name("defi_data.json")
-        self.curso = json.loads(caminho.read_text(encoding="utf-8"))
+        self.curso = carregar_curso()
         self.unidade_atual = 0
         self.atividade_atual = 0
         self.concluidas: set[str] = set()
@@ -270,8 +270,20 @@ class PainelDefi:
         self.botao_conferir.content = "terminei" if atividade.get("modelo") else "conferir"
         self.botao_proxima.visible = False
         self.area_resposta.controls.clear()
+        self.checks_orais = []
+        if atividade.get("audio"):
+            self.area_resposta.controls.append(ft.Button(
+                "ouvir em francês", icon=ft.Icons.VOLUME_UP_ROUNDED,
+                bgcolor=self.cor("destaque"), color="white",
+                on_click=lambda e, texto=atividade["audio"]: self._ouvir(texto),
+            ))
 
-        if atividade.get("opcoes"):
+        if atividade.get("oral"):
+            self.botao_conferir.content = "concluir prática oral"
+            self.area_resposta.controls.append(ft.Text("Fale em voz alta e marque sua autoavaliação. Não há correção automática de pronúncia."))
+            self.checks_orais = [ft.Checkbox(label=item, value=False) for item in atividade["checklist"]]
+            self.area_resposta.controls.extend(self.checks_orais)
+        elif atividade.get("opcoes"):
             for indice, opcao in enumerate(atividade["opcoes"]):
                 botao = ft.Button(
                     opcao,
@@ -284,10 +296,6 @@ class PainelDefi:
         elif atividade.get("pares"):
             self._montar_associacoes(atividade)
         else:
-            if atividade.get("audio"):
-                self.area_resposta.controls.append(
-                    ft.Button("ouvir em francês", icon=ft.Icons.VOLUME_UP_ROUNDED, bgcolor=self.cor("destaque"), color="white", on_click=lambda e, texto=atividade["audio"]: self._ouvir(texto))
-                )
             self.campo_resposta = ft.TextField(
                 multiline=True,
                 min_lines=2,
@@ -303,7 +311,7 @@ class PainelDefi:
     def _selecionar_opcao(self, e):
         self.opcao_selecionada = int(e.control.data)
         for controle in self.area_resposta.controls:
-            if isinstance(controle, ft.Button):
+            if isinstance(controle, ft.Button) and isinstance(controle.data, int):
                 controle.bgcolor = self.cor("cartao_claro") if controle is e.control else self.cor("fundo")
         self.pagina.update()
 
@@ -399,13 +407,24 @@ class PainelDefi:
 
     def _conferir(self, e=None):
         atividade = self.curso[self.unidade_atual]["atividades"][self.atividade_atual]
+        if atividade.get("oral"):
+            if not all(item.value for item in self.checks_orais):
+                self.feedback.value = "Pratique os pontos restantes antes de concluir sua autoavaliação."
+                self.feedback.color = self.cor("erro")
+            else:
+                self.feedback.value = "Prática oral concluída por autoavaliação."
+                self.feedback.color = self.cor("acerto")
+                self._marcar_concluida()
+            self.pagina.update()
+            return
         if atividade.get("modelo"):
-            if len(_normalizar(self.campo_resposta.value).split()) < 5:
-                self.feedback.value = "desenvolva um pouco mais sua resposta."
+            minimo = atividade.get("minPalavras", 5)
+            if len(_normalizar(self.campo_resposta.value).split()) < minimo:
+                self.feedback.value = f"Desenvolva sua resposta até pelo menos {minimo} palavras."
                 self.feedback.color = self.cor("erro")
                 self.pagina.update()
                 return
-            self.feedback.value = "mission accomplie — confira os elementos pedidos."
+            self.feedback.value = "Texto registrado. Compare com o modelo e os critérios; esta produção é autoavaliada."
             self.feedback.color = self.cor("acerto")
             self._mostrar_checklist(atividade)
             self._marcar_concluida()
@@ -472,10 +491,7 @@ class PainelDefi:
         self.pagina.update()
 
     def _tentar_novamente(self, e=None):
-        self.gabarito.visible = False
-        self.botao_mostrar.visible = True
-        self.botao_tentar.visible = False
-        self.feedback.value = ""
+        self._renderizar_atividade()
         self.pagina.update()
 
     def _proxima(self, e=None):
