@@ -1559,7 +1559,6 @@ async def main(pagina: ft.Page):
             spacing=10,
             vertical_alignment=ft.CrossAxisAlignment.CENTER,
             controls=[
-                ft.Text("📘", size=20),
                 ft.Column(
                     spacing=0,
                     controls=[
