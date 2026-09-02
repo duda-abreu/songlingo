@@ -91,15 +91,15 @@ class PainelDefi:
         )
 
         self.documento_titulo = ft.Text(size=19, font_family=FONTE_TITULO, weight=ft.FontWeight.W_600)
-        self.documento_texto = ft.Text(size=15, selectable=True)
+        self.documento_texto = ft.Text(size=15)
         self.ferramenta_titulo = ft.Text(size=18, font_family=FONTE_TITULO, weight=ft.FontWeight.W_600)
-        self.ferramenta_texto = ft.Text(size=14, color=self.cor("texto_secundario"), selectable=True)
+        self.ferramenta_texto = ft.Text(size=14, color=self.cor("texto_secundario"))
         self.tipo_atividade = ft.Text(size=11, weight=ft.FontWeight.BOLD, color=self.cor("destaque"))
         self.passos = ft.Row(spacing=6, wrap=True)
-        self.pergunta = ft.Text(size=20, font_family=FONTE_TITULO, weight=ft.FontWeight.W_600, selectable=True)
-        self.instrucao = ft.Text(size=13, color=self.cor("texto_secundario"), selectable=True)
+        self.pergunta = ft.Text(size=20, font_family=FONTE_TITULO, weight=ft.FontWeight.W_600)
+        self.instrucao = ft.Text(size=13, color=self.cor("texto_secundario"))
         self.area_resposta = ft.Column(spacing=9)
-        self.feedback = ft.Text(size=14, weight=ft.FontWeight.BOLD, selectable=True)
+        self.feedback = ft.Text(size=14, weight=ft.FontWeight.BOLD)
         self.gabarito = ft.Container(visible=False, border_radius=12, padding=12, bgcolor=self.cor("cartao_claro"))
         self.botao_mostrar = ft.TextButton("mostrar resposta", icon=ft.Icons.VISIBILITY_ROUNDED, on_click=self._mostrar_resposta)
         self.botao_tentar = ft.TextButton("ocultar e tentar de novo", icon=ft.Icons.VISIBILITY_OFF_ROUNDED, visible=False, on_click=self._tentar_novamente)
@@ -411,14 +411,14 @@ class PainelDefi:
     def _mostrar_resposta(self, e=None):
         atividade = self.curso[self.unidade_atual]["atividades"][self.atividade_atual]
         if atividade.get("modelo"):
-            controles = [ft.Text("exemple possible", weight=ft.FontWeight.BOLD), ft.Text(atividade["modelo"], selectable=True)]
+            controles = [ft.Text("exemple possible", weight=ft.FontWeight.BOLD), ft.Text(atividade["modelo"])]
             controles += [ft.Text(f"• {item}") for item in atividade["checklist"]]
         elif atividade.get("pares"):
             controles = [ft.Text("associations", weight=ft.FontWeight.BOLD)]
             controles += [ft.Text(f"• {esquerda} → {direita}") for esquerda, direita in atividade["pares"]]
         else:
             resposta = atividade["opcoes"][atividade["correta"]] if atividade.get("opcoes") else atividade["resposta"]
-            controles = [ft.Text("réponse", weight=ft.FontWeight.BOLD), ft.Text(resposta, selectable=True), ft.Text(atividade.get("explicacao", ""), size=12)]
+            controles = [ft.Text("réponse", weight=ft.FontWeight.BOLD), ft.Text(resposta), ft.Text(atividade.get("explicacao", ""), size=12)]
         self.gabarito.content = ft.Column(controles, spacing=5)
         self.gabarito.visible = True
         self.botao_mostrar.visible = False
