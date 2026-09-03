@@ -1592,7 +1592,7 @@ async def main(pagina: ft.Page):
                         alignment=ft.MainAxisAlignment.SPACE_BETWEEN,
                         vertical_alignment=ft.CrossAxisAlignment.CENTER,
                         controls=[
-                            ft.Text("˚₊· songlingo ·₊˚", size=20, font_family=FONTE_TITULO, weight=ft.FontWeight.W_600, color=cor("destaque")),
+                            ft.Text("˚₊· frenchlingo ·₊˚", size=20, font_family=FONTE_TITULO, weight=ft.FontWeight.W_600, color=cor("destaque")),
                             botao_tema,
                         ],
                     ),

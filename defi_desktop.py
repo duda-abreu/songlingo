@@ -135,7 +135,7 @@ class PainelDefi:
             scroll=ft.ScrollMode.AUTO,
             spacing=12,
             controls=[
-                ft.Text("SONGLINGO", size=11, color=self.cor("destaque"), weight=ft.FontWeight.BOLD),
+                ft.Text("FRENCHLINGO", size=11, color=self.cor("destaque"), weight=ft.FontWeight.BOLD),
                 ft.Text("parcours défi", size=42, font_family=FONTE_TITULO, weight=ft.FontWeight.W_600),
                 ft.Text("observe, compreenda, descubra a regra e use o francês numa situação real.", color=self.cor("texto_secundario")),
                 ft.Row([

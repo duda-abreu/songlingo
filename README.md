@@ -1,4 +1,4 @@
-# songlingo
+# frenchlingo
 
 App pessoal pra aprender francês cantando. Você ouve com letra sincronizada, consulta traduções, pratica vocabulário e treina compreensão oral com ditados de trechos reais das músicas.
 

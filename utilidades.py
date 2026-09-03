@@ -108,7 +108,7 @@ def extrair_titulo_e_artista(nome_pasta: str) -> tuple[str, str]:
 def buscar_letra_sincronizada(titulo: str, artista: str) -> str | None:
     parametros = urllib.parse.urlencode({"track_name": titulo, "artist_name": artista})
     url = f"{URL_BUSCA_LRCLIB}?{parametros}"
-    requisicao = urllib.request.Request(url, headers={"User-Agent": "songlingo/1.0"})
+    requisicao = urllib.request.Request(url, headers={"User-Agent": "frenchlingo/1.0"})
 
     try:
         with urllib.request.urlopen(requisicao, timeout=15) as resposta:
@@ -123,7 +123,7 @@ def buscar_letra_sincronizada(titulo: str, artista: str) -> str | None:
     try:
         query_simples = urllib.parse.urlencode({"q": f"{titulo} {artista}"})
         url_simples = f"{URL_BUSCA_LRCLIB}?{query_simples}"
-        req_simples = urllib.request.Request(url_simples, headers={"User-Agent": "songlingo/1.0"})
+        req_simples = urllib.request.Request(url_simples, headers={"User-Agent": "frenchlingo/1.0"})
         with urllib.request.urlopen(req_simples, timeout=15) as resposta:
             resultados = json.loads(resposta.read().decode("utf-8"))
             for resultado in resultados:
