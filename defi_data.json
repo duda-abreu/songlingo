@@ -1024,5 +1024,469 @@
         ]
       }
     ]
+  },
+  {
+    "id": "chemin",
+    "nivel": "voyage",
+    "tema": "s'orienter en ville",
+    "titulo": "Demander son chemin",
+    "documentoTitulo": "Un touriste un peu perdu",
+    "documento": "Léo cherche la gare, mais son téléphone n'a plus de batterie. Il demande son chemin à une passante : « Excusez-moi, pour aller à la gare, s'il vous plaît ? » Elle répond : « Continuez tout droit, puis tournez à gauche après la pharmacie. La gare est juste en face de la boulangerie. » Léo la remercie et repart, un peu plus confiant.",
+    "ferramentaTitulo": "tout droit · à gauche/à droite · en face de",
+    "ferramenta": "Ces expressions de lieu indiquent une direction. L'impératif (continuez, tournez) sert à donner des indications de façon polie.",
+    "atividades": [
+      {
+        "tipo": "compréhension",
+        "pergunta": "Où se trouve la gare, d'après la passante ?",
+        "opcoes": [
+          "À côté de la pharmacie",
+          "En face de la boulangerie",
+          "Derrière la gare routière"
+        ],
+        "correta": 1,
+        "explicacao": "La gare est juste en face de la boulangerie."
+      },
+      {
+        "tipo": "lexique",
+        "pergunta": "Complète : Pour ___ à la gare, s'il vous plaît ?",
+        "respostas": [
+          "aller"
+        ],
+        "resposta": "aller",
+        "explicacao": "« Pour aller à » + lieu est la formule classique pour demander un chemin."
+      },
+      {
+        "tipo": "grammaire",
+        "pergunta": "Transforme en impératif poli (vous) : tourner à gauche.",
+        "respostas": [
+          "Tournez à gauche"
+        ],
+        "resposta": "Tournez à gauche.",
+        "explicacao": "L'impératif à la 2e personne du pluriel donne une instruction polie."
+      },
+      {
+        "tipo": "médiation",
+        "pergunta": "Explique à un ami non francophone comment aller de la pharmacie à la gare.",
+        "instrucao": "Utilise au moins deux indications de direction.",
+        "modelo": "Continue tout droit, puis tourne à gauche après la pharmacie. La gare est en face de la boulangerie.",
+        "checklist": [
+          "deux indications de direction",
+          "un repère (pharmacie/boulangerie)",
+          "phrase claire"
+        ]
+      },
+      {
+        "tipo": "interaction",
+        "pergunta": "Prépare trois façons différentes de demander son chemin.",
+        "instrucao": "Varie la politesse et la formulation.",
+        "modelo": "Excusez-moi, pour aller à la gare, s'il vous plaît ? / Vous savez où se trouve la poste ? / Est-ce que la banque est loin d'ici ?",
+        "checklist": [
+          "trois formulations",
+          "au moins une avec « excusez-moi »",
+          "vocabulaire de lieu"
+        ]
+      },
+      {
+        "tipo": "écoute",
+        "pergunta": "Escute e escreva a frase.",
+        "audio": "Continuez tout droit, puis tournez à gauche.",
+        "respostas": [
+          "Continuez tout droit, puis tournez à gauche"
+        ],
+        "resposta": "Continuez tout droit, puis tournez à gauche.",
+        "explicacao": "« Tout droit » indica seguir em frente sem virar."
+      },
+      {
+        "tipo": "associations",
+        "pergunta": "Relie les mots à leur sens.",
+        "pares": [
+          [
+            "tout droit",
+            "em linha reta"
+          ],
+          [
+            "à gauche",
+            "direção esquerda"
+          ],
+          [
+            "en face de",
+            "posição oposta"
+          ],
+          [
+            "au coin de",
+            "na esquina de"
+          ]
+        ]
+      },
+      {
+        "tipo": "traduction",
+        "pergunta": "Traduza: Onde fica o banheiro, por favor?",
+        "respostas": [
+          "Où sont les toilettes, s'il vous plaît",
+          "Où se trouvent les toilettes, s'il vous plaît"
+        ],
+        "resposta": "Où sont les toilettes, s'il vous plaît ?",
+        "explicacao": "« Où sont/se trouvent » pergunta localização."
+      },
+      {
+        "tipo": "mission",
+        "pergunta": "Você está perdido numa cidade francesa. Peça informação e reaja à resposta.",
+        "instrucao": "Escreva a pergunta e uma reação educada à resposta recebida.",
+        "modelo": "Excusez-moi, pour aller à la station de métro la plus proche ? / Merci beaucoup, c'est très gentil !",
+        "checklist": [
+          "pergunta educada",
+          "reação de agradecimento",
+          "vocabulário de direção"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "restaurant",
+    "nivel": "voyage",
+    "tema": "commander un repas",
+    "titulo": "Au restaurant",
+    "documentoTitulo": "Une commande simple",
+    "documento": "Au restaurant, la serveuse demande : « Vous avez choisi ? » Camille répond : « Oui, je voudrais une salade et le poisson du jour, s'il vous plaît. » Son ami préfère un plat végétarien et demande : « Est-ce qu'il y a des plats sans viande ? » La serveuse leur conseille les légumes grillés. À la fin, ils demandent l'addition.",
+    "ferramentaTitulo": "je voudrais · est-ce qu'il y a · l'addition",
+    "ferramenta": "« Je voudrais » + nom/infinitif exprime une demande polie. « Est-ce qu'il y a... ? » sert à demander la disponibilité de quelque chose.",
+    "atividades": [
+      {
+        "tipo": "compréhension",
+        "pergunta": "Que demande l'ami de Camille ?",
+        "opcoes": [
+          "L'addition tout de suite",
+          "Un plat sans viande",
+          "Le poisson du jour"
+        ],
+        "correta": 1,
+        "explicacao": "Il demande s'il y a des plats sans viande."
+      },
+      {
+        "tipo": "lexique",
+        "pergunta": "Complète : Je ___ une salade, s'il vous plaît.",
+        "respostas": [
+          "voudrais"
+        ],
+        "resposta": "voudrais",
+        "explicacao": "« Je voudrais » est plus poli que « je veux »."
+      },
+      {
+        "tipo": "grammaire",
+        "pergunta": "Transforme en question polie : il y a des plats sans viande.",
+        "respostas": [
+          "Est-ce qu'il y a des plats sans viande"
+        ],
+        "resposta": "Est-ce qu'il y a des plats sans viande ?",
+        "explicacao": "« Est-ce que » transforme une affirmation en question."
+      },
+      {
+        "tipo": "médiation",
+        "pergunta": "Explique à un ami ce que Camille et son ami ont commandé.",
+        "instrucao": "Mentionne les deux plats et la demande finale.",
+        "modelo": "Camille a commandé une salade et le poisson du jour. Son ami a préféré des légumes grillés. Ils ont demandé l'addition à la fin.",
+        "checklist": [
+          "les deux commandes",
+          "la demande finale",
+          "phrases complètes"
+        ]
+      },
+      {
+        "tipo": "interaction",
+        "pergunta": "Prépare un mini-dialogue pour commander au restaurant.",
+        "instrucao": "Inclue une question du serveur et ta réponse.",
+        "modelo": "— Vous avez choisi ? — Oui, je voudrais le plat du jour et une eau minérale, s'il vous plaît.",
+        "checklist": [
+          "question du serveur",
+          "réponse polie",
+          "un plat + une boisson"
+        ]
+      },
+      {
+        "tipo": "écoute",
+        "pergunta": "Escute e escreva a frase.",
+        "audio": "Je voudrais l'addition, s'il vous plaît.",
+        "respostas": [
+          "Je voudrais l'addition, s'il vous plaît"
+        ],
+        "resposta": "Je voudrais l'addition, s'il vous plaît.",
+        "explicacao": "Frase comum pra pedir a conta."
+      },
+      {
+        "tipo": "associations",
+        "pergunta": "Relie les mots à leur sens.",
+        "pares": [
+          [
+            "l'addition",
+            "conta"
+          ],
+          [
+            "le plat du jour",
+            "prato do dia"
+          ],
+          [
+            "sans viande",
+            "sem carne"
+          ],
+          [
+            "à point",
+            "ao ponto (carne)"
+          ]
+        ]
+      },
+      {
+        "tipo": "traduction",
+        "pergunta": "Traduza: Vocês têm pratos vegetarianos?",
+        "respostas": [
+          "Est-ce que vous avez des plats végétariens",
+          "Vous avez des plats végétariens"
+        ],
+        "resposta": "Est-ce que vous avez des plats végétariens ?",
+        "explicacao": "Pergunta educada sobre opções do cardápio."
+      },
+      {
+        "tipo": "mission",
+        "pergunta": "Escreva um pedido completo num restaurante francês.",
+        "instrucao": "Inclua um prato, uma bebida e um pedido educado extra.",
+        "modelo": "Je voudrais le poisson du jour et un jus d'orange, s'il vous plaît. Est-ce que je pourrais avoir du pain ?",
+        "checklist": [
+          "um prato",
+          "uma bebida",
+          "um pedido extra educado"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "heure",
+    "nivel": "voyage",
+    "tema": "l'heure et les horaires",
+    "titulo": "Quelle heure est-il ?",
+    "documentoTitulo": "Un rendez-vous à ne pas manquer",
+    "documento": "Inès doit prendre son train à 14h30. Il est déjà 13h45 et elle demande à un passant : « Excusez-moi, quelle heure est-il ? » Il répond : « Il est deux heures moins le quart. » Inès presse le pas : elle a encore le temps, mais il ne faut pas traîner. Le train part dans quarante-cinq minutes.",
+    "ferramentaTitulo": "il est ... heures · moins le quart · dans + durée",
+    "ferramenta": "Pour dire l'heure : il est + nombre + heures. « Moins le quart » = 15 minutes avant l'heure pleine. « Dans » + durée indique un moment futur proche.",
+    "atividades": [
+      {
+        "tipo": "compréhension",
+        "pergunta": "À quelle heure part le train d'Inès ?",
+        "opcoes": [
+          "13h45",
+          "14h30",
+          "14h45"
+        ],
+        "correta": 1,
+        "explicacao": "Elle doit prendre son train à 14h30."
+      },
+      {
+        "tipo": "lexique",
+        "pergunta": "Complète : Il est deux heures ___ le quart.",
+        "respostas": [
+          "moins"
+        ],
+        "resposta": "moins",
+        "explicacao": "« Moins le quart » indica 15 minutos antes da hora cheia."
+      },
+      {
+        "tipo": "grammaire",
+        "pergunta": "Escreva por extenso: 14h30.",
+        "respostas": [
+          "il est deux heures et demie",
+          "il est quatorze heures trente"
+        ],
+        "resposta": "Il est deux heures et demie.",
+        "explicacao": "« Et demie » indica 30 minutos."
+      },
+      {
+        "tipo": "médiation",
+        "pergunta": "Explique à un ami à quelle heure Inès doit partir et pourquoi elle se dépêche.",
+        "instrucao": "Mentionne l'heure actuelle et l'heure du train.",
+        "modelo": "Il est presque deux heures et le train d'Inès part à deux heures et demie. Elle se dépêche parce qu'il ne reste que peu de temps.",
+        "checklist": [
+          "heure actuelle",
+          "heure du train",
+          "raison de se dépêcher"
+        ]
+      },
+      {
+        "tipo": "interaction",
+        "pergunta": "Prépare trois façons de demander l'heure ou un horaire.",
+        "instrucao": "Varie entre l'heure et un horaire de transport.",
+        "modelo": "Quelle heure est-il, s'il vous plaît ? / Vous savez à quelle heure part le prochain bus ? / Le musée ouvre à quelle heure ?",
+        "checklist": [
+          "trois questions",
+          "vocabulaire de l'heure",
+          "politesse"
+        ]
+      },
+      {
+        "tipo": "écoute",
+        "pergunta": "Escute e escreva a frase.",
+        "audio": "Il est deux heures moins le quart.",
+        "respostas": [
+          "Il est deux heures moins le quart"
+        ],
+        "resposta": "Il est deux heures moins le quart.",
+        "explicacao": "Expressão comum pra dizer as horas."
+      },
+      {
+        "tipo": "associations",
+        "pergunta": "Relie les expressions à leur sens.",
+        "pares": [
+          [
+            "et quart",
+            "15 minutos depois"
+          ],
+          [
+            "et demie",
+            "30 minutos depois"
+          ],
+          [
+            "moins le quart",
+            "15 minutos antes"
+          ],
+          [
+            "pile",
+            "exatamente"
+          ]
+        ]
+      },
+      {
+        "tipo": "traduction",
+        "pergunta": "Traduza: A que horas o museu fecha?",
+        "respostas": [
+          "À quelle heure ferme le musée",
+          "Le musée ferme à quelle heure"
+        ],
+        "resposta": "À quelle heure ferme le musée ?",
+        "explicacao": "Pergunta sobre horário de funcionamento."
+      },
+      {
+        "tipo": "mission",
+        "pergunta": "Você tem um compromisso em 20 minutos. Escreva o que diria pra confirmar o horário e se apressar.",
+        "instrucao": "Inclua uma pergunta sobre a hora e uma frase sobre pressa.",
+        "modelo": "Excusez-moi, quelle heure est-il ? Il faut que je me dépêche, mon rendez-vous est dans vingt minutes !",
+        "checklist": [
+          "pergunta sobre a hora",
+          "expressão de pressa",
+          "frase natural"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hotel",
+    "nivel": "voyage",
+    "tema": "s'installer à l'hôtel",
+    "titulo": "À l'hôtel",
+    "documentoTitulo": "Arrivée à l'hôtel",
+    "documento": "Sarah arrive à l'hôtel après un long voyage. Elle dit à la réception : « Bonjour, j'ai une réservation au nom de Sarah Dubois. » L'employé vérifie et répond : « Parfait, votre chambre est au troisième étage. Voici la clé. » Sarah demande aussi si le petit-déjeuner est inclus et à quelle heure il est servi. L'employé lui explique que c'est de sept heures à dix heures, dans la salle à côté du hall.",
+    "ferramentaTitulo": "j'ai une réservation · au nom de · est-ce inclus",
+    "ferramenta": "« Au nom de » indique la personne titulaire d'une réservation. « Est-ce que c'est inclus ? » sert à demander si quelque chose fait partie du prix.",
+    "atividades": [
+      {
+        "tipo": "compréhension",
+        "pergunta": "À quel étage se trouve la chambre de Sarah ?",
+        "opcoes": [
+          "Premier étage",
+          "Deuxième étage",
+          "Troisième étage"
+        ],
+        "correta": 2,
+        "explicacao": "Sa chambre est au troisième étage."
+      },
+      {
+        "tipo": "lexique",
+        "pergunta": "Complète : J'ai une réservation ___ nom de Sarah Dubois.",
+        "respostas": [
+          "au"
+        ],
+        "resposta": "au",
+        "explicacao": "« Au nom de » + prénom/nom indica o titular da reserva."
+      },
+      {
+        "tipo": "grammaire",
+        "pergunta": "Transforme en question : le petit-déjeuner est inclus.",
+        "respostas": [
+          "Est-ce que le petit-déjeuner est inclus"
+        ],
+        "resposta": "Est-ce que le petit-déjeuner est inclus ?",
+        "explicacao": "« Est-ce que » transforma afirmação em pergunta."
+      },
+      {
+        "tipo": "médiation",
+        "pergunta": "Explique a alguém o que Sarah perguntou e o que descobriu sobre o café da manhã.",
+        "instrucao": "Mencione o horário e o local.",
+        "modelo": "Sarah a demandé si le petit-déjeuner était inclus. L'employé lui a dit qu'il est servi de sept heures à dix heures, dans la salle à côté du hall.",
+        "checklist": [
+          "horário",
+          "local",
+          "frase completa"
+        ]
+      },
+      {
+        "tipo": "interaction",
+        "pergunta": "Prépare ce que tu dirais à la réception d'un hôtel.",
+        "instrucao": "Inclue ton nom et une question sur les services.",
+        "modelo": "Bonjour, j'ai une réservation au nom de Ana Silva. Est-ce qu'il y a le wifi gratuit dans les chambres ?",
+        "checklist": [
+          "apresentação com nome",
+          "pergunta sobre serviço",
+          "tom educado"
+        ]
+      },
+      {
+        "tipo": "écoute",
+        "pergunta": "Escute e escreva a frase.",
+        "audio": "J'ai une réservation au nom de Sarah Dubois.",
+        "respostas": [
+          "J'ai une réservation au nom de Sarah Dubois"
+        ],
+        "resposta": "J'ai une réservation au nom de Sarah Dubois.",
+        "explicacao": "Frase padrão pra check-in."
+      },
+      {
+        "tipo": "associations",
+        "pergunta": "Relie les mots à leur sens.",
+        "pares": [
+          [
+            "la réception",
+            "recepção"
+          ],
+          [
+            "la clé",
+            "chave"
+          ],
+          [
+            "inclus",
+            "incluído"
+          ],
+          [
+            "le hall",
+            "saguão/hall"
+          ]
+        ]
+      },
+      {
+        "tipo": "traduction",
+        "pergunta": "Traduza: Eu gostaria de trocar de quarto, por favor.",
+        "respostas": [
+          "Je voudrais changer de chambre, s'il vous plaît"
+        ],
+        "resposta": "Je voudrais changer de chambre, s'il vous plaît.",
+        "explicacao": "Pedido educado usando « je voudrais »."
+      },
+      {
+        "tipo": "mission",
+        "pergunta": "Escreva uma reclamação educada sobre um problema no quarto do hotel (ex: barulho, ar-condicionado).",
+        "instrucao": "Inclua o problema e um pedido de solução.",
+        "modelo": "Bonjour, il y a un problème dans ma chambre : la climatisation ne fonctionne pas. Est-ce que quelqu'un pourrait venir la réparer ?",
+        "checklist": [
+          "problema mencionado",
+          "pedido de solução",
+          "tom educado"
+        ]
+      }
+    ]
   }
 ]
