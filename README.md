@@ -1,6 +1,6 @@
 # frenchlingo
 
-App pessoal pra aprender francês cantando. Você ouve com letra sincronizada, consulta traduções, pratica vocabulário e treina compreensão oral com ditados de trechos reais das músicas.
+App pessoal pra aprender francês cantando. Você ouve com letra sincronizada, consulta traduções, pratica vocabulário e treina compreensão oral com ditados de trechos reais das músicas. Tem também um curso à parte, o parcours défi, com lições de gramática, vocabulário e conversação — incluindo frases prontas pra viagem.
 
 ## como rodar
 
@@ -27,11 +27,11 @@ Os dois métodos chamam o `pip` do próprio Python e não exigem conta no Safety
 
 **ditado** — o app sorteia uma frase em francês, toca só aquele trecho e espera você escrever o que ouviu. A correção tolera acentos, pontuação e pequenos erros, mostra palavras que faltaram ou sobraram e permite repetir, revelar ou pular sem marcar erro.
 
-**inglês → francês** — mostra uma frase em inglês, tirada das traduções das músicas ou do banco de prática, e pede a versão em francês. A correção ignora acentos e pontuação, aceita pequenas variações e mostra claramente se ficou certa ou errada.
+**inglês → francês** — mostra uma frase em inglês, tirada das traduções das músicas ou do banco de prática, e pede a versão em francês. A correção aceita respostas quase certas (mostra "quase lá" quando falta pouco) e ignora acentos, pontuação e contrações.
 
-**palavras aprendidas** — reúne o vocabulário já acertado para busca e revisão. Na versão web, esse progresso fica salvo no navegador.
+**palavras aprendidas** — reúne o vocabulário já acertado para busca e revisão, junto com os pontos fracos: frases e palavras em que você errou, pra rever depois.
 
-**parcours défi A2 → B1** — curso interativo com 9 unidades e 81 atividades de compreensão, escuta, escrita, tradução, associação e produção. Fica na mesma barra de modos, no topo do app.
+**parcours défi** — curso à parte, separado das músicas, acessível pelo card na barra lateral. Tem 13 unidades e mais de 200 atividades de compreensão, escuta, escrita, tradução, associação e produção, organizadas por nível (A2.1, A2.2, passerelle B1) e uma seção extra de conversação pra viagem — pedir informação na rua, pedir comida num restaurante, perguntar as horas, conversar num hotel.
 
 ## adicionando música
 
@@ -58,26 +58,48 @@ Ele só preenche o que ainda está vazio (então dá pra rodar de novo se cair n
 
 Tem uma versão bem mais simples rodando direto no navegador, em `docs/` — dá pra publicar como GitHub Pages. Ela mostra a letra sincronizada, a tradução e o modo de estudo, mas não guarda nem baixa áudio nenhum: você escolhe o mp3 do seu computador toda vez que for ouvir, ele nunca sai da sua máquina.
 
-Pra atualizar os dados que ela usa (depois de adicionar música nova, por exemplo):
+Se você quiser só o parcours défi, sem nada de música, `docs/defi-standalone.html` é uma página separada só com o curso — é nela que o `estudar.bat` abre direto (duplo clique nele pra estudar sem precisar mexer em nada).
+
+Pra atualizar os dados que a versão web usa (depois de adicionar música nova ou mudar uma unidade do défi):
+
+```bash
+python curso_defi.py
+```
+
+Isso lê `defi_data.json` e `defi_pratica.json`, junta tudo e gera `docs/defi-data.js`. Pra atualizar a lista de músicas do site, roda também:
 
 ```bash
 python gerar_site.py
 ```
 
-Isso lê tudo que tem em `musicas/` e gera `docs/dados.json`, e também lê `defi_data.json` e gera `docs/defi-data.js` — assim o parcours défi fica igual no desktop e na versão web, sem precisar editar os dois separados. Pra publicar: nas configurações do repositório no GitHub, em Pages, escolhe a branch `main` e a pasta `/docs` como fonte.
+Pra publicar: nas configurações do repositório no GitHub, em Pages, escolhe a branch `main` e a pasta `/docs` como fonte.
+
+## testes
+
+```bash
+python -m unittest discover
+```
+
+Cobre a lógica do défi, do modo estudo (correção de ditado e tradução) e o carregamento das músicas.
 
 ## estrutura
 
 ```
 main.py                        # o app em si (interface, player, quiz)
 utilidades.py                  # funções compartilhadas (carregar músicas, achar linha atual, busca de letra, etc)
+estudo.py                      # correção de ditado e tradução inglês → francês
 gerar_letras.py                # varre musicas/ e busca letra pro que falta
 criar_musica.py                # monta letra.json a partir de um .lrc
 traduzir_musicas.py            # preenche traduções que ainda estão vazias
 defi_desktop.py                # painel do parcours défi no app desktop
-defi_data.json                 # conteúdo das unidades do parcours défi (fonte única)
-gerar_site.py                  # gera os dados que a versão web usa (músicas e défi)
+defi_data.json                 # unidades principais do parcours défi
+defi_pratica.json              # atividades extras de cada unidade do défi
+curso_defi.py                  # junta defi_data.json + defi_pratica.json e gera docs/defi-data.js
+gerar_site.py                  # gera os dados que a versão web usa (músicas)
 docs/                          # versão web (HTML/CSS/JS puro, sem áudio)
+docs/defi-standalone.html      # só o parcours défi, sem nada de música
+estudar.bat                    # abre o parcours défi direto, sem precisar rodar nada na mão
+test_*.py                      # testes automatizados
 musicas/
   nome-da-musica/
     audio.mp3
@@ -104,4 +126,4 @@ Cada `letra.json` tem esse formato:
 
 ## direitos autorais
 
-Letra e tradução vêm de fontes abertas (lrclib.net, tradução própria). O áudio baixado é só pra uso pessoal — não faz parte deste repositório e não pode ser publicado em lugar público. :/
+Letra e tradução vêm de fontes abertas (lrclib.net, tradução própria). O áudio baixado é só pra uso pessoal — não faz parte deste repositório e não pode ser publicado em lugar público. O conteúdo do parcours défi é autoral, inspirado na abordagem acional do FLE; não reproduz nenhum livro didático.
